@@ -1083,6 +1083,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_badlands": "2025-05-18 23:20:50 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-18 22:53:27 +0000"
@@ -2023,6 +2029,7 @@
     "criteria": {
       "byg:coconino_meadow": "2025-05-18 22:26:10 +0000",
       "byg:rainbow_beach": "2025-05-18 23:06:00 +0000",
+      "byg:forgotten_forest": "2025-05-18 23:14:22 +0000",
       "byg:amaranth_fields": "2025-05-18 23:04:51 +0000",
       "byg:dacite_shore": "2025-05-18 22:50:23 +0000"
     },
@@ -3375,8 +3382,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-05-18 23:18:05 +0000",
       "minecraft:beach": "2025-05-18 22:52:41 +0000",
       "minecraft:river": "2025-05-18 22:50:46 +0000",
+      "minecraft:stony_shore": "2025-05-18 23:17:54 +0000",
       "minecraft:cold_ocean": "2025-05-18 22:29:01 +0000",
       "minecraft:forest": "2025-05-18 23:05:47 +0000",
       "minecraft:deep_cold_ocean": "2025-05-18 22:30:31 +0000",

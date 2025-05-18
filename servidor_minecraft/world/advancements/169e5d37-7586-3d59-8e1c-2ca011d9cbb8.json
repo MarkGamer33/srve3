@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-05-18 23:20:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_cabinet": {
     "criteria": {
       "has_log": "2025-05-18 22:50:56 +0000"
@@ -692,6 +698,12 @@
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-05-18 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-05-18 23:20:40 +0000"
     },
     "done": true
   },
@@ -954,6 +966,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/gold_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-05-18 22:24:14 +0000"
@@ -1164,6 +1182,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/extruding/ingots/gold_to_gold_rod": {
+    "criteria": {
+      "has_item": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/compactor": {
     "criteria": {
       "has_item": "2025-05-18 22:21:16 +0000"
@@ -1233,6 +1257,12 @@
   "alltheores:recipes/alltheores/iron_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-05-18 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -1422,6 +1452,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/gold_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/transfer_gadget": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
@@ -1476,6 +1512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-18 22:30:13 +0000"
@@ -1491,6 +1533,12 @@
   "silentgear:recipes/misc/emerald_from_shards": {
     "criteria": {
       "has_item": "2025-05-18 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_gold_hammering": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -2247,6 +2295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-05-18 22:37:01 +0000"
@@ -2470,6 +2524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-05-18 22:51:32 +0000"
@@ -2623,6 +2683,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_tile": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -2931,6 +2997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/apple_pie": {
     "criteria": {
       "has_apple": "2025-05-18 22:14:26 +0000"
@@ -2982,6 +3054,12 @@
   "silentgear:recipes/silentgear/binding_template": {
     "criteria": {
       "has_item": "2025-05-18 23:05:54 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/gold_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -3333,6 +3411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/redstone_block": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:30:28 +0000"
@@ -3462,6 +3546,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:50:56 +0000"
+    },
+    "done": true
+  },
+  "silentgear:armor": {
+    "criteria": {
+      "leggings": "2025-05-18 23:14:27 +0000"
     },
     "done": true
   },
@@ -3968,6 +4058,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/powerful_earth_shard_from_earth_shards": {
+    "criteria": {
+      "has_earth_shard": "2025-05-18 23:15:24 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
@@ -4186,6 +4282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-05-18 22:30:27 +0000"
@@ -4219,6 +4321,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-18 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/ingots/gold_to_gold_rod": {
+    "criteria": {
+      "has_item": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -4548,6 +4656,12 @@
     },
     "done": true
   },
+  "silentgear:swords": {
+    "criteria": {
+      "katana": "2025-05-18 23:13:47 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-05-18 22:50:58 +0000"
@@ -4647,6 +4761,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -4871,6 +4991,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-18 22:50:26 +0000",
       "minecraft:skeleton": "2025-05-18 22:27:43 +0000",
+      "minecraft:spider": "2025-05-18 23:15:20 +0000",
       "minecraft:zombie": "2025-05-18 22:30:39 +0000"
     },
     "done": false
@@ -4944,6 +5065,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/liquid_hopper": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/gold_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -5115,6 +5242,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/gold_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/hamburger": {
     "criteria": {
       "has_beef": "2025-05-18 22:47:46 +0000"
@@ -5148,6 +5281,12 @@
   "silentgear:recipes/silentgear/emerald_shard": {
     "criteria": {
       "has_item": "2025-05-18 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -5283,6 +5422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-18 23:19:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_book": "2025-05-18 22:57:15 +0000"
@@ -5292,6 +5437,12 @@
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-05-18 22:33:33 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/gold_wire": {
+    "criteria": {
+      "has_item": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -5364,6 +5515,12 @@
   "cfm:recipes/cfm/dark_oak_table": {
     "criteria": {
       "has_log": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "silentgear:tip_upgrade": {
+    "criteria": {
+      "get_item": "2025-05-18 23:17:21 +0000"
     },
     "done": true
   },
@@ -5454,6 +5611,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-18 22:37:09 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/utilitix/gilding_crystal": {
+    "criteria": {
+      "criterion0": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -5786,6 +5949,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/rolling/ingots/gold_to_gold_plate": {
+    "criteria": {
+      "has_item": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "travelanchors:recipes/travelanchors/travel_staff": {
     "criteria": {
       "criterion0": "2025-05-18 22:21:16 +0000"
@@ -6057,6 +6226,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/earth_shard": {
+    "criteria": {
+      "has_earth_shard": "2025-05-18 23:15:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
@@ -6312,6 +6487,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-18 22:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -6628,6 +6809,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-05-18 22:14:40 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -7437,6 +7624,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/gold_nugget": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:41 +0000"
@@ -7617,6 +7810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:40 +0000"
@@ -7650,6 +7849,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-05-18 22:37:09 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/golden_apple": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -7704,6 +7909,12 @@
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2025-05-18 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/ingots/gold_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -7916,6 +8127,12 @@
   "corail_woodcutter:recipes/from_byg_holly_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/rough_rod2": {
+    "criteria": {
+      "has_item": "2025-05-18 23:12:33 +0000"
     },
     "done": true
   },
@@ -8207,9 +8424,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-05-18 22:15:57 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/ingots/gold_to_gold_gear": {
+    "criteria": {
+      "has_item": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
@@ -8264,6 +8493,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_reinforced_r": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 23:14:52 +0000"
     },
     "done": true
   },
