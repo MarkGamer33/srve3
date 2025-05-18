@@ -1,8 +1,5 @@
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
-
-ServerEvents.recipes(allthemods => {
-  allthemods.custom({
+ServerEvents.recipes(event => {
+  event.custom({
     type: "create:mechanical_crafting",
     pattern: [
       '    B    ',
@@ -26,8 +23,5 @@ ServerEvents.recipes(allthemods => {
     },
     result: Ingredient.of('allthetweaks:patrick_star').toJson(),
     acceptMirrored: false
-  }).id('allthemods:allthetweaks/patrick_star')
+  }).id('kubejs:allthetweaks/patrick_star')
 })
-
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.

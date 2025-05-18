@@ -1,16 +1,16 @@
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
 // priority:950
 // Written by EnigmaQuip as a post almost unified recipe generation script for missing recipes
+// Added to by Mitchell52
 
-ServerEvents.recipes(allthemods => {
+ServerEvents.recipes(event => {
   if (global.devLogging) {
     console.log('Finishing Unifying on Dusts')
   }
 
   let dustCount = {
     occult: 0,
-    ftbic: 0
+    ftbic: 0,
+    immersive: 0
   }
 
   global.auTags.dusts.forEach(material => {
@@ -31,7 +31,7 @@ ServerEvents.recipes(allthemods => {
         ore: false,
         raw: false
       }
-      allthemods.forEachRecipe({ type: "occultism:crushing" }, recipe => {
+      event.forEachRecipe({ type: "occultism:crushing" }, recipe => {
         let recipeJson = recipe.json
         if (dust.equalsIgnoringCount(Item.of(recipeJson.get('result')))) {
           let input = recipeJson.get('ingredient')
@@ -55,7 +55,7 @@ ServerEvents.recipes(allthemods => {
         let ingotRecipe = recipe
         ingotRecipe.ingredient = ingotTag.toJson()
         ingotRecipe.result = dust.withCount(1).toJson()
-        allthemods.custom(ingotRecipe).id(`allthemods:occultism/crushing/${material}_dust_from_ingot`)
+        event.custom(ingotRecipe).id(`kubejs:occultism/crushing/${material}_dust_from_ingot`)
         dustCount.occult++
       }
       if (!rawTag.getFirst().isEmpty() && !crush.raw) {
@@ -63,7 +63,7 @@ ServerEvents.recipes(allthemods => {
         rawRecipe.ingredient = rawTag.toJson()
         rawRecipe.result = dust.withCount(2).toJson()
         rawRecipe.ignore_crushing_multiplier = false
-        allthemods.custom(rawRecipe).id(`allthemods:occultism/crushing/${material}_dust_from_raw_material`)
+        event.custom(rawRecipe).id(`kubejs:occultism/crushing/${material}_dust_from_raw_material`)
         dustCount.occult++
       }
       if (!oreTag.getFirst().isEmpty() && !crush.ore) {
@@ -72,7 +72,7 @@ ServerEvents.recipes(allthemods => {
         oreRecipe.result = dust.withCount(2).toJson()
         oreRecipe.crushing_time = 300
         oreRecipe.ignore_crushing_multiplier = false
-        allthemods.custom(oreRecipe).id(`allthemods:occultism/crushing/${material}_dust`)
+        event.custom(oreRecipe).id(`kubejs:occultism/crushing/${material}_dust`)
         dustCount.occult++
       }
     }
@@ -84,7 +84,7 @@ ServerEvents.recipes(allthemods => {
         ore: false,
         raw: false,
       }
-      allthemods.forEachRecipe({ type: 'ftbic:macerating' }, recipe => {
+      event.forEachRecipe({ type: 'ftbic:macerating' }, recipe => {
         let recipeJson = recipe.json
         recipeJson.get('outputItems').forEach(item => {
           if (dust.equalsIgnoringCount(Item.of(item))) {
@@ -102,40 +102,92 @@ ServerEvents.recipes(allthemods => {
         })
       })
       if (!ingotTag.getFirst().isEmpty() && !macerate.ingot) {
-        allthemods.custom({
+        event.custom({
           "type": "ftbic:macerating",
           "inputItems": [{ count: 1, ingredient: ingotTag.toJson() }],
           "outputItems": [dust.toJson()]
-        }).id(`allthemods:ftbic/macerating/ingots/${material}_to_dust`)
+        }).id(`kubejs:ftbic/macerating/ingots/${material}_to_dust`)
         dustCount.ftbic++
       }
       if (!oreTag.getFirst().isEmpty() && !macerate.ore) {
-        allthemods.custom({
+        event.custom({
           "type": "ftbic:macerating",
           "inputItems": [{ count: 1, ingredient: oreTag.toJson() }],
           "outputItems": [dust.withCount(2).toJson()]
-        }).id(`allthemods:ftbic/macerating/ores/${material}_to_dust`)
+        }).id(`kubejs:ftbic/macerating/ores/${material}_to_dust`)
         dustCount.ftbic++
       }
       if (!rawTag.getFirst().isEmpty() && !macerate.raw) {
-        allthemods.custom({
+        event.custom({
           "type": "ftbic:macerating",
           "inputItems": [{ count: 1, ingredient: rawTag.toJson() }],
           "outputItems": [
             dust.toJson(),
             { chance: 0.35, item: dust.id }
           ]
-        }).id(`allthemods:ftbic/macerating/raw_materials/${material}_to_dust`)
+        }).id(`kubejs:ftbic/macerating/raw_materials/${material}_to_dust`)
         dustCount.ftbic++
       }
     }
+
+    // Immersive Crusher
+    if (global.loaded.IE_Loaded) {
+      let crush = {
+        ingot: false,
+        ore: false,
+        raw: false
+      }
+      event.forEachRecipe({ type: "immersiveengineering:crusher" }, recipe => {
+        let recipeJson = recipe.json
+        if (dust.equalsIgnoringCount(Item.of(recipeJson.get('result')))) {
+          let input = recipeJson.get('ingredient')
+          if (ingotTag.test(Ingredient.of(input))) {
+            crush.ingot = true
+          } else if (oreTag.test(Ingredient.of(input))) {
+            crush.ore = true
+          } else if (rawTag.test(Ingredient.of(input))) {
+            crush.raw = true
+          }
+        }
+      })
+      let recipe = {
+        type: "immersiveengineering:crusher",
+        energy: {},
+        input: {},
+        result: {},
+        secondaries: []
+      }
+      if (!ingotTag.getFirst().isEmpty() && !crush.ingot) {
+        let ingotRecipe = recipe
+        ingotRecipe.energy = 3000
+        ingotRecipe.input = ingotTag.toJson()
+        ingotRecipe.result = dust.withCount(1).toJson()
+        event.custom(ingotRecipe).id(`kubejs:immersiveengineering/crushing/${material}_dust_from_ingot`)
+        dustCount.immersive++
+      }
+      if (!oreTag.getFirst().isEmpty() && !crush.ore) {
+        let oreRecipe = recipe
+        oreRecipe.energy = 6000
+        oreRecipe.input = oreTag.toJson()
+        oreRecipe.result = dust.withCount(2).toJson()
+        event.custom(oreRecipe).id(`kubejs:immersiveengineering/crushing/${material}_dust`)
+        dustCount.immersive++
+      }
+      if (!rawTag.getFirst().isEmpty() && !crush.raw) {
+        let rawRecipe = recipe
+        rawRecipe.energy = 6000
+        rawRecipe.input = rawTag.toJson()
+        rawRecipe.result = dust.withCount(1).toJson()
+        rawRecipe.secondaries = [{chance: 0.33333334, output: dust.withCount(1).toJson()}]
+        event.custom(rawRecipe).id(`kubejs:immersiveengineering/crushing/${material}_dust_from_raw_material`)
+        dustCount.immersive++
+      }
+    }
+
   })
 
   if (global.devLogging) {
-    console.log(`Added Dust Recipes - FTBIC: ${dustCount.ftbic}, Occultism: ${dustCount.occult}`)
+    console.log(`Added Dust Recipes - FTBIC: ${dustCount.ftbic}, Occultism: ${dustCount.occult}, IE: ${dustCount.immersive},`)
     // Added Dust Recipes - FTBIC: 60, Occultism: 5
   }
 })
-
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.

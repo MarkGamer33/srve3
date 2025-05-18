@@ -37,8 +37,6 @@
 	#Forge Energy conversion rate (in FE/t at 256 RPM, value is the FE/t generated and consumed is at 256rpm).
 	#Range: > 0
 	fe_at_max_rpm = 480
-	#If audio should be enabled or not.
-	audio_enabled = true
 
 #Portable Energy Interface
 [portable_energy_interface]
@@ -134,10 +132,10 @@
 [rolling_mill]
 	#Rolling Mill duration in ticks.
 	#Range: > 0
-	rolling_mill_processing_duration = 120
+	rolling_mill_processing_duration = 100
 	#Rolling Mill base stress impact.
 	#Range: 0 ~ 1024
-	rolling_mill_stress = 8
+	rolling_mill_stress = 16
 
 #Misc
 [misc]

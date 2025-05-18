@@ -6,25 +6,28 @@
 	icon: "mekanism:steel_casing"
 	id: "23983F4DC524B14B"
 	images: [{
+		click: ""
+		corner: false
+		dev: false
 		height: 2.0d
+		hover: [ ]
 		image: "ftbquests:block/barrier_open"
 		rotation: 45.0d
 		width: 2.0d
 		x: 9.0d
 		y: -5.5d
 	}]
-	order_index: 7
-	progression_mode: "flexible"
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
 			dependencies: ["0650996C7818ADB5"]
 			description: [
-				"{atm9.quest.mekanism.desc.metallurgicInfuser.1}"
+				"The Metallurgic Infuser is used to craft core crafting components throughout Mekanism."
 				""
-				"{atm9.quest.mekanism.desc.metallurgicInfuser.2}"
+				"The machine works by infusing a material (middle-left slot) with an \"infuser\" (far-left slot)."
 				""
-				"{atm9.quest.mekanism.desc.metallurgicInfuser.3}"
+				"This is also how you get Steel Ingots."
 			]
 			id: "162CE44400A63575"
 			rewards: [
@@ -48,7 +51,7 @@
 			]
 			shape: "gear"
 			size: 1.5d
-			subtitle: "{atm9.quest.mekanism.subt.startingMachine}"
+			subtitle: "The Starting Machine"
 			tasks: [{
 				id: "28277BA9F319240D"
 				item: "mekanism:metallurgic_infuser"
@@ -60,11 +63,11 @@
 		{
 			dependencies: ["162CE44400A63575"]
 			description: [
-				"{atm9.quest.mekanism.desc.oreFactory.1}"
+				"This machine works like a Macerator or Pulverizer, and will break ores down into dusts."
 				""
-				"{atm9.quest.mekanism.desc.oreFactory.2}"
+				"This breaks 3 raw ores down into 4 dusts."
 				""
-				"{atm9.quest.mekanism.desc.oreFactory.3}"
+				"This is the start of your Ore Factory. It can also be upgraded to a factory machine, increasing the slots of use."
 			]
 			id: "08DDE018A804BFE7"
 			rewards: [
@@ -85,7 +88,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.subt.breaksOresIntoDusts}"
+			subtitle: "Breaks Raw Ores into Dusts"
 			tasks: [{
 				id: "1AE233B4CCFE99F7"
 				item: "mekanism:enrichment_chamber"
@@ -97,9 +100,9 @@
 		{
 			dependencies: ["162CE44400A63575"]
 			description: [
-				"{atm9.quest.mekanism.desc.strongIngots.1}"
+				"The machine creates two really strong ingots: Refined Glowstone and Refined Obsidian."
 				""
-				"{atm9.quest.mekanism.desc.strongIngots.2}"
+				"It infuses an item with Osmium to create a more powerful ingot."
 			]
 			id: "195729280394ABFB"
 			rewards: [
@@ -114,7 +117,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.subt.goodForTwoThings}"
+			subtitle: "Really Only Good For 2 Things"
 			tasks: [{
 				id: "6934C61AFEB0443D"
 				item: "mekanism:osmium_compressor"
@@ -125,7 +128,7 @@
 		}
 		{
 			dependencies: ["6C25D42C36175BF4"]
-			description: ["{atm9.quest.mekanism.desc.crushesThings}"]
+			description: ["This machine crushes ores into their \"dirty\" dust forms. This is useful to convert clumps into dirty dust, which can go through an Enrichment Chamber to create the ore dust, which then can be smelted into an ingot."]
 			id: "7AE502EDB73BD57A"
 			rewards: [
 				{
@@ -145,7 +148,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.subt.crushesThings}"
+			subtitle: "It Crushes Things."
 			tasks: [{
 				id: "431D7329CFCAF880"
 				item: "mekanism:crusher"
@@ -157,9 +160,9 @@
 		{
 			dependencies: ["4BDE773C3359D584"]
 			description: [
-				"{atm9.quest.mekanism.desc.miningMachine.1}"
+				"This machine can mine for you!"
 				""
-				"{atm9.quest.mekanism.desc.miningMachine.2}"
+				"It is completely configurable, and can even replace mined blocks with cobblestone, or whatever block you provide it with!"
 			]
 			id: "7EA6B942D1294ED6"
 			rewards: [
@@ -182,7 +185,7 @@
 			]
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "{atm9.quest.mekanism.subt.biggerRobotFriend}"
+			subtitle: "A bigger robot friend."
 			tasks: [{
 				id: "36FE95268A543F7C"
 				item: "mekanism:digital_miner"
@@ -194,9 +197,9 @@
 		{
 			dependencies: ["58B125BD4876054C"]
 			description: [
-				"{atm9.quest.mekanism.desc.liquidStorage.1}"
+				"This item stores liquids."
 				""
-				"{atm9.quest.mekanism.desc.liquidStorage.2}"
+				"It has a bucket mode which can be toggled to scoop up liquids with it. Very useful for lava in the beginning!"
 			]
 			hide_dependency_lines: true
 			id: "6DB1AAAD926486BC"
@@ -214,7 +217,7 @@
 			]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "{atm9.quest.mekanism.subt.bucketMode}"
+			subtitle: "It has a BUCKET MODE!"
 			tasks: [{
 				id: "54BEF9EA9F1D4374"
 				item: "mekanism:basic_fluid_tank"
@@ -245,7 +248,7 @@
 			]
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "{atm9.quest.mekanism.subt.miniRobot}"
+			subtitle: "A Mini-Robot To Accompany You On Your Travels"
 			tasks: [{
 				id: "171E6682D1578C63"
 				item: "mekanism:robit"
@@ -273,7 +276,7 @@
 			]
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "{atm9.quest.mekanism.subt.requiresHydrogen}"
+			subtitle: "Requires Hydrogen to Work!"
 			tasks: [{
 				id: "71E922FC5BBF154C"
 				item: "mekanism:jetpack"
@@ -284,7 +287,7 @@
 		}
 		{
 			dependencies: ["162CE44400A63575"]
-			description: ["{atm9.quest.mekanism.desc.upgradingToFactories}"]
+			description: ["This item upgrades a base machine to a Basic Factory machine."]
 			hide_dependency_lines: true
 			id: "07AD45DCF9EE3C2E"
 			rewards: [
@@ -301,7 +304,7 @@
 			]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "{atm9.quest.mekanism.subt.upgradingToFactories}"
+			subtitle: "Upgrading to Factories"
 			tasks: [{
 				id: "28A769E7676E358F"
 				item: "mekanism:basic_tier_installer"
@@ -386,9 +389,9 @@
 		{
 			dependencies: ["162CE44400A63575"]
 			description: [
-				"{atm9.quest.mekanism.desc.wirelessTransfer.1}"
+				"This item is how you make Wireless Transfers possible."
 				""
-				"{atm9.quest.mekanism.desc.wirelessTransfer.2}"
+				"You can set specific channels, named by you, to transfer whatever you want from it."
 			]
 			hide_dependency_lines: true
 			id: "7CC49360D07086B8"
@@ -412,7 +415,7 @@
 			]
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "{atm9.quest.mekanism.subt.wirelessEverything}"
+			subtitle: "Wireless Power, Gases, Fluids, Everything."
 			tasks: [{
 				id: "0526878F9506FB48"
 				item: "mekanism:quantum_entangloporter"
@@ -423,7 +426,7 @@
 		}
 		{
 			dependencies: ["162CE44400A63575"]
-			description: ["{atm9.quest.mekanism.desc.powerStorage}"]
+			description: ["This block stores power, and can also be used to charge items."]
 			hide_dependency_lines: true
 			id: "09408C6DCAC90318"
 			rewards: [
@@ -440,7 +443,7 @@
 			]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "{atm9.quest.mekanism.subt.storingPower}"
+			subtitle: "Storing Power"
 			tasks: [{
 				id: "19C3A9D5E656FAA5"
 				item: "mekanism:basic_energy_cube"
@@ -524,7 +527,7 @@
 		}
 		{
 			dependencies: ["162CE44400A63575"]
-			description: ["{atm9.quest.mekanism.desc.basicAlloy}"]
+			description: ["Infusing Iron with Redstone in a Metallurgic Infuser will get you one of these."]
 			hide_dependency_lines: true
 			id: "166971866A9234C7"
 			rewards: [
@@ -540,7 +543,7 @@
 				}
 			]
 			shape: "hexagon"
-			subtitle: "{atm9.quest.mekanism.subt.basicAlloyCrafting}"
+			subtitle: "The Basic Alloy for Crafting Items"
 			tasks: [{
 				id: "72CE838EFDDE6479"
 				item: "mekanism:alloy_infused"
@@ -599,7 +602,7 @@
 		}
 		{
 			dependencies: ["162CE44400A63575"]
-			description: ["{atm9.quest.mekanism.desc.basicControlCircuit}"]
+			description: ["Infusing Osmium with Redstone in a Metallurgic Infuser will create you one of these."]
 			hide_dependency_lines: true
 			id: "0498A578D0EC3254"
 			rewards: [
@@ -615,7 +618,7 @@
 				}
 			]
 			shape: "hexagon"
-			subtitle: "{atm9.quest.mekanism.subt.basicControlCircuit}"
+			subtitle: "The Basic Control Circuit"
 			tasks: [{
 				id: "5E51F5B17F77573E"
 				item: "mekanism:basic_control_circuit"
@@ -708,11 +711,11 @@
 		{
 			dependencies: ["162CE44400A63575"]
 			description: [
-				"{atm9.quest.mekanism.desc.steelCrafting.1}"
+				"Infusing Iron with Coal or Charcoal in a Metallurgic Infuser will give you Enriched Iron."
 				""
-				"{atm9.quest.mekanism.desc.steelCrafting.2}"
+				"Infusing the Enriched Iron with more Coal or Charcoal will give you Steel Dust, which can be smelted into Steel."
 				""
-				"{atm9.quest.mekanism.desc.steelCrafting.3}"
+				"This is a major crafting component in a lot of recipes in Mekanism."
 			]
 			hide_dependency_lines: true
 			id: "1B6DDF50D00CBB31"
@@ -734,16 +737,16 @@
 				icon: "alltheores:steel_ingot"
 				id: "6B88F1F9DF50C1E4"
 				item: {
-					Count: 1
+					Count: 1b
 					id: "itemfilters:tag"
 					tag: {
 						value: "forge:ingots/steel"
 					}
 				}
-				title: "{atm9.quest.mekanism.steelIngot}"
+				title: "Any #forge:ingots/steel"
 				type: "item"
 			}]
-			title: "{atm9.quest.mekanism.steel}"
+			title: "Steel"
 			x: 0.5d
 			y: 2.0d
 		}
@@ -766,7 +769,7 @@
 			]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "{atm9.quest.mekanism.subt.transferringPower}"
+			subtitle: "For Transferring Power"
 			tasks: [{
 				id: "56F8A49135418FD8"
 				item: "mekanism:basic_universal_cable"
@@ -866,7 +869,7 @@
 			]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "{atm9.quest.mekanism.subt.transferringFluids}"
+			subtitle: "For Transferring Fluids"
 			tasks: [{
 				id: "45B151086147D98D"
 				item: "mekanism:basic_mechanical_pipe"
@@ -966,7 +969,7 @@
 			]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "{atm9.quest.mekanism.subt.transferringGasses}"
+			subtitle: "For Transferring Gasses"
 			tasks: [{
 				id: "685BFFC7BDA40FC3"
 				item: "mekanism:basic_pressurized_tube"
@@ -993,7 +996,7 @@
 			]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "{atm9.quest.mekanism.subt.transferringItems}"
+			subtitle: "For Transferring Items"
 			tasks: [{
 				id: "3F972BE9DFCA1EB5"
 				item: "mekanism:basic_logistical_transporter"
@@ -1020,7 +1023,7 @@
 			]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "{atm9.quest.mekanism.subt.transferringHeat}"
+			subtitle: "For Transferring Heat"
 			tasks: [{
 				id: "5F4FEC0FD7C5CC33"
 				item: "mekanism:basic_thermodynamic_conductor"
@@ -1308,11 +1311,11 @@
 				"407EFAF528871014"
 			]
 			description: [
-				"{atm9.quest.mekanism.desc.purification.1}"
+				"This machine \"Purifies\" our ores. It turns 1 Raw Ore into 2 \"Clumps\", which can then be sent through a Crusher to be turned to dirty dusts, then through an Enrichment Chamber to get clean dust, then through a smelter to be turned to an ingot."
 				""
-				"{atm9.quest.mekanism.desc.purification.2}"
+				"This will double your ingot output."
 				""
-				"{atm9.quest.mekanism.desc.purification.3}"
+				"This machine requires &aOxygen&r to run, which is created by pumping water into an &6Electrolytic Separator&r."
 			]
 			id: "6C25D42C36175BF4"
 			rewards: [
@@ -1333,7 +1336,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.subt.clumps}"
+			subtitle: "It makes Clumps."
 			tasks: [{
 				id: "4983AE3B954BF2FE"
 				item: "mekanism:purification_chamber"
@@ -1345,9 +1348,9 @@
 		{
 			dependencies: ["162CE44400A63575"]
 			description: [
-				"{atm9.quest.mekanism.desc.smelter.1}"
+				"This machine smelts items."
 				""
-				"{atm9.quest.mekanism.desc.smelter.2}"
+				"It can be upgraded into a Smelting Factory, increasing the total number of smelting slots up to a maximum of 9."
 			]
 			id: "488DBE69595F38F8"
 			optional: true
@@ -1369,7 +1372,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.subt.poweredFurnace}"
+			subtitle: "Mekanism's Powered Furnace"
 			tasks: [{
 				id: "5A081977DB9407EA"
 				item: "mekanism:energized_smelter"
@@ -1381,11 +1384,11 @@
 		{
 			dependencies: ["08DDE018A804BFE7"]
 			description: [
-				"{atm9.quest.mekanism.desc.electrolyticSeparator.1}"
+				"The Electrolytic Separator (big fancy name) is used to separate chemicals from certain liquids and gases."
 				""
-				"{atm9.quest.mekanism.desc.electrolyticSeparator.2}"
+				"You'll need a bunch of these if you plan on making an Ore Processing Factory."
 				""
-				"{atm9.quest.mekanism.desc.electrolyticSeparator.3}"
+				"To start, make one of these and we'll break down the most basic fluid: Water."
 			]
 			id: "18D88932916C7A98"
 			rewards: [
@@ -1406,7 +1409,7 @@
 					xp: 10
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.subt.breakItDown}"
+			subtitle: "Time to Break It Down"
 			tasks: [{
 				id: "054CC6FB5173F8A3"
 				item: "mekanism:electrolytic_separator"
@@ -1418,9 +1421,9 @@
 		{
 			dependencies: ["407EFAF528871014"]
 			description: [
-				"{atm9.quest.mekanism.desc.generator.1}"
+				"This generator can burn both Hydrogen and Ethylene to produce power."
 				""
-				"{atm9.quest.mekanism.desc.generator.2}"
+				"Note: Burning Hydrogen will not produce more power than it costs to run an Electrolytic Separator. Use for Ethylene instead."
 			]
 			id: "3EC9D0DA61B45328"
 			rewards: [
@@ -1447,7 +1450,7 @@
 					type: "random"
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.subt.burnGases}"
+			subtitle: "Burn Gases into Power!"
 			tasks: [{
 				id: "2C13E8B67BC61E34"
 				item: "mekanismgenerators:gas_burning_generator"
@@ -1459,9 +1462,9 @@
 		{
 			dependencies: ["263220DCCDB90E29"]
 			description: [
-				"{atm9.quest.mekanism.desc.oreProcessing.1}"
+				"This machine is the next step to your Ore Processing Factory. Add this to the left of your Purification Chamber to build on to your current ore factory!"
 				""
-				"{atm9.quest.mekanism.desc.oreProcessing.2}"
+				"This machine requires &aHydrogen Chloride&r to operate. To find out how to create Hydrogen Chloride, follow the quest above!"
 			]
 			id: "4F1C04C0F6769825"
 			rewards: [
@@ -1482,7 +1485,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.subt.oreShards}"
+			subtitle: "Turns 3 Raw Ore into 8 Ore Shards"
 			tasks: [{
 				id: "443DCB7E2E45F3DD"
 				item: "mekanism:chemical_injection_chamber"
@@ -1494,9 +1497,9 @@
 		{
 			dependencies: ["603877AB96321F1A"]
 			description: [
-				"{atm9.quest.mekanism.desc.chemicalCombiner.1}"
+				"This machine combines two gases to create a new gas."
 				""
-				"{atm9.quest.mekanism.desc.chemicalCombiner.2}"
+				"You'll need this to combine Chlorine with Hydrogen to create Hyrdogen Chloride, which is then used in our Chemical Injection Chamber."
 			]
 			id: "04E2D539E33B7B0F"
 			rewards: [
@@ -1511,7 +1514,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.subt.chemicalCombiner}"
+			subtitle: "The Chemical Combiner"
 			tasks: [{
 				id: "31D203EC92BEA66F"
 				item: "mekanism:chemical_infuser"
@@ -1523,15 +1526,15 @@
 		{
 			dependencies: ["4F1C04C0F6769825"]
 			description: [
-				"{atm9.quest.mekanism.desc.hydrogenChloride.1}"
+				"To get Hydrogen Chloride for our machines, we'll need to first create &aBrine&r."
 				""
-				"{atm9.quest.mekanism.desc.hydrogenChloride.2}"
+				"To do this, we'll need a Thermal Evaporation Plant. This is a multi-block structure."
 				""
-				"{atm9.quest.mekanism.desc.hydrogenChloride.3}"
+				"To start, create a 4x3x4 structure that is hollow in the middle, except for the base. You can replace any of the sides with a Controller or Valve."
 				""
-				"{atm9.quest.mekanism.desc.hydrogenChloride.4}"
+				"You'll need at least 1 controller, and at least 2  valves."
 				""
-				"{atm9.quest.mekanism.desc.hydrogenChloride.5}"
+				"Pump in water, and you'll start collecting brine, which can be pumped into an &aElectrolytic Separator&r to extract &6Chlorine&r from the gas."
 				"{image:atm:textures/questpics/mek/thermalplant.png width:100 height:100 align:1}"
 			]
 			id: "603877AB96321F1A"
@@ -1555,7 +1558,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.subt.brine}"
+			subtitle: "Water turns into Brine!"
 			tasks: [
 				{
 					id: "716D483EFC35F6F3"
@@ -1575,20 +1578,20 @@
 					type: "item"
 				}
 			]
-			title: "{atm9.quest.mekanism.thermalEvaporationPlant}"
+			title: "Thermal Evaporation Plant"
 			x: 5.0d
 			y: -3.5d
 		}
 		{
 			dependencies: ["1112E4E2CCEB2467"]
 			description: [
-				"{atm9.quest.mekanism.desc.additionalMachines.1}"
+				"We will need to add 3 more machines to our current setup."
 				""
-				"{atm9.quest.mekanism.desc.additionalMachines.2}"
+				"The first part of the process is the Chemical Dissolution Chamber."
 				""
-				"{atm9.quest.mekanism.desc.additionalMachines.3}"
+				"This machine requires &aSulfuric Acid&r to break down raw ores into an \"Ore Slurry.\""
 				""
-				"{atm9.quest.mekanism.desc.additionalMachines.4}"
+				"To get Sulfuric Acid, we'll need a new setup, which is explained further in the above quests."
 			]
 			id: "4F436770D30D8520"
 			rewards: [
@@ -1615,16 +1618,16 @@
 				item: "mekanism:chemical_dissolution_chamber"
 				type: "item"
 			}]
-			title: "{atm9.quest.mekanism.startTier4}"
+			title: "The Start of a Tier 4 Ore Factory"
 			x: 9.0d
 			y: -2.0d
 		}
 		{
 			dependencies: ["4F436770D30D8520"]
 			description: [
-				"{atm9.quest.mekanism.desc.waterVapor.1}"
+				"To make Sulfuric Acid, you'll need to create &aWater Vapor&r."
 				""
-				"{atm9.quest.mekanism.desc.waterVapor.2}"
+				"Pump some water into this machine and it'll convert it into vapor. "
 			]
 			id: "4236B9F071BE18F3"
 			rewards: [
@@ -1650,15 +1653,15 @@
 		{
 			dependencies: ["4F436770D30D8520"]
 			description: [
-				"{atm9.quest.mekanism.desc.sulfurDioxide.1}"
+				"Okay, let's start with making Sulfur Dioxide first."
 				""
-				"{atm9.quest.mekanism.desc.sulfurDioxide.2}"
+				"Start by placing Gunpowder in a separate &aChemical Injection Chamber&r with Hydrogen Chloride to create Sulfur Dust. OR you can just pulverize Sulfur from Thermal Series into Sulfur Dust, it's up to you."
 				""
-				"{atm9.quest.mekanism.desc.sulfurDioxide.3}"
+				"Feeding the Sulfur Dust into this machine, the &aChemical Oxidizer&r, will create Sulfur Dioxide. Now we need to create Sulfur Trioxide."
 				""
-				"{atm9.quest.mekanism.desc.sulfurDioxide.4}"
+				"Send the Sulfur Dioxide into a Chemical Infuser to combine it with Oxygen to create Sulfur Trioxide. Send the Trioxide to another Chemical Infuser to combine it with Water Vapor to create Sulfuric Acid."
 				""
-				"{atm9.quest.mekanism.desc.sulfurDioxide.5}"
+				"It's a lot."
 			]
 			id: "2E274BEEF2B0B8C7"
 			rewards: [
@@ -1682,13 +1685,13 @@
 				{
 					id: "3B5A283601BEADA0"
 					item: {
-						Count: 1
+						Count: 1b
 						id: "itemfilters:tag"
 						tag: {
 							value: "forge:dusts/sulfur"
 						}
 					}
-					title: "{atm9.quest.mekanism.anySulfurDust}"
+					title: "Any Sulfur Dust"
 					type: "item"
 				}
 			]
@@ -1698,13 +1701,13 @@
 		{
 			dependencies: ["603877AB96321F1A"]
 			description: [
-				"{atm9.quest.mekanism.desc.thermalEvaporation.1}"
+				"The Thermal Evaporation Plant multi-block produces Brine based on the internal temperature."
 				""
-				"{atm9.quest.mekanism.desc.thermalEvaporation.2}"
+				"There are several methods to increase the temperature of the plant, including building them in a desert!"
 				""
-				"{atm9.quest.mekanism.desc.thermalEvaporation.3}"
+				"The &aFuelwood Heater&r burns buckets of Lava, which can then be piped in using a pipe that transfers heat."
 				""
-				"{atm9.quest.mekanism.desc.thermalEvaporation.4}"
+				"The &aResistive Heater&r uses RF/FE to produce heat, and can be set to use whatever RF/FE you want it to use."
 			]
 			id: "027084AE2DF5EBA6"
 			optional: true
@@ -1720,11 +1723,11 @@
 					xp: 10
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.subt.hotBrine}"
+			subtitle: "Hot Brine here. Get Your Hot Brine here."
 			tasks: [{
 				id: "6E75525A5D88EF23"
 				item: {
-					Count: 1
+					Count: 1b
 					id: "itemfilters:or"
 					tag: {
 						items: [
@@ -1739,21 +1742,21 @@
 						]
 					}
 				}
-				title: "{atm9.quest.mekanism.heaters}"
+				title: "Heaters"
 				type: "item"
 			}]
-			title: "{atm9.quest.mekanism.heatingBrine}"
-			x: 5.0d
-			y: -5.0d
+			title: "Heating Up our Brine Production"
+			x: 4.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["162CE44400A63575"]
 			description: [
-				"{atm9.quest.mekanism.desc.customPortal.1}"
+				"To create a custom Portal, place down a single Teleporter block. Connect power to the block."
 				""
-				"{atm9.quest.mekanism.desc.customPortal.2}"
+				"Create a \"Portal Frame\" with the teleporter block being the base of the portal."
 				""
-				"{atm9.quest.mekanism.desc.customPortal.3}"
+				"The final product will be a 4x3 portal structure, with the two blocks in the middle creating the portal."
 			]
 			hide_dependency_lines: true
 			id: "7B0DFA55B4D8B16D"
@@ -1776,7 +1779,7 @@
 			]
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "{atm9.quest.mekanism.subt.teleportationFinest}"
+			subtitle: "Teleportation at its finest."
 			tasks: [
 				{
 					count: 9L
@@ -1790,16 +1793,16 @@
 					type: "item"
 				}
 			]
-			title: "{atm9.quest.mekanism.customPortals}"
+			title: "Custom Portals!"
 			x: -9.0d
 			y: 3.75d
 		}
 		{
 			dependencies: ["162CE44400A63575"]
 			description: [
-				"{atm9.quest.mekanism.desc.portableBattery.1}"
+				"This item is used to store power, and functions like a portable battery pack."
 				""
-				"{atm9.quest.mekanism.desc.portableBattery.2}"
+				"It is also an important crafting item in Mekanism."
 			]
 			hide_dependency_lines: true
 			id: "1FC7E9DBF92BE6AA"
@@ -1817,7 +1820,7 @@
 			]
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "{atm9.quest.mekanism.subt.portableBattery}"
+			subtitle: "Portable Battery Pack"
 			tasks: [{
 				id: "79EF9001D76FD91D"
 				item: "mekanism:energy_tablet"
@@ -1918,7 +1921,7 @@
 				}
 			]
 			shape: "diamond"
-			subtitle: "{atm9.quest.mekanism.subt.tooLoud}"
+			subtitle: "shhhhh... too loud...."
 			tasks: [{
 				id: "126FB3CA8F2CCF11"
 				item: "mekanism:upgrade_muffling"
@@ -1979,7 +1982,7 @@
 		}
 		{
 			dependencies: ["1FC7E9DBF92BE6AA"]
-			description: ["{atm9.quest.mekanism.desc.configureItems}"]
+			description: ["This item is used to configure many of the items in Mekanism, from changing pipes to \"Pull or Push\" or rotating machines."]
 			hide_dependency_lines: true
 			id: "5E116409DC7D30BB"
 			progression_mode: "linear"
@@ -1997,7 +2000,7 @@
 			]
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "{atm9.quest.mekanism.subt.wrench}"
+			subtitle: "Mekanism's Wrench"
 			tasks: [{
 				id: "2612CACBDDF9AD1A"
 				item: "mekanism:configurator"
@@ -2009,11 +2012,11 @@
 		{
 			dependencies: ["18D88932916C7A98"]
 			description: [
-				"{atm9.quest.mekanism.desc.breakingWater.1}"
+				"To start breaking down water, we'll need a water source. The Kitchen Sink provides infinite water, and can easily be set up to pump out water."
 				""
-				"{atm9.quest.mekanism.desc.breakingWater.2}"
+				"Alternatively, you can always just use the classic infinite water source with a Pump from Mekanism."
 				""
-				"{atm9.quest.mekanism.desc.breakingWater.3}"
+				"Pump the water into your Electrolytic Separator to split the water into Hydrogen and Oxygen."
 			]
 			id: "407EFAF528871014"
 			rewards: [
@@ -2028,13 +2031,13 @@
 					xp: 100
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.subt.infiniteWater}"
+			subtitle: "The All-Mighty Infinite Water Source"
 			tasks: [{
 				id: "16DAFC5C5846015A"
 				item: "cookingforblockheads:sink"
 				type: "item"
 			}]
-			title: "{atm9.quest.mekanism.waterSource}"
+			title: "Water Source"
 			x: -2.0d
 			y: -3.0d
 		}
@@ -2113,7 +2116,7 @@
 		}
 		{
 			dependencies: ["58B125BD4876054C"]
-			description: ["{atm9.quest.mekanism.desc.gasStorage}"]
+			description: ["This block stores gases."]
 			hide_dependency_lines: true
 			id: "41EB0C570FC54F43"
 			rewards: [
@@ -2130,7 +2133,7 @@
 			]
 			shape: "diamond"
 			size: 1.5d
-			subtitle: "{atm9.quest.mekanism.subt.storingGas}"
+			subtitle: "Storing All That Gas"
 			tasks: [{
 				id: "665B9818855C0028"
 				item: "mekanism:basic_chemical_tank"
@@ -2214,7 +2217,7 @@
 		}
 		{
 			dependencies: ["162CE44400A63575"]
-			description: ["{atm9.quest.mekanism.desc.solarPower}"]
+			description: ["Generates power from the sun!"]
 			hide_dependency_lines: true
 			id: "74200A48498DD7F8"
 			rewards: [
@@ -2231,7 +2234,7 @@
 			]
 			shape: "octagon"
 			size: 1.25d
-			subtitle: "{atm9.quest.mekanism.subt.solarPower}"
+			subtitle: "Produces about 17.6FE/t"
 			tasks: [{
 				id: "22ACFEB806D68385"
 				item: "mekanismgenerators:solar_generator"
@@ -2243,11 +2246,11 @@
 		{
 			dependencies: ["6F62B5510FA881CD"]
 			description: [
-				"{atm9.quest.mekanism.desc.heatGeneratorModes.1}"
+				"The Heat Generator has 2 modes to generate power:"
 				""
-				"{atm9.quest.mekanism.desc.heatGeneratorModes.2}"
+				"&9Passive:&r Surrounding the generator with lava source or flowing blocks creates passive power by creating heat. Place one lava source block on top, and let it flow over the sides. Make sure to connect pipes first!"
 				""
-				"{atm9.quest.mekanism.desc.heatGeneratorModes.3}"
+				"&9Active:&r Placing combustible materials such as coal or wood into the generator will burn the fuel to create power."
 			]
 			id: "0650996C7818ADB5"
 			rewards: [
@@ -2264,7 +2267,7 @@
 			]
 			shape: "octagon"
 			size: 1.25d
-			subtitle: "{atm9.quest.mekanism.subt.basicPowerGen}"
+			subtitle: "Basic Power Gen"
 			tasks: [{
 				id: "7BA12BAB8271E170"
 				item: "mekanismgenerators:heat_generator"
@@ -2275,7 +2278,7 @@
 		}
 		{
 			dependencies: ["162CE44400A63575"]
-			description: ["{atm9.quest.mekanism.desc.bioFuelEnergy}"]
+			description: ["This generator will burn Bio Fuel into energy. It produces around 140FE/t."]
 			hide_dependency_lines: true
 			id: "6CD1720B76F47806"
 			rewards: [
@@ -2303,9 +2306,9 @@
 		{
 			dependencies: ["74200A48498DD7F8"]
 			description: [
-				"{atm9.quest.mekanism.desc.upgradeWorth.1}"
+				"If you're wondering if it is worth making this upgrade, the answer is yes."
 				""
-				"{atm9.quest.mekanism.desc.upgradeWorth.2}"
+				"This version produces 105.6FE/t. It also can be used to add extra heat to Thermal Evaporation Plants."
 			]
 			id: "4EDD96EB60EF5814"
 			rewards: [
@@ -2333,9 +2336,9 @@
 		{
 			dependencies: ["162CE44400A63575"]
 			description: [
-				"{atm9.quest.mekanism.desc.windPowerOption.1}"
+				"This is a great option for generating power."
 				""
-				"{atm9.quest.mekanism.desc.windPowerOption.2}"
+				"This generates around 40FE/t, and increases based on how high you are. The higher the Y level, the more power it produces!"
 			]
 			hide_dependency_lines: true
 			id: "7778937DF377C1B4"
@@ -2353,7 +2356,7 @@
 			]
 			shape: "octagon"
 			size: 1.25d
-			subtitle: "{atm9.quest.mekanism.subt.windPower}"
+			subtitle: "Generates Power from the Wind"
 			tasks: [{
 				id: "50624A39AD15A8A6"
 				item: "mekanismgenerators:wind_generator"
@@ -2364,14 +2367,14 @@
 		}
 		{
 			description: [
-				"{atm9.quest.mekanism.desc.modOverview.1}"
+				"Mekanism is a tech mod that will change the way you play Minecraft."
 				""
-				"{atm9.quest.mekanism.desc.modOverview.2}"
+				"The mod focuses on breaking down materials to their chemical makeup, and getting the best out of every material you come across. "
 				""
-				"{atm9.quest.mekanism.desc.modOverview.3}"
+				"This mod features Hydrogen-Powered Jetpacks, a mini-robotic friend, reactors, a Digital Miner to automate mining, and much, much more."
 			]
 			icon: {
-				Count: 1
+				Count: 1b
 				id: "mekanism:creative_energy_cube"
 				tag: {
 					mekData: {
@@ -2397,13 +2400,13 @@
 			]
 			shape: "square"
 			size: 2.0d
-			subtitle: "{atm9.quest.mekanism.subt.startFactory}"
+			subtitle: "The Start of Your Own Factory"
 			tasks: [{
 				id: "10CE7D11B912F418"
 				item: "alltheores:raw_osmium"
 				type: "item"
 			}]
-			title: "{atm9.quest.mekanism.mekanism}"
+			title: "&dMekanism&r"
 			x: -13.0d
 			y: -2.0d
 		}
@@ -2423,26 +2426,26 @@
 					xp: 10
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.baseCraftingIngot}"
+			subtitle: "The Base Crafting Ingot"
 			tasks: [{
 				id: "52967F83338A3AC3"
 				item: "alltheores:osmium_ingot"
 				type: "item"
 			}]
-			title: "{atm9.quest.mekanism.osmium}"
+			title: "Osmium"
 			x: -10.5d
 			y: -2.0d
 		}
 		{
 			dependencies: ["7AE502EDB73BD57A"]
 			description: [
-				"{atm9.quest.mekanism.desc.setupOverview.1}"
+				"So far, to \"double\" our ingot output, your setup should look something like this:"
 				""
-				"{atm9.quest.mekanism.desc.setupOverview.2}"
+				"Raw Ore goes into your &aPurification Chamber&r, which is being fed &aOxygen&r from an &6Electrolytic Separator&r."
 				""
-				"{atm9.quest.mekanism.desc.setupOverview.3}"
+				"It then outputs the product into the &aCrusher&r, which converts the ore clumps into \"dirty dusts\". This \"Dirty Dust\" is fed into an &aEnrichment Chamber&r, which converts the \"Dirty Dust\" into the appropriate \"Ore Dust.\""
 				""
-				"{atm9.quest.mekanism.desc.setupOverview.4}"
+				"The &aEnrichment Chamber&r then feeds into your preferred smelter of choice. You follow?"
 			]
 			id: "263220DCCDB90E29"
 			rewards: [
@@ -2460,10 +2463,10 @@
 			]
 			shape: "hexagon"
 			size: 1.5d
-			subtitle: "{atm9.quest.mekanism.tier2OreFactory}"
+			subtitle: "Tier 2 Ore Factory"
 			tasks: [{
 				id: "46C4C1AD9FA5BEE2"
-				title: "{atm9.quest.mekanism.ourSetupSoFar}"
+				title: "Our Setup So Far"
 				type: "checkmark"
 			}]
 			x: 3.0d
@@ -2475,13 +2478,13 @@
 				"04E2D539E33B7B0F"
 			]
 			description: [
-				"{atm9.quest.mekanism.desc.factorySetup.1}"
+				"So now, you should have 5 machines ready to go to process your ores. Are you ready to make it even more complicated?"
 				""
-				"{atm9.quest.mekanism.desc.factorySetup.2}"
+				"Your factory should be: Chemical Injection Chamber > Purifying Chamber > Crusher > Enrichment Chamber > Furnace/Smelter."
 				""
-				"{atm9.quest.mekanism.desc.factorySetup.3}"
+				"Easy so far, right?"
 				""
-				"{atm9.quest.mekanism.desc.factorySetup.4}"
+				"Well buckle up. It's about to get wild."
 			]
 			id: "1112E4E2CCEB2467"
 			rewards: [{
@@ -2489,10 +2492,10 @@
 				type: "xp"
 				xp: 10
 			}]
-			subtitle: "{atm9.quest.mekanism.tier3OreFactory}"
+			subtitle: "Tier 3 Ore Factory"
 			tasks: [{
 				id: "57F40CFA03BD36EF"
-				title: "{atm9.quest.mekanism.theHardPart}"
+				title: "The Hard Part"
 				type: "checkmark"
 			}]
 			x: 6.5d
@@ -2501,9 +2504,9 @@
 		{
 			dependencies: ["08DDE018A804BFE7"]
 			description: [
-				"{atm9.quest.mekanism.desc.endGameMaterials.1}"
+				"Combines gases, solid items, and liquids to produce an item and by-product."
 				""
-				"{atm9.quest.mekanism.desc.endGameMaterials.2}"
+				"This machine is needed to create end-game materials and armor."
 			]
 			id: "587A19FC348387C5"
 			rewards: [
@@ -2534,7 +2537,7 @@
 		}
 		{
 			dependencies: ["7AE502EDB73BD57A"]
-			description: ["{atm9.quest.mekanism.desc.bioFuel}"]
+			description: ["The Crusher can also break down natural substances into Bio Fuel!"]
 			id: "3B43DB1A6B0A7B44"
 			rewards: [
 				{
@@ -2554,16 +2557,16 @@
 				item: "mekanism:bio_fuel"
 				type: "item"
 			}]
-			title: "{atm9.quest.mekanism.bioFuel}"
+			title: "Bio Fuel"
 			x: 1.0d
 			y: -3.0d
 		}
 		{
 			dependencies: ["3B43DB1A6B0A7B44"]
 			description: [
-				"{atm9.quest.mekanism.desc.substrates.1}"
+				"When Bio Fuel is combined with Water and Hydrogen in a &aPressurized Reaction Chamber&r it creates Substrates. It also creates Ethylene as a by-product."
 				""
-				"{atm9.quest.mekanism.desc.substrates.2}"
+				"These are needed to create HDPE pellets, which are used for end-game crafts like the Meka-suit."
 			]
 			id: "5047792C6EF6D2AD"
 			rewards: [
@@ -2584,13 +2587,13 @@
 				item: "mekanism:substrate"
 				type: "item"
 			}]
-			title: "{atm9.quest.mekanism.substrates}"
+			title: "Substrates"
 			x: 1.0d
 			y: -4.0d
 		}
 		{
 			dependencies: ["5047792C6EF6D2AD"]
-			description: ["{atm9.quest.mekanism.desc.hdpePellet}"]
+			description: ["Combining Oxygen, Ethylene, and a Substrate in a &aPressurized Reaction Chamber&r will create an HDPE Pellet."]
 			id: "76A38CCA5816CDAD"
 			rewards: [
 				{
@@ -2611,13 +2614,13 @@
 				item: "mekanism:hdpe_pellet"
 				type: "item"
 			}]
-			title: "{atm9.quest.mekanism.hdpePellets}"
+			title: "HDPE Pellets"
 			x: 1.0d
 			y: -5.0d
 		}
 		{
 			dependencies: ["76A38CCA5816CDAD"]
-			description: ["{atm9.quest.mekanism.desc.hdpeSheet}"]
+			description: ["To get an HDPE Sheet, place 3 HDPE Pellets in an Enrichment Chamber."]
 			id: "47106CE1937C4340"
 			rewards: [
 				{
@@ -2665,7 +2668,7 @@
 			]
 			shape: "hexagon"
 			size: 1.25d
-			subtitle: "{atm9.quest.mekanism.allInOneTool}"
+			subtitle: "Mekanism's All In One Tool"
 			tasks: [{
 				id: "79F38A9428A0A23D"
 				item: "mekanism:atomic_disassembler"
@@ -2677,11 +2680,11 @@
 		{
 			dependencies: ["08DDE018A804BFE7"]
 			description: [
-				"{atm9.quest.mekanism.desc.enrichItems.1}"
+				"Using the Enrichment Chamber, you can enrich items to convert them into Enriched variants."
 				""
-				"{atm9.quest.mekanism.desc.enrichItems.2}"
+				"These \"Enriched\" items give 8x the amount of mb in a Metallurgic Infuser."
 				""
-				"{atm9.quest.mekanism.desc.enrichItems.3}"
+				"If you plan on making a bunch of steel, Enrich your Charcoal first!"
 			]
 			id: "0F326EEEC2EBE4E5"
 			rewards: [
@@ -2697,22 +2700,22 @@
 					xp: 10
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.enrichYourItemsFirst}"
+			subtitle: "Enrich your items first!"
 			tasks: [{
 				id: "4B60ACBCC3B46D1D"
 				item: "mekanism:enriched_carbon"
 				type: "item"
 			}]
-			title: "{atm9.quest.mekanism.enrichedItems}"
+			title: "Enriched Items"
 			x: -4.0d
 			y: -0.5d
 		}
 		{
 			dependencies: ["4F436770D30D8520"]
 			description: [
-				"{atm9.quest.mekanism.desc.oreSlurry.1}"
+				"This machine needs water to operate, and uses the water to clean \"Ore Slurry\" into \"Clean Ore Slurry.\""
 				""
-				"{atm9.quest.mekanism.desc.oreSlurry.2}"
+				"It will be part 2 of your Tier 4 Ore Processing Factory."
 			]
 			id: "4AFF81D3D0E78255"
 			rewards: [
@@ -2727,7 +2730,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.givingOresABath}"
+			subtitle: "Giving Ores a Bath"
 			tasks: [{
 				id: "1DA159AA61B37545"
 				item: "mekanism:chemical_washer"
@@ -2739,9 +2742,9 @@
 		{
 			dependencies: ["4F436770D30D8520"]
 			description: [
-				"{atm9.quest.mekanism.desc.crystals.1}"
+				"This machine will be #3 in your Tier 4 Ore Processing Factory."
 				""
-				"{atm9.quest.mekanism.desc.crystals.2}"
+				"It takes the Clean Ore Slurry from the Chemical Washer and turns it into Crystals, which the Chemical Injection Chamber can process after."
 			]
 			id: "3999760881C855FA"
 			rewards: [
@@ -2756,7 +2759,7 @@
 					xp: 100
 				}
 			]
-			subtitle: "{atm9.quest.mekanism.turnsOreSlurryIntoCrystals}"
+			subtitle: "Turns Ore Slurry into Crystals"
 			tasks: [{
 				id: "6F2B3A4206C129B0"
 				item: "mekanism:chemical_crystallizer"
@@ -2771,11 +2774,11 @@
 				"4AFF81D3D0E78255"
 			]
 			description: [
-				"{atm9.quest.mekanism.desc.factoryLayout.1}"
+				"If you're like me, you probably got lost 55 times during these last few steps. This is a complicated system."
 				""
-				"{atm9.quest.mekanism.desc.factoryLayout.2}"
+				"A basic layout of your factory should be: "
 				""
-				"{atm9.quest.mekanism.desc.factoryLayout.3}"
+				"Raw ore goes into your Chemical Dissolution Chamber > pumps A GAS to Chemical Washer > pumps A GAS to Chemical Crystallizer >  outputs crystals to Chemical Injection Chamber > outputs shards to Purification Chamber > outputs clumps to Crusher > outputs dirty dusts to Enrichment Chamber > outputs clean dust to Smelter."
 				""
 				"{image:atm:textures/questpics/mek/mekanism_flowchart.png width:300 height:150 align:1 fit:true}"
 			]
@@ -2788,10 +2791,10 @@
 			}]
 			shape: "gear"
 			size: 1.5d
-			subtitle: "{atm9.quest.mekanism.thisIsALotIKnow}"
+			subtitle: "This is a lot, I know."
 			tasks: [{
 				id: "3B3B58C438FD4397"
-				title: "{atm9.quest.mekanism.tier4OreProcessingFactorySummary}"
+				title: "Tier 4 Ore Processing Factory Summary"
 				type: "checkmark"
 			}]
 			x: 9.0d
@@ -2800,9 +2803,9 @@
 		{
 			dependencies: ["162CE44400A63575"]
 			description: [
-				"{atm9.quest.mekanism.desc.poweredItemCharger.1}"
+				"Standing on this item will charge up any powered item from any mod."
 				""
-				"{atm9.quest.mekanism.desc.poweredItemCharger.2}"
+				"This is also needed for the Robit."
 			]
 			hide_dependency_lines: true
 			id: "4204702AA6FBF40B"
@@ -2834,9 +2837,9 @@
 				"2E274BEEF2B0B8C7"
 			]
 			description: [
-				"{atm9.quest.mekanism.desc.antimatterPellets.1}"
+				"Now that we have some experience working with more advanced machinery, it's time to move towards making &dAntimatter Pellets&r."
 				""
-				"{atm9.quest.mekanism.desc.antimatterPellets.2}"
+				"These create several &5End Game&r items, including the &6ATM Star&r. To learn all about Reactors and more, head over to the &aMekanism&r: &dReactors&r questline!"
 			]
 			icon: "mekanism:pellet_antimatter"
 			id: "7E4A95B6443F23BC"
@@ -2847,55 +2850,15 @@
 			}]
 			shape: "hexagon"
 			size: 2.0d
-			subtitle: "{atm9.quest.mekanism.thePathToReactors}"
+			subtitle: "The Path to Reactors"
 			tasks: [{
 				id: "60BF6E0420C91050"
-				title: "{atm9.quest.mekanism.advancedMekanism}"
+				title: "&dAdvanced Mekanism&r"
 				type: "checkmark"
 			}]
 			x: 9.0d
 			y: -5.5d
 		}
-		{
-			can_repeat: false
-			description: [
-				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
-				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
-				""
-				""
-				""
-				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
-			]
-			disable_toast: true
-			hide_details_until_startable: true
-			hide_until_deps_visible: true
-			icon: {
-				Count: 1
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "minecraft:item/barrier"
-				}
-			}
-			id: "1B98350325FA52CD"
-			invisible: true
-			optional: true
-			shape: "octagon"
-			tasks: [
-				{
-					disable_toast: true
-					id: "16F845475F9E5089"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-				{
-					id: "22A1ED0E7CF3404B"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-			]
-			x: -13.0d
-			y: -4.0d
-		}
 	]
-	title: "{atm9.chapters.21.title}"
+	title: "Mekanism"
 }

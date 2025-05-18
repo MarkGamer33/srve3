@@ -1,7 +1,9 @@
 {
 	id: "72D242FB70CF9896"
+	order_index: 29
+	title: "&9Rare Mana Materials Loot Bag&r"
 	loot_size: 1
-	order_index: 52
+	use_title: true
 	rewards: [
 		{ item: "botania:manasteel_ingot", random_bonus: 3, weight: 25.0f }
 		{ item: "botania:manasteel_block", weight: 10.0f }
@@ -13,6 +15,4 @@
 		{ item: "botania:black_lotus", weight: 2.0f }
 		{ item: "botania:blacker_lotus" }
 	]
-	title: "&9Rare Mana Materials Loot Bag&r"
-	use_title: true
 }

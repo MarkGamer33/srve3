@@ -1,7 +1,9 @@
 {
 	id: "04285B94275AB879"
+	order_index: 33
+	title: "Energizing Orb Loot"
 	loot_size: 1
-	order_index: 28
+	use_title: true
 	rewards: [
 		{ item: "powah:energizing_rod_starter", weight: 25.0f }
 		{ item: "powah:energizing_rod_basic", weight: 25.0f }
@@ -12,6 +14,4 @@
 		{ item: "powah:energy_cable_hardened", random_bonus: 2, weight: 5.0f }
 		{ item: "powah:energy_cable_blazing", random_bonus: 2 }
 	]
-	title: "Energizing Orb Loot"
-	use_title: true
 }

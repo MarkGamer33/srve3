@@ -1,7 +1,5 @@
 //
-// This File has been authored by AllTheMods Staff (me, Mitchell52) for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
-//  Written by Mitchell52 for AllTheMods 8, and 9
+//  Written by Mitchell52 for AllTheMods 8
 //  this file extends ore processing where the postunify scripts cannot due to some mods not allowing tag outputs, and coz one file is cleaner..
 //  
 // Contents
@@ -13,10 +11,10 @@
 //  Thermal extra dusts, Apatite, soulsand, cinnabar, amethyst, niter, in Mek, Create, and IE Crushers
 
 
-ServerEvents.recipes(allthemods =>{
+ServerEvents.recipes(event =>{
 // ATM trio
     ['allthemodium', 'vibranium','unobtainium'].forEach(atm_ore =>{
-        allthemods.custom({
+        event.custom({
             type: 'create:crushing',
             ingredients: [{tag: `forge:raw_materials/${atm_ore}`}],
             processingTime: 400,
@@ -24,8 +22,8 @@ ServerEvents.recipes(allthemods =>{
               {item: `allthemodium:${atm_ore}_dust`},
               {chance: 0.75, item: 'create:experience_nugget'}
             ]
-        }).id(`allthemods:create/crushing/atm8_raw_${atm_ore}_dust`)
-        allthemods.custom({
+        }).id(`kubejs:create/crushing/atm8_raw_${atm_ore}_dust`)
+        event.custom({
             type: 'create:crushing',
             ingredients: [{tag: `forge:storage_blocks/raw_${atm_ore}`}],
             processingTime: 400,
@@ -33,8 +31,8 @@ ServerEvents.recipes(allthemods =>{
               {count: 9,item: `allthemodium:${atm_ore}_dust`},
               {chance: 0.75, count: 9, item: 'create:experience_nugget'}
             ]
-        }).id(`allthemods:create/crushing/atm8_raw_block_${atm_ore}_dust`)
-        allthemods.custom({
+        }).id(`kubejs:create/crushing/atm8_raw_block_${atm_ore}_dust`)
+        event.custom({
             type: 'create:crushing',
             ingredients: [{tag: `forge:ores/${atm_ore}`}],
             processingTime: 400,
@@ -43,9 +41,9 @@ ServerEvents.recipes(allthemods =>{
               {chance: 0.75, item: `allthemodium:${atm_ore}_dust`},
               {chance: 0.75, item: 'create:experience_nugget'}
             ]
-        }).id(`allthemods:create/crushing/atm8_ore_${atm_ore}_dust`)
+        }).id(`kubejs:create/crushing/atm8_ore_${atm_ore}_dust`)
         //Immersive
-        allthemods.custom({
+        event.custom({
             type: 'immersiveengineering:arc_furnace',
             additives: [],
             energy: 25600,
@@ -53,8 +51,8 @@ ServerEvents.recipes(allthemods =>{
             results: [{base_ingredient: {item: `allthemodium:${atm_ore}_ingot`}}],
             secondaries: [{chance: 0.5, output: {item: `allthemodium:${atm_ore}_ingot`}}],
             time: 100
-        }).id(`allthemods:ie/arcfurnace/atm8_raw_${atm_ore}_ingot`)
-        allthemods.custom({
+        }).id(`kubejs:ie/arcfurnace/atm8_raw_${atm_ore}_ingot`)
+        event.custom({
             type: 'immersiveengineering:arc_furnace',
             additives: [],
             energy: 102400,
@@ -62,8 +60,8 @@ ServerEvents.recipes(allthemods =>{
             results: [{base_ingredient: {item: `allthemodium:${atm_ore}_ingot`},count: 2}],
             slag: {tag: 'forge:slag'},
             time: 200
-        }).id(`allthemods:ie/arcfurnace/atm8_ore_${atm_ore}_ingot`)
-        allthemods.custom({
+        }).id(`kubejs:ie/arcfurnace/atm8_ore_${atm_ore}_ingot`)
+        event.custom({
             type: 'immersiveengineering:arc_furnace',
             additives: [],
             energy: 230400,
@@ -71,17 +69,17 @@ ServerEvents.recipes(allthemods =>{
             results: [{base_ingredient: {item: `allthemodium:${atm_ore}_ingot`},count: 13}],
             secondaries: [{chance: 0.5, output: {item: `allthemodium:${atm_ore}_ingot`}}],
             time: 900
-        }).id(`allthemods:ie/arcfurnace/atm8_raw_block_${atm_ore}_ingot`)
-        allthemods.custom({
+        }).id(`kubejs:ie/arcfurnace/atm8_raw_block_${atm_ore}_ingot`)
+        event.custom({
             type: 'immersiveengineering:arc_furnace',
             additives: [],
             energy: 51200,
             input: {tag: `forge:dusts/${atm_ore}`},
             results: [{item: `allthemodium:${atm_ore}_ingot`}],
             time: 100
-        }).id(`allthemods:ie/arcfurnace/atm8_dust_${atm_ore}_ingot`)
+        }).id(`kubejs:ie/arcfurnace/atm8_dust_${atm_ore}_ingot`)
         //Thermal Pulverizer
-        allthemods.custom({
+        event.custom({
             type: 'thermal:pulverizer',
             ingredient: {item: `allthemodium:raw_${atm_ore}`},
             result: [
@@ -89,9 +87,9 @@ ServerEvents.recipes(allthemods =>{
                 {item: 'alltheores:netherite_dust',chance: 0.05}
             ],
             experience: 0.1
-        }).id(`allthemods:thermal/pulverizing/atm8_${atm_ore}`)
+        }).id(`kubejs:thermal/pulverizing/atm8_${atm_ore}`)
         //Thermal Induction smelter
-        allthemods.custom({
+        event.custom({
             type: 'thermal:smelter',
             ingredient: {item: `allthemodium:raw_${atm_ore}`},
             result: [
@@ -99,8 +97,8 @@ ServerEvents.recipes(allthemods =>{
                 {item: 'thermal:netherite_nugget',chance: 1.0}
             ],
             experience: 0.1
-        }).id(`allthemods:thermal/inductsmelter/atm8_raw_${atm_ore}`)
-        allthemods.custom({
+        }).id(`kubejs:thermal/inductsmelter/atm8_raw_${atm_ore}`)
+        event.custom({
             type: 'thermal:smelter',
             ingredient: {tag: `forge:ores/${atm_ore}`},
             result: [
@@ -109,13 +107,13 @@ ServerEvents.recipes(allthemods =>{
                 {item: 'thermal:rich_slag',chance: 0.2}
             ],
             experience: 0.1
-        }).id(`allthemods:thermal/inductsmelter/atm8_ore_${atm_ore}`)
+        }).id(`kubejs:thermal/inductsmelter/atm8_ore_${atm_ore}`)
     })
 
 // Iridium
 let atoore = ['iridium']
     atoore.forEach(ato_ore =>{
-        allthemods.custom({
+        event.custom({
             type: 'create:crushing',
             ingredients: [{tag: `forge:raw_materials/${ato_ore}`}],
             processingTime: 400,
@@ -123,8 +121,8 @@ let atoore = ['iridium']
               {item: `alltheores:${ato_ore}_dust`},
               {chance: 0.75, item: 'create:experience_nugget'}
             ]
-        }).id(`allthemods:create/crushing/atm8_raw_${ato_ore}_dust`)
-        allthemods.custom({
+        }).id(`kubejs:create/crushing/atm8_raw_${ato_ore}_dust`)
+        event.custom({
             type: 'create:crushing',
             ingredients: [{tag: `forge:storage_blocks/raw_${ato_ore}`}],
             processingTime: 400,
@@ -132,8 +130,8 @@ let atoore = ['iridium']
               {count: 9,item: `alltheores:${ato_ore}_dust`},
               {chance: 0.75, count: 9, item: 'create:experience_nugget'}
             ]
-        }).id(`allthemods:create/crushing/atm8_raw_block_${ato_ore}_dust`)
-        allthemods.custom({
+        }).id(`kubejs:create/crushing/atm8_raw_block_${ato_ore}_dust`)
+        event.custom({
             type: 'create:crushing',
             ingredients: [{tag: `forge:ores/${ato_ore}`}],
             processingTime: 400,
@@ -142,9 +140,9 @@ let atoore = ['iridium']
               {chance: 0.75, item: `alltheores:${ato_ore}_dust`},
               {chance: 0.75, item: 'create:experience_nugget'}
             ]
-        }).id(`allthemods:create/crushing/atm8_ore_${ato_ore}_dust`)
+        }).id(`kubejs:create/crushing/atm8_ore_${ato_ore}_dust`)
         //Immersive
-        allthemods.custom({
+        event.custom({
             type: 'immersiveengineering:arc_furnace',
             additives: [],
             energy: 25600,
@@ -152,8 +150,8 @@ let atoore = ['iridium']
             results: [{base_ingredient: {item: `alltheores:${ato_ore}_ingot`}}],
             secondaries: [{chance: 0.5, output: {item: `alltheores:${ato_ore}_ingot`}}],
             time: 100
-        }).id(`allthemods:ie/arcfurnace/atm8_raw_${ato_ore}_ingot`)
-        allthemods.custom({
+        }).id(`kubejs:ie/arcfurnace/atm8_raw_${ato_ore}_ingot`)
+        event.custom({
             type: 'immersiveengineering:arc_furnace',
             additives: [],
             energy: 102400,
@@ -161,8 +159,8 @@ let atoore = ['iridium']
             results: [{base_ingredient: {item: `alltheores:${ato_ore}_ingot`},count: 2}],
             slag: {tag: 'forge:slag'},
             time: 200
-        }).id(`allthemods:ie/arcfurnace/atm8_ore_${ato_ore}_ingot`)
-        allthemods.custom({
+        }).id(`kubejs:ie/arcfurnace/atm8_ore_${ato_ore}_ingot`)
+        event.custom({
             type: 'immersiveengineering:arc_furnace',
             additives: [],
             energy: 230400,
@@ -170,17 +168,17 @@ let atoore = ['iridium']
             results: [{base_ingredient: {item: `alltheores:${ato_ore}_ingot`},count: 13}],
             secondaries: [{chance: 0.5, output: {item: `alltheores:${ato_ore}_ingot`}}],
             time: 900
-        }).id(`allthemods:ie/arcfurnace/atm8_raw_block_${ato_ore}_ingot`)
-        allthemods.custom({
+        }).id(`kubejs:ie/arcfurnace/atm8_raw_block_${ato_ore}_ingot`)
+        event.custom({
             type: 'immersiveengineering:arc_furnace',
             additives: [],
             energy: 51200,
             input: {tag: `forge:dusts/${ato_ore}`},
             results: [{item: `alltheores:${ato_ore}_ingot`}],
             time: 100
-        }).id(`allthemods:ie/arcfurnace/atm8_dust_${ato_ore}_ingot`)
+        }).id(`kubejs:ie/arcfurnace/atm8_dust_${ato_ore}_ingot`)
         //Thermal Pulverizer
-        allthemods.custom({
+        event.custom({
             type: 'thermal:pulverizer',
             ingredient: {item: `alltheores:raw_${ato_ore}`},
             result: [
@@ -188,9 +186,9 @@ let atoore = ['iridium']
                 {item: 'alltheores:platinum_dust',chance: 0.05}
             ],
             experience: 0.1
-        }).id(`allthemods:thermal/pulverizing/atm8_${ato_ore}`)
+        }).id(`kubejs:thermal/pulverizing/atm8_${ato_ore}`)
         //Thermal Induction smelter
-        allthemods.custom({
+        event.custom({
             type: 'thermal:smelter',
             ingredient: {item: `alltheores:raw_${ato_ore}`},
             result: [
@@ -198,8 +196,8 @@ let atoore = ['iridium']
                 {item: 'alltheores:platinum_nugget',chance: 1.0}
             ],
             experience: 0.1
-        }).id(`allthemods:thermal/inductsmelter/atm8_raw_${ato_ore}`)
-        allthemods.custom({
+        }).id(`kubejs:thermal/inductsmelter/atm8_raw_${ato_ore}`)
+        event.custom({
             type: 'thermal:smelter',
             ingredient: {tag: `forge:ores/${ato_ore}`},
             result: [
@@ -208,11 +206,11 @@ let atoore = ['iridium']
                 {item: 'thermal:rich_slag',chance: 0.2}
             ],
             experience: 0.1
-        }).id(`allthemods:thermal/inductsmelter/atm8_ore_${ato_ore}`)
+        }).id(`kubejs:thermal/inductsmelter/atm8_ore_${ato_ore}`)
     })
 
 // Platinum
-allthemods.custom({
+event.custom({
     type: 'thermal:smelter',
     ingredient: {item: `alltheores:raw_platinum`},
     result: [
@@ -220,8 +218,8 @@ allthemods.custom({
         {item: 'alltheores:tin_nugget',chance: 1.0}
     ],
     experience: 0.1
-}).id(`allthemods:thermal/inductsmelter/atm8_raw_platinum`)
-allthemods.custom({
+}).id(`kubejs:thermal/inductsmelter/atm8_raw_platinum`)
+event.custom({
     type: 'thermal:smelter',
     ingredient: {tag: `forge:ores/platinum`},
     result: [
@@ -230,10 +228,10 @@ allthemods.custom({
         {item: 'thermal:rich_slag',chance: 0.2}
     ],
     experience: 0.1
-}).id(`allthemods:thermal/inductsmelter/atm8_ore_platinum`)
+}).id(`kubejs:thermal/inductsmelter/atm8_ore_platinum`)
 
 // Sgear Crimson iron, Azure silver
-allthemods.custom({
+event.custom({
     type: 'thermal:pulverizer',
     ingredient: {item: `silentgear:raw_azure_silver`},
     result: [
@@ -241,8 +239,8 @@ allthemods.custom({
         {item: 'alltheores:silver_dust',chance: 0.05}
     ],
     experience: 0.1
-}).id(`allthemods:pulverizing_azure_silver`)
-allthemods.custom({
+}).id(`kubejs:pulverizing_azure_silver`)
+event.custom({
     type: 'thermal:pulverizer',
     ingredient: {item: 'silentgear:raw_crimson_iron'},
     result: [
@@ -250,11 +248,11 @@ allthemods.custom({
         {item: 'alltheores:iron_dust',chance: 0.05}
     ],
     experience: 0.1
-}).id(`allthemods:pulverizing_crimson_iron`)
+}).id(`kubejs:pulverizing_crimson_iron`)
 
 //// ATO ores, aluminum, platinum, uranium, zinc, osmium
 //aluminum
-allthemods.custom({
+event.custom({
     type: 'thermal:pulverizer',
     ingredient: {item: `alltheores:raw_aluminum`},
     result: [
@@ -262,9 +260,9 @@ allthemods.custom({
         {item: 'alltheores:tin_dust',chance: 0.05}
     ],
     experience: 0.1
-}).id(`allthemods:pulverizing_ato_aluminum`)
+}).id(`kubejs:pulverizing_ato_aluminum`)
 //platinum
-allthemods.custom({
+event.custom({
     type: 'thermal:pulverizer',
     ingredient: {item: `alltheores:raw_platinum`},
     result: [
@@ -272,9 +270,9 @@ allthemods.custom({
         {item: 'alltheores:tin_dust',chance: 0.05}
     ],
     experience: 0.1
-}).id(`allthemods:pulverizing_ato_platinum`)
+}).id(`kubejs:pulverizing_ato_platinum`)
 //uranium
-allthemods.custom({
+event.custom({
     type: 'thermal:pulverizer',
     ingredient: {item: `alltheores:raw_uranium`},
     result: [
@@ -282,9 +280,9 @@ allthemods.custom({
         {item: 'alltheores:lead_dust',chance: 0.05}
     ],
     experience: 0.1
-}).id(`allthemods:pulverizing_ato_uranium`)
+}).id(`kubejs:pulverizing_ato_uranium`)
 //zinc
-allthemods.custom({
+event.custom({
     type: 'thermal:pulverizer',
     ingredient: {
       item: `alltheores:raw_zinc`},
@@ -293,9 +291,9 @@ allthemods.custom({
         {item: 'alltheores:copper_dust',chance: 0.05}
     ],
     experience: 0.1
-}).id(`allthemods:pulverizing_ato_zinc`)
+}).id(`kubejs:pulverizing_ato_zinc`)
 //osmium
-allthemods.custom({
+event.custom({
     type: 'thermal:pulverizer',
     ingredient: {item: `alltheores:raw_osmium`},
     result: [
@@ -303,10 +301,10 @@ allthemods.custom({
         {item: 'alltheores:copper_dust',chance: 0.05}
     ],
     experience: 0.1
-}).id(`allthemods:pulverizing_ato_osmium`)
+}).id(`kubejs:pulverizing_ato_osmium`)
 
 // Other redstone and quartz
-allthemods.custom({
+event.custom({
     type: 'create:crushing',
     ingredients: [{item: 'alltheores:other_redstone_ore'}],
     processingTime: 400,
@@ -316,9 +314,9 @@ allthemods.custom({
       {chance: 0.75, item: 'create:experience_nugget'},
       {chance: 0.12, item: 'allthemodium:ancient_stone'}
     ]
-}).id(`allthemods:create/crushing/atm8_ore_redstone_dust`)
+}).id(`kubejs:create/crushing/atm8_ore_redstone_dust`)
 
-allthemods.custom({
+event.custom({
     type: 'create:crushing',
     ingredients: [{item: 'alltheores:other_quartz_ore'}],
     processingTime: 400,
@@ -328,12 +326,12 @@ allthemods.custom({
       {chance: 0.75, item: 'create:experience_nugget'},
       {chance: 0.12, item: 'allthemodium:ancient_stone'}
     ]
-}).id(`allthemods:create/crushing/atm8_ore_quartz_dust`)
+}).id(`kubejs:create/crushing/atm8_ore_quartz_dust`)
     
 //Thermal extra dusts, apatite, soulsand, cinnabar, amethyst, niter
 let thermdust =['apatite','cinnabar', 'niter']
 thermdust.forEach(thermal =>{
-    allthemods.custom({
+    event.custom({
         type: 'create:crushing',
         ingredients: [{item: `thermal:${thermal}`}],
         processingTime: 400,
@@ -341,22 +339,22 @@ thermdust.forEach(thermal =>{
           {count: 1, item: `thermal:${thermal}_dust`},
           {chance: 0.5, item: `thermal:${thermal}_dust`}
         ]
-    }).id(`allthemods:create/crushing/atm8_thermal_${thermal}_dust`)
-    allthemods.custom({
+    }).id(`kubejs:create/crushing/atm8_thermal_${thermal}_dust`)
+    event.custom({
         type: 'immersiveengineering:crusher',
         energy: 1600,
         input: {item: `thermal:${thermal}`},
         result: {item: `thermal:${thermal}_dust`},
         secondaries: [{chance: 0.1, output: {item: `thermal:${thermal}_dust`}}]
-    }).id(`allthemods:immersive/crushing/atm8_thermal_${thermal}_dust`)
-    allthemods.custom({
+    }).id(`kubejs:immersive/crushing/atm8_thermal_${thermal}_dust`)
+    event.custom({
         type: 'mekanism:crushing',
         input: {ingredient:{item: `thermal:${thermal}`}},
         output:{item: `thermal:${thermal}_dust`}
-    }).id(`allthemods:mekanism/crushing/atm8_thermal_${thermal}_dust`)
+    }).id(`kubejs:mekanism/crushing/atm8_thermal_${thermal}_dust`)
     })
     // Thermal Extra Soulsand dust
-    allthemods.custom({
+    event.custom({
         type: 'create:crushing',
         ingredients: [{item: 'minecraft:soul_sand'}],
         processingTime: 400,
@@ -364,22 +362,31 @@ thermdust.forEach(thermal =>{
           {count: 1, item: `thermal_extra:soul_sand_dust`},
           {chance: 0.5, item: `thermal_extra:soul_sand_dust`}
         ]
-    }).id(`allthemods:create/crushing/atm8_te_soul_sand_dust`)
-    allthemods.custom({
+    }).id(`kubejs:create/crushing/atm8_te_soul_sand_dust`)
+    event.custom({
         type: 'immersiveengineering:crusher',
         energy: 1600,
         input: {item: 'minecraft:soul_sand'},
         result: {item: `thermal_extra:soul_sand_dust`},
         secondaries: [{chance: 0.1, output: {item: `thermal_extra:soul_sand_dust`}}]
-    }).id(`allthemods:immersive/crushing/atm8_te_soul_sand_dust`)
-    allthemods.custom({
+    }).id(`kubejs:immersive/crushing/atm8_te_soul_sand_dust`)
+    event.custom({
         type: 'mekanism:crushing',
         input: {ingredient:{item: 'minecraft:soul_sand'}},
         output:{item: `thermal_extra:soul_sand_dust`}
-    }).id(`allthemods:mekanism/crushing/atm8_te_soul_sand_dust`)
-
+    }).id(`kubejs:mekanism/crushing/atm8_te_soul_sand_dust`)
+    //hexcasting Amethyst
+    event.custom({
+        type: 'immersiveengineering:crusher',
+        energy: 1600,
+        input: {item: 'minecraft:amethyst_shard'},
+        result: {count: 4, item: 'hexcasting:amethyst_dust'},
+        secondaries: [{chance: 0.1, output: {tag: 'forge:dusts/amethyst'}}]
+    }).id(`kubejs:immersive/crushing/atm8_hex_amethyst_dust`)
+    event.custom({
+        type: 'mekanism:crushing',
+        input: {ingredient:{item: 'minecraft:amethyst_shard'}},
+        output:{item: 'hexcasting:amethyst_dust', count: 4}
+    }).id(`kubejs:mekanism/crushing/atm8_hex_amethyst_dust`)
 
 })
-
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.

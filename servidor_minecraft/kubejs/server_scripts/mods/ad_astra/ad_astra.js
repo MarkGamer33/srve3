@@ -1,26 +1,11 @@
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
-
-ServerEvents.recipes(allthemods => {
-    allthemods.remove({ id: 'ad_astra:recipes/steel_ingot_from_blasting_iron_ingot'})
-
+ServerEvents.recipes(e=> {
+    e.remove({ id: 'ad_astra:recipes/steel_ingot_from_blasting_iron_ingot'})
+  
     //oil is oil
-    allthemods.custom({
-        type: "ad_astra:refining",
-        cookingtime: 1,
-        energy: 30,
-        input: {
-            ingredient: {
-                tag: "forge:crude_oil"
-              },
-            millibuckets: 5
-        },
-        result: {
-            fluid: "ad_astra:fuel",
-            millibuckets: 5
-        }
+    e.custom({
+        type: "ad_astra:fuel_conversion",
+        input: "#forge:crude_oil",
+        output: "ad_astra:fuel",
+        conversion_ratio: 1.0,
     })
 })
-
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.

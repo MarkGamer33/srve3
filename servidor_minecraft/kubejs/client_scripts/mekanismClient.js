@@ -1,6 +1,4 @@
 /*
- This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
- As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
   Mekanism items for processing stack
   Authored by EnigmaQuip
 
@@ -8,18 +6,16 @@
   only the startup script should need editing
 */
 
-
-
-ClientEvents.lang("en_us", allthemods => {
+ClientEvents.highPriorityAssets(event => {
   const mekItems = ['clump', 'crystal', 'dirty_dust', 'shard']
   global.mekStackAdditions.forEach(entry => {
-    allthemods.add(`slurry.kubejs.clean_${entry.material}`, snakeCaseToUpperCase(`clean_${entry.material}_slurry`))
-    allthemods.add(`slurry.kubejs.dirty_${entry.material}`, snakeCaseToUpperCase(`dirty_${entry.material}_slurry`))
+    event.addLang(`slurry.kubejs.clean_${entry.material}`, snakeCaseToUpperCase(`clean_${entry.material}_slurry`))
+    event.addLang(`slurry.kubejs.dirty_${entry.material}`, snakeCaseToUpperCase(`dirty_${entry.material}_slurry`))
     mekItems.forEach(type => {
-      allthemods.add(`item.kubejs.${type}_${entry.material}`, snakeCaseToUpperCase(`${entry.material}_${type}`))
+      event.addLang(`item.kubejs.${type}_${entry.material}`, snakeCaseToUpperCase(`${entry.material}_${type}`))
     })
     if (entry.makeDust) {
-      allthemods.add(`item.kubejs.dust_${entry.material}`, snakeCaseToUpperCase(`${entry.material}_dust`))
+      event.addLang(`item.kubejs.dust_${entry.material}`, snakeCaseToUpperCase(`${entry.material}_dust`))
     }
   })
 })
@@ -30,6 +26,3 @@ function snakeCaseToUpperCase(input) {
     .map((word) => `${word[0].toUpperCase()}${word.slice(1)}`)
     .join(" ");
 }
-
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.

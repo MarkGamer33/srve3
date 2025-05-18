@@ -1,6 +1,6 @@
 {
 	icon: {
-		Count: 1
+		Count: 1b
 		id: "apotheosis:gem"
 		tag: {
 			gem: "apotheosis:overworld/earth"
@@ -9,161 +9,95 @@
 	}
 	id: "5B39DB9E88926050"
 	loot_size: 1
-	order_index: 64
+	order_index: 42
 	rewards: [
 		{
 			item: {
-				Count: 1
+				Count: 1b
 				id: "apotheosis:gem"
 				tag: {
-					affix_data: {
-						rarity: "apotheosis:uncommon"
-					}
 					gem: "apotheosis:core/ballast"
+					rarity: "uncommon"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1
+				Count: 1b
 				id: "apotheosis:gem"
 				tag: {
-					affix_data: {
-						rarity: "apotheosis:uncommon"
-					}
-					gem: "irons_spellbooks:intelligent"
-				}
-			}
-		}
-		{
-			item: {
-				Count: 1
-				id: "apotheosis:gem"
-				tag: {
-					affix_data: {
-						rarity: "apotheosis:uncommon"
-					}
 					gem: "apotheosis:core/brawlers"
+					rarity: "uncommon"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1
+				Count: 1b
 				id: "apotheosis:gem"
 				tag: {
-					affix_data: {
-						rarity: "apotheosis:uncommon"
-					}
 					gem: "apotheosis:core/breach"
+					rarity: "uncommon"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1
+				Count: 1b
 				id: "apotheosis:gem"
 				tag: {
-					affix_data: {
-						rarity: "apotheosis:uncommon"
-					}
 					gem: "apotheosis:core/combatant"
+					rarity: "uncommon"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1
+				Count: 1b
 				id: "apotheosis:gem"
 				tag: {
-					affix_data: {
-						rarity: "apotheosis:uncommon"
-					}
 					gem: "apotheosis:core/guardian"
+					rarity: "uncommon"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1
+				Count: 1b
 				id: "apotheosis:gem"
 				tag: {
-					affix_data: {
-						rarity: "apotheosis:uncommon"
-					}
-					gem: "apotheosis:core/lunar"
-				}
-			}
-		}
-		{
-			item: {
-				Count: 1
-				id: "apotheosis:gem"
-				tag: {
-					affix_data: {
-						rarity: "apotheosis:uncommon"
-					}
 					gem: "apotheosis:core/samurai"
+					rarity: "uncommon"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1
+				Count: 1b
 				id: "apotheosis:gem"
 				tag: {
-					affix_data: {
-						rarity: "apotheosis:uncommon"
-					}
-					gem: "apotheosis:core/slipstream"
-				}
-			}
-		}
-		{
-			item: {
-				Count: 1
-				id: "apotheosis:gem"
-				tag: {
-					affix_data: {
-						rarity: "apotheosis:uncommon"
-					}
-					gem: "apotheosis:core/solar"
-				}
-			}
-		}
-		{
-			item: {
-				Count: 1
-				id: "apotheosis:gem"
-				tag: {
-					affix_data: {
-						rarity: "apotheosis:uncommon"
-					}
 					gem: "apotheosis:core/splendor"
+					rarity: "uncommon"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1
+				Count: 1b
 				id: "apotheosis:gem"
 				tag: {
-					affix_data: {
-						rarity: "apotheosis:uncommon"
-					}
 					gem: "apotheosis:core/tyrannical"
+					rarity: "uncommon"
 				}
 			}
 		}
 		{
 			item: {
-				Count: 1
+				Count: 1b
 				id: "apotheosis:gem"
 				tag: {
-					affix_data: {
-						rarity: "apotheosis:uncommon"
-					}
 					gem: "apotheosis:core/warlord"
+					rarity: "uncommon"
 				}
 			}
 		}

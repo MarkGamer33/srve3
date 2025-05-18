@@ -1,8 +1,5 @@
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
-
-ServerEvents.recipes(allthemods => {
-  allthemods.custom({
+ServerEvents.recipes(event => {
+  event.custom({
     "type": "industrialforegoing:fluid_extractor",
     "input": {
       "item": "integrateddynamics:menril_log"
@@ -11,8 +8,5 @@ ServerEvents.recipes(allthemods => {
     "breakChance": 0.010,
     "output": "{FluidName:\"integrateddynamics:menril_resin\",Amount:2}",
     "defaultRecipe": false
-  }).id('allthemods:industrialforegoing/fluid_extractor/menril')
+  }).id('kubejs:industrialforegoing/fluid_extractor/menril')
 })
-
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.

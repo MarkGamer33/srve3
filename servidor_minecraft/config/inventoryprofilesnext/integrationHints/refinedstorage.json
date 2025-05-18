@@ -161,10 +161,6 @@
             }
         }
     },
-    "com.refinedmods.refinedstorage.screen.CrafterManagerScreen": {
-        "playerSideOnly": true,
-        "ignore": true
-    },
     "com.refinedmods.refinedstorage.screen.PriorityScreen": {
         "ignore": true
     },

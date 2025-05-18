@@ -1,8 +1,5 @@
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
-
-ServerEvents.recipes(allthemods => {
-  allthemods.custom({
+ServerEvents.recipes(event => {
+  event.custom({
     type: "create:mechanical_crafting",
     pattern: [
       '    A    ',
@@ -32,9 +29,9 @@ ServerEvents.recipes(allthemods => {
     },
     result: Ingredient.of('allthetweaks:atm_star').toJson(),
     acceptMirrored: false
-  }).id('allthemods:allthetweaks/atm_star')
+  }).id('kubejs:allthetweaks/atm_star')
   
-  allthemods.custom({
+  event.custom({
     type: "create:mechanical_crafting",
     pattern: [
       '    S    ',
@@ -53,8 +50,5 @@ ServerEvents.recipes(allthemods => {
     },
     result: Ingredient.of('allthetweaks:atm_star').toJson(),
     acceptMirrored: false
-  }).id('allthemods:allthetweaks/atm_shard_star')
+  }).id('kubejs:allthetweaks/atm_shard_star')
 })
-
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.

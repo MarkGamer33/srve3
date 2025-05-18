@@ -1,6 +1,4 @@
 /*
- This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
- As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
   Mekanism recipes for processing stack
   Authored by EnigmaQuip
 
@@ -8,7 +6,7 @@
   only the startup script should need editing
 */
 
-ServerEvents.recipes(allthemods => {
+ServerEvents.recipes(event => {
   global.mekStackAdditions.forEach(entry => {
     let material = entry.material
 
@@ -21,7 +19,7 @@ ServerEvents.recipes(allthemods => {
     let hasDust = !dust.isEmpty()
 
     if (!Ingredient.of(`#forge:storage_blocks/raw_${material}`).isEmpty()) {
-      allthemods.custom({
+      event.custom({
         type: 'mekanism:dissolution',
         itemInput: {
           ingredient: {
@@ -37,8 +35,8 @@ ServerEvents.recipes(allthemods => {
           amount: 2,
           gas: 'mekanism:sulfuric_acid'
         }
-      }).id(`allthemods:processing/${material}/slurry/dirty/from_raw_block`)
-      allthemods.custom({
+      }).id(`kubejs:processing/${material}/slurry/dirty/from_raw_block`)
+      event.custom({
         type: 'mekanism:injecting',
         itemInput: {
           ingredient: {
@@ -53,8 +51,8 @@ ServerEvents.recipes(allthemods => {
           item: `kubejs:shard_${material}`,
           count: 24
         }
-      }).id(`allthemods:processing/${material}/shard/from_raw_block`)
-      allthemods.custom({
+      }).id(`kubejs:processing/${material}/shard/from_raw_block`)
+      event.custom({
         type: 'mekanism:purifying',
         itemInput: {
           ingredient: {
@@ -69,9 +67,9 @@ ServerEvents.recipes(allthemods => {
           item: `kubejs:clump_${material}`,
           count: 18
         }
-      }).id(`allthemods:processing/${material}/clump/from_raw_block`)
+      }).id(`kubejs:processing/${material}/clump/from_raw_block`)
       if (hasDust) {
-        allthemods.custom({
+        event.custom({
           type: 'mekanism:enriching',
           input: {
             ingredient: {
@@ -82,12 +80,12 @@ ServerEvents.recipes(allthemods => {
             item: dust.id,
             count: 12
           }
-        }).id(`allthemods:processing/${material}/dust/from_raw_block`)
+        }).id(`kubejs:processing/${material}/dust/from_raw_block`)
       }
     }
 
     if (!Ingredient.of(`#forge:ores/${material}`).isEmpty()) {
-      allthemods.custom({
+      event.custom({
         type: 'mekanism:dissolution',
         itemInput: {
           ingredient: {
@@ -103,8 +101,8 @@ ServerEvents.recipes(allthemods => {
           amount: 1,
           gas: 'mekanism:sulfuric_acid'
         }
-      }).id(`allthemods:processing/${material}/slurry/dirty/from_ore`)
-      allthemods.custom({
+      }).id(`kubejs:processing/${material}/slurry/dirty/from_ore`)
+      event.custom({
         type: 'mekanism:injecting',
         itemInput: {
           ingredient: {
@@ -119,8 +117,8 @@ ServerEvents.recipes(allthemods => {
           item: `kubejs:shard_${material}`,
           count: 4
         }
-      }).id(`allthemods:processing/${material}/shard/from_ore`)
-      allthemods.custom({
+      }).id(`kubejs:processing/${material}/shard/from_ore`)
+      event.custom({
         type: 'mekanism:purifying',
         itemInput: {
           ingredient: {
@@ -135,9 +133,9 @@ ServerEvents.recipes(allthemods => {
           item: `kubejs:clump_${material}`,
           count: 3
         }
-      }).id(`allthemods:processing/${material}/clump/from_ore`)
+      }).id(`kubejs:processing/${material}/clump/from_ore`)
       if (hasDust) {
-        allthemods.custom({
+        event.custom({
           type: 'mekanism:enriching',
           input: {
             ingredient: {
@@ -148,12 +146,12 @@ ServerEvents.recipes(allthemods => {
             item: dust.id,
             count: 2
           }
-        }).id(`allthemods:processing/${material}/dust/from_ore`)
+        }).id(`kubejs:processing/${material}/dust/from_ore`)
       }
     }
 
     if (!Ingredient.of(`#forge:raw_materials/${material}`).isEmpty()) {
-      allthemods.custom({
+      event.custom({
         type: 'mekanism:dissolution',
         itemInput: {
           amount: 3,
@@ -170,8 +168,8 @@ ServerEvents.recipes(allthemods => {
           amount: 1,
           gas: 'mekanism:sulfuric_acid'
         }
-      }).id(`allthemods:processing/${material}/slurry/dirty/from_raw_ore`)
-      allthemods.custom({
+      }).id(`kubejs:processing/${material}/slurry/dirty/from_raw_ore`)
+      event.custom({
         type: 'mekanism:injecting',
         itemInput: {
           amount: 3,
@@ -187,8 +185,8 @@ ServerEvents.recipes(allthemods => {
           item: `kubejs:shard_${material}`,
           count: 8
         }
-      }).id(`allthemods:processing/${material}/shard/from_raw_ore`)
-      allthemods.custom({
+      }).id(`kubejs:processing/${material}/shard/from_raw_ore`)
+      event.custom({
         type: 'mekanism:purifying',
         itemInput: {
           ingredient: {
@@ -203,9 +201,9 @@ ServerEvents.recipes(allthemods => {
           item: `kubejs:clump_${material}`,
           count: 2
         }
-      }).id(`allthemods:processing/${material}/clump/from_raw_ore`)
+      }).id(`kubejs:processing/${material}/clump/from_raw_ore`)
       if (hasDust) {
-        allthemods.custom({
+        event.custom({
           type: 'mekanism:enriching',
           input: {
             amount: 3,
@@ -217,11 +215,11 @@ ServerEvents.recipes(allthemods => {
             item: dust.id,
             count: 4
           }
-        }).id(`allthemods:processing/${material}/dust/from_raw_ore`)
+        }).id(`kubejs:processing/${material}/dust/from_raw_ore`)
       }
     }
 
-    allthemods.custom({
+    event.custom({
       type: 'mekanism:washing',
       fluidInput: {
         amount: 5,
@@ -235,8 +233,8 @@ ServerEvents.recipes(allthemods => {
         slurry: `kubejs:clean_${material}`,
         amount: 1
       }
-    }).id(`allthemods:processing/${material}/slurry/clean`)
-    allthemods.custom({
+    }).id(`kubejs:processing/${material}/slurry/clean`)
+    event.custom({
       type: 'mekanism:crystallizing',
       chemicalType: 'slurry',
       input: {
@@ -246,8 +244,8 @@ ServerEvents.recipes(allthemods => {
       output: {
         item: `kubejs:crystal_${material}`
       }
-    }).id(`allthemods:processing/${material}/crystal/from_slurry`)
-    allthemods.custom({
+    }).id(`kubejs:processing/${material}/crystal/from_slurry`)
+    event.custom({
       type: 'mekanism:injecting',
       itemInput: {
         ingredient: {
@@ -261,8 +259,8 @@ ServerEvents.recipes(allthemods => {
       output: {
         item: `kubejs:shard_${material}`
       }
-    }).id(`allthemods:processing/${material}/shard/from_crystal`)
-    allthemods.custom({
+    }).id(`kubejs:processing/${material}/shard/from_crystal`)
+    event.custom({
       type: 'mekanism:purifying',
       itemInput: {
         ingredient: {
@@ -276,8 +274,8 @@ ServerEvents.recipes(allthemods => {
       output: {
         item: `kubejs:clump_${material}`
       }
-    }).id(`allthemods:processing/${material}/clump/from_shard`)
-    allthemods.custom({
+    }).id(`kubejs:processing/${material}/clump/from_shard`)
+    event.custom({
       type: 'mekanism:crushing',
       input: {
         ingredient: {
@@ -287,9 +285,9 @@ ServerEvents.recipes(allthemods => {
       output: {
         item: `kubejs:dirty_dust_${material}`
       }
-    }).id(`allthemods:processing/${material}/dirty_dust/from_clump`)
+    }).id(`kubejs:processing/${material}/dirty_dust/from_clump`)
     if (hasDust) {
-      allthemods.custom({
+      event.custom({
         type: 'mekanism:enriching',
         input: {
           ingredient: {
@@ -299,7 +297,7 @@ ServerEvents.recipes(allthemods => {
         output: {
           item: dust.id
         }
-      }).id(`allthemods:processing/${material}/dust/from_dirty_dust`)
+      }).id(`kubejs:processing/${material}/dust/from_dirty_dust`)
     }
   })
 })

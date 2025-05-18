@@ -1,16 +1,13 @@
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
-
-ServerEvents.recipes(allthemods => {
-    allthemods.custom({
+ServerEvents.recipes(e=> {
+    e.custom({
         type: 'mekanism:crushing',
         input: {
             ingredient: Ingredient.of('evilcraft:dark_gem').toJson()
             },
         output: Ingredient.of('evilcraft:dark_gem_crushed').toJson()
-    }).id('allthemods:mekanism/evilcraft_dark_gem_crushed')
+    }).id('kubejs:mekanism/evilcraft_dark_gem_crushed')
 
-    allthemods.custom({
+    e.custom({
         "type": "immersiveengineering:crusher",
         "secondaries": [],
         "result": {
@@ -21,9 +18,9 @@ ServerEvents.recipes(allthemods => {
           "item": "evilcraft:dark_gem"
         },
         "energy": 3200
-      }).id('allthemods:immersiveengineering/evilcraft_dark_gem_crushed')
+      }).id('kubejs:immersiveengineering/evilcraft_dark_gem_crushed')
 
-    allthemods.custom({
+    e.custom({
         "type": "create:crushing",
         "ingredients": [
           {
@@ -37,10 +34,9 @@ ServerEvents.recipes(allthemods => {
           }
         ],
         "processingTime": 100
-      }).id('allthemods:create/evilcraft_dark_gem_crushed')
-  /*
-  //FTBic
-    allthemods.custom({
+      }).id('kubejs:create/evilcraft_dark_gem_crushed')
+  
+    e.custom({
         "type": "ftbic:macerating",
         "inputItems": [
           {
@@ -56,37 +52,35 @@ ServerEvents.recipes(allthemods => {
             "count": 1
           }
         ]
-      }).id('allthemods:ftbic/evilcraft_dark_gem_crushed')
-*/ 
+      }).id('kubejs:ftbic/evilcraft_dark_gem_crushed')
+
     //Thermal
-    allthemods.custom({
-      "type": "thermal:pulverizer",
-      "ingredient": {
-        "value": [
-        {
-          "item": "evilcraft:dark_gem"
-        }
-      ],
-          "count": 1
-      },
-      "result": [
-        {
-          "item": "evilcraft:dark_gem_crushed",
-          "count": 1
-        }
-      ],
-      "experience": 0.1
-    }).id('allthemods:thermal/evilcraft_dark_gem_crushed')
-   
-    allthemods.custom({  //crushing spirit
+    e.custom({
+        "type": "thermal:pulverizer",
+        "ingredient": {
+          "value": [
+          {
+            "item": "evilcraft:dark_gem"
+          }
+        ],
+            "count": 1
+        },
+        "result": [
+          {
+            "item": "evilcraft:dark_gem_crushed",
+            "count": 1
+          }
+        ],
+    "experience": 0.1
+}).id('kubejs:thermal/evilcraft_dark_gem_crushed')
+    
+  
+    e.custom({  //crushing spirit
         "type": "occultism:crushing",
         "ingredient": Ingredient.of('evilcraft:dark_gem').toJson(),
         "result": Item.of('evilcraft:dark_gem_crushed', 1).toJson(),
         "crushing_time": 100,
         "ignore_crushing_multiplier": true
-      }).id(`allthemods:occultcrushing/dark_gem_crushed`)
+      }).id(`kubejs:occultcrushing/dark_gem_crushed`)
 
 })
-
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.

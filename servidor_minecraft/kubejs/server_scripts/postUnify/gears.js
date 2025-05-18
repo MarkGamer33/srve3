@@ -1,8 +1,6 @@
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
 //priority:400
 // Written by EnigmaQuip as a post almost unified recipe generation script for missing recipes
-ServerEvents.recipes(allthemods => {
+ServerEvents.recipes(event => {
   if (global.devLogging) {
     console.log('Finishing Unifying on Gears')
   }
@@ -27,7 +25,7 @@ ServerEvents.recipes(allthemods => {
 
       if (global.loaded.IE_Loaded) {
         // Check if ie metal press recipe exists and add it if not
-        let count = allthemods.recipeStream({ type: 'immersiveengineering:metal_press' }).mapToInt(recipe => {
+        let count = event.recipeStream({ type: 'immersiveengineering:metal_press' }).mapToInt(recipe => {
           let result = recipe.json.get('result')
           if (result.has('base_ingredient')) {
             if (gear.equalsIgnoringCount(Item.of(result.get('base_ingredient')))) { return 1 }
@@ -36,7 +34,7 @@ ServerEvents.recipes(allthemods => {
         }).sum()
 
         if (count == 0) {
-          allthemods.custom({
+          event.custom({
             type: 'immersiveengineering:metal_press',
             mold: 'immersiveengineering:mold_gear',
             input: {
@@ -45,14 +43,14 @@ ServerEvents.recipes(allthemods => {
             },
             result: gear.toJson(),
             energy: 2400
-          }).id(`allthemods:immersiveengineering/metalpress/gear_${material}`)
+          }).id(`kubejs:immersiveengineering/metalpress/gear_${material}`)
           gearCount.ie++
         }
       }
 
       if (global.loaded.Thermal_Loaded) {
         // Check if thermal multiservo press recipe exists and add it if not
-        let count = allthemods.recipeStream({ type: 'thermal:press' }).mapToInt(recipe => {
+        let count = event.recipeStream({ type: 'thermal:press' }).mapToInt(recipe => {
           let hasMatch = false
           recipe.json.get('result').forEach(item => {
             if (gear.specialEquals(Item.of(item), true)) {
@@ -64,14 +62,14 @@ ServerEvents.recipes(allthemods => {
         }).sum()
 
         if (count == 0) {
-          allthemods.custom({
+          event.custom({
             type: 'thermal:press',
-            ingredient: [
-              Item.of(ingotTag.getFirst()).withCount(4),
-              Item.of('thermal:press_gear_die')
-              ],
+            ingredients: [
+              ingotTag.withCount(4).toJson(),
+              Ingredient.of('thermal:press_gear_die').toJson(),
+            ],
             result: [gear.toJson()],
-          }).id(`allthemods:thermal/machines/press/press_${material}_ingot_to_gear`)
+          }).id(`kubejs:thermal/machines/press/press_${material}_ingot_to_gear`)
           gearCount.thermal++
         }
       }
@@ -82,7 +80,7 @@ ServerEvents.recipes(allthemods => {
 
       if (global.loaded.FTBIC_Loaded) {
         // Check if ftbic extruding recipe exists and add it if not
-        let count = allthemods.recipeStream({ type: 'ftbic:extruding' }).mapToInt(recipe => {
+        let count = event.recipeStream({ type: 'ftbic:extruding' }).mapToInt(recipe => {
           let hasMatch = false
           recipe.json.get('outputItems').forEach(item => {
             if (gear.specialEquals(Item.of(item), true)) {
@@ -94,11 +92,11 @@ ServerEvents.recipes(allthemods => {
         }).sum()
 
         if (count == 0) {
-          allthemods.custom({
+          event.custom({
             type: 'ftbic:extruding',
             inputItems: [{ "count": 4, "ingredient": plateTag.toJson() }],
             outputItems: [gear.withCount(1).toJson()]
-          }).id(`allthemods:ftbic/extruding/ingots/${material}_to_${material}_gear`)
+          }).id(`kubejs:ftbic/extruding/ingots/${material}_to_${material}_gear`)
           gearCount.ftbic++
         }
       }
@@ -111,6 +109,3 @@ ServerEvents.recipes(allthemods => {
     // Added Gear Recipes - FTBIC: 22, IE: 17, Thermal: 15
   }
 })
-
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.

@@ -1,20 +1,30 @@
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
-
-ServerEvents.recipes(allthemods => {
+ServerEvents.recipes(e => {
   let shard = ('allthetweaks:atm_star_shard')
 
 //#SilentGear
-  allthemods.shapeless('32x allthetweaks:allthecatalystium', shard)
+  e.shapeless('32x allthetweaks:allthecatalystium', shard)
 //#Pipez
-//  allthemods.shaped('16x pipez:infinity_upgrade', ['ABA', 'BCB', 'ADA'], {
-//   A: 'allthemodium:unobtainium_ingot',
-//    B: 'minecraft:redstone_block',
-//    C: 'pipez:ultimate_upgrade',
-//    D: shard
-//  })
+  e.shaped('16x pipez:infinity_upgrade', ['ABA', 'BCB', 'ADA'], {
+    A: 'allthemodium:unobtainium_ingot',
+    B: 'minecraft:redstone_block',
+    C: 'pipez:ultimate_upgrade',
+    D: shard
+  })
+//#Thermal
+  e.shaped('thermal:machine_efficiency_creative_augment', ['ABA', 'CDC', 'AEA'], {
+    A: 'thermal:upgrade_augment_3',
+    B: 'powah:charged_snowball',
+    C: 'thermal:energy_cell',
+    D: shard,
+    E: 'thermal:lightning_charge'
+  })
 
+/*
+//#waterstrainer
+  e.shaped('waterstrainer:super_worm', ['DSD', 'DWD', 'DDD'], {
+    D: '#forge:dirt',
+    S: shard,
+    W: 'waterstrainer:worm'
+  }).id('kubejs:waterstrainer/super_worm')
+*/
 })
-
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.

@@ -1,9 +1,6 @@
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.
-
 const $TileEntityMultiblock = Java.loadClass('mekanism.common.tile.prefab.TileEntityMultiblock')
 const $TileEntityMekanism = Java.loadClass('mekanism.common.tile.base.TileEntityMekanism')
-//const $CompoundTag = Java.loadClass('net.minecraft.nbt.CompoundTag')
+const $CompoundTag = Java.loadClass('net.minecraft.nbt.CompoundTag')
 
 const mapMekanismMultiblockToTaskID = {
     "dynamicTank":"",
@@ -25,9 +22,9 @@ const mapMekanismGasToTaskID = {
 	
 }
 
-ClientEvents.tick(allthemods => {
+ClientEvents.tick(event => {
     if (Client.hitResult != null && Client.hitResult.getType() == 'BLOCK') {
-        let block = allthemods.level.getBlock(Client.hitResult.getBlockPos())
+        let block = event.level.getBlock(Client.hitResult.getBlockPos())
         if (block.id.contains('mekanism')) {
             let blockEntity = block.entity
             // Multiblock handler
@@ -42,7 +39,7 @@ ClientEvents.tick(allthemods => {
                             if (taskString) {
                             let tag = new $CompoundTag
                             tag.putString('task', taskString)
-                            allthemods.player.sendData('customTask', tag)
+                            event.player.sendData('customTask', tag)
                             }
                         }
                     }
@@ -59,7 +56,7 @@ ClientEvents.tick(allthemods => {
                         if (taskString) {
                             let tag = new $CompoundTag
                             tag.putString('task', taskString)
-                            allthemods.player.sendData('customTask', tag)
+                            event.player.sendData('customTask', tag)
                         }
                     })
                 }
@@ -68,15 +65,12 @@ ClientEvents.tick(allthemods => {
     }
 })
 
-NetworkEvents.dataReceived('customTask', allthemods => {
-    //const {entity, data, level} = event
-    //let taskString = data.task
-    //let task = FTBQuests.getObject(level, taskString)
-    //let playerQuestData = FTBQuests.getData(entity)
-    //if (task && playerQuestData && !playerQuestData.isCompleted(task) && playerQuestData.canStartTasks(task.quest)) {
-    //    playerQuestData.addProgress(task, 1)
-    //}
+NetworkEvents.fromClient('customTask', event => {
+    const {entity, data, level} = event
+    let taskString = data.task
+    let task = FTBQuests.getObject(level, taskString)
+    let playerQuestData = FTBQuests.getData(entity)
+    if (task && playerQuestData && !playerQuestData.isCompleted(task) && playerQuestData.canStartTasks(task.quest)) {
+        playerQuestData.addProgress(task, 1)
+    }
 })
-
-// This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 9.
-// As all AllTheMods packs are licensed under All Rights Reserved, this file is not allowed to be used in any public packs not released by the AllTheMods Team, without explicit permission.

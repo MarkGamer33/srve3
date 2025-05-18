@@ -2,7 +2,7 @@
 #General settings
 [general]
 	#Dimensions where hostile mobs will not spawn. Ex: ["minecraft:overworld", "undergarden:undergarden"]. . Run /forge dimensions for a list.
-	dimensionBlacklist = ["twilightforest:twilight_forest", "ae2:spatial_storage", "mythicbotany:alfheim", "bloodmagic:dungeon"]
+	dimensionBlacklist = ["twilightforest:twilight_forest", "ae2:spatial_storage", "compactmachines:compact_world"]
 	#Spawn a book in the players inventory on login
 	spawnBook = false
 	#How much mana whirlisprigs consume per generation
@@ -12,16 +12,16 @@
 	#Range: 0 ~ 10000
 	whirlisprigProgress = 250
 	#Should the Wilden Hunter attack animals?
-	hunterHuntsAnimals = false
+	hunterHuntsAnimals = true
 	#Should the Wilden Stalker attack animals?
 	stalkerHuntsAnimals = false
 	#Should the Wilden Defender attack animals?
 	defenderHuntsAnimals = false
-	#Should the Wilden Chimera dive bomb destroy blocks?
-	destructiveDiveBomb = true
 	#Archwood forest spawn weight
 	#Range: > 0
 	archwoodForest = 2
+	#Should the Wilden Chimera dive bomb destroy blocks?
+	destructiveDiveBomb = true
 	#How many inventories can lectern support per bookwyrm
 	#Range: > 1
 	bookwyrmLimit = 8
@@ -51,6 +51,12 @@
 	#Range: 0 ~ 10000
 	jumpRingCost = 30
 
+#Debug
+[debug]
+	#Max number of log events to keep on entities. Lowering this number may make it difficult to debug why your entities are stuck.
+	#Range: > 0
+	maxLogEvents = 100
+
 #Blocks
 [block]
 	#How much potion a melder takes from each input jar. 100 = 1 potion
@@ -62,13 +68,4 @@
 	#How much source a melder takes per cycle
 	#Range: > 0
 	melderSourceCost = 300
-	#The max potion level the enchanted flask can grant. This isnt needed unless you have an infinite potion leveling exploit.
-	#Range: > 2
-	enchantedFlaskCap = 255
-
-#Debug
-[debug]
-	#Max number of log events to keep on entities. Lowering this number may make it difficult to debug why your entities are stuck.
-	#Range: > 0
-	maxLogEvents = 100
 

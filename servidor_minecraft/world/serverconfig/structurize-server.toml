@@ -8,9 +8,9 @@
 	#Max world operations per tick (max blocks to place, remove, or replace). [Default: 1000, min: 0, max: 100000]
 	#Range: 0 ~ 100000
 	maxOperationsPerTick = 1000
-	#Max amount of undos saved. A higher number requires more memory. [Default: 50, min: 0, max: 250]
-	#Range: 0 ~ 250
-	maxCachedChanges = 50
+	#Max amount of undos saved. A higher number requires more memory. [Default: 10, min: 0, max: 100]
+	#Range: 0 ~ 100
+	maxCachedChanges = 10
 	#Max amount of schematics to be cached on the server. [Default: 100, min: 0, max: 100000]
 	#Range: 0 ~ 100000
 	maxCachedSchematics = 100
@@ -38,6 +38,9 @@
 
 #structurize.config.update.comment
 [update]
+	#structurize.config.mode.comment [Default: DISABLED, values: DISABLED, DOMUM_ORNAMENTUM]
+	#Allowed Values: DISABLED, DOMUM_ORNAMENTUM
+	mode = "DISABLED"
 	start = [-10, -10]
 	end = [10, 10]
 

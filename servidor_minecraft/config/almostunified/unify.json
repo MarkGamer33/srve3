@@ -4,7 +4,6 @@
     "alltheores",
     "allthemodium",
     "kubejs",
-    "gtceu",
     "thermal",
     "mekanism",
     "create",
@@ -19,11 +18,11 @@
     "blue_skies",
     "botania",
     "ad_astra",
+    "hexcasting",
     "thermal_extra",
     "undergarden",
-    "industrialforegoing",
-    "pneumaticcraft",
-    "eidolon"
+    "productivebees",
+    "immersivepetroleum"
   ],
   "stoneStrata": [
     "stone",
@@ -48,7 +47,8 @@
     "forge:storage_blocks/raw_{material}",
     "forge:silicon",
     "forge:rubber",
-    "forge:plastic"
+    "forge:bitumen",
+    "forge:wax"
   ],
   "materials": [
     "aeternium",
@@ -123,35 +123,7 @@
   ],
   "priorityOverrides": {},
   "customTags": {},
-  "tagOwnerships": {
-    "forge:rods/aluminum": [
-      "forge:rods/aluminium"
-    ],
-    "forge:storage_blocks/aluminum": [
-      "forge:storage_blocks/aluminium"
-    ],
-    "forge:raw_materials/aluminum": [
-      "forge:raw_materials/aluminium"
-    ],
-    "forge:ingots/aluminum": [
-      "forge:ingots/aluminium"
-    ],
-    "forge:gears/aluminum": [
-      "forge:gears/aluminium"
-    ],
-    "forge:dusts/aluminum": [
-      "forge:dusts/aluminium"
-    ],
-    "forge:storage_blocks/raw_aluminum": [
-      "forge:storage_blocks/raw_aluminium"
-    ],
-    "forge:plates/aluminum": [
-      "forge:plates/aluminium"
-    ],
-    "forge:plastic": [
-      "pneumaticcraft:plastic_sheets"
-    ]
-  },
+  "tagOwnerships": {},
   "itemTagInheritanceMode": "ALLOW",
   "itemTagInheritance": {},
   "blockTagInheritanceMode": "ALLOW",

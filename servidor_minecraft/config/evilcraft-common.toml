@@ -1,4 +1,12 @@
 
+[core]
+
+	[core.general]
+		#If an anonymous mod startup analytics request may be sent to our analytics service.
+		analytics = false
+		#If the version checker should be enabled.
+		versionChecker = false
+
 [general]
 
 	[general.general]
@@ -29,13 +37,9 @@
 		#Spawn extra silverfish blocks in all biomes.
 		extraSilverfish = false
 
-[core]
-
-	[core.general]
-		#If an anonymous mod startup analytics request may be sent to our analytics service.
-		analytics = false
-		#If the version checker should be enabled.
-		versionChecker = false
+	[worldgeneration.dark_temple]
+		#If dark temple should be added to all dimensions (except for the end and nether).
+		enabled = true
 
 [block]
 
@@ -83,7 +87,7 @@
 
 	[machine.purifier]
 		#The duration limit in ticks for which potion effect can be collected. Set to a negative value to allow any duration.
-		maxPotionEffectDuration = 1
+		maxPotionEffectDuration = 6000
 		#Item that can not be disenchanted. Regular expressions are allowed.
 		disenchantBlacklist = ["tetra:.*"]
 
@@ -182,6 +186,8 @@
 		guiOverlayPosition = 1
 		#The blood usage in mB per tick.
 		bloodUsage = 1
+		#If the broom should spawn in loot chests.
+		lootChests = true
 		#Show broom part tooltips on source items.
 		broomPartTooltips = true
 		#The X offset for the broom gui overlay.
@@ -261,6 +267,18 @@
 		#The capacity of the pendant.
 		capacity = 5000
 
+	[item.ender_tear]
+		#If this item should be injected in loot tables..
+		injectLootTables = true
+
+	[item.origins_of_darkness]
+		#If this item should be injected in loot tables.
+		injectLootTables = true
+
+	[item.condensed_blood]
+		#If this item should be injected in loot tables..
+		injectLootTables = true
+
 	[item.flesh_rejuvenated]
 		#The amount of blood (mB) this container can hold.
 		containerSize = 10000
@@ -282,6 +300,10 @@
 		craftingBlacklist = []
 		#If creative versions for all variants should be added to the creative tab.
 		creativeTabVariants = true
+
+	[item.box_of_eternal_closure]
+		#If this item should be injected in loot tables..
+		injectLootTables = true
 
 	[item.vengeance]
 		#The area of effect in blocks in which this tool could enable vengeance spirits.
@@ -311,17 +333,13 @@
 		#The 1/X chance that an actual spirit will spawn when doing actions like mining with the Vengeance Pickaxe.
 		nonDegradedSpawnChance = 5
 		#The area in which the spawn limit will be checked on each spawn attempt.
-		spawnLimitArea = 64
+		spawnLimitArea = 32
 		#The blacklisted entity spirits, by entity name. Regular expressions are allowed.
 		entityBlacklist = ["evilcraft:vengeance_spirit", "evilcraft:controlled_zombie", "evilcraft:werewolf", "minecraft:ender_dragon", "farmingforblockheads:merchant"]
 		#Whether vengeance spirits should always be visible in creative mode.
 		alwaysVisibleInCreative = false
 		#The maximum amount of vengeance spirits naturally spawnable in the spawnLimitArea.
-		spawnLimit = 2
-
-	[mob.werewolf]
-		#If villagers struck by lightning should have a 50% chance of becoming a werewolf villager
-		convertOnLightning = true
+		spawnLimit = 5
 
 [entity]
 

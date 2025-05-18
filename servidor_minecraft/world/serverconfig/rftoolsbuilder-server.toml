@@ -30,8 +30,6 @@
 	tileEntityMode = "MOVE_BLACKLIST"
 	#This is a list of blocks that are either blacklisted or whitelisted from the Builder when it tries to move tile entities (format <id>=<cost>)
 	blackWhiteListedBlocks = []
-	#Whitelist or blacklist block NBT data from being transferred over, set `true` to whitelist block, set `false` to blacklist block, every block not included in the list is blacklisted by default (format <id>=<boolean>)
-	blackWhiteListedNBTBlocks = ["minecraft:chest=false"]
 	#Maximum dimension for the space chamber
 	#Range: 0 ~ 100000
 	maxSpaceChamberDimension = 128

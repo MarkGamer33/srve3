@@ -1,186 +1,65 @@
 
-[boundary]
-
-	[boundary.alarm]
-		#This is the mana cost per cycle
-		#Range: 0 ~ 100000000
-		ALARM_BARRIER_MANA_COST = 1
-		#This is how often the boundary drains mana
-		#Range: 0 ~ 100000000
-		ALARM_BARRIER_MANA_CYCLE = 10
-		#This is the range of the boundary
-		#Range: 0 ~ 100000000
-		ALARM_BARRIER_RADIUS = 10
-		#This is how often the boundary does it's thing
-		#Range: 0 ~ 100000000
-		ALARM_BARRIER_CYCLE = 20
-		#Messages are sent to Action Bar as opposed to the Chat window
-		ALARM_ACTION_BAR_MESSAGES = false
-
-	[boundary.displacement]
-		#This is the mana cost per cycle
-		#Range: 0 ~ 100000000
-		DISPLACEMENT_BARRIER_MANA_COST = 1
-		#This is how often the boundary drains mana
-		#Range: 0 ~ 100000000
-		DISPLACEMENT_BARRIER_MANA_CYCLE = 5
-		#This is the range of the boundary
-		#Range: 0 ~ 100000000
-		DISPLACEMENT_BARRIER_RADIUS = 11
-		#This is how often the boundary does it's thing
-		#Range: 0 ~ 100000000
-		DISPLACEMENT_BARRIER_CYCLE = 4
-
-	[boundary."drain life"]
-		#This is the mana cost per cycle
-		#Range: 0 ~ 100000000
-		DRAIN_LIFE_BARRIER_MANA_COST = 5
-		#This is how often the boundary drains mana
-		#Range: 0 ~ 100000000
-		DRAIN_LIFE_BARRIER_MANA_CYCLE = 1
-		#This is the range of the boundary
-		#Range: 0 ~ 100000000
-		DRAIN_LIFE_BARRIER_RADIUS = 10
-		#This is how often the boundary does it's thing
-		#Range: 0 ~ 100000000
-		DRAIN_LIFE_BARRIER_CYCLE = 20
-		#This is whether the boundary ignores hunger when refilling
-		DRAIN_LIFE_IGNORE_HUNGER = false
-		#This is how much mana the boundary restores
-		#Range: 0 ~ 10000000
-		DRAIN_LIFE_MANA_REGEN = 1
-		#This is how much the boundary heals
-		#Range: -1.0E7 ~ 1.0E7
-		DRAIN_LIFE_HEAL_FACTOR = 0.5
-		#This is how much damage the boundary does
-		#Range: 0.0 ~ 1.0E7
-		DRAIN_LIFE_DAMAGE = 2.0
-		#The boundary does this much times its normal damage if the target has magic resistance
-		#Range: 0.0 ~ 1.0E7
-		DRAIN_LIFE_PUNISH_RESIST = 1.8
-		#Entities that won't be considered for the boundary
-		DRAIN_LIFE_ENTITY_BLACKLIST = []
-		#This is how many entities the circle can affect each tick
-		#Range: 0 ~ 100000000
-		DRAIN_LIFE_AFFECTED_LIMIT = 100000
-
-	[boundary.gravity]
-		#This is the mana cost per cycle
-		#Range: 0 ~ 100000000
-		GRAVITY_BARRIER_MANA_COST = 1
-		#This is how often the boundary drains mana
-		#Range: 0 ~ 100000000
-		GRAVITY_BARRIER_MANA_CYCLE = 2
-		#This is the range of the boundary
-		#Range: 0 ~ 100000000
-		GRAVITY_BARRIER_RADIUS = 10
-		#This is how often the boundary does it's thing
-		#Range: 0 ~ 100000000
-		GRAVITY_BARRIER_CYCLE = 1
-		#This is a multiplicative inrease in downward velocity
-		#Range: 0.0 ~ 1.0E8
-		GRAVITY_BARRIER_FACTOR = 1.4
-		#This is how often the boundary does it's thing
-		#Range: 0.0 ~ 1.0E8
-		GRAVITY_BARRIER_MAX = 5.0E7
-
-	[boundary.enclosure]
-		#This is the mana cost per cycle
-		#Range: 0 ~ 100000000
-		ENCLOSURE_BARRIER_MANA_COST = 20
-		#This is how often the boundary does it's thing
-		#Range: 0 ~ 100000000
-		ENCLOSURE_BARRIER_CYCLE = 20
-		#This is the range of the boundary
-		#Range: 0 ~ 100000000
-		ENCLOSURE_BARRIER_RADIUS = 5
-
-	[boundary.tangible]
-		#This is the mana cost per cycle
-		#Range: 0 ~ 100000000
-		TANGIBLE_BARRIER_MANA_COST = 1
-		#This is how often the boundary drains mana
-		#Range: 0 ~ 100000000
-		TANGIBLE_BARRIER_MANA_CYCLE = 3
-		#This is the range of the boundary
-		#Range: 0 ~ 100000000
-		TANGIBLE_BARRIER_RADIUS = 10
-		#This is how often the boundary does it's thing
-		#Range: 0 ~ 100000000
-		TANGIBLE_BARRIER_CYCLE = 20
-
-[displacement]
-
-	[displacement.ascension]
-		#This is how often the circle checks for things to teleport
-		#Range: 0 ~ 100000000
-		ASCENSION_BLOCK_CYCLE = 4
-		#This is the cost of using the scroll (also the cost per teleport if not a scroll)
-		#Range: 0 ~ 100000000
-		ASCENSION_SCROLL_MANA_COST = 30
-
-	[displacement.equivalent]
-		#This is how often the circle checks for things to teleport
-		#Range: 0 ~ 100000000
-		EQUIVALENT_DISPLACEMENT_BLOCK_CYCLE = 4
-		#This is the cooldown between teleports (so you don't get shot back and forth rapidly)
-		#Range: 0 ~ 100000000
-		EQUIVALENT_DISPLACEMENT_RECEIVE_COOLDOWN = 15
-		#This is the cost per teleport
-		#Range: 0 ~ 100000000
-		EQUIVALENT_DISPLACEMENT_MANA_COST = 60
-		#Max Distance for Equivalent Displacement
-		#Range: -1.0E7 ~ 1.0E7
-		EQUIVALENT_DISPLACEMENT_MAX_DISTANCE = -1.0
-		#Whether Equivalent Displacement can traverse dimensions
-		EQUIVALENT_DISPLACEMENT_DIMENSIONAL_TRAVEL = true
-
-	[displacement.mental]
-		#This is the cost of using the scroll
-		#Range: 0 ~ 100000000
-		MENTAL_DISPLACEMENT_MANA_COST = 300
-		#This is how far you can go before being sent back to your body
-		#Range: 0 ~ 100000000
-		MENTAL_DISPLACEMENT_RANGE = 20
-
-	[displacement.projectile]
-		#This is the cost of using the scroll
-		#Range: 0 ~ 100000000
-		PROJECTILE_DISPLACEMENT_MANA_COST = 50
-
-	[displacement.ordered]
-		#This is how often the circle checks for things to teleport
-		#Range: 0 ~ 100000000
-		ORDERED_DISPLACEMENT_BLOCK_CYCLE = 4
-		#This is the cooldown between teleports (so you don't get shot back and forth rapidly)
-		#Range: 0 ~ 100000000
-		ORDERED_DISPLACEMENT_RECEIVE_COOLDOWN = 15
-		#This is the cost per teleport
-		#Range: 0 ~ 100000000
-		ORDERED_DISPLACEMENT_MANA_COST = 40
-		#This is the max distance between ordered displacement circles.
-		#Range: 0 ~ 100000000
-		ORDERED_DISPLACEMENT_RADIUS = 20
-
-	[displacement.protective]
-		#This is the cost of using the scroll
-		#Range: 0 ~ 100000000
-		PROTECTIVE_DISPLACEMENT_MANA_COST = 50
-
-	[displacement.scrying]
-		#This is the cost per name tag
-		#Range: 0 ~ 100000000
-		SCRYING_MANA_COST = 50
-		#This is how long (in ticks) before a single name tag use runs out
-		#Range: 0 ~ 100000000
-		SCRYING_DURATION = 1200
-		#This is how often a Scrying tile entity will send updates
-		#Range: 0 ~ 100000000
-		SCRYING_BLOCK_CYCLE = 4
-		#This is whether the scrying circle can scry non players
-		SCRY_NON_PLAYERS = true
-
 [projection]
+
+	[projection."power consolidation"]
+		#The highest attack Caliburn can go to
+		#Range: 0 ~ 100000000
+		POWER_CONSOLIDATION_ATTACK_CAP = 200
+		#Power Consolidation Damage Cap Tiers
+		POWER_CONSOLIDATION_TIERS = [100.0, 150.0, 200.0]
+		#This is the cost per sword transformation.
+		#Range: 0 ~ 100000000
+		POWER_CONSOLIDATION_SWORD_MANA_COST = 5000
+		#This is the cost per cycle for creating the lake.
+		#Range: 0 ~ 100000000
+		POWER_CONSOLIDATION_LAKE_MANA_COST = 30
+		#This is how often the lake does it's thing to make a lake
+		#Range: 0 ~ 100000000
+		POWER_CONSOLIDATION_LAKE_CYCLE = 20
+		#This is the max radius of the lake
+		#Range: 0 ~ 100000000
+		POWER_CONSOLIDATION_LAKE_RADIUS = 12
+		#This is the minimum threshhold a lake needs to be to be able to transform a sword into Caliburn.
+		#Range: 0 ~ 100000000
+		POWER_CONSOLIDATION_LAKE_THRESHHOLD = 150
+		#This is a nerf factor applied to enchantments to reduce the amount of power that can be consolidated. Lower is less nerf.
+		#Range: 0.0 ~ 1.0E8
+		POWER_CONSOLIDATION_NERF_FACTOR = 0.6
+		#This is the distance before the lake begins to generate fog. (Note: Higher values may decrease FPS)
+		#Range: 0.0 ~ 1.0E8
+		POWER_CONSOLIDATION_FOG_RADIUS = 8.0
+		#This is the range for pulling undead mobs with Caliburn
+		#Range: 0 ~ 100000000
+		POWER_CONSOLIDATION_PULL_RADIUS = 20
+		#This is the range for smiting undead mobs with Caliburn
+		#Range: 0 ~ 100000000
+		POWER_CONSOLIDATION_SMITE_RADIUS = 10
+		#How much durability Caliburn has.
+		#Range: 0 ~ 100000000
+		POWER_CONSOLIDATION_DURABILITY = 1000
+		#This is the range for undead mobs to fear Caliburn
+		#Range: 0 ~ 100000000
+		POWER_CONSOLIDATION_FEAR_RADIUS = 15
+		#Entities must be this close to the wielder of Caliburn to be affected by the sweep.
+		#Range: 0 ~ 100000000
+		POWER_CONSOLIDATION_SWEEP_RADIUS = 6
+		#Entities must be this close to the wielder of Caliburn's look vector to be affected by the sweep.
+		#Range: 0 ~ 100000000
+		POWER_CONSOLIDATION_SWEEP_LOOK_RADIUS = 3
+		#Acts as a blacklist if the toggle is on
+		POWER_CONSOLIDATION_BLACKLIST = ["mahoutsukai:clarent", "mahoutsukai:morgan"]
+		#Toggles the sword blacklist functionality
+		POWER_CONSOLIDATION_CALIBURN_BLACKLIST_TOGGLE = true
+		#Toggles whether it water should attempt to create tile entities. Only needed for old worlds with murky water in them.
+		POWER_CONSOLIDATION_RETRO_FOG_FIX = false
+		#Acts as a blacklist for the Fear Effect & Pull Effect on Caliburn
+		POWER_CONSOLIDATION_FEAR_BLACKLIST = []
+		#Power Consolidation Enchant Blacklist
+		POWER_CONSOLIDATION_ENCHANT_BLACKLIST = ["minecraft:mending"]
+		#Power Consolidation Tier Upgrade Items
+		POWER_CONSOLIDATION_TIER_UPGRADE_ITEM = ["minecraft:nether_star"]
+		#Words which are considered unholy by Caliburn and Rhongomyniad
+		UNHOLY_WORDS = ["zomb", "vampir", "demon", "devil", "skele", "lich", "evil", "curse", "undead", "wither"]
 
 	[projection."weapon projectile"]
 		#This is the cost of using the scroll
@@ -327,72 +206,6 @@
 		#Projection Explicit Whitelist
 		PROJECTION_EXPLICIT_WHITELIST = []
 
-	[projection."power consolidation"]
-		#This is the cost per sword transformation.
-		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_SWORD_MANA_COST = 5000
-		#This is the cost per cycle for creating the lake.
-		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_LAKE_MANA_COST = 30
-		#This is how often the lake does it's thing to make a lake
-		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_LAKE_CYCLE = 20
-		#This is the max radius of the lake
-		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_LAKE_RADIUS = 12
-		#This is the minimum threshhold a lake needs to be to be able to transform a sword into Caliburn.
-		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_LAKE_THRESHHOLD = 150
-		#This is a nerf factor applied to enchantments to reduce the amount of power that can be consolidated. Lower is less nerf.
-		#Range: 0.0 ~ 1.0E8
-		POWER_CONSOLIDATION_NERF_FACTOR = 0.6
-		#This is the distance before the lake begins to generate fog. (Note: Higher values may decrease FPS)
-		#Range: 0.0 ~ 1.0E8
-		POWER_CONSOLIDATION_FOG_RADIUS = 8.0
-		#This is the range for pulling undead mobs with Caliburn
-		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_PULL_RADIUS = 20
-		#This is the range for smiting undead mobs with Caliburn
-		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_SMITE_RADIUS = 10
-		#How much durability Caliburn has.
-		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_DURABILITY = 1000
-		#This is the range for undead mobs to fear Caliburn
-		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_FEAR_RADIUS = 15
-		#Entities must be this close to the wielder of Caliburn to be affected by the sweep.
-		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_SWEEP_RADIUS = 6
-		#The highest attack Caliburn can go to
-		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_ATTACK_CAP = 5000
-		#Entities must be this close to the wielder of Caliburn's look vector to be affected by the sweep.
-		#Range: 0 ~ 100000000
-		POWER_CONSOLIDATION_SWEEP_LOOK_RADIUS = 3
-		#Acts as a blacklist if the toggle is on
-		POWER_CONSOLIDATION_BLACKLIST = ["mahoutsukai:clarent", "mahoutsukai:morgan"]
-		#Toggles the sword blacklist functionality
-		POWER_CONSOLIDATION_CALIBURN_BLACKLIST_TOGGLE = true
-		#Toggles whether it water should attempt to create tile entities. Only needed for old worlds with murky water in them.
-		POWER_CONSOLIDATION_RETRO_FOG_FIX = false
-		#Acts as a blacklist for the Fear Effect & Pull Effect on Caliburn
-		POWER_CONSOLIDATION_FEAR_BLACKLIST = []
-		#Power Consolidation Enchant Blacklist
-		POWER_CONSOLIDATION_ENCHANT_BLACKLIST = ["minecraft:mending"]
-		#Power Consolidation Damage Cap Tiers
-		POWER_CONSOLIDATION_TIERS = [100.0, 150.0, 200.0, 250.0, 300.0, 350.0, 400.0, 450.0, 500.0, 550.0, 600.0, 650.0, 700.0, 750.0, 800.0, 850.0, 900.0, 950.0, 1000.0, 1500.0, 2000.0, 2500.0, 3000.0, 3500.0, 4000.0, 4500.0, 5000.0]
-		#Power Consolidation Tier Upgrade Items
-		POWER_CONSOLIDATION_TIER_UPGRADE_ITEM = ["irons_spellbooks:ender_upgrade_orb"]
-		#Words which are considered unholy by Caliburn and Rhongomyniad
-		UNHOLY_WORDS = ["zomb", "vampir", "demon", "devil", "skele", "lich", "evil", "curse", "undead", "wither"]
-		#Should Caliburn be gated behind fun
-		CALIBURN_FUN_REQUIRED = false
-		#Mandatory fun requirements before you can get caliburn
-		CALIBURN_MANDATORY_FUN_REQUIREMENTS = ["EMRYS_HIT_PHANTOM", "SHOOT_A_SWORD", "SPATIAL_THROW_SOMETHING", "BORROWED_AUTHORITY_PUNCH", "BUTTERFLY_FUTURE_BLOCK_REMOVE", "GEAS_PICKUP_CANCEL", "CREEPER_BINDING_EYES", "CREEPER_POSSESSION", "SWAP_TWO_THINGS"]
-		#Whether projections of Caliburns can be used to make new Caliburn/Morgan
-		POWER_CONSOLIDATION_PROJECTIONS_ALLOWED = false
-
 	[projection.rhongomyniad]
 		#Rhongomyniad Lake Nerf Factor
 		#Range: -1.0E7 ~ 1.0E7
@@ -467,7 +280,7 @@
 
 	[projection."morgan and caliburn"]
 		#List of allowed pets that can be killed with Caliburn to create Morgan
-		MORGAN_TRANSFORM_ENTITY_WHITELIST = ["minecraft:warden"]
+		MORGAN_TRANSFORM_ENTITY_WHITELIST = ["minecraft:wolf"]
 		#How much damage Morgan gains from killing children
 		#Range: 0.0 ~ 1.0E8
 		MORGAN_CHILD_INCREASE = 1.0
@@ -545,6 +358,184 @@
 		#Replica is Unbreakable
 		REPLICA_IS_UNBREAKABLE = true
 
+[boundary]
+
+	[boundary.alarm]
+		#This is the mana cost per cycle
+		#Range: 0 ~ 100000000
+		ALARM_BARRIER_MANA_COST = 1
+		#This is how often the boundary drains mana
+		#Range: 0 ~ 100000000
+		ALARM_BARRIER_MANA_CYCLE = 10
+		#This is the range of the boundary
+		#Range: 0 ~ 100000000
+		ALARM_BARRIER_RADIUS = 10
+		#This is how often the boundary does it's thing
+		#Range: 0 ~ 100000000
+		ALARM_BARRIER_CYCLE = 20
+		#Messages are sent to Action Bar as opposed to the Chat window
+		ALARM_ACTION_BAR_MESSAGES = false
+
+	[boundary.displacement]
+		#This is the mana cost per cycle
+		#Range: 0 ~ 100000000
+		DISPLACEMENT_BARRIER_MANA_COST = 1
+		#This is how often the boundary drains mana
+		#Range: 0 ~ 100000000
+		DISPLACEMENT_BARRIER_MANA_CYCLE = 5
+		#This is the range of the boundary
+		#Range: 0 ~ 100000000
+		DISPLACEMENT_BARRIER_RADIUS = 11
+		#This is how often the boundary does it's thing
+		#Range: 0 ~ 100000000
+		DISPLACEMENT_BARRIER_CYCLE = 4
+
+	[boundary."drain life"]
+		#This is the mana cost per cycle
+		#Range: 0 ~ 100000000
+		DRAIN_LIFE_BARRIER_MANA_COST = 5
+		#This is how often the boundary drains mana
+		#Range: 0 ~ 100000000
+		DRAIN_LIFE_BARRIER_MANA_CYCLE = 1
+		#This is the range of the boundary
+		#Range: 0 ~ 100000000
+		DRAIN_LIFE_BARRIER_RADIUS = 10
+		#This is how often the boundary does it's thing
+		#Range: 0 ~ 100000000
+		DRAIN_LIFE_BARRIER_CYCLE = 20
+		#This is whether the boundary ignores hunger when refilling
+		DRAIN_LIFE_IGNORE_HUNGER = false
+		#This is how much mana the boundary restores
+		#Range: 0 ~ 10000000
+		DRAIN_LIFE_MANA_REGEN = 1
+		#This is how much the boundary heals
+		#Range: -1.0E7 ~ 1.0E7
+		DRAIN_LIFE_HEAL_FACTOR = 0.5
+		#This is how much damage the boundary does
+		#Range: 0.0 ~ 1.0E7
+		DRAIN_LIFE_DAMAGE = 2.0
+		#The boundary does this much times its normal damage if the target has magic resistance
+		#Range: 0.0 ~ 1.0E7
+		DRAIN_LIFE_PUNISH_RESIST = 1.8
+		#Entities that won't be considered for the boundary
+		DRAIN_LIFE_ENTITY_BLACKLIST = []
+
+	[boundary.gravity]
+		#This is the mana cost per cycle
+		#Range: 0 ~ 100000000
+		GRAVITY_BARRIER_MANA_COST = 1
+		#This is how often the boundary drains mana
+		#Range: 0 ~ 100000000
+		GRAVITY_BARRIER_MANA_CYCLE = 2
+		#This is the range of the boundary
+		#Range: 0 ~ 100000000
+		GRAVITY_BARRIER_RADIUS = 10
+		#This is how often the boundary does it's thing
+		#Range: 0 ~ 100000000
+		GRAVITY_BARRIER_CYCLE = 1
+		#This is a multiplicative inrease in downward velocity
+		#Range: 0.0 ~ 1.0E8
+		GRAVITY_BARRIER_FACTOR = 1.4
+		#This is how often the boundary does it's thing
+		#Range: 0.0 ~ 1.0E8
+		GRAVITY_BARRIER_MAX = 5.0E7
+
+	[boundary.enclosure]
+		#This is the mana cost per cycle
+		#Range: 0 ~ 100000000
+		ENCLOSURE_BARRIER_MANA_COST = 20
+		#This is how often the boundary does it's thing
+		#Range: 0 ~ 100000000
+		ENCLOSURE_BARRIER_CYCLE = 20
+		#This is the range of the boundary
+		#Range: 0 ~ 100000000
+		ENCLOSURE_BARRIER_RADIUS = 5
+
+	[boundary.tangible]
+		#This is the mana cost per cycle
+		#Range: 0 ~ 100000000
+		TANGIBLE_BARRIER_MANA_COST = 1
+		#This is how often the boundary drains mana
+		#Range: 0 ~ 100000000
+		TANGIBLE_BARRIER_MANA_CYCLE = 3
+		#This is the range of the boundary
+		#Range: 0 ~ 100000000
+		TANGIBLE_BARRIER_RADIUS = 10
+		#This is how often the boundary does it's thing
+		#Range: 0 ~ 100000000
+		TANGIBLE_BARRIER_CYCLE = 20
+
+[displacement]
+
+	[displacement.ascension]
+		#This is how often the circle checks for things to teleport
+		#Range: 0 ~ 100000000
+		ASCENSION_BLOCK_CYCLE = 4
+		#This is the cost of using the scroll (also the cost per teleport if not a scroll)
+		#Range: 0 ~ 100000000
+		ASCENSION_SCROLL_MANA_COST = 30
+
+	[displacement.equivalent]
+		#This is how often the circle checks for things to teleport
+		#Range: 0 ~ 100000000
+		EQUIVALENT_DISPLACEMENT_BLOCK_CYCLE = 4
+		#This is the cooldown between teleports (so you don't get shot back and forth rapidly)
+		#Range: 0 ~ 100000000
+		EQUIVALENT_DISPLACEMENT_RECEIVE_COOLDOWN = 15
+		#This is the cost per teleport
+		#Range: 0 ~ 100000000
+		EQUIVALENT_DISPLACEMENT_MANA_COST = 60
+		#Max Distance for Equivalent Displacement
+		#Range: -1.0E7 ~ 1.0E7
+		EQUIVALENT_DISPLACEMENT_MAX_DISTANCE = -1.0
+		#Whether Equivalent Displacement can traverse dimensions
+		EQUIVALENT_DISPLACEMENT_DIMENSIONAL_TRAVEL = true
+
+	[displacement.mental]
+		#This is the cost of using the scroll
+		#Range: 0 ~ 100000000
+		MENTAL_DISPLACEMENT_MANA_COST = 300
+		#This is how far you can go before being sent back to your body
+		#Range: 0 ~ 100000000
+		MENTAL_DISPLACEMENT_RANGE = 20
+
+	[displacement.projectile]
+		#This is the cost of using the scroll
+		#Range: 0 ~ 100000000
+		PROJECTILE_DISPLACEMENT_MANA_COST = 50
+
+	[displacement.ordered]
+		#This is how often the circle checks for things to teleport
+		#Range: 0 ~ 100000000
+		ORDERED_DISPLACEMENT_BLOCK_CYCLE = 4
+		#This is the cooldown between teleports (so you don't get shot back and forth rapidly)
+		#Range: 0 ~ 100000000
+		ORDERED_DISPLACEMENT_RECEIVE_COOLDOWN = 15
+		#This is the cost per teleport
+		#Range: 0 ~ 100000000
+		ORDERED_DISPLACEMENT_MANA_COST = 40
+		#This is the max distance between ordered displacement circles.
+		#Range: 0 ~ 100000000
+		ORDERED_DISPLACEMENT_RADIUS = 20
+
+	[displacement.protective]
+		#This is the cost of using the scroll
+		#Range: 0 ~ 100000000
+		PROTECTIVE_DISPLACEMENT_MANA_COST = 50
+
+	[displacement.scrying]
+		#This is the cost per name tag
+		#Range: 0 ~ 100000000
+		SCRYING_MANA_COST = 50
+		#This is how long (in ticks) before a single name tag use runs out
+		#Range: 0 ~ 100000000
+		SCRYING_DURATION = 1200
+		#This is how often a Scrying tile entity will send updates
+		#Range: 0 ~ 100000000
+		SCRYING_BLOCK_CYCLE = 4
+		#This is whether the scrying circle can scry non players
+		SCRY_NON_PLAYERS = true
+
 [exchange]
 
 	[exchange.alchemical]
@@ -603,7 +594,7 @@
 		DURABILITY_EXCHANGE_MANA_GAIN_CAP = 10
 		#Take this much durability per mana point gained
 		#Range: 0.0 ~ 1.0E8
-		DURABILITY_EXCHANGE_EFFICIENCY = 1
+		DURABILITY_EXCHANGE_EFFICIENCY = 1.0
 		#Items on this list will not be considered valid for durability exchange
 		DURABILITY_EXCHANGE_BLACKLIST = []
 		#Durability Exchange Tax Brackets
@@ -692,6 +683,9 @@
 		#This is the cost of using the multiple explosion mode
 		#Range: 0 ~ 100000000
 		MYSTIC_STAFF_AOE_MANA_COST = 600
+		#Mystic Staff AOE Scaling Mana Factor
+		#Range: 0.0 ~ 1.0E7
+		MYSTIC_STAFF_AOE_SCALING_MANA = 0.0
 		#Whether the damage is flat or scales with caster's 'level'
 		MYSTIC_STAFF_AOE_SCALES = true
 		#Either a fraction of the max mana (if scaling) or a flat damage value
@@ -703,14 +697,14 @@
 		#Delay between firing on AOE Mode of Explosion Staff
 		#Range: 0 ~ 10000000
 		MYSTIC_STAFF_AOE_DELAY = 3
-		#Mystic Staff AOE Scaling Mana Factor
-		#Range: 0.0 ~ 1.0E7
-		MYSTIC_STAFF_AOE_SCALING_MANA = 0.0
 
 	[mystic.beam]
 		#Mystic Staff Beam Mana Per Tick
 		#Range: 0 ~ 100000000
 		MYSTIC_STAFF_BEAM_MANA_PER_TICK = 500
+		#Mystic Staff Beam Scaling Mana Factor
+		#Range: 0.0 ~ 1.0E7
+		MYSTIC_STAFF_BEAM_SCALING_MANA = 0.0
 		#Mystic Staff Beam Damage Factor
 		#Range: -1.0E7 ~ 1.0E8
 		MYSTIC_STAFF_BEAM_DAMAGE_FACTOR = 0.001
@@ -724,9 +718,6 @@
 		MYSTIC_STAFF_BEAM_MAX_BLOCK_BREAK_PER_TICK = 90
 		#Mystic Staff Beam Block Whitelist
 		MYSTIC_STAFF_BEAM_BLOCK_WHITELIST = []
-		#Mystic Staff Beam Scaling Mana Factor
-		#Range: 0.0 ~ 1.0E7
-		MYSTIC_STAFF_BEAM_SCALING_MANA = 0.0
 
 	[mystic."rho aias"]
 		#This is the cost of using the scroll
@@ -1334,11 +1325,4 @@
 	ARMOR_STANDS_IMMUNE = true
 	#Mahou Resets After Death
 	ONE_LIFE = false
-	#Names of magic circles to have restrictions
-	ACTIVE_MAGIC_CIRCLE_NAMES = ["mahoutsukai:mahoujin_drain_life_barrier"]
-	#How many active circles of one type a caster can have. Requires NAMES config
-	ACTIVE_MAGIC_CIRCLE_LIMITS = [10]
-	#How long before an active circle can be replaced
-	#Range: 0 ~ 10000000
-	ACTIVE_MAGIC_CIRCLE_REPLACEMENT_TIME = 201
 

@@ -2,10 +2,10 @@
 ["Item Clear"]
 	#Check Every <timer>  minutes how many items are loaded. If there are more than <maximum>. Then Remove All Items. Configs are reloaded on worldreload and clear
 	#Enable regular ItemClear
-	enabled = true
+	enabled = false
 	#Waiting time between Checks in Minutes
 	#Range: 0 ~ 1440
-	timer = 5
+	timer = 30
 	#Do a clear if there are more than X items
 	#Range: > 0
 	maximum = 1000

@@ -6,23 +6,25 @@
 	icon: "ars_nouveau:creative_spell_book"
 	id: "6AEDA2F9BEB57759"
 	images: [{
+		click: ""
+		corner: false
+		dev: false
 		height: 0.3d
-		hover: ["{atm9.quest.ae2.img.star}"]
+		hover: ["&dNeeded for the ATM Star&r"]
 		image: "allthetweaks:item/atm_star"
 		rotation: 0.0d
 		width: 0.3d
-		x: 7.51d
-		y: 7.6d
+		x: 7.5d
+		y: 8.5d
 	}]
-	order_index: 1
-	progression_mode: "flexible"
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
 			description: [
-				"{atm9.quest.arsNouveau.welcome}"
+				"Welcome to &aArs Nouveau&f!"
 				""
-				"{atm9.quest.arsNouveau.desc.magicModIntro}"
+				"Ars Nouveau is a magic mod that allows you to create custom spells with the different Glyphs made within the mod!"
 			]
 			id: "6E0E13806F388D7E"
 			rewards: [{
@@ -35,7 +37,7 @@
 			tasks: [{
 				icon: "ars_nouveau:creative_spell_book"
 				id: "33CEC23CAF6DA6A6"
-				title: "{atm9.quest.arsNouveau.arsNouveau}"
+				title: "Ars Nouveau"
 				type: "checkmark"
 			}]
 			x: -6.25d
@@ -61,7 +63,7 @@
 			tasks: [{
 				id: "1624D71379FBBDA6"
 				item: {
-					Count: 1
+					Count: 1b
 					id: "ars_nouveau:starbuncle_charm"
 					tag: { }
 				}
@@ -965,11 +967,371 @@
 			y: -6.5d
 		}
 		{
+			dependencies: ["542C6D76B579886C"]
+			id: "7CA63A0B7CC541CE"
+			rewards: [
+				{
+					id: "564F8945E4B9F524"
+					table_id: 4108383404435779231L
+					type: "random"
+				}
+				{
+					id: "5EB6CCBB2035E0FA"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "1920F9987DC6005C"
+				item: {
+					Count: 1b
+					id: "ars_nouveau:novice_hood"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["542C6D76B579886C"]
+			id: "565CA72D2268B140"
+			rewards: [
+				{
+					id: "1617B24A2DCDAC77"
+					table_id: 4108383404435779231L
+					type: "random"
+				}
+				{
+					id: "022ACB5F5D02A2DE"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "34A3EA32E23BAABA"
+				item: {
+					Count: 1b
+					id: "ars_nouveau:novice_robes"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["542C6D76B579886C"]
+			id: "24F0C4277415CAEF"
+			rewards: [
+				{
+					id: "61775370F5F9FAD6"
+					table_id: 4108383404435779231L
+					type: "random"
+				}
+				{
+					id: "327F73A38CFE7FA3"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "61BDAA876EEA6E44"
+				item: {
+					Count: 1b
+					id: "ars_nouveau:novice_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 16.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["542C6D76B579886C"]
+			id: "7E4A3016FCA4E7FD"
+			rewards: [
+				{
+					id: "63F45CFFE1FEAF56"
+					table_id: 4108383404435779231L
+					type: "random"
+				}
+				{
+					id: "7437897D09F956C6"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "37B3484A9F1B97EF"
+				item: {
+					Count: 1b
+					id: "ars_nouveau:novice_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 16.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["542C6D76B579886C"]
+			id: "4AD49D471BF4AB27"
+			rewards: [
+				{
+					id: "16E6EF534CDAE4E4"
+					table_id: 4108383404435779231L
+					type: "random"
+				}
+				{
+					id: "0E819AEE8B03A3F5"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "0023CB82CB60DD6E"
+				item: {
+					Count: 1b
+					id: "ars_nouveau:apprentice_hood"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["542C6D76B579886C"]
+			id: "4DFBE829FA797B75"
+			rewards: [
+				{
+					id: "7AD8D168C8813810"
+					table_id: 4108383404435779231L
+					type: "random"
+				}
+				{
+					id: "6F3AE3C1C37E6F0E"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "2B19FFFF280DC213"
+				item: {
+					Count: 1b
+					id: "ars_nouveau:apprentice_robes"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["542C6D76B579886C"]
+			id: "418C7D2CB2259A45"
+			rewards: [
+				{
+					id: "2354C6D515122451"
+					table_id: 4108383404435779231L
+					type: "random"
+				}
+				{
+					id: "1F6F732221C54DF9"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "27D3AF0221AE3E0B"
+				item: {
+					Count: 1b
+					id: "ars_nouveau:apprentice_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 16.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["542C6D76B579886C"]
+			id: "326124128BE6823F"
+			rewards: [
+				{
+					id: "16EABDD646C14787"
+					table_id: 4108383404435779231L
+					type: "random"
+				}
+				{
+					id: "0AAACF09CA07B114"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "7DE3FFBA77344B7C"
+				item: {
+					Count: 1b
+					id: "ars_nouveau:apprentice_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 16.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["542C6D76B579886C"]
+			id: "6460384591079D3A"
+			rewards: [
+				{
+					id: "58A6E4692065563C"
+					table_id: 4108383404435779231L
+					type: "random"
+				}
+				{
+					id: "58F3C493DB474D3F"
+					type: "xp"
+					xp: 250
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "3A36B5DAEBB078E3"
+				item: {
+					Count: 1b
+					id: "ars_nouveau:archmage_hood"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 18.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["542C6D76B579886C"]
+			id: "56C035444F3D202F"
+			rewards: [
+				{
+					id: "307AC2B7285C2F41"
+					table_id: 4108383404435779231L
+					type: "random"
+				}
+				{
+					id: "62CD4EA497A17D7F"
+					type: "xp"
+					xp: 250
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "211C25415C19E8A8"
+				item: {
+					Count: 1b
+					id: "ars_nouveau:archmage_robes"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 18.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["542C6D76B579886C"]
+			id: "111ED22A2EFDEEEF"
+			rewards: [
+				{
+					id: "32444B30962362E6"
+					table_id: 4108383404435779231L
+					type: "random"
+				}
+				{
+					id: "0E7E9714DB9C633A"
+					type: "xp"
+					xp: 250
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "742537CA15856DCD"
+				item: {
+					Count: 1b
+					id: "ars_nouveau:archmage_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 17.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["542C6D76B579886C"]
+			id: "7E95499984FFB344"
+			rewards: [
+				{
+					id: "1E2E27EBAF94288A"
+					table_id: 4108383404435779231L
+					type: "random"
+				}
+				{
+					id: "1D964A5E64BE33BC"
+					type: "xp"
+					xp: 250
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "255FB2CA7016863A"
+				item: {
+					Count: 1b
+					id: "ars_nouveau:archmage_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 17.5d
+			y: 0.5d
+		}
+		{
 			dependencies: ["3D4D88B8BE881351"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.tier2Glyphs.1}"
+				"Tier 2 Glyphs require 5 levels of experience to be made."
 				""
-				"{atm9.quest.arsNouveau.desc.tier2Glyphs.2}"
+				"They also require a &9Mage's Spell Book&r to create."
 			]
 			id: "63DD7F5A4441ACE7"
 			shape: "hexagon"
@@ -977,29 +1339,29 @@
 				id: "15C6E9C02D1FBEC0"
 				type: "checkmark"
 			}]
-			title: "{atm9.quest.arsNouveau.tier2Glyphs}"
+			title: "Tier 2 Glyphs"
 			x: -1.0d
 			y: -4.0d
 		}
 		{
 			dependencies: ["3D4D88B8BE881351"]
-			description: ["{atm9.quest.arsNouveau.desc.tier1Glyphs}"]
+			description: ["Tier 1 Glyphs require 3 levels of experience to be made."]
 			id: "441C0659ED28D935"
 			shape: "hexagon"
 			tasks: [{
 				id: "1CC556A6921208B8"
 				type: "checkmark"
 			}]
-			title: "{atm9.quest.arsNouveau.tier1Glyphs}"
+			title: "Tier 1 Glyphs"
 			x: -5.0d
 			y: -4.0d
 		}
 		{
 			dependencies: ["3D4D88B8BE881351"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.tier3Glyphs.1}"
+				"Tier 3 Glyphs require 10 levels of experience to be made."
 				""
-				"{atm9.quest.arsNouveau.desc.tier3Glyphs.2}"
+				"They also require an &6Archmage's Spell Book&r."
 			]
 			id: "6F3602F5600A6221"
 			shape: "hexagon"
@@ -1007,16 +1369,16 @@
 				id: "65D68BEEB36FC805"
 				type: "checkmark"
 			}]
-			title: "{atm9.quest.arsNouveau.tier3Glyphs}"
+			title: "Tier 3 Glyphs"
 			x: 3.0d
 			y: -4.0d
 		}
 		{
 			dependencies: ["58EC47584C773B82"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.magebloom.1}"
+				"When your Magebloom seeds.... bloom, you can use the Magebloom to create Fibers."
 				""
-				"{atm9.quest.arsNouveau.desc.magebloom.2}"
+				"These are used to craft several items, including your first set of magical armor!"
 			]
 			id: "542C6D76B579886C"
 			rewards: [
@@ -1044,11 +1406,11 @@
 		{
 			dependencies: ["18A2FBE2D4133FA2"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.enchantingApparatus.1}"
+				"The &9Enchanting Apparatus&r is used to craft various items within the mod. It requires Source to work."
 				""
-				"{atm9.quest.arsNouveau.desc.enchantingApparatus.2}"
+				"It is also a multiblock structure that utilizes Arcane Pedestals to craft."
 				""
-				"{atm9.quest.arsNouveau.desc.enchantingApparatus.3}"
+				"Start by placing an Arcane Core in the ground, then place the Enchanting Apparatus on top of it. Surround the Apparatus with Arcane Pedestals."
 				""
 				"{image:atm:textures/questpics/ars/enchanting_app.png width:200 height:175 align:1}"
 			]
@@ -1072,16 +1434,16 @@
 					type: "item"
 				}
 			]
-			title: "{atm9.quest.arsNouveau.enchantingApparatus}"
+			title: "Enchanting Apparatus"
 			x: 10.5d
 			y: 0.0d
 		}
 		{
 			dependencies: ["5C3FF43CF16BCF30"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.arcanePedestals.1}"
+				"Arcane Pedestals are needed for the Ritual Brazier and crafting items with an Enchanting Apparatus."
 				""
-				"{atm9.quest.arsNouveau.desc.arcanePedestals.2}"
+				"Go ahead and make yourself 8 of them!"
 			]
 			id: "18A2FBE2D4133FA2"
 			rewards: [{
@@ -1091,14 +1453,14 @@
 			}]
 			shape: "square"
 			size: 1.25d
-			subtitle: "{atm9.quest.arsNouveau.subt.fancyTables}"
+			subtitle: "Fancy Tables"
 			tasks: [{
 				count: 8L
 				id: "5B80C1EF5D85EA64"
 				item: "ars_nouveau:arcane_pedestal"
 				type: "item"
 			}]
-			title: "{atm9.quest.arsNouveau.arcanePedestals}"
+			title: "Arcane Pedestals"
 			x: 7.5d
 			y: 0.0d
 		}
@@ -1430,22 +1792,22 @@
 		{
 			dependencies: ["33682F4B44950123"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.scribesTable.1}"
+				"If you want to cast better spells, you'll need a &6Scribe's Table&r to unlock new glyphs for your spellbook."
 				""
-				"{atm9.quest.arsNouveau.desc.scribesTable.2}"
+				"There are 3 tiers of glyphs to unlock, and each one requires some experience and items."
 				""
-				"{atm9.quest.arsNouveau.desc.scribesTable.3}"
+				"The Scribe's Table is also used to attach spells to Spell Parchments. To do this, place a Spell Parchment on the table, select the spell in your Spellbook, then sneak right-click the book on the table."
 				""
-				"{atm9.quest.arsNouveau.desc.scribesTable.4}"
+				"To create a Glyph, right-click on the Scribe's Table with your spellbook. Search for the glyph you want to make, then click Select at the bottom. Right-click the table with the items required, and the glyph will be created. Use the glyph to learn it."
 				""
-				"{atm9.quest.arsNouveau.desc.scribesTable.5}"
+				"Note: The table can pull items from nearby inventories."
 			]
 			id: "3D4D88B8BE881351"
 			rewards: [
 				{
 					id: "090A541FA98CD1FD"
 					table_id: 7708276966210401484L
-					title: "{atm9.quest.arsNouveau.randomTier1Glyph}"
+					title: "Random Tier 1 Glyph"
 					type: "random"
 				}
 				{
@@ -1456,7 +1818,7 @@
 			]
 			shape: "gear"
 			size: 1.5d
-			subtitle: "{atm9.quest.arsNouveau.subt.upgradingSpells}"
+			subtitle: "Upgrading Spells"
 			tasks: [{
 				id: "5ADEEEE0C217B20F"
 				item: "ars_nouveau:scribes_table"
@@ -1493,20 +1855,20 @@
 		{
 			dependencies: ["6E0E13806F388D7E"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.noviceSpellbook.1}"
+				"To get started, you'll need to craft yourself a &6Novice Spellbook&r."
 				""
-				"{atm9.quest.arsNouveau.desc.noviceSpellbook.2}"
+				"This is where you create and store your spells."
 				""
-				"{atm9.quest.arsNouveau.desc.noviceSpellbook.3}"
+				"Hitting the &9C&r key will open up the \"Create a Spell\" page. On the left, there are several tabs, but the main 3 are: Spell Creation, Color Picker, and Familiars."
 				""
-				"{atm9.quest.arsNouveau.desc.noviceSpellbook.4}"
+				"This spellbook will only allow you to create and use Tier 1 Glyphs. To create better spells, you'll need to upgrade your Spellbook!"
 			]
 			id: "64D0E66CB4FBEC82"
 			rewards: [
 				{
 					id: "565501823D60D08C"
 					item: {
-						Count: 1
+						Count: 1b
 						id: "minecraft:potion"
 						tag: {
 							Potion: "ars_nouveau:mana_regen_potion"
@@ -1520,12 +1882,11 @@
 					xp: 10
 				}
 			]
-			subtitle: "{atm9.quest.arsNouveau.subt.ourFirstSpellbook}"
+			subtitle: "Our First Spellbook"
 			tasks: [{
 				id: "6988873450238F30"
 				item: "ars_nouveau:novice_spell_book"
 				type: "item"
-				weak_nbt_match: true
 			}]
 			x: -4.0d
 			y: 0.0d
@@ -1533,16 +1894,16 @@
 		{
 			dependencies: ["64D0E66CB4FBEC82"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.nextUpgrade.1}"
+				"This is the next upgrade to your Spellbook!"
 				""
-				"{atm9.quest.arsNouveau.desc.nextUpgrade.2}"
+				"This will increase your overall mana and mana regen, as well as unlocking the ability to create and use Tier 2 Glyphs."
 			]
 			id: "0D330FAD6C993DBC"
 			rewards: [
 				{
 					id: "26AA78496AAD568F"
 					table_id: 7708276966210401484L
-					title: "{atm9.quest.arsNouveau.randomTier1Glyph}"
+					title: "Random Tier 1 Glyph"
 					type: "random"
 				}
 				{
@@ -1555,7 +1916,6 @@
 				id: "0BCFC6422BBF539C"
 				item: "ars_nouveau:apprentice_spell_book"
 				type: "item"
-				weak_nbt_match: true
 			}]
 			x: -4.0d
 			y: 1.5d
@@ -1563,9 +1923,9 @@
 		{
 			dependencies: ["0D330FAD6C993DBC"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.finalTierSpellbook.1}"
+				"To create the final tier of your Spellbook, you'll need to have killed the &6Wilden Chimera&r."
 				""
-				"{atm9.quest.arsNouveau.desc.finalTierSpellbook.2}"
+				"This is a Ritual that you'll need to complete using a &9Ritual Brazier&r."
 			]
 			id: "17D7D34F519F7E5F"
 			rewards: [
@@ -1584,7 +1944,6 @@
 				id: "5E7DBDDD97BA8F13"
 				item: "ars_nouveau:archmage_spell_book"
 				type: "item"
-				weak_nbt_match: true
 			}]
 			x: -4.0d
 			y: 3.0d
@@ -1592,11 +1951,11 @@
 		{
 			dependencies: ["18A2FBE2D4133FA2"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.ritualBrazier.1}"
+				"The &9Ritual Brazier&r is used to cast rituals. It can also be used for decoration. If you want to light the Brazier, use a Light spell on it."
 				""
-				"{atm9.quest.arsNouveau.desc.ritualBrazier.2}"
+				"To perform rituals, you'll need Arcane Pedestals as well. As there are so many rituals to cast, make sure to check out each of them using the &6Worn Notebook&r!"
 				""
-				"{atm9.quest.arsNouveau.desc.ritualBrazier.3}"
+				"This can be done by holding Ctrl on the Ritual Table while the book is in your inventory."
 			]
 			id: "457DE8C154641437"
 			rewards: [{
@@ -1617,9 +1976,9 @@
 		{
 			dependencies: ["227DBA8836021B0B"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.potionJar.1}"
+				"The &9Potion Jar&r stores up to 100 potions. You can remove them by using an empty bottle or a potion flask on the jar."
 				""
-				"{atm9.quest.arsNouveau.desc.potionJar.2}"
+				"Wixies will use these jars during Potion Autocrafting."
 			]
 			id: "04D9F6587EF8D9B7"
 			rewards: [
@@ -1635,7 +1994,7 @@
 				}
 			]
 			shape: "hexagon"
-			subtitle: "{atm9.quest.arsNouveau.subt.storingPotions}"
+			subtitle: "Storing Potions"
 			tasks: [{
 				id: "7F3D9B9E5E4FD3B8"
 				item: "ars_nouveau:potion_jar"
@@ -1647,11 +2006,11 @@
 		{
 			dependencies: ["33682F4B44950123"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.sourceGem.1}"
+				"To create one of the main crafting items in Ars, the &9Source Gem&r, we'll need to make an &6Imbuement Chamber&r."
 				""
-				"{atm9.quest.arsNouveau.desc.sourceGem.2}"
+				"The Imbuement Chamber requires Source to imbue items. It produces a small amount of Source by itself, but can also use Source Jars as a power source."
 				""
-				"{atm9.quest.arsNouveau.desc.sourceGem.3}"
+				"Several recipes also require Arcane Pedestals to be placed around it as well."
 				""
 				""
 				"{image:atm:textures/questpics/ars/imbuement.png width:200 height:150 align:1}"
@@ -1671,7 +2030,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "{atm9.quest.arsNouveau.subt.creatingSourceGems}"
+			subtitle: "Creating Source Gems"
 			tasks: [{
 				id: "78B5B8F9CE9EC702"
 				item: "ars_nouveau:imbuement_chamber"
@@ -1683,9 +2042,9 @@
 		{
 			dependencies: ["64D0E66CB4FBEC82"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.magicalWood}"
+				"To gain further knowledge of spells, we'll need a specific type of magical wood!"
 				""
-				"{atm9.quest.arsNouveau.desc.magicalWood.1}"
+				"Archwood Trees can be found in the overworld."
 			]
 			id: "33682F4B44950123"
 			rewards: [
@@ -1704,41 +2063,41 @@
 				{
 					id: "163A6E303D6F419D"
 					item: {
-						Count: 1
+						Count: 1b
 						id: "itemfilters:tag"
 						tag: {
 							value: "forge:logs/archwood"
 						}
 					}
-					title: "{atm9.quest.arsNouveau.archwoodLogs}"
+					title: "Archwood Logs"
 					type: "item"
 				}
 				{
 					count: 2L
 					id: "7508E906C021AB6B"
 					item: {
-						Count: 1
+						Count: 1b
 						id: "itemfilters:tag"
 						tag: {
 							value: "forge:planks/archwood"
 						}
 					}
-					title: "{atm9.quest.arsNouveau.archwoodPlanks}"
+					title: "Archwood Planks"
 					type: "item"
 				}
 			]
-			title: "{atm9.quest.arsNouveau.archwoodLogs}"
+			title: "Archwood logs"
 			x: -1.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["40BC67BDEE15D1DE"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.sourceSystem}"
+				"In Ars Nouveau, the power system for machines is called &9Source&r."
 				""
-				"{atm9.quest.arsNouveau.desc.sourceSystem.1}"
+				"To start collecting some Source, we'll need a Source Jar."
 				""
-				"{atm9.quest.arsNouveau.desc.sourceSystem.2}"
+				"Source can also be moved with buckets, or by breaking and picking up Source Jars."
 			]
 			id: "227DBA8836021B0B"
 			rewards: [
@@ -1760,7 +2119,7 @@
 			]
 			shape: "gear"
 			size: 1.5d
-			subtitle: "{atm9.quest.arsNouveau.subt.storingSource}"
+			subtitle: "Storing Source"
 			tasks: [{
 				id: "55AA5FAABC23709E"
 				item: "ars_nouveau:source_jar"
@@ -1822,9 +2181,9 @@
 		{
 			dependencies: ["3D862A3D3F83CA26"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.magebloomSeed}"
+				"Using our Enchanting Apparatus structure, we'll want to craft our first seed, the &5Magebloom Seed&r."
 				""
-				"{atm9.quest.arsNouveau.desc.magebloomSeed.1}"
+				"This will be used to create us some magical clothing!"
 			]
 			id: "58EC47584C773B82"
 			rewards: [
@@ -1841,14 +2200,14 @@
 					xp: 100
 				}
 			]
-			subtitle: "{atm9.quest.arsNouveau.subt.growingMagic}"
+			subtitle: "Growing Magic"
 			tasks: [{
 				count: 3L
 				id: "6CB12C3C6401287A"
 				item: "ars_nouveau:magebloom_crop"
 				type: "item"
 			}]
-			title: "{atm9.quest.arsNouveau.magebloomSeed}"
+			title: "Magebloom Seed"
 			x: 13.0d
 			y: 0.0d
 		}
@@ -1906,11 +2265,11 @@
 		{
 			dependencies: ["227DBA8836021B0B"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.volcanicSourcelink}"
+				"The Volcanic Sourcelink generates Source by consuming burnable items. Archwood logs will generate bonus Source."
 				""
-				"{atm9.quest.arsNouveau.desc.volcanicSourcelink.1}"
+				"As it burns items, it will convert nearby stone into lava."
 				""
-				"{atm9.quest.arsNouveau.desc.volcanicSourcelink.2}"
+				"This also generates Lava Lilys."
 			]
 			id: "19D02325579F2AA8"
 			rewards: [
@@ -1937,11 +2296,11 @@
 		{
 			dependencies: ["0E2AD156E5EF263A"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.runicChalk}"
+				"Runic Chalk is used to draw permanent Runes on that ground. These runes will cast spells on entities that walk over them."
 				""
-				"{atm9.quest.arsNouveau.desc.runicChalk.1}"
+				"To attach a spell to a rune, inscribe a &eSpell Parchment&r using a Scribe's Table."
 				""
-				"{atm9.quest.arsNouveau.desc.runicChalk.2}"
+				"Note: The Rune will need Source to operate."
 			]
 			id: "151648179684B088"
 			rewards: [{
@@ -1949,11 +2308,11 @@
 				table_id: 4108383404435779231L
 				type: "random"
 			}]
-			subtitle: "{atm9.quest.arsNouveau.subt.placeableSpells}"
+			subtitle: "Placeable Spells"
 			tasks: [{
 				id: "2E649D2172E6D537"
 				item: {
-					Count: 1
+					Count: 1b
 					id: "ars_nouveau:runic_chalk"
 					tag: {
 						Damage: 0
@@ -2028,13 +2387,14 @@
 				}
 			]
 			shape: "diamond"
+			size: 2.0d
 			tasks: [{
 				id: "5D3C989D159E191B"
 				item: "ars_nouveau:ritual_wilden_summon"
 				type: "item"
 			}]
 			x: 7.5d
-			y: 7.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["457DE8C154641437"]
@@ -2257,20 +2617,20 @@
 		{
 			dependencies: ["64D0E66CB4FBEC82"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.spellCreation}"
+				"While holding your Spellbook, you can press C to open up the spell creation page."
 				""
-				"{atm9.quest.arsNouveau.desc.spellCreation.1}"
+				"Each spell must have a form. You start off with 3 basic forms: Projectile, Self-cast, and Touch."
 				""
-				"{atm9.quest.arsNouveau.desc.spellCreation.2}"
+				"For the Effect, this determines what happens when you cast the spell. You can have up to 9 effects per spell."
 				""
-				"{atm9.quest.arsNouveau.desc.spellCreation.3}"
+				"For starters, you have Harm and Break."
 				""
-				"{atm9.quest.arsNouveau.desc.spellCreation.4}"
+				"Select one Form and one Effect, name your spell, and click create!"
 				""
 				"{image:atm:textures/questpics/ars/spellbook.png width:200 height:150 align:1}"
 			]
 			icon: {
-				Count: 1
+				Count: 1b
 				id: "ars_nouveau:spell_parchment"
 				tag: { }
 			}
@@ -2282,7 +2642,7 @@
 			}]
 			tasks: [{
 				id: "1B916AE67F84E6D7"
-				title: "{atm9.quest.arsNouveau.creatingYourFirstSpell}"
+				title: "Creating Your First Spell"
 				type: "checkmark"
 			}]
 			x: -4.5d
@@ -2291,12 +2651,12 @@
 		{
 			dependencies: ["64D0E66CB4FBEC82"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.mana}"
+				"In the bottom left of your screen, you'll see a bar. This bar is your mana pool!"
 				""
-				"{atm9.quest.arsNouveau.desc.mana.1}"
+				"There are several ways to increase your mana pool, or increase the efficiency of your spells as you progress through the mod. Upgrading your spellbook can also increase your mana!"
 			]
 			icon: {
-				Count: 1
+				Count: 1b
 				id: "minecraft:potion"
 				tag: {
 					Potion: "ars_nouveau:mana_regen_potion"
@@ -2307,7 +2667,7 @@
 				{
 					id: "31255CD8D6C186BF"
 					item: {
-						Count: 1
+						Count: 1b
 						id: "minecraft:lingering_potion"
 						tag: {
 							Potion: "ars_nouveau:mana_regen_potion_long"
@@ -2321,10 +2681,10 @@
 					xp: 10
 				}
 			]
-			subtitle: "{atm9.quest.arsNouveau.subt.magePower}"
+			subtitle: "Mage Power"
 			tasks: [{
 				id: "01FD75641E5EA5E4"
-				title: "{atm9.quest.arsNouveau.mana}"
+				title: "Mana"
 				type: "checkmark"
 			}]
 			x: -3.5d
@@ -2332,7 +2692,7 @@
 		}
 		{
 			dependencies: ["5766C8B9E850C186"]
-			description: ["{atm9.quest.arsNouveau.desc.sourceGems}"]
+			description: ["To create Source Gems, we'll need to put either Lapis or Amethyst Shards into the Imbuement Chamber. Over time, these will convert to Source Gems!"]
 			id: "40BC67BDEE15D1DE"
 			rewards: [
 				{
@@ -2360,16 +2720,16 @@
 				item: "ars_nouveau:source_gem"
 				type: "item"
 			}]
-			title: "{atm9.quest.arsNouveau.sourceGems}"
+			title: "&5Source Gems"
 			x: 3.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["33682F4B44950123"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.dowsingRod}"
+				"The &6Dowsing Rod&r gives you Magic Find and Scrying when used."
 				""
-				"{atm9.quest.arsNouveau.desc.dowsingRod.1}"
+				"This allows you to see nearby magic creatures as well as helping you find amethyst!"
 			]
 			id: "3142A40E1EAEBAA3"
 			optional: true
@@ -2378,11 +2738,11 @@
 				type: "xp"
 				xp: 100
 			}]
-			subtitle: "{atm9.quest.arsNouveau.subt.magicFinder}"
+			subtitle: "Magic Finder"
 			tasks: [{
 				id: "07469C1ABB23F686"
 				item: {
-					Count: 1
+					Count: 1b
 					id: "ars_nouveau:dowsing_rod"
 					tag: {
 						Damage: 0
@@ -2409,7 +2769,7 @@
 				}
 			]
 			shape: "hexagon"
-			subtitle: "{atm9.quest.arsNouveau.subt.generatesSourceFromMobDeathsAndAnimalBreeding}"
+			subtitle: "Generates Source from Mob Deaths and Animal Breeding"
 			tasks: [{
 				id: "33072A37F4A28A77"
 				item: "ars_nouveau:vitalic_sourcelink"
@@ -2421,9 +2781,9 @@
 		{
 			dependencies: ["04D9F6587EF8D9B7"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.alchemicalSourcelink}"
+				"The &9Alchemical Sourcelink&r produces Source from adjacent potion jars."
 				""
-				"{atm9.quest.arsNouveau.desc.alchemicalSourcelink.1}"
+				"The amount of source varies per potion and complexity."
 			]
 			id: "41A0BE357C8A74E1"
 			rewards: [
@@ -2439,7 +2799,7 @@
 				}
 			]
 			shape: "hexagon"
-			subtitle: "{atm9.quest.arsNouveau.subt.powerThroughPotions}"
+			subtitle: "Power through Potions"
 			tasks: [{
 				id: "2D08E66F6D607676"
 				item: "ars_nouveau:alchemical_sourcelink"
@@ -2451,9 +2811,9 @@
 		{
 			dependencies: ["227DBA8836021B0B"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.sourceBerries}"
+				"Source Berries produce more Source than other sources."
 				""
-				"{atm9.quest.arsNouveau.desc.sourceBerries.1}"
+				"This will also convert grass or dirt into Mycelium in a 3x3 area around it. It will also grow mushrooms around it if the space is empty."
 			]
 			id: "77145113CD5B26FB"
 			rewards: [
@@ -2469,7 +2829,7 @@
 				}
 			]
 			shape: "hexagon"
-			subtitle: "{atm9.quest.arsNouveau.subt.generatesSourceFromNearbyFood}"
+			subtitle: "Generates Source from Nearby Food"
 			tasks: [{
 				id: "3F5621FA53258210"
 				item: "ars_nouveau:mycelial_sourcelink"
@@ -2481,9 +2841,9 @@
 		{
 			dependencies: ["227DBA8836021B0B"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.plantSourcelink}"
+				"Placing this near growing plants or saplings will provide Source. Archwood trees provide more Source!"
 				""
-				"{atm9.quest.arsNouveau.desc.plantSourcelink.1}"
+				"Note: Bonemealing does not produce Source."
 			]
 			id: "2D0CF18C8B2ABB7D"
 			rewards: [
@@ -2499,7 +2859,7 @@
 				}
 			]
 			shape: "hexagon"
-			subtitle: "{atm9.quest.arsNouveau.subt.createsSourceUsingTheGrowthOfPlants}"
+			subtitle: "Creates Source using the growth of Plants"
 			tasks: [{
 				id: "7CEAACDBB77206CC"
 				item: "ars_nouveau:agronomic_sourcelink"
@@ -2510,7 +2870,7 @@
 		}
 		{
 			dependencies: ["40BC67BDEE15D1DE"]
-			description: ["{atm9.quest.arsNouveau.desc.sourcestones}"]
+			description: ["With Source Gems, you can get started crafting the various machines by creating &5Sourcestones&r."]
 			id: "5C3FF43CF16BCF30"
 			rewards: [
 				{
@@ -2524,27 +2884,27 @@
 					xp: 10
 				}
 			]
-			subtitle: "{atm9.quest.arsNouveau.subt.formerlyKnownAsArcaneStones}"
+			subtitle: "Formerly known as \"Arcane Stones\""
 			tasks: [{
 				count: 8L
 				id: "03EB390E79866058"
 				item: "ars_nouveau:sourcestone"
-				title: "{atm9.quest.arsNouveau.sourcestone}"
+				title: "Sourcestone"
 				type: "item"
 			}]
-			title: "{atm9.quest.arsNouveau.sourcestones}"
+			title: "Sourcestones"
 			x: 5.199999999999999d
 			y: 0.0d
 		}
 		{
 			dependencies: ["542C6D76B579886C"]
-			description: ["{atm9.quest.arsNouveau.desc.scribesTable}"]
+			description: ["Used to inscribe spells on with the Scribe's Table."]
 			id: "0E2AD156E5EF263A"
 			rewards: [
 				{
 					id: "19F2CD6C0B18C66F"
 					item: {
-						Count: 1
+						Count: 1b
 						id: "ars_nouveau:spell_parchment"
 						tag: { }
 					}
@@ -2560,7 +2920,7 @@
 			tasks: [{
 				id: "5D09025968ED4E34"
 				item: {
-					Count: 1
+					Count: 1b
 					id: "ars_nouveau:spell_parchment"
 					tag: { }
 				}
@@ -2571,7 +2931,7 @@
 		}
 		{
 			dependencies: ["3D862A3D3F83CA26"]
-			description: ["{atm9.quest.arsNouveau.desc.dominionWand}"]
+			description: ["The Dominion Wand is used for controlling the creatures you might encounter in the world! Each being responds differently to the wand, so make sure to read up in the Worn Notebook!"]
 			id: "1D86B2E553503E53"
 			rewards: [
 				{
@@ -2591,18 +2951,18 @@
 				item: "ars_nouveau:dominion_wand"
 				type: "item"
 			}]
-			title: "{atm9.quest.arsNouveau.summoningHelp}"
+			title: "Summoning Help!"
 			x: 10.5d
 			y: -1.5d
 		}
 		{
 			dependencies: ["3D862A3D3F83CA26"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.enchantersSword.1}"
+				"The &9Enchanter's Sword&r allows you to attach a Touch Spell to the sword. "
 				""
-				"{atm9.quest.arsNouveau.desc.enchantersSword.2}"
+				"All spells on the Sword gain 1 additional Amplify augment to the last effect on the spell."
 				""
-				"{atm9.quest.arsNouveau.desc.enchantersSword.3}"
+				"To apply a spell to the sword, use a Scribe's Table. Create the spell without using a form."
 			]
 			id: "14DB8A515CA50932"
 			rewards: [
@@ -2621,7 +2981,7 @@
 			tasks: [{
 				id: "307E429DCDA2A0BC"
 				item: {
-					Count: 1
+					Count: 1b
 					id: "ars_nouveau:enchanters_sword"
 					tag: {
 						Damage: 0
@@ -2635,9 +2995,9 @@
 		{
 			dependencies: ["3D862A3D3F83CA26"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.enchantersShield.1}"
+				"When blocking damage, the &9Enchanter's Shield&r will give the user Mana Regen and Spell Damage for a short amount of time."
 				""
-				"{atm9.quest.arsNouveau.desc.enchantersShield.2}"
+				"Additionally, the shield will repair itself over time using the wearer's mana."
 			]
 			id: "3182E8AF755104E4"
 			rewards: [
@@ -2656,7 +3016,7 @@
 			tasks: [{
 				id: "571B04DAC6DAFDAE"
 				item: {
-					Count: 1
+					Count: 1b
 					id: "ars_nouveau:enchanters_shield"
 					tag: {
 						Damage: 0
@@ -2670,11 +3030,11 @@
 		{
 			dependencies: ["3D862A3D3F83CA26"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.enchantersMirror.1}"
+				"The &9Enchanter's Mirror&r will apply a self spell when used."
 				""
-				"{atm9.quest.arsNouveau.desc.enchantersMirror.2}"
+				"Spells cast with this mirror are discounted and gain additional bonus duration."
 				""
-				"{atm9.quest.arsNouveau.desc.enchantersMirror.3}"
+				"To apply a spell, use a Scribe's table. Create a spell without using a form."
 			]
 			id: "632BC46928CC9A8C"
 			rewards: [
@@ -2693,7 +3053,7 @@
 			tasks: [{
 				id: "4B4A171486A31360"
 				item: {
-					Count: 1
+					Count: 1b
 					id: "ars_nouveau:enchanters_mirror"
 					tag: { }
 				}
@@ -2705,13 +3065,13 @@
 		{
 			dependencies: ["3D862A3D3F83CA26"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.enchantersBow.1}"
+				"This bow can be inscribed with a spell using a Scribe's Table."
 				""
-				"{atm9.quest.arsNouveau.desc.enchantersBow.2}"
+				"At the cost of mana, arrows will become Spell Arrows and will apply the spell on their target."
 				""
-				"{atm9.quest.arsNouveau.desc.enchantersBow.3}"
+				"If you have no arrows, a spell arrow that deals 0 damage will be cast. If there is not enough mana, regular arrows will be fired instead."
 				""
-				"{atm9.quest.arsNouveau.desc.enchantersBow.4}"
+				"The &9Enchanter's Bow&r can also use special Augment Arrows that empower the inscribed spell."
 			]
 			id: "51162B9185A45BB1"
 			rewards: [
@@ -2730,7 +3090,7 @@
 			tasks: [{
 				id: "7F425E0F613F8B23"
 				item: {
-					Count: 1
+					Count: 1b
 					id: "ars_nouveau:spell_bow"
 					tag: { }
 				}
@@ -2742,13 +3102,13 @@
 		{
 			dependencies: ["3D862A3D3F83CA26"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.jarOfLight.1}"
+				"The &9Jar of Light&r summons a floating light source that follows you."
 				""
-				"{atm9.quest.arsNouveau.desc.jarOfVoiding.1}"
+				"The &6Jar of Voiding&r destroys items you pick up in exchange for mana. This can be filtered."
 				""
-				"{atm9.quest.arsNouveau.desc.jarOfVoiding.2}"
+				"To add or remove an item to be destroyed by the jar, use the jar with the item in your off hand, or use an item on the Scribe's Table with the jar placed on it."
 				""
-				"{atm9.quest.arsNouveau.desc.jarOfVoiding.3}"
+				"The jar must be on your hotbar to function."
 			]
 			id: "6DAA82B5F94AF9F8"
 			rewards: [
@@ -2781,7 +3141,7 @@
 		}
 		{
 			dependencies: ["3D862A3D3F83CA26"]
-			description: ["{atm9.quest.arsNouveau.desc.ringOfDiscount}"]
+			description: ["The Ring of Discount provides a small bonus to max mana and mana regen. It also reduces the total cost to cast a spell."]
 			id: "0A1ABE9CF7740AAA"
 			rewards: [
 				{
@@ -2813,7 +3173,7 @@
 		}
 		{
 			dependencies: ["3D862A3D3F83CA26"]
-			description: ["{atm9.quest.arsNouveau.desc.randomPotionBelt}"]
+			description: ["This belt will give random positive potion effects for a short duration. These will vary in strength. "]
 			id: "088FCB5267CB7A89"
 			rewards: [
 				{
@@ -2839,9 +3199,9 @@
 		{
 			dependencies: ["3D862A3D3F83CA26"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.levitationBelt.1}"
+				"Have you ever wanted to just hover everywhere you go?"
 				""
-				"{atm9.quest.arsNouveau.desc.levitationBelt.2}"
+				"This belt allows you to levitate. To activate, just sneak while in the air, either while falling or from jumping."
 			]
 			id: "3FD702B5AB006402"
 			rewards: [
@@ -2868,9 +3228,9 @@
 		{
 			dependencies: ["3D862A3D3F83CA26"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.amuletOfManaBoost}"
+				"The &9Amulet of Mana Boost&r gives a boost to max mana."
 				""
-				"{atm9.quest.arsNouveau.desc.amuletOfManaRegen}"
+				"The &6Amulet of Mana Regen&r gives a boost to your mana regen."
 			]
 			id: "6A1C0B17B22CE50F"
 			rewards: [
@@ -2898,18 +3258,18 @@
 					type: "item"
 				}
 			]
-			title: "{atm9.quest.arsNouveau.theAmulets}"
+			title: "The Amulets"
 			x: 10.0d
 			y: 4.5d
 		}
 		{
 			dependencies: ["3D862A3D3F83CA26"]
 			description: [
-				"{atm9.quest.arsNouveau.desc.castersWand.1}"
+				"The &9Caster's Wand&r only accepts a single spell, and is inscribed using the Scribe's Table."
 				""
-				"{atm9.quest.arsNouveau.desc.castersWand.2}"
+				"Wand spells always start with Projectile > Accelerate, and MUST be inscribed with a spell that does not have another method (like touch, self, etc)."
 				""
-				"{atm9.quest.arsNouveau.desc.castersWand.3}"
+				"This allows you to cast spells beyond the 10 spell cap. If you want to use Break, just inscribe the wand with Break by itself."
 			]
 			id: "111649D7E16D869F"
 			rewards: [
@@ -2928,7 +3288,7 @@
 			tasks: [{
 				id: "3CF6151060ADB889"
 				item: {
-					Count: 1
+					Count: 1b
 					id: "ars_nouveau:wand"
 					tag: { }
 				}
@@ -2937,46 +3297,6 @@
 			x: 10.5d
 			y: 1.5d
 		}
-		{
-			can_repeat: false
-			description: [
-				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
-				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
-				""
-				""
-				""
-				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
-			]
-			disable_toast: true
-			hide_details_until_startable: true
-			hide_until_deps_visible: true
-			icon: {
-				Count: 1
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "minecraft:item/barrier"
-				}
-			}
-			id: "34A8C6C18A473A0F"
-			invisible: true
-			optional: true
-			shape: "octagon"
-			tasks: [
-				{
-					disable_toast: true
-					id: "1ADC909E4FF8D317"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-				{
-					id: "1B90FEC3CEB286C8"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-			]
-			x: -7.5d
-			y: 0.0d
-		}
 	]
-	title: "{atm9.chapters.39.title}"
+	title: "Ars Nouveau"
 }
