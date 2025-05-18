@@ -8570,3 +8570,36 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [18May2025 22:50:14.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Zombie
 [18May2025 22:50:14.340] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
 [18May2025 22:50:17.543] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2025 22:50:26.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Ambush]
+[18May2025 22:50:45.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3968ms or 79 ticks behind
+[18May2025 22:50:45.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 moved too quickly! 4.279432176090268,-4.366714012025241,8.090487250011392
+[18May2025 22:50:45.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved too quickly! -0.7607674443897849,-1.0,10.076509331948728
+[18May2025 22:51:22.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Acquire Hardware]
+[18May2025 22:51:27.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Crops of the Wild]
+[18May2025 22:51:28.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [The First Explosion (of many?)]
+[18May2025 22:51:32.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Magic Writing]
+[18May2025 22:53:08.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 lost connection: Disconnected
+[18May2025 22:53:08.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 left the game
+[18May2025 22:53:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Amateur Archaeologist]
+[18May2025 22:54:26.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has reached the goal [Flawless Crystals]
+[18May2025 22:54:46.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was blown up by Primed TNT
+[18May2025 22:54:46.542] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[18May2025 22:54:49.070] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2025 22:56:20.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Barrel Booty]
+[18May2025 22:57:04.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made MarkGamer a server operator
+[18May2025 22:57:10.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Light Up The World!]
+[18May2025 22:57:39.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Disme A Dozen]
+[18May2025 22:58:10.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made MarkGamer no longer a server operator
+[18May2025 22:58:43.508] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1cec5bcc
+[18May2025 22:58:43.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leoy73[/127.190.75.98:50445] logged in with entity id 17671 at (5539.457873681946, 69.0, -6094.068064206766)
+[18May2025 22:58:43.546] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Leoy73
+[18May2025 22:58:43.547] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Leoy73
+[18May2025 22:58:43.547] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Leoy73
+[18May2025 22:58:43.547] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Leoy73
+[18May2025 22:58:43.548] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Leoy73
+[18May2025 22:58:43.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Leoy73
+[18May2025 22:58:43.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Leoy73
+[18May2025 22:58:43.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 joined the game
+[18May2025 22:58:43.901] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
+[18May2025 23:00:14.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Disme A Dozen]
+[18May2025 23:00:37.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Creative Mode]
