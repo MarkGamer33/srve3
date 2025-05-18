@@ -8603,3 +8603,36 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [18May2025 22:58:43.901] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
 [18May2025 23:00:14.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Disme A Dozen]
 [18May2025 23:00:37.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Creative Mode]
+[18May2025 23:01:33.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5236ms or 104 ticks behind
+[18May2025 23:01:33.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 moved too quickly! -5.9386523603079695,-0.49520087700592796,-8.058930260976922
+[18May2025 23:02:19.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 lost connection: Disconnected
+[18May2025 23:02:19.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 left the game
+[18May2025 23:03:12.895] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[18May2025 23:03:28.221] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[18May2025 23:04:55.530] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7a5dcc99
+[18May2025 23:04:55.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leoy73[/127.190.75.98:47157] logged in with entity id 21472 at (7917.565594214636, 119.9579961237168, -5976.549236280693)
+[18May2025 23:04:55.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Leoy73
+[18May2025 23:04:55.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Leoy73
+[18May2025 23:04:55.566] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Leoy73
+[18May2025 23:04:55.566] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Leoy73
+[18May2025 23:04:55.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Leoy73
+[18May2025 23:04:55.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Leoy73
+[18May2025 23:04:55.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Leoy73
+[18May2025 23:04:55.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 joined the game
+[18May2025 23:04:55.797] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
+[18May2025 23:05:54.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Those'll Do For Now]
+[18May2025 23:06:10.395] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4549, y=68, z=-5964} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[18May2025 23:06:10.396] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=-4549, y=68, z=-5964}
+[18May2025 23:06:10.396] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4549, y=69, z=-5963} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[18May2025 23:06:10.396] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-4549, y=69, z=-5963}
+[18May2025 23:06:10.396] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4549, y=69, z=-5964} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[18May2025 23:06:10.396] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-4549, y=69, z=-5964}
+[18May2025 23:06:44.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported Leoy73 to Danilotrento34]
+[18May2025 23:07:41.733] [Worker-Main-21/WARN] [ModernFix/]: The namespace betterstrongholds contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18May2025 23:07:58.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4018ms or 80 ticks behind
+[18May2025 23:07:58.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 moved too quickly! 0.9009564065190716,0.0,9.981003809982212
+[18May2025 23:08:14.777] [Worker-Main-21/WARN] [ModernFix/]: The namespace yungsextras contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[18May2025 23:08:32.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3899ms or 77 ticks behind
+[18May2025 23:08:32.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 moved too quickly! 5.89897947053305,-1.0106500141260284,8.383295277401885
+[18May2025 23:08:54.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported Leoy73 to Danilotrento34]
+[18May2025 23:10:21.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 moved too quickly! 8.845870100628417,5.812595443431178,0.06489090115792351
