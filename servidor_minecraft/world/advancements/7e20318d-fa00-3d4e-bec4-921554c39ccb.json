@@ -1380,6 +1380,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-05-18 23:26:03 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_time_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:07:45 +0000"
@@ -3192,13 +3198,22 @@
     "criteria": {
       "byg:allium_fields": "2025-05-18 22:41:28 +0000",
       "byg:coconino_meadow": "2025-05-18 22:05:58 +0000",
+      "byg:prairie": "2025-05-18 23:21:07 +0000",
+      "byg:rainbow_beach": "2025-05-18 23:29:02 +0000",
+      "byg:temperate_grove": "2025-05-18 23:21:10 +0000",
       "byg:orchard": "2025-05-18 22:41:36 +0000",
+      "byg:autumnal_forest": "2025-05-18 23:27:23 +0000",
+      "byg:white_mangrove_marshes": "2025-05-18 23:26:51 +0000",
+      "byg:bayou": "2025-05-18 23:28:33 +0000",
+      "byg:dacite_ridges": "2025-05-18 23:30:59 +0000",
       "byg:howling_peaks": "2025-05-18 22:37:37 +0000",
       "byg:aspen_forest": "2025-05-18 23:20:36 +0000",
       "byg:forgotten_forest": "2025-05-18 23:06:29 +0000",
       "byg:baobab_savanna": "2025-05-18 23:12:33 +0000",
       "byg:amaranth_fields": "2025-05-18 23:06:45 +0000",
+      "byg:basalt_barrera": "2025-05-18 23:29:11 +0000",
       "byg:lush_stacks": "2025-05-18 23:06:52 +0000",
+      "byg:temperate_rainforest": "2025-05-18 23:29:32 +0000",
       "byg:maple_taiga": "2025-05-18 22:40:38 +0000"
     },
     "done": false
@@ -5171,13 +5186,22 @@
       "minecraft:wooded_badlands": "2025-05-18 23:01:34 +0000",
       "minecraft:beach": "2025-05-18 23:15:36 +0000",
       "minecraft:dark_forest": "2025-05-18 22:49:15 +0000",
+      "minecraft:sparse_jungle": "2025-05-18 23:29:55 +0000",
       "minecraft:river": "2025-05-18 23:01:51 +0000",
       "minecraft:lukewarm_ocean": "2025-05-18 23:07:02 +0000",
+      "minecraft:grove": "2025-05-18 23:31:12 +0000",
       "minecraft:cold_ocean": "2025-05-18 22:08:00 +0000",
       "minecraft:forest": "2025-05-18 23:08:07 +0000",
       "minecraft:lush_caves": "2025-05-18 23:15:52 +0000",
       "minecraft:desert": "2025-05-18 23:14:49 +0000",
-      "minecraft:savanna": "2025-05-18 23:14:22 +0000"
+      "minecraft:windswept_forest": "2025-05-18 23:27:25 +0000",
+      "minecraft:ocean": "2025-05-18 23:29:14 +0000",
+      "minecraft:windswept_savanna": "2025-05-18 23:29:43 +0000",
+      "minecraft:flower_forest": "2025-05-18 23:25:08 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-18 23:29:48 +0000",
+      "minecraft:meadow": "2025-05-18 23:25:00 +0000",
+      "minecraft:savanna": "2025-05-18 23:14:22 +0000",
+      "minecraft:plains": "2025-05-18 23:25:25 +0000"
     },
     "done": false
   },

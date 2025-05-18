@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "charginggadgets:recipes/charginggadgets/charging_station": {
+    "criteria": {
+      "has_diamonds": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-05-18 22:13:22 +0000"
@@ -590,6 +596,12 @@
   "alltheores:recipes/alltheores/lead_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-18 22:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
@@ -1002,6 +1014,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/jukebox": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/jungle_rail_bridge": {
     "criteria": {
       "has_planks": "2025-05-18 22:50:58 +0000"
@@ -1308,6 +1326,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/utilitix/diamond_shears": {
+    "criteria": {
+      "criterion0": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:40 +0000"
@@ -1419,6 +1443,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-18 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/diamond_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
@@ -2109,6 +2139,12 @@
     },
     "done": true
   },
+  "ae2additions:recipes/ae2additions/super_cell_housing": {
+    "criteria": {
+      "has_item": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/pneumatic_wrench": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
@@ -2193,6 +2229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/melon_juice": {
     "criteria": {
       "has_melon": "2025-05-18 22:53:28 +0000"
@@ -2226,6 +2268,12 @@
   "cfm:recipes/cfm/rock_path": {
     "criteria": {
       "has_andesite": "2025-05-18 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
@@ -2440,6 +2488,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/polished_diorite": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:15:55 +0000"
@@ -2596,6 +2650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/gloom_o_lantern": {
     "criteria": {
       "has_torch": "2025-05-18 22:26:17 +0000"
@@ -2623,6 +2683,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/diamond_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
@@ -2683,6 +2749,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_tile": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
@@ -2962,6 +3034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
     "criteria": {
       "has_leggings": "2025-05-18 22:13:23 +0000",
@@ -3060,6 +3138,12 @@
   "additionallanterns:recipes/additionallanterns/gold_chain": {
     "criteria": {
       "recipe_condition": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/diamond_shard": {
+    "criteria": {
+      "has_item": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
@@ -3639,6 +3723,7 @@
       "byg:howling_peaks": "2025-05-18 22:35:03 +0000",
       "byg:forgotten_forest": "2025-05-18 22:45:20 +0000",
       "byg:canadian_shield": "2025-05-18 22:36:11 +0000",
+      "byg:amaranth_fields": "2025-05-18 23:21:42 +0000",
       "byg:dacite_shore": "2025-05-18 22:18:27 +0000"
     },
     "done": false
@@ -3734,6 +3819,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/diamond_from_shards": {
+    "criteria": {
+      "has_item": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-18 22:15:55 +0000"
@@ -3797,6 +3888,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:57:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
@@ -3989,6 +4086,12 @@
   "deepresonance:recipes/deepresonance/filter_material": {
     "criteria": {
       "has_gravel": "2025-05-18 23:04:51 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/diamond_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
@@ -4782,6 +4885,12 @@
     },
     "done": true
   },
+  "rootsclassic:recipes/rootsclassic/attuned_standing_stone": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-18 22:15:55 +0000"
@@ -4975,6 +5084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-18 22:30:13 +0000"
@@ -5077,6 +5192,12 @@
   "alltheores:recipes/alltheores/iron_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-05-18 23:21:45 +0000"
     },
     "done": true
   },
@@ -5656,6 +5777,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/diamond_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
@@ -6130,6 +6257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-05-18 22:54:46 +0000"
@@ -6340,6 +6473,12 @@
     },
     "done": true
   },
+  "dimstorage:recipes/dimstorage_tab/dim_core": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-05-18 22:54:46 +0000"
@@ -6361,6 +6500,12 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-05-18 22:51:03 +0000"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_empty": {
+    "criteria": {
+      "has_diamonds": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
@@ -7238,6 +7383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_grilled_eggplant": {
     "criteria": {
       "has_eggplant": "2025-05-18 22:48:10 +0000"
@@ -7278,6 +7429,12 @@
   "alchemistry:recipes/dissolver/light_blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-05-18 23:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
@@ -7431,6 +7588,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/pressure_chamber_valve_x1": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
@@ -7564,9 +7727,21 @@
     },
     "done": true
   },
+  "ae2additions:recipes/ae2additions/blocks/wireless_transceiver": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-18 22:15:55 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/gems/diamond_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
@@ -7585,6 +7760,12 @@
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
@@ -7873,6 +8054,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-05-18 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/diamond_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
@@ -8538,6 +8725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
@@ -8565,6 +8758,12 @@
   "croptopia:recipes/shaped_ajvar": {
     "criteria": {
       "has_eggplant": "2025-05-18 22:48:10 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shapeless/energy_crystal": {
+    "criteria": {
+      "has_item": "2025-05-18 23:24:48 +0000"
     },
     "done": true
   },
