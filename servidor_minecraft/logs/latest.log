@@ -8550,3 +8550,23 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [18May2025 22:38:14.341] [Server thread/INFO] [tombstone/]: The player Leoy73 has successfully been saved
 [18May2025 22:38:15.869] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [18May2025 22:39:13.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Ashes 'n Bones]
+[18May2025 22:43:36.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Zombie
+[18May2025 22:43:36.119] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[18May2025 22:43:38.838] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2025 22:45:18.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3967ms or 79 ticks behind
+[18May2025 22:46:43.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Far From Perfect]
+[18May2025 22:48:12.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18May2025 22:48:12.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: set level access Leoy73 admin<--[HERE]
+[18May2025 22:48:19.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18May2025 22:48:19.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: set level access Leoy73<--[HERE]
+[18May2025 22:48:24.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18May2025 22:48:24.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: set level access admin Leoy73<--[HERE]
+[18May2025 22:48:59.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Leoy73 a server operator
+[18May2025 22:49:14.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3443ms or 68 ticks behind
+[18May2025 22:49:14.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 moved too quickly! -0.13576416937306135,-10.079955487224904,0.03613844788054621
+[18May2025 22:49:26.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [An Extra Seedy Place]
+[18May2025 22:49:56.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Sky of Beginning]
+[18May2025 22:50:02.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18May2025 22:50:14.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Zombie
+[18May2025 22:50:14.340] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[18May2025 22:50:17.543] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

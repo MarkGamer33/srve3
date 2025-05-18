@@ -1,4 +1,10 @@
 {
+  "additionallanterns:recipes/additionallanterns/granite_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_fence": {
     "criteria": {
       "has_dry_bundle": "2025-05-18 22:28:01 +0000",
@@ -6,9 +12,27 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:28:01 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/end_stone_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
     },
     "done": true
   },
@@ -66,6 +90,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/utilitix/linked_repeater": {
+    "criteria": {
+      "criterion2": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_door": {
     "criteria": {
       "has_bundle": "2025-05-18 22:28:01 +0000"
@@ -102,9 +132,27 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/iron_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-18 22:29:27 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/netherite_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
     },
     "done": true
   },
@@ -132,6 +180,18 @@
     },
     "done": true
   },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2025-05-18 22:40:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2025-05-18 22:28:00 +0000"
@@ -144,9 +204,33 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/cobbled_deepslate_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_bookshelf": {
     "criteria": {
       "has_item": "2025-05-18 22:29:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/roasted_sunflower_seeds": {
+    "criteria": {
+      "has_sunflower": "2025-05-18 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/purpur_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/obsidian_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
     },
     "done": true
   },
@@ -171,6 +255,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-18 22:30:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
     },
     "done": true
   },
@@ -216,6 +306,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
       "has_sweet_fruit": "2025-05-18 22:28:08 +0000"
@@ -254,6 +350,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-05-18 22:42:29 +0000",
       "bread": "2025-05-18 22:29:53 +0000"
     },
     "done": false
@@ -261,6 +358,12 @@
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:28:40 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/quartz_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
     },
     "done": true
   },
@@ -306,15 +409,33 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2025-05-18 22:29:27 +0000"
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/bricks_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
       "has_wct": "2025-05-18 22:28:01 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/mossy_cobblestone_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
     },
     "done": true
   },
@@ -352,6 +473,18 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-18 22:29:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
     },
     "done": true
   },
@@ -402,6 +535,12 @@
     "criteria": {
       "has_bamboo": "2025-05-18 22:28:01 +0000",
       "has_bundle": "2025-05-18 22:28:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
     },
     "done": true
   },
@@ -495,9 +634,33 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_bundle": {
     "criteria": {
       "has_bamboo": "2025-05-18 22:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-18 22:44:29 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/dark_prismarine_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/red_nether_bricks_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
     },
     "done": true
   },
@@ -522,6 +685,12 @@
   "bambooeverything:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_bundle": "2025-05-18 22:28:01 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/building_blocks/macerating/cobblestone": {
+    "criteria": {
+      "has_item": "2025-05-18 22:43:08 +0000"
     },
     "done": true
   },
@@ -621,15 +790,45 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/red_sandstone_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2025-05-18 22:28:01 +0000"
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/normal_sandstone_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-05-18 22:28:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/smooth_stone_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/gold_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
     },
     "done": true
   },
@@ -730,6 +929,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/crimson_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_ladder": {
     "criteria": {
       "has_bamboo": "2025-05-18 22:28:00 +0000"
@@ -739,6 +944,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-18 22:29:27 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_nether_bricks_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
     },
     "done": true
   },
@@ -779,6 +990,18 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-05-18 22:46:43 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/copper_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/decorations/candle": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:26:09 +0000"
@@ -809,6 +1032,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-05-18 22:28:01 +0000"
@@ -830,6 +1059,12 @@
   "corail_woodcutter:recipes/from_byg_maple_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:28:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
     },
     "done": true
   },
@@ -889,6 +1124,18 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-18 22:29:27 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/warped_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "rootsclassic:recipes/rootsclassic/mortar": {
+    "criteria": {
+      "has_stone": "2025-05-18 22:43:08 +0000"
     },
     "done": true
   },
@@ -1043,9 +1290,21 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/basalt_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:26:09 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/prismarine_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
     },
     "done": true
   },
@@ -1073,6 +1332,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/emerald_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2025-05-18 22:28:00 +0000"
@@ -1082,6 +1347,12 @@
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-05-18 22:28:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
     },
     "done": true
   },
@@ -1121,9 +1392,21 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/diamond_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-05-18 22:28:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
     },
     "done": true
   },
@@ -1169,6 +1452,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/blackstone_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_mining_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:28:00 +0000"
@@ -1205,6 +1494,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_mangrove_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:28:01 +0000"
@@ -1232,6 +1527,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:26:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2025-05-18 22:43:08 +0000"
     },
     "done": true
   },
@@ -1277,6 +1578,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/stone_bricks_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
     "criteria": {
       "has_item": "2025-05-18 22:29:27 +0000"
@@ -1307,6 +1614,12 @@
   "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:26:09 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/stone_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
     },
     "done": true
   },
@@ -1407,6 +1720,18 @@
     },
     "done": true
   },
+  "utilitix:recipes/utilitix/crude_furnace": {
+    "criteria": {
+      "criterion0": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2025-05-18 22:28:01 +0000"
@@ -1447,6 +1772,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-18 22:28:01 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/amethyst_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
     },
     "done": true
   },
@@ -1539,6 +1870,12 @@
   "corail_woodcutter:recipes/from_byg_blue_enchanted_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:28:00 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/deepslate_bricks_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
     },
     "done": true
   },
@@ -1652,6 +1989,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/cobblestone_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/apple_juice": {
     "criteria": {
       "has_apple": "2025-05-18 22:28:08 +0000"
@@ -1694,9 +2037,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
     "criteria": {
       "has_item": "2025-05-18 22:29:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
     },
     "done": true
   },
@@ -1742,6 +2097,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/diorite_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
   "byg:biomepedia_gift": {
     "criteria": {
       "tick": "2025-05-18 22:26:09 +0000"
@@ -1763,6 +2124,12 @@
   "tetra:spelunking/ancient_ruins": {
     "criteria": {
       "regular_ruin": "2025-05-18 22:30:55 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/bone_lantern": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:47:45 +0000"
     },
     "done": true
   },
@@ -1793,6 +2160,12 @@
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2025-05-18 22:28:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
     },
     "done": true
   },

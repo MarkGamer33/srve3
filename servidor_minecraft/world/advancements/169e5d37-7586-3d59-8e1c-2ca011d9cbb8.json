@@ -1,4 +1,10 @@
 {
+  "cfm:recipes/cfm/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/granite_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:26:18 +0000"
@@ -8,6 +14,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-05-18 22:14:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -68,6 +80,18 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-18 22:47:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-05-18 22:47:46 +0000"
     },
     "done": true
   },
@@ -155,6 +179,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_desk": {
     "criteria": {
       "has_log": "2025-05-18 22:13:23 +0000"
@@ -164,6 +194,18 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-05-18 22:37:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -179,6 +221,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cooked_beef": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 22:47:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
@@ -188,6 +236,12 @@
   "alchemistry:recipes/dissolver/charcoal": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/central_rune_holder": {
+    "criteria": {
+      "criterion0": "2025-05-18 22:48:32 +0000"
     },
     "done": true
   },
@@ -257,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-18 22:47:48 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_twilight_oak_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:23 +0000"
@@ -287,9 +347,33 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/brown_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-05-18 22:49:56 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_bundle": {
     "criteria": {
       "has_bamboo": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -413,6 +497,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 22:47:46 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/text_module": {
     "criteria": {
       "ingot": "2025-05-18 22:21:16 +0000"
@@ -447,6 +537,12 @@
   "additionallanterns:recipes/additionallanterns/normal_nether_bricks_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-18 22:47:46 +0000"
     },
     "done": true
   },
@@ -612,6 +708,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/pink_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_slab": {
     "criteria": {
       "has_dry_bundle": "2025-05-18 22:13:22 +0000"
@@ -636,9 +738,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/fig_sapling": {
+    "criteria": {
+      "has_fig": "2025-05-18 22:48:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/peanut_seed": {
+    "criteria": {
+      "has_peanut": "2025-05-18 22:49:26 +0000"
     },
     "done": true
   },
@@ -657,6 +771,12 @@
   "modularrouters:recipes/modularrouters/blank_module": {
     "criteria": {
       "has_redstone": "2025-05-18 22:30:28 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-05-18 22:49:56 +0000"
     },
     "done": true
   },
@@ -690,6 +810,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:15 +0000"
@@ -699,6 +825,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/eggplant_seed": {
+    "criteria": {
+      "has_eggplant": "2025-05-18 22:48:10 +0000"
     },
     "done": true
   },
@@ -738,6 +870,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-05-18 22:47:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-18 22:47:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:15 +0000"
@@ -750,9 +894,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/diorite_chain": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:15:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-18 22:47:48 +0000"
     },
     "done": true
   },
@@ -798,6 +954,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/emerald_from_shards": {
+    "criteria": {
+      "has_item": "2025-05-18 22:48:32 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2025-05-18 22:13:22 +0000"
@@ -807,6 +969,12 @@
   "alchemistry:recipes/dissolver/iron_door": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/emerald_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:48:32 +0000"
     },
     "done": true
   },
@@ -902,10 +1070,22 @@
     },
     "done": true
   },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "peanut_seed": "2025-05-18 22:49:26 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2025-05-18 22:13:23 +0000",
       "has_fillet_knife": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -939,9 +1119,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2025-05-18 22:32:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_ratatouille": {
+    "criteria": {
+      "has_eggplant": "2025-05-18 22:48:10 +0000"
     },
     "done": true
   },
@@ -975,6 +1167,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_green": {
+    "criteria": {
+      "has_item": "2025-05-18 22:49:56 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/reinforced_rail": {
     "criteria": {
       "criterion2": "2025-05-18 22:14:49 +0000"
@@ -1005,6 +1203,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/purple_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2025-05-18 22:13:23 +0000"
@@ -1023,9 +1227,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -1185,6 +1401,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 22:47:46 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_cherry_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:23 +0000"
@@ -1200,6 +1422,12 @@
   "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
     "criteria": {
       "has_items": "2025-05-18 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-18 22:47:46 +0000"
     },
     "done": true
   },
@@ -1272,6 +1500,18 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-05-18 22:37:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -1396,6 +1636,12 @@
     },
     "done": true
   },
+  "toolbelt:recipes/belt": {
+    "criteria": {
+      "has_leather": "2025-05-18 22:47:48 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_nightshade_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:22 +0000"
@@ -1450,6 +1696,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/raw_iron_block": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:17:09 +0000"
@@ -1471,6 +1723,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-05-18 22:14:40 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-05-18 22:49:56 +0000"
     },
     "done": true
   },
@@ -1570,6 +1828,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-05-18 22:49:56 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-18 22:21:16 +0000"
@@ -1585,6 +1849,12 @@
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-18 22:47:48 +0000"
     },
     "done": true
   },
@@ -1701,6 +1971,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/coal_ball": {
     "criteria": {
       "has_item": "2025-05-18 22:16:24 +0000"
@@ -1725,6 +2001,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/lime_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/utilitix/experience_crystal": {
+    "criteria": {
+      "criterion1": "2025-05-18 22:48:32 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/wigglewood_boat": {
     "criteria": {
       "in_water": "2025-05-18 22:15:57 +0000"
@@ -1737,9 +2025,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/rolling/ingots/iron_to_iron_plate": {
     "criteria": {
       "has_item": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -1899,6 +2199,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/macerating/raw_materials/tin_to_dust": {
     "criteria": {
       "has_item": "2025-05-18 22:24:29 +0000"
@@ -1932,6 +2238,12 @@
   "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
     "criteria": {
       "has_redstone": "2025-05-18 22:30:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -2037,6 +2349,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-18 22:47:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_figgy_pudding": {
+    "criteria": {
+      "has_fig": "2025-05-18 22:48:58 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/redstone_acid": {
     "criteria": {
       "has_redstone_dust": "2025-05-18 22:30:27 +0000"
@@ -2061,10 +2385,17 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:coconino_meadow": "2025-05-18 22:05:43 +0000",
       "byg:howling_peaks": "2025-05-18 22:35:03 +0000",
+      "byg:forgotten_forest": "2025-05-18 22:45:20 +0000",
       "byg:canadian_shield": "2025-05-18 22:36:11 +0000",
       "byg:dacite_shore": "2025-05-18 22:18:27 +0000"
     },
@@ -2149,6 +2480,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/explosion_crafting/compressed_iron_ingot": {
     "criteria": {
       "tnt": "2025-05-18 22:33:10 +0000"
@@ -2158,6 +2495,12 @@
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2025-05-18 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -2203,6 +2546,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2025-05-18 22:47:48 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:13:23 +0000"
@@ -2239,6 +2588,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2025-05-18 22:21:16 +0000"
@@ -2266,6 +2621,12 @@
   "securitycraft:recipes/securitycraft/briefcase": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-05-18 22:47:46 +0000"
     },
     "done": true
   },
@@ -2412,6 +2773,12 @@
   "utilitix:recipes/utilitix/weak_redstone_torch": {
     "criteria": {
       "criterion1": "2025-05-18 22:14:49 +0000"
+    },
+    "done": true
+  },
+  "toolbelt:recipes/pouch": {
+    "criteria": {
+      "has_leather": "2025-05-18 22:47:48 +0000"
     },
     "done": true
   },
@@ -2565,6 +2932,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-18 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-05-18 22:22:27 +0000"
@@ -2589,6 +2968,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/gray_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-18 22:15:55 +0000"
@@ -2604,6 +2989,12 @@
   "rftoolsutility:recipes/rftoolsutility/redstone_module": {
     "criteria": {
       "ingot": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_beef": "2025-05-18 22:47:46 +0000"
     },
     "done": true
   },
@@ -2646,6 +3037,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 22:47:46 +0000"
     },
     "done": true
   },
@@ -2810,6 +3207,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-18 22:14:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -3025,6 +3428,12 @@
     },
     "done": true
   },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-05-18 22:49:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-05-18 22:14:26 +0000"
@@ -3079,6 +3488,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-05-18 22:47:46 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/knife": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
@@ -3091,9 +3506,21 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/emerald_shard": {
+    "criteria": {
+      "has_item": "2025-05-18 22:48:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-18 22:17:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -3127,9 +3554,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_rainbow_eucalyptus_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -3157,6 +3596,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/blue_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:13:23 +0000"
@@ -3172,6 +3617,12 @@
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-05-18 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -3196,6 +3647,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/seismic_survey_tool": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -3265,6 +3722,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/purple_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/andesite_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:26:18 +0000"
@@ -3301,6 +3764,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/orange_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-05-18 22:14:49 +0000"
@@ -3328,6 +3797,12 @@
   "additionallanterns:recipes/additionallanterns/stone_bricks_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -3472,6 +3947,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sparse_jungle": "2025-05-18 22:47:44 +0000",
+      "minecraft:river": "2025-05-18 22:45:19 +0000",
       "minecraft:cold_ocean": "2025-05-18 22:22:12 +0000",
       "minecraft:deep_dark": "2025-05-18 22:37:52 +0000"
     },
@@ -3525,6 +4002,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/green_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/diorite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2025-05-18 22:15:55 +0000"
@@ -3562,6 +4045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-18 22:47:48 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
       "has_items": "2025-05-18 22:13:22 +0000"
@@ -3583,6 +4072,18 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-18 22:14:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -3616,9 +4117,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_blue_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/highspeed_rail": {
     "criteria": {
       "criterion1": "2025-05-18 22:14:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -3631,6 +4144,12 @@
   "handcrafted:recipes/misc/frozen_bench": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -3667,6 +4186,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-05-18 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -3730,6 +4255,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/white_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/screen_link": {
     "criteria": {
       "redstone": "2025-05-18 22:30:28 +0000"
@@ -3757,6 +4288,12 @@
   "sfm:recipes/sfm/printing_press": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -3886,6 +4423,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/green_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/rftoolsbuilder/vehicle_card": {
     "criteria": {
       "paper": "2025-05-18 22:33:33 +0000"
@@ -3917,6 +4460,12 @@
       "rotten_flesh": "2025-05-18 22:30:58 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/cfm/stripped_spruce_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
   },
   "additionallanterns:recipes/additionallanterns/quartz_lantern": {
     "criteria": {
@@ -3978,6 +4527,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/flower_bag": {
+    "criteria": {
+      "has_item": "2025-05-18 22:49:56 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-05-18 22:30:28 +0000"
@@ -4020,15 +4575,33 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/gray_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_bundle_uncrafting": {
     "criteria": {
       "has_dry_bundle": "2025-05-18 22:13:22 +0000"
     },
     "done": true
   },
+  "cfm:recipes/cfm/cyan_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_dark_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-18 22:47:48 +0000"
     },
     "done": true
   },
@@ -4158,6 +4731,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2025-05-18 22:14:40 +0000"
@@ -4173,6 +4752,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -4200,9 +4785,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_grilled_eggplant": {
+    "criteria": {
+      "has_eggplant": "2025-05-18 22:48:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_redwood_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/supplycampdeployer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -4228,6 +4831,18 @@
   "cfm:recipes/cfm/dark_oak_coffee_table": {
     "criteria": {
       "has_log": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -4264,6 +4879,18 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-05-18 22:05:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_mangrove_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -4306,6 +4933,12 @@
   "corail_woodcutter:recipes/from_byg_witch_hazel_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_eggplant_parmesan": {
+    "criteria": {
+      "has_eggplant": "2025-05-18 22:48:10 +0000"
     },
     "done": true
   },
@@ -4364,6 +4997,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
       "has_items": "2025-05-18 22:13:23 +0000"
@@ -4391,6 +5030,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bannerpatterns": {
     "criteria": {
       "has_paper": "2025-05-18 22:33:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-18 22:47:46 +0000"
     },
     "done": true
   },
@@ -4424,6 +5069,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-05-18 22:33:33 +0000"
@@ -4448,6 +5099,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/nickel_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-18 22:29:25 +0000"
@@ -4457,6 +5114,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_reinforced": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-05-18 22:49:56 +0000"
     },
     "done": true
   },
@@ -4640,9 +5303,27 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/magenta_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak_planks": {
     "criteria": {
       "has_planks": "2025-05-18 22:14:22 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/emerald_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 22:48:32 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/decorations/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -4651,6 +5332,12 @@
       "has_wit": "2025-05-18 22:13:23 +0000",
       "has_wpt": "2025-05-18 22:13:23 +0000",
       "has_wct": "2025-05-18 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_cooler": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
     },
     "done": true
   },
@@ -4747,6 +5434,18 @@
   "utilitix:recipes/utilitix/crude_furnace": {
     "criteria": {
       "criterion1": "2025-05-18 22:14:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-18 22:47:46 +0000"
     },
     "done": true
   },
@@ -4912,6 +5611,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-18 22:47:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_peanut_butter": {
+    "criteria": {
+      "has_peanuts": "2025-05-18 22:49:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-05-18 22:14:22 +0000"
@@ -4933,6 +5644,18 @@
   "alchemistry:recipes/dissolver/iron_nugget": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_ajvar": {
+    "criteria": {
+      "has_eggplant": "2025-05-18 22:48:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2025-05-18 22:47:48 +0000"
     },
     "done": true
   },
