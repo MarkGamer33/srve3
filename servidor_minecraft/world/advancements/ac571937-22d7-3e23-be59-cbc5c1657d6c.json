@@ -768,6 +768,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/powerful_fire_shard_from_fire_shards": {
+    "criteria": {
+      "has_fire_shard": "2025-05-19 16:15:14 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:26:09 +0000"
@@ -2320,6 +2326,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/utilitix/mob_bell": {
+    "criteria": {
+      "criterion3": "2025-05-19 16:15:14 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_fence": {
     "criteria": {
       "has_dry_bundle": "2025-05-18 22:28:01 +0000",
@@ -2849,6 +2861,12 @@
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2025-05-18 22:28:01 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/fire_shard": {
+    "criteria": {
+      "has_fire_shard": "2025-05-19 16:15:14 +0000"
     },
     "done": true
   },
@@ -3865,6 +3883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-19 16:15:14 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2025-05-18 22:29:27 +0000"
@@ -4026,6 +4050,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2025-05-18 22:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-19 16:15:14 +0000"
     },
     "done": true
   },
@@ -4322,6 +4352,12 @@
   "alchemistry:recipes/dissolver/gold_nugget": {
     "criteria": {
       "has_the_recipe": "2025-05-18 23:05:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-19 16:15:14 +0000"
     },
     "done": true
   },

@@ -1500,6 +1500,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/powerful_fire_shard_from_fire_shards": {
+    "criteria": {
+      "has_fire_shard": "2025-05-19 16:16:00 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:41 +0000"
@@ -5040,6 +5046,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/fire_shard": {
+    "criteria": {
+      "has_fire_shard": "2025-05-19 16:16:00 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
@@ -5124,6 +5136,7 @@
       "minecraft:pillager": "2025-05-18 22:50:26 +0000",
       "minecraft:skeleton": "2025-05-18 22:27:43 +0000",
       "minecraft:spider": "2025-05-18 23:15:20 +0000",
+      "minecraft:creeper": "2025-05-19 16:15:14 +0000",
       "minecraft:zombie": "2025-05-18 22:30:39 +0000"
     },
     "done": false
