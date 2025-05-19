@@ -432,6 +432,12 @@
     },
     "done": true
   },
+  "rootsclassic:recipes/rootsclassic/bark_knife": {
+    "criteria": {
+      "has_sapling": "2025-05-19 16:22:27 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/charging_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-18 23:05:34 +0000"
@@ -4068,6 +4074,12 @@
   "rftoolsutility:recipes/rftoolsutility/counterplus_module": {
     "criteria": {
       "ingot": "2025-05-18 22:51:22 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/sapling": {
+    "criteria": {
+      "has_item": "2025-05-19 16:22:27 +0000"
     },
     "done": true
   },

@@ -5777,6 +5777,12 @@
     },
     "done": true
   },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2025-05-19 16:22:50 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:50:56 +0000"

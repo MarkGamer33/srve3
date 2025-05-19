@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "56e964a8345c3e24a48db102cc32046c"
+	name: "josito"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		159872B988A173AA: 1
+	}
+	started: {
+		1B175B2C955D8395: 1747671809375L
+		159872B988A173AA: 1747671809375L
+		731686C758AD9A99: 1747671809375L
+		0000000000000001: 1747671809375L
+	}
+	completed: {
+		159872B988A173AA: 1747671809375L
+		731686C758AD9A99: 1747671809375L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

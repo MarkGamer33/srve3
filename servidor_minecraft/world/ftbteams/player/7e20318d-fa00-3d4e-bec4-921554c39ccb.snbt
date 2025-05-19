@@ -2,9 +2,7 @@
 	id: "7e20318d-fa00-3d4e-bec4-921554c39ccb"
 	type: "player"
 	player_name: "Leoy73"
-	ranks: {
-		7e20318d-fa00-3d4e-bec4-921554c39ccb: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Leoy73"
 		"ftbteams:description": ""
