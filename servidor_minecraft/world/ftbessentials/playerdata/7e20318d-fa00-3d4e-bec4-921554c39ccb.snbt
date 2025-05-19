@@ -3,18 +3,19 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 7917, y: 119, z: -5977, time: 1747609495759L, xRot: 23.249952f, yRot: 134.84747f }
+	last_seen: { dim: "minecraft:overworld", x: 6638, y: 108, z: 732, time: 1747669632145L, xRot: 13.050281f, yRot: -22.880157f }
 	recording: 0
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 135, y: 17, z: 332, time: 1747606853114L, xRot: 3.449932f, yRot: 114.00248f }
-		{ dim: "minecraft:overworld", x: 132, y: 5, z: 333, time: 1747606976805L, xRot: 6.6000314f, yRot: 147.89957f }
-		{ dim: "minecraft:overworld", x: 147, y: 126, z: 485, time: 1747607895868L, xRot: 7.9500527f, yRot: -73.64624f }
-		{ dim: "minecraft:overworld", x: 102, y: 64, z: 316, time: 1747608554490L, xRot: 20.250216f, yRot: 149.24756f }
-		{ dim: "minecraft:overworld", x: 7785, y: 109, z: -6223, time: 1747609604681L, xRot: 3.5999842f, yRot: 155.84787f }
 		{ dim: "minecraft:overworld", x: -8481, y: 77, z: -4474, time: 1747609734289L, xRot: 3.2995722f, yRot: -100.60097f }
 		{ dim: "minecraft:overworld", x: -4840, y: 139, z: -5884, time: 1747609952677L, xRot: 7.49894f, yRot: 63.65815f }
 		{ dim: "minecraft:overworld", x: 7069, y: 165, z: -7708, time: 1747610436028L, xRot: -3.9012387f, yRot: 85.85838f }
 		{ dim: "minecraft:overworld", x: 7949, y: 140, z: -7412, time: 1747610725267L, xRot: 15.148745f, yRot: -130.44337f }
+		{ dim: "minecraft:overworld", x: -6816, y: 136, z: -4647, time: 1747667929819L, xRot: 17.249603f, yRot: 62.30835f }
+		{ dim: "minecraft:overworld", x: 1980, y: 118, z: 879, time: 1747667988059L, xRot: 9.449614f, yRot: 136.7081f }
+		{ dim: "minecraft:overworld", x: 7023, y: 173, z: 152, time: 1747668668808L, xRot: 12.749863f, yRot: 76.103546f }
+		{ dim: "minecraft:overworld", x: 6975, y: 156, z: 526, time: 1747668877350L, xRot: 11.999933f, yRot: 65.30652f }
+		{ dim: "minecraft:overworld", x: 6630, y: 157, z: 883, time: 1747668923503L, xRot: 37.800117f, yRot: 108.798386f }
+		{ dim: "minecraft:overworld", x: 6894, y: 148, z: 616, time: 1747669010960L, xRot: -8.400426f, yRot: 69.370445f }
 	]
 	homes: { }
 }
