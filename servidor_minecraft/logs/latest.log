@@ -1830,3 +1830,25 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 16:55:31.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Back to childhood]
 [20May2025 16:55:31.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Perfectly Balanced]
 [20May2025 16:55:31.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [A True Source of Evil]
+[20May2025 16:58:44.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Unknown Technology]
+[20May2025 16:59:52.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6635ms or 132 ticks behind
+[20May2025 16:59:52.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 moved too quickly! 9.34858920159786,2.504799122994072,-3.076971207432564
+[20May2025 17:01:28.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Spectator Mode]
+[20May2025 17:01:59.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[20May2025 17:02:03.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 moved too quickly! -4.835982083208364,3.9387245965748434,8.643720368711001
+[20May2025 17:02:37.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[20May2025 17:03:09.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[20May2025 17:03:40.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20May2025 17:04:50.751] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/mushroom_mines] in ServerLevel[world] around BlockPos{x=18393, y=93, z=12829} within 50 chunks
+[20May2025 17:04:50.859] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/mushroom_mines] at BlockPos{x=17616, y=0, z=12944} (took 107ms)
+[20May2025 17:04:50.918] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[20May2025 17:04:51.235] [Server thread/WARN] [Async Locator/]: Async Locator -> Couldn't find item handler capability on chest LootrChestBlockEntity at BlockPos{x=18393, y=93, z=12829}
+[20May2025 17:05:21.445] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/mushroom_mines] in ServerLevel[world] around BlockPos{x=18393, y=93, z=12821} within 50 chunks
+[20May2025 17:05:21.445] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / dungeons_arise:explorer_maps/mushroom_mines] at BlockPos{x=17616, y=0, z=12944} (took 0ms)
+[20May2025 17:05:21.473] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[20May2025 17:05:21.769] [Server thread/WARN] [Async Locator/]: Async Locator -> Couldn't find item handler capability on chest LootrChestBlockEntity at BlockPos{x=18393, y=93, z=12821}
+[20May2025 17:06:28.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 was slain by Piglin Brute
+[20May2025 17:06:28.336] [Server thread/INFO] [tombstone/]: The player Leoy73 has successfully been saved
+[20May2025 17:06:29.482] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 17:06:58.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [The Most Useful Key]
+[20May2025 17:07:03.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has reached the goal [A Fast Comeback]

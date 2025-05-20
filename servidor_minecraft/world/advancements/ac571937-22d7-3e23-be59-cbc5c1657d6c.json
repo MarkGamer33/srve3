@@ -11,9 +11,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-05-19 16:56:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-20 16:57:35 +0000"
     },
     "done": true
   },
@@ -62,6 +74,12 @@
   "utilitix:recipes/utilitix/comparator_redirector_up": {
     "criteria": {
       "criterion2": "2025-05-18 22:51:22 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -170,6 +188,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/search_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-18 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -356,6 +380,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-05-20 15:20:58 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -677,6 +707,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-20 16:58:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 17:36:16 +0000"
@@ -755,6 +791,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_crate": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/button_module": {
     "criteria": {
       "ingot": "2025-05-18 22:51:22 +0000"
@@ -782,6 +824,12 @@
   "delightful:recipes/knives/smithing/netherite_opal_knife": {
     "criteria": {
       "has_ingots/netherite": "2025-05-19 23:12:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-05-20 16:57:36 +0000"
     },
     "done": true
   },
@@ -890,6 +938,12 @@
   "ae2:recipes/tools/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2025-05-19 22:12:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-20 16:57:36 +0000"
     },
     "done": true
   },
@@ -1059,6 +1113,12 @@
   "tetra:recipes/string": {
     "criteria": {
       "got_string": "2025-05-19 17:38:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -1698,9 +1758,21 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:51:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -1743,6 +1815,12 @@
   "cfm:recipes/cfm/stripped_birch_chair": {
     "criteria": {
       "has_planks": "2025-05-19 17:26:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -2328,6 +2406,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "undergarden:undergarden/root": {
     "criteria": {
       "tick": "2025-05-18 22:26:09 +0000"
@@ -2403,6 +2487,12 @@
   "additionallanterns:recipes/additionallanterns/diamond_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-20 16:58:17 +0000"
     },
     "done": true
   },
@@ -2508,6 +2598,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-05-20 16:57:36 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/diamond_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-19 21:52:54 +0000"
@@ -2601,6 +2697,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/redstone_acid": {
     "criteria": {
       "has_redstone_dust": "2025-05-19 22:13:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-20 16:57:35 +0000"
     },
     "done": true
   },
@@ -3105,6 +3207,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-05-19 16:52:33 +0000"
@@ -3132,6 +3240,12 @@
   "computercraft:recipes/computercraft/pocket_computer_advanced": {
     "criteria": {
       "has_apple": "2025-05-19 17:44:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -4183,6 +4297,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_dark": {
     "criteria": {
       "has_stone_bricks": "2025-05-18 22:55:40 +0000"
@@ -4246,6 +4366,12 @@
   "alltheores:recipes/alltheores/ruby_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-19 21:52:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_table": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -4460,6 +4586,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "rsinfinitybooster:recipes/refinedstorage/infinity_card": {
     "criteria": {
       "has_item": "2025-05-19 23:12:17 +0000"
@@ -4661,6 +4793,12 @@
   "corail_woodcutter:recipes/from_oak_planks": {
     "criteria": {
       "has_ingredient": "2025-05-19 19:34:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-20 16:57:35 +0000"
     },
     "done": true
   },
@@ -4910,6 +5048,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
@@ -4979,6 +5123,12 @@
   "ae2:recipes/tools/tools/nether_quartz_wrench": {
     "criteria": {
       "has_nether_quartz": "2025-05-19 22:12:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-20 16:57:35 +0000"
     },
     "done": true
   },
@@ -5162,6 +5312,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-20 16:57:35 +0000"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/jeweler_hammer": {
     "criteria": {
       "has_item": "2025-05-19 17:32:56 +0000"
@@ -5192,6 +5348,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-05-20 16:57:36 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/aluminum_torch_raw": {
     "criteria": {
       "has_aluminum": "2025-05-19 17:05:43 +0000"
@@ -5210,9 +5372,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-05-19 22:13:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_desk": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -5309,6 +5483,12 @@
   "botania:recipes/botania/bauble_box": {
     "criteria": {
       "has_item": "2025-05-20 15:15:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-05-20 16:58:43 +0000"
     },
     "done": true
   },
@@ -5781,6 +5961,15 @@
     },
     "done": true
   },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-05-20 16:58:44 +0000",
+      "silicon": "2025-05-20 16:58:44 +0000",
+      "engineering": "2025-05-20 16:58:43 +0000",
+      "logic": "2025-05-20 16:58:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_desk": {
     "criteria": {
       "has_planks": "2025-05-19 16:52:33 +0000"
@@ -5991,6 +6180,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-05-19 22:12:19 +0000"
@@ -6168,6 +6363,12 @@
   "ftbic:recipes/ftbic/shaped/ingots/gold_to_gold_gear": {
     "criteria": {
       "has_item": "2025-05-18 23:05:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-05-20 16:58:17 +0000"
     },
     "done": true
   },
@@ -6435,6 +6636,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_table": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-05-19 17:36:16 +0000"
@@ -6549,6 +6756,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:pickup/water_shard": {
     "criteria": {
       "has_water_shard": "2025-05-18 22:32:03 +0000"
@@ -6606,6 +6819,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_cut_red_sandstone": "2025-05-19 19:48:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_tropical": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -6759,9 +6978,21 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-20 16:58:17 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-05-18 22:28:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-20 16:58:17 +0000"
     },
     "done": true
   },
@@ -7247,6 +7478,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/emerald_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:47:45 +0000"
@@ -7499,6 +7736,18 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-20 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-20 16:57:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2025-05-19 17:10:30 +0000"
@@ -7635,6 +7884,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_purple": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 17:40:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -8061,6 +8316,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:53:18 +0000"
@@ -8232,6 +8493,12 @@
   "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-19 23:12:17 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -8680,6 +8947,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
@@ -8820,6 +9093,12 @@
   "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-05-19 17:43:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -9024,6 +9303,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/mud_bricks_blue_r": {
     "criteria": {
       "has_mud_bricks": "2025-05-19 17:32:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-05-20 16:58:17 +0000"
     },
     "done": true
   },
@@ -9337,6 +9622,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 16:52:33 +0000"
@@ -9547,6 +9838,18 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-20 16:58:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_mahogany_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:28:00 +0000"
@@ -9682,6 +9985,12 @@
   "create:recipes/create.base/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-05-19 22:13:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -9959,6 +10268,12 @@
   "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2025-05-18 22:32:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_crate": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -10545,6 +10860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
@@ -10770,6 +11091,12 @@
   "pneumaticcraft:recipes/explosion_crafting/wheat_flour": {
     "criteria": {
       "tnt": "2025-05-20 15:31:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -11030,6 +11357,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_desk": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shapeless/glass_viewer_rgb_glowing": {
     "criteria": {
       "has_glow_ink": "2025-05-18 22:32:03 +0000"
@@ -11039,6 +11372,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-05-19 17:36:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-05-20 16:58:17 +0000"
     },
     "done": true
   },
@@ -11132,6 +11471,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:26:09 +0000"
@@ -11141,6 +11486,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-05-18 22:53:18 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-20 16:57:35 +0000"
     },
     "done": true
   },
@@ -11255,6 +11606,12 @@
   "cfm:recipes/cfm/dark_oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-05-18 22:53:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -11549,6 +11906,12 @@
   "cfm:recipes/cfm/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2025-05-19 17:43:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -11894,6 +12257,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:10:31 +0000"
@@ -12147,6 +12516,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-05-20 16:57:36 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/gilded_blackstone_light_r": {
     "criteria": {
       "has_gilded_blackstone": "2025-05-19 23:06:35 +0000"
@@ -12255,6 +12630,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-20 16:58:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-05-19 21:57:08 +0000"
@@ -12330,6 +12711,12 @@
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-05-19 19:48:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
@@ -12531,6 +12918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/macerating/coal_dust": {
     "criteria": {
       "has_item": "2025-05-19 16:59:05 +0000"
@@ -12575,6 +12968,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_chair": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-05-19 17:36:16 +0000"
@@ -12596,6 +12995,12 @@
   "mcwlights:recipes/lantern": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-05-20 17:03:01 +0000"
     },
     "done": true
   },
