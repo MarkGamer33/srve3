@@ -1870,3 +1870,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 17:22:44.442] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
 [20May2025 17:23:18.716] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [20May2025 17:25:59.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [The Jeweler]
+[20May2025 17:30:30.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 lost connection: Disconnected
+[20May2025 17:30:30.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 left the game
+[20May2025 17:35:16.298] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/54174, l='ServerLevel[world]', x=6599.79, y=119.41, z=807.79] died: Undead Knight suffocated in a wall
+[20May2025 17:38:33.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6648, y=-30, z=853} BlockPos{x=6646, y=-28, z=854}
+[20May2025 17:38:34.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6646, y=-30, z=851} BlockPos{x=6646, y=-30, z=852}

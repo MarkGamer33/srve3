@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-05-20 17:28:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-19 17:43:09 +0000"
@@ -1389,6 +1395,12 @@
   "alchemistry:recipes/dissolver/cracked_nether_bricks": {
     "criteria": {
       "has_the_recipe": "2025-05-19 21:57:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-05-20 17:28:11 +0000"
     },
     "done": true
   },
@@ -4820,6 +4832,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-20 17:28:11 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/extruding/ingots/iron_to_iron_rod": {
     "criteria": {
       "has_item": "2025-05-18 22:51:22 +0000"
@@ -4913,6 +4931,12 @@
   "mcwroofs:recipes/mud_bricks": {
     "criteria": {
       "has_planks": "2025-05-19 17:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-20 17:28:11 +0000"
     },
     "done": true
   },
@@ -5291,6 +5315,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-05-19 21:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-20 17:28:11 +0000"
     },
     "done": true
   },
@@ -6309,6 +6339,12 @@
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-05-19 17:39:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-05-20 17:28:11 +0000"
     },
     "done": true
   },
@@ -8755,6 +8791,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/hay_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 17:28:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:28:00 +0000"
@@ -8950,6 +8992,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-05-19 19:39:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-20 17:28:11 +0000"
     },
     "done": true
   },
@@ -10033,6 +10081,12 @@
   "croptopia:recipes/croptopia.croptopia/meringue": {
     "criteria": {
       "has_egg": "2025-05-19 17:23:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-20 17:28:11 +0000"
     },
     "done": true
   },
@@ -11580,6 +11634,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:28:11 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_trophy": "2025-05-19 17:15:21 +0000"
@@ -11991,6 +12051,12 @@
   "immersivepetroleum:recipes/immersiveengineering/toolupgrade_drill_lube": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:26:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-05-20 17:28:11 +0000"
     },
     "done": true
   },
