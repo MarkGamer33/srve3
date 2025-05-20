@@ -995,7 +995,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-05-20 17:57:11 +0000"
+      "minecraft:soul_sand_valley": "2025-05-20 17:57:11 +0000",
+      "minecraft:basalt_deltas": "2025-05-20 22:00:02 +0000"
     },
     "done": false
   },
@@ -12999,6 +13000,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-20 16:08:06 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-05-20 21:58:43 +0000"
     },
     "done": true
   },
