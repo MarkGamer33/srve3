@@ -821,6 +821,12 @@
     },
     "done": true
   },
+  "dimstorage:recipes/dimstorage_tab/dimensional_tank": {
+    "criteria": {
+      "has_cauldron": "2025-05-20 17:50:51 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/extruding/ingots/tin_to_tin_rod": {
     "criteria": {
       "has_item": "2025-05-19 21:07:53 +0000"
@@ -7631,6 +7637,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_nickel3": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 17:55:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 17:07:07 +0000"
@@ -10407,6 +10419,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-19 22:07:05 +0000"
+    },
+    "done": true
+  },
+  "rootsclassic:recipes/rootsclassic/brazier": {
+    "criteria": {
+      "has_cauldron": "2025-05-20 17:50:51 +0000"
     },
     "done": true
   },
@@ -13824,6 +13842,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 17:55:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-19 17:58:33 +0000"
@@ -15478,6 +15502,12 @@
   "cfm:recipes/cfm/white_cooler": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_silver3": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 17:55:48 +0000"
     },
     "done": true
   },
