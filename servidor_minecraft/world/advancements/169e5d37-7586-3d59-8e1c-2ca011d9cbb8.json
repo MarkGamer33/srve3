@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_green_dye": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:57:11 +0000"
@@ -695,6 +701,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_yellow_dye": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-19 18:20:26 +0000"
@@ -860,6 +872,12 @@
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-05-19 21:13:10 +0000"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/barge": {
+    "criteria": {
+      "has_item": "2025-05-20 15:08:50 +0000"
     },
     "done": true
   },
@@ -1083,6 +1101,12 @@
   "hexcasting:root": {
     "criteria": {
       "has_charged_amethyst": "2025-05-19 17:39:22 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_yellow": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:51 +0000"
     },
     "done": true
   },
@@ -1830,9 +1854,21 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_routing": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
+    },
+    "done": true
+  },
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2025-05-19 22:20:21 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_blue_dye": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
     },
     "done": true
   },
@@ -3138,6 +3174,12 @@
     },
     "done": true
   },
+  "rftoolsbase:recipes/rftoolsbase/filter_module": {
+    "criteria": {
+      "hopper": "2025-05-20 15:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-05-19 17:17:36 +0000"
@@ -3210,6 +3252,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_red_dye": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_1": {
     "criteria": {
       "has_spruce_plank": "2025-05-18 22:54:46 +0000"
@@ -3237,6 +3285,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_blue": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
     },
     "done": true
   },
@@ -3559,6 +3613,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/unpacking/xychorium_gem_light": {
+    "criteria": {
+      "has_xychorium_storage_light": "2025-05-20 15:09:49 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:41:37 +0000"
@@ -3873,6 +3933,12 @@
     },
     "done": true
   },
+  "littlelogistics:recipes/redstone/rapid_hopper": {
+    "criteria": {
+      "has_item": "2025-05-20 15:06:09 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-18 22:54:46 +0000"
@@ -3906,6 +3972,12 @@
   "alchemistry:recipes/alchemistry/liquifier": {
     "criteria": {
       "has_item": "2025-05-18 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_green_dye": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
     },
     "done": true
   },
@@ -4011,6 +4083,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_blue_dye": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 17:54:38 +0000"
@@ -4032,6 +4110,12 @@
   "cfm:recipes/cfm/brown_grill": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red_dye": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
     },
     "done": true
   },
@@ -4236,6 +4320,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/ender_visor_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-19 17:53:10 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_yellow_dye": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:51 +0000"
     },
     "done": true
   },
@@ -4832,6 +4922,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_blue": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
@@ -4964,6 +5060,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_routing": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_cooler": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
@@ -5033,6 +5135,12 @@
   "cfm:recipes/cfm/spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-05-18 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow_dye": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
     },
     "done": true
   },
@@ -5201,6 +5309,12 @@
   "additionallanterns:recipes/additionallanterns/granite_chain": {
     "criteria": {
       "recipe_condition": "2025-05-19 18:08:16 +0000"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/fluid_hopper": {
+    "criteria": {
+      "has_item": "2025-05-20 15:06:09 +0000"
     },
     "done": true
   },
@@ -5529,6 +5643,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_green": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
@@ -5766,6 +5886,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/iron_chest": {
     "criteria": {
       "has_chest": "2025-05-19 21:00:51 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red_dye": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
     },
     "done": true
   },
@@ -7483,6 +7609,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/food_press": {
+    "criteria": {
+      "has_hopper": "2025-05-20 15:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-05-19 22:07:32 +0000"
@@ -7954,6 +8086,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 21:09:29 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_blue_dye": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:51 +0000"
     },
     "done": true
   },
@@ -9391,6 +9529,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-19 17:58:33 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
     },
     "done": true
   },
@@ -13821,6 +13965,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_red": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:51 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_door": {
     "criteria": {
       "has_bundle": "2025-05-18 22:13:23 +0000"
@@ -14319,6 +14469,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_green_dye": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-05-19 16:37:16 +0000"
@@ -14430,6 +14586,12 @@
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2025-05-18 22:14:40 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_green": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
     },
     "done": true
   },
@@ -15004,6 +15166,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-05-20 15:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-19 20:54:20 +0000"
@@ -15537,6 +15705,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-05-19 17:27:09 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow": {
+    "criteria": {
+      "chest": "2025-05-20 15:08:50 +0000"
     },
     "done": true
   },

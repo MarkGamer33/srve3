@@ -1755,3 +1755,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 14:58:57.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Danilotrento34
 [20May2025 14:58:57.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 joined the game
 [20May2025 14:58:57.943] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Danilotrento34
+[20May2025 15:11:44.252] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@13d176e2
+[20May2025 15:11:44.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['Toby'/946, l='ServerLevel[world]', x=6644.70, y=96.00, z=764.87] died: Toby was blown up by Danilotrento34
+[20May2025 15:11:44.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was blown up by Danilotrento34
+[20May2025 15:11:44.331] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[20May2025 15:11:46.266] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 15:11:49.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Spooky Scary Skeleton]
