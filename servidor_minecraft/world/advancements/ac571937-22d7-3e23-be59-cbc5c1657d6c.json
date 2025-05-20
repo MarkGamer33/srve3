@@ -1284,6 +1284,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/elderberry_jam": {
+    "criteria": {
+      "has_elderberry": "2025-05-20 16:25:37 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/smartwrench": {
     "criteria": {
       "iron": "2025-05-18 22:51:22 +0000"
@@ -2746,6 +2752,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_white": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 17:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-20 16:02:43 +0000"
     },
     "done": true
   },
