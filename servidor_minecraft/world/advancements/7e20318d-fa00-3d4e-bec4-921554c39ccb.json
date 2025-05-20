@@ -2979,6 +2979,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-05-20 14:31:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-18 22:50:55 +0000"
@@ -14725,6 +14731,12 @@
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:57 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-20 14:31:54 +0000"
     },
     "done": true
   },
