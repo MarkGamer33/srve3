@@ -827,6 +827,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_green_r": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-20 15:38:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-20 15:16:24 +0000"
@@ -1089,6 +1095,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 23:05:35 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_dark_r": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-20 15:38:53 +0000"
     },
     "done": true
   },
@@ -3665,6 +3677,7 @@
       "minecraft:cave_spider": "2025-05-19 17:44:16 +0000",
       "minecraft:piglin": "2025-05-19 22:25:33 +0000",
       "minecraft:silverfish": "2025-05-19 17:54:35 +0000",
+      "minecraft:stray": "2025-05-20 15:40:17 +0000",
       "minecraft:zombie": "2025-05-19 19:39:19 +0000",
       "minecraft:zombie_villager": "2025-05-19 21:47:40 +0000"
     },
@@ -6540,6 +6553,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_red_r": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-20 15:38:53 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/mossy_stone_brick_bridge": {
     "criteria": {
       "has_planks": "2025-05-19 17:44:46 +0000"
@@ -6758,6 +6777,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_light": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-20 15:38:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/manasteel_block": {
     "criteria": {
       "has_item": "2025-05-20 15:15:07 +0000"
@@ -6914,6 +6939,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_blue": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-20 15:38:53 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/moonstone_from_shard": {
     "criteria": {
       "has_item": "2025-05-18 22:57:10 +0000"
@@ -7031,6 +7062,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 19:34:55 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_red": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-20 15:38:53 +0000"
     },
     "done": true
   },
@@ -8191,6 +8228,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_blue_r": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-20 15:38:53 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailboots": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
@@ -8613,6 +8656,12 @@
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_light_r": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-20 15:38:53 +0000"
     },
     "done": true
   },
@@ -9102,6 +9151,12 @@
   "ftbic:recipes/ftbic/macerating/raw_materials/iron_to_dust": {
     "criteria": {
       "has_item": "2025-05-18 22:39:37 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_ingot": {
+    "criteria": {
+      "tnt": "2025-05-20 15:31:52 +0000"
     },
     "done": true
   },
@@ -9718,6 +9773,12 @@
     },
     "done": true
   },
+  "rootsclassic:recipes/rootsclassic/imbuer": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-20 15:38:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 23:05:35 +0000"
@@ -10079,6 +10140,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/explosion_crafting/compressed_iron_block": {
+    "criteria": {
+      "tnt": "2025-05-20 15:31:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/manual": {
     "criteria": {
       "has_book": "2025-05-18 22:29:27 +0000"
@@ -10172,6 +10239,12 @@
   "securitycraft:recipes/securitycraft/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-05-19 22:13:03 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_green": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-20 15:38:53 +0000"
     },
     "done": true
   },
@@ -10454,6 +10527,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:51:21 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/explosion_crafting/wheat_flour": {
+    "criteria": {
+      "tnt": "2025-05-20 15:31:52 +0000"
     },
     "done": true
   },
@@ -11887,6 +11966,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-19 16:55:48 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_dark": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-05-20 15:38:53 +0000"
     },
     "done": true
   },

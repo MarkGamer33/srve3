@@ -673,6 +673,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_slab_rotate_to_framed_panel": {
+    "criteria": {
+      "has_framed_slab": "2025-05-20 15:33:19 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
     "criteria": {
       "recipe_condition1": "2025-05-19 22:53:57 +0000",
@@ -3714,6 +3720,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-05-20 15:31:55 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/stone_bricks_chain": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:39:34 +0000"
@@ -4607,6 +4619,12 @@
   "handcrafted:recipes/misc/white_glazed_medium_pot": {
     "criteria": {
       "has_terracotta": "2025-05-19 21:58:28 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_divided_panel_vertical": {
+    "criteria": {
+      "hasFramedCornerPillar": "2025-05-20 15:41:06 +0000"
     },
     "done": true
   },
@@ -6317,6 +6335,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_slab_edge": {
+    "criteria": {
+      "hasFramedSlab": "2025-05-20 15:33:20 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/extruding/ingots/iron_to_iron_rod": {
     "criteria": {
       "has_item": "2025-05-18 22:30:59 +0000"
@@ -7057,6 +7081,12 @@
   "additionallanterns:recipes/additionallanterns/smooth_stone_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:14:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-05-20 15:31:55 +0000"
     },
     "done": true
   },
@@ -8238,6 +8268,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-05-19 18:36:37 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_pillar": {
+    "criteria": {
+      "hasFramedCornerPillar": "2025-05-20 15:41:06 +0000"
     },
     "done": true
   },
@@ -11361,6 +11397,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_slab_corner": {
+    "criteria": {
+      "hasFramedSlab": "2025-05-20 15:33:19 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/onion_rings": {
     "criteria": {
       "has_onions": "2025-05-18 22:08:11 +0000"
@@ -12323,6 +12365,12 @@
     },
     "done": false
   },
+  "framedblocks:recipes/framed_blocks/framed_trapdoor": {
+    "criteria": {
+      "hasFramedSlab": "2025-05-20 15:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-05-18 22:16:07 +0000"
@@ -13009,6 +13057,12 @@
   "create:recipes/create.palettes/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-18 22:16:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-05-20 15:31:55 +0000"
     },
     "done": true
   },
@@ -14029,6 +14083,12 @@
   "cfm:recipes/cfm/oak_chair": {
     "criteria": {
       "has_log": "2025-05-18 22:09:55 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_floor_board": {
+    "criteria": {
+      "hasFramedSlab": "2025-05-20 15:33:19 +0000"
     },
     "done": true
   },
@@ -16694,6 +16754,12 @@
   "mcwlights:recipes/lantern": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:12:53 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_sloped_stairs": {
+    "criteria": {
+      "hasFramedSlab": "2025-05-20 15:33:19 +0000"
     },
     "done": true
   },

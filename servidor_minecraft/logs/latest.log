@@ -1771,3 +1771,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 15:28:28.327] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
 [20May2025 15:28:29.688] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [20May2025 15:30:21.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Into Fire]
+[20May2025 15:36:07.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['General Shadows the Shimmering'/17822, l='ServerLevel[world]', x=940.37, y=56.00, z=-62.35] died: General Shadows the Shimmering was slain by MarkGamer
+[20May2025 15:37:25.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Hot Stuff]
+[20May2025 15:42:06.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has reached the goal [Bone Crusher]
