@@ -3867,15 +3867,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-05-19 22:09:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-05-19 22:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-19 22:09:51 +0000"
     },
     "done": true
   },
@@ -6025,15 +6025,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-05-19 22:07:32 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/blackstone_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2025-05-19 22:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-19 22:07:32 +0000"
     },
     "done": true
   },
@@ -6121,15 +6121,15 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/xycraft_world/shaped/inverted_bricks_cloud_dark": {
-    "criteria": {
-      "has_xychorium_gem_dark": "2025-05-19 22:54:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-05-19 22:05:06 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/inverted_bricks_cloud_dark": {
+    "criteria": {
+      "has_xychorium_gem_dark": "2025-05-19 22:54:14 +0000"
     },
     "done": true
   },
@@ -6235,15 +6235,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/cut_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-05-19 22:58:34 +0000"
-    },
-    "done": true
-  },
   "silentgear:recipes/silentgear/crimson_iron_nugget": {
     "criteria": {
       "has_item": "2025-05-19 21:59:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-05-19 22:58:34 +0000"
     },
     "done": true
   },
@@ -12786,15 +12786,15 @@
     },
     "done": true
   },
-  "ae2:recipes/redstone/misc/vanilla_comparator": {
-    "criteria": {
-      "has_quartz": "2025-05-19 22:07:32 +0000"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/pneumaticcraft/network_io_port": {
     "criteria": {
       "has_capacitor": "2025-05-19 22:00:00 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/redstone/misc/vanilla_comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-19 22:07:32 +0000"
     },
     "done": true
   },
