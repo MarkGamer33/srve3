@@ -1761,3 +1761,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 15:11:44.331] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
 [20May2025 15:11:46.266] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [20May2025 15:11:49.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Spooky Scary Skeleton]
+[20May2025 15:16:24.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Not Today, Thank You]
+[20May2025 15:20:58.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Chest Slayer]
+[20May2025 15:21:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has completed the challenge [Centennial]
+[20May2025 15:22:04.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1131, l='ServerLevel[world]', x=6522.70, y=128.00, z=868.73] died, message: 'Villager hit the ground too hard'
+[20May2025 15:24:25.907] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1121, l='ServerLevel[world]', x=6493.61, y=124.00, z=873.36] died, message: 'Villager hit the ground too hard'
