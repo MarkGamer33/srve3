@@ -1820,3 +1820,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 16:31:44.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
 [20May2025 16:34:33.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Introduction to Chaos]
 [20May2025 16:34:33.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Enchanter]
+[20May2025 16:37:22.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Sneak 100]
+[20May2025 16:39:04.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer hit the ground too hard whilst trying to escape Warden
+[20May2025 16:39:04.324] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[20May2025 16:39:05.478] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
