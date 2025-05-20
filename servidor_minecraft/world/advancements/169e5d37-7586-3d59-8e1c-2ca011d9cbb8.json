@@ -2799,6 +2799,7 @@
       "minecraft:spider": "2025-05-18 23:15:20 +0000",
       "minecraft:creeper": "2025-05-19 16:15:14 +0000",
       "quark:forgotten": "2025-05-20 15:51:21 +0000",
+      "minecraft:phantom": "2025-05-20 23:08:01 +0000",
       "minecraft:zombified_piglin": "2025-05-19 22:32:31 +0000",
       "minecraft:witch": "2025-05-20 14:55:55 +0000",
       "minecraft:wither_skeleton": "2025-05-19 22:02:17 +0000",
@@ -4784,6 +4785,12 @@
   "ftbic:recipes/ftbic/macerating/ingots/iron_to_dust": {
     "criteria": {
       "has_item": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_phantom_glowing_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-20 23:08:01 +0000"
     },
     "done": true
   },
@@ -9027,6 +9034,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_membrane": "2025-05-20 23:08:01 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/bug_net": {
     "criteria": {
       "has_bamboo": "2025-05-19 17:41:37 +0000"
@@ -9911,6 +9924,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_phantom_dark_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-20 23:08:01 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/uranium_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-05-20 17:44:46 +0000"
@@ -10706,6 +10725,12 @@
   "silentgear:recipes/silentgear/paxel_blueprint": {
     "criteria": {
       "has_item": "2025-05-20 22:18:25 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_phantom_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-20 23:08:01 +0000"
     },
     "done": true
   },
@@ -18024,6 +18049,7 @@
       "sweet_berries": "2025-05-18 22:22:29 +0000",
       "cooked_beef": "2025-05-20 18:41:28 +0000",
       "baked_potato": "2025-05-19 21:30:58 +0000",
+      "beef": "2025-05-20 23:05:28 +0000",
       "apple": "2025-05-18 22:29:47 +0000",
       "poisonous_potato": "2025-05-19 22:39:43 +0000",
       "bread": "2025-05-18 22:51:09 +0000",
@@ -18197,6 +18223,12 @@
       "has_item": "2025-05-18 23:05:54 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-05-20 23:08:01 +0000"
+    },
+    "done": false
   },
   "silentgear:recipes/silentgear/helmet_blueprint": {
     "criteria": {

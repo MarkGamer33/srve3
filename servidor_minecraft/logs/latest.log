@@ -1822,3 +1822,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 22:53:50.347] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
 [20May2025 22:53:54.872] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [20May2025 23:00:41.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3508ms or 70 ticks behind
+[20May2025 23:06:11.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 lost connection: Timed out
+[20May2025 23:06:11.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 left the game
+[20May2025 23:06:12.015] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20May2025 23:08:57.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was blown up by Leoy73
+[20May2025 23:08:57.329] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[20May2025 23:08:58.896] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
