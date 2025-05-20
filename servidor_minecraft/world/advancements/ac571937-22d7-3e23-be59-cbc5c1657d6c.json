@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/brewing/uncrafting/ghast_tear": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-05-20 22:28:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_grill": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
@@ -434,6 +440,12 @@
   "alltheores:recipes/alltheores/iridium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-19 21:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 22:31:17 +0000"
     },
     "done": true
   },
@@ -1419,6 +1431,12 @@
   "securitycraft:recipes/securitycraft/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-05-20 17:28:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-05-20 22:38:28 +0000"
     },
     "done": true
   },
@@ -3519,6 +3537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-20 22:28:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
@@ -3745,6 +3769,12 @@
   "bambooeverything:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_bundle": "2025-05-18 22:28:01 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mob_charm_fragments/creeper": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-05-20 22:28:20 +0000"
     },
     "done": true
   },
@@ -4216,6 +4246,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-05-18 22:28:08 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mob_charm_fragments/ghast": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-05-20 22:28:20 +0000"
     },
     "done": true
   },
@@ -6270,6 +6306,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/kraken_shell_fragment": {
+    "criteria": {
+      "has_squid_beak": "2025-05-20 22:32:32 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:53:18 +0000"
@@ -6609,6 +6651,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_green": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-20 15:41:30 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-05-20 22:28:20 +0000"
     },
     "done": true
   },
@@ -7970,6 +8018,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:programming_puzzle": {
+    "criteria": {
+      "0": "2025-05-20 22:35:18 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/ce": {
     "criteria": {
       "has_wpt": "2025-05-18 22:28:00 +0000",
@@ -8365,6 +8419,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_dark_forest": "2025-05-20 22:28:07 +0000",
       "in_pyramid_nether": "2025-05-19 22:07:59 +0000",
       "in_pyramid_badlands": "2025-05-18 23:20:50 +0000"
     },
@@ -9306,6 +9361,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/ink_sac": {
+    "criteria": {
+      "has_squid_beak": "2025-05-20 22:32:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-18 22:55:40 +0000"
@@ -9706,6 +9767,7 @@
     "criteria": {
       "byg:coconino_meadow": "2025-05-18 22:26:10 +0000",
       "byg:rainbow_beach": "2025-05-18 23:06:00 +0000",
+      "byg:allium_fields": "2025-05-20 22:37:39 +0000",
       "byg:sythian_torrids": "2025-05-19 21:59:11 +0000",
       "byg:glowstone_gardens": "2025-05-19 22:10:35 +0000",
       "byg:sierra_badlands": "2025-05-19 20:24:35 +0000",
@@ -9811,6 +9873,12 @@
   "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:26:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2025-05-20 22:28:29 +0000"
     },
     "done": true
   },
@@ -11446,6 +11514,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "quark:glimmering_weald": "2025-05-20 17:11:31 +0000",
+      "minecraft:birch_forest": "2025-05-20 22:38:13 +0000",
       "minecraft:wooded_badlands": "2025-05-19 20:24:51 +0000",
       "minecraft:badlands": "2025-05-18 23:18:05 +0000",
       "minecraft:savanna_plateau": "2025-05-19 15:45:52 +0000",
@@ -11461,6 +11530,7 @@
       "minecraft:deep_cold_ocean": "2025-05-18 22:30:31 +0000",
       "minecraft:jungle": "2025-05-18 23:09:59 +0000",
       "minecraft:deep_dark": "2025-05-19 15:35:49 +0000",
+      "minecraft:meadow": "2025-05-20 22:39:30 +0000",
       "minecraft:savanna": "2025-05-19 15:45:49 +0000",
       "minecraft:plains": "2025-05-18 22:51:05 +0000"
     },
