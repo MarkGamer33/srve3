@@ -2526,6 +2526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-20 15:52:14 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-05-19 17:41:37 +0000"
@@ -8480,6 +8486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-20 15:52:14 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/reliquary/midas_touchstone": {
     "criteria": {
       "has_molten_core": "2025-05-19 21:57:18 +0000"
@@ -9289,6 +9301,12 @@
   "alchemistry:recipes/dissolver/gray_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-05-18 23:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-20 15:52:14 +0000"
     },
     "done": true
   },
@@ -13026,6 +13044,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/macerating/raw_materials/gold_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-20 15:52:14 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_bundle_uncrafting": {
     "criteria": {
       "has_bundle": "2025-05-18 22:13:23 +0000"
@@ -14834,6 +14858,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:57:11 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/raw_gold_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 15:52:14 +0000"
     },
     "done": true
   },

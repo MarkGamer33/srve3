@@ -1781,3 +1781,13 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 15:51:05.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
 [20May2025 15:51:21.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has reached the goal [This Belongs in a Museum]
 [20May2025 15:54:38.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Killed Phantom]
+[20May2025 15:57:11.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [HAMMAH!]
+[20May2025 16:00:09.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Wither Skeleton
+[20May2025 16:00:09.778] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[20May2025 16:00:13.408] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 16:01:57.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Luscious Surroundings]
+[20May2025 16:02:43.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Take Aim]
+[20May2025 16:02:51.188] [Worker-Main-6/WARN] [ModernFix/]: The namespace yungsextras contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[20May2025 16:03:13.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Where Is The Stone Pen?]
+[20May2025 16:04:26.668] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[20May2025 16:04:26.668] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
