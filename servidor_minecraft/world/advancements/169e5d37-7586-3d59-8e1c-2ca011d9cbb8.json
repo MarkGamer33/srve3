@@ -4717,6 +4717,7 @@
       "minecraft:magma_cube": "2025-05-19 21:56:51 +0000",
       "minecraft:spider": "2025-05-18 23:15:20 +0000",
       "minecraft:creeper": "2025-05-19 16:15:14 +0000",
+      "quark:forgotten": "2025-05-20 15:51:21 +0000",
       "minecraft:zombified_piglin": "2025-05-19 22:32:31 +0000",
       "minecraft:witch": "2025-05-20 14:55:55 +0000",
       "minecraft:wither_skeleton": "2025-05-19 22:02:17 +0000",
@@ -5513,6 +5514,12 @@
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-19 20:54:20 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-05-20 15:51:21 +0000"
     },
     "done": true
   },
@@ -6594,6 +6601,12 @@
   "alltheores:recipes/alltheores/tin_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-05-19 21:07:53 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/machine_frame": {
+    "criteria": {
+      "iron_ingot": "2025-05-20 15:47:44 +0000"
     },
     "done": true
   },

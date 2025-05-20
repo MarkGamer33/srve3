@@ -9687,6 +9687,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_horizontal_pane": {
+    "criteria": {
+      "hasFramedPane": "2025-05-20 15:44:09 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-05-19 17:17:24 +0000"
