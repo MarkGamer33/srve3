@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
     "criteria": {
       "has_clay": "2025-05-19 22:58:29 +0000"
@@ -68,6 +74,12 @@
   "securitycraft:recipes/securitycraft/sentry": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -533,6 +545,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-05-20 17:23:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-05-18 22:14:22 +0000"
@@ -959,6 +977,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-18 22:57:40 +0000"
@@ -1107,6 +1131,12 @@
     "criteria": {
       "banana": "2025-05-19 21:58:35 +0000",
       "sapling": "2025-05-19 21:58:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -1299,6 +1329,12 @@
   "reliquary:recipes/reliquary/angelic_feather": {
     "criteria": {
       "has_nebulous_heart": "2025-05-20 16:06:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -1518,6 +1554,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/copper_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-05-19 18:05:31 +0000"
@@ -1686,6 +1728,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/empty_casing": {
+    "criteria": {
+      "has_coppper_ingot": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2025-05-18 22:13:23 +0000"
@@ -1710,6 +1758,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/bronze_ingot": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/netcable_blue": {
     "criteria": {
       "nugget": "2025-05-19 22:09:51 +0000"
@@ -1731,6 +1785,12 @@
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -1839,6 +1899,12 @@
   "elementalcraft:recipes/elementalcraft/improved_elementpipe_from_impaired_elementpipe_and_ingot": {
     "criteria": {
       "has_swift_alloy_ingot": "2025-05-19 21:11:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -1980,6 +2046,18 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/extruding/ingots/copper_to_copper_rod": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-05-20 17:23:25 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_cypress_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:23 +0000"
@@ -2109,6 +2187,12 @@
   "cfm:recipes/cfm/oak_crate": {
     "criteria": {
       "has_log": "2025-05-19 17:47:43 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -2724,6 +2808,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/copper_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:50:56 +0000"
@@ -2943,6 +3033,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-19 17:27:09 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -3354,6 +3450,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "sfm:recipes/sfm/cable": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:15 +0000"
@@ -3363,6 +3465,12 @@
   "alchemistry:recipes/dissolver/pink_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-05-18 23:04:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -3883,6 +3991,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2025-05-18 22:30:28 +0000"
@@ -3958,6 +4072,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/ingots/copper_to_copper_rod": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -4170,6 +4290,12 @@
   "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-05-18 22:30:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -4871,6 +4997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-05-18 22:53:28 +0000"
@@ -5244,6 +5376,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -5909,6 +6047,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/copper_torch": {
+    "criteria": {
+      "has_copper": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_green": {
     "criteria": {
       "chest": "2025-05-20 15:08:50 +0000"
@@ -5966,6 +6110,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -6344,6 +6494,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-18 22:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-20 17:23:25 +0000"
     },
     "done": true
   },
@@ -6887,6 +7043,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-18 22:22:29 +0000"
@@ -6914,6 +7076,12 @@
   "rftoolsutility:recipes/rftoolsutility/counter_module": {
     "criteria": {
       "ingot": "2025-05-18 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -7314,6 +7482,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-05-19 17:54:38 +0000"
@@ -7710,6 +7884,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/network_node": {
     "criteria": {
       "has_capacitor": "2025-05-19 22:00:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-05-20 17:25:59 +0000"
     },
     "done": true
   },
@@ -8127,6 +8307,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/apple_sapling": {
     "criteria": {
       "has_apple": "2025-05-18 22:14:26 +0000"
@@ -8250,6 +8436,12 @@
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 16:10:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -8487,6 +8679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
@@ -8544,6 +8742,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-05-18 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/rolling/ingots/copper_to_copper_plate": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -8706,6 +8910,12 @@
   "create:recipes/create.palettes/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-19 18:20:26 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shapeless/copper_ingot_to_copper_nugget": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -9413,6 +9623,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2025-05-20 17:23:25 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/redstone_hook": {
     "criteria": {
       "has_items": "2025-05-18 22:13:23 +0000"
@@ -9930,6 +10146,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/redstone": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 17:23:25 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:programming_puzzle": {
     "criteria": {
       "0": "2025-05-19 17:40:11 +0000"
@@ -9964,6 +10186,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/compressed_stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-05-18 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "advancedperipherals:recipes/advancedperipheralstab/peripheral_casing": {
+    "criteria": {
+      "has_item": "2025-05-20 17:23:25 +0000"
     },
     "done": true
   },
@@ -10407,6 +10635,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/ingots/copper_to_copper_gear": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/end_stone_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:26:17 +0000"
@@ -10548,6 +10782,12 @@
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-05-19 17:47:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -10743,6 +10983,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/voltmeter": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_skyris_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:23 +0000"
@@ -10795,6 +11041,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-05-19 18:08:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -10993,6 +11245,12 @@
   "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 21:09:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/copper_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -11872,6 +12130,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/copper_wire": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-05-18 22:50:56 +0000"
@@ -12008,6 +12272,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_white": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -12509,6 +12779,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/copper_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-19 17:27:08 +0000"
@@ -12704,6 +12980,12 @@
   "littlelogistics:recipes/transportation/tug": {
     "criteria": {
       "has_item": "2025-05-20 16:12:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -12951,6 +13233,12 @@
   "cfm:recipes/cfm/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-19 17:58:33 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/antenna": {
+    "criteria": {
+      "bars": "2025-05-20 17:23:58 +0000"
     },
     "done": true
   },
@@ -13553,6 +13841,12 @@
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:47:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -14491,6 +14785,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/macerating/ingots/copper_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-19 17:40:53 +0000"
@@ -14506,6 +14806,12 @@
   "cfm:recipes/cfm/spruce_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-05-18 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
+    "criteria": {
+      "has_coppper_ingot": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -14710,6 +15016,12 @@
   "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:47:42 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -14920,6 +15232,12 @@
   "botania:recipes/botania/flower_bag": {
     "criteria": {
       "has_item": "2025-05-18 22:49:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },
@@ -16441,6 +16759,12 @@
   "mcwroofs:recipes/awning": {
     "criteria": {
       "has_planks": "2025-05-20 16:09:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-05-20 17:22:33 +0000"
     },
     "done": true
   },

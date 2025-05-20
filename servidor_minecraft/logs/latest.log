@@ -1860,3 +1860,13 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 17:16:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Warden
 [20May2025 17:16:49.838] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
 [20May2025 17:17:39.923] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 17:18:23.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was obliterated by a sonically-charged shriek
+[20May2025 17:18:23.085] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[20May2025 17:18:25.161] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 17:20:06.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has reached the goal [Discreet Search]
+[20May2025 17:22:13.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 lost connection: Disconnected
+[20May2025 17:22:13.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 left the game
+[20May2025 17:22:44.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Husk
+[20May2025 17:22:44.442] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[20May2025 17:23:18.716] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 17:25:59.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [The Jeweler]
