@@ -1791,3 +1791,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 22:14:10.571] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Danilotrento34
 [20May2025 22:14:10.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 joined the game
 [20May2025 22:14:10.863] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Danilotrento34
+[20May2025 22:17:50.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4867ms or 97 ticks behind
+[20May2025 22:18:25.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Construction Paper]
+[20May2025 22:20:20.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has reached the goal [Great minds think alike]

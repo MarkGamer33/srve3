@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-20 22:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-05-19 17:33:57 +0000"
@@ -638,6 +644,12 @@
   "rootsclassic:recipes/rootsclassic/bark_knife": {
     "criteria": {
       "has_sapling": "2025-05-19 16:22:27 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:15:56 +0000"
     },
     "done": true
   },
@@ -1023,6 +1035,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-19 16:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-20 22:15:56 +0000"
     },
     "done": true
   },
@@ -2190,6 +2208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-05-20 22:17:07 +0000"
+    },
+    "done": true
+  },
   "mythicbotany:recipes/mythicbotany/alfsteel_pylon": {
     "criteria": {
       "criterion2": "2025-05-19 22:16:21 +0000"
@@ -3085,6 +3109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-20 22:15:56 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-05-18 22:26:09 +0000"
@@ -3592,6 +3622,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 22:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-18 22:29:27 +0000"
@@ -3830,6 +3866,12 @@
   "mcwbridges:recipes/dry_bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-19 17:43:27 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-05-20 22:16:50 +0000"
     },
     "done": true
   },
@@ -4252,6 +4294,12 @@
   "croptopia:recipes/shaped_bacon": {
     "criteria": {
       "has_porkchop": "2025-05-19 19:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-20 22:15:56 +0000"
     },
     "done": true
   },
@@ -4916,6 +4964,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/deepslate_bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-20 22:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-19 17:38:11 +0000"
@@ -5159,6 +5213,12 @@
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2025-05-18 22:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-20 22:15:56 +0000"
     },
     "done": true
   },
@@ -5612,6 +5672,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/deepslate_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 22:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_red_sandstone": "2025-05-19 19:48:19 +0000"
@@ -5742,6 +5808,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-05-19 19:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-20 22:15:56 +0000"
     },
     "done": true
   },
@@ -7754,6 +7826,12 @@
     },
     "done": false
   },
+  "alchemistry:recipes/dissolver/deepslate_tiles": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 22:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-19 16:52:34 +0000"
@@ -7993,6 +8071,12 @@
   "silentgear:recipes/silentgear/axe_template": {
     "criteria": {
       "has_item": "2025-05-19 17:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-20 22:15:56 +0000"
     },
     "done": true
   },
@@ -10282,6 +10366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-20 22:15:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_grill": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
@@ -10334,6 +10424,12 @@
   "cfm:recipes/cfm/acacia_crate": {
     "criteria": {
       "has_log": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-20 22:20:20 +0000"
     },
     "done": true
   },
@@ -10647,6 +10743,12 @@
   "alchemistry:recipes/dissolver/nether_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-19 21:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-20 22:15:56 +0000"
     },
     "done": true
   },
@@ -11196,6 +11298,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/deepslate_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-20 22:15:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-19 17:32:56 +0000"
@@ -11565,6 +11679,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/manual_compressor": {
     "criteria": {
       "has_pressure_tube": "2025-05-19 17:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-20 22:15:56 +0000"
     },
     "done": true
   },
@@ -13344,6 +13464,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/mud_bricks_light_r": {
     "criteria": {
       "has_mud_bricks": "2025-05-19 17:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-20 22:15:56 +0000"
     },
     "done": true
   },
