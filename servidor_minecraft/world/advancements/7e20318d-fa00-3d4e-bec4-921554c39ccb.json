@@ -1317,6 +1317,12 @@
     },
     "done": true
   },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "sapling": "2025-05-20 17:10:37 +0000"
+    },
+    "done": false
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2025-05-20 15:55:53 +0000"
@@ -5135,6 +5141,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/item_life_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-20 16:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-20 17:14:05 +0000"
     },
     "done": true
   },
@@ -9127,6 +9139,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/obsidian_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-20 17:10:35 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:09:55 +0000"
@@ -10277,6 +10295,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-05-20 17:11:30 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/speed_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-20 16:57:40 +0000"
@@ -11320,6 +11344,12 @@
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:10:48 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/obsidian_dust": {
+    "criteria": {
+      "has_item": "2025-05-20 17:10:35 +0000"
     },
     "done": true
   },
@@ -13158,6 +13188,12 @@
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/stick": {
     "criteria": {
       "has_item": "2025-05-18 22:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-20 17:10:35 +0000"
     },
     "done": true
   },
@@ -15333,6 +15369,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-20 17:07:03 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/flarestack": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:57 +0000"
@@ -16967,6 +17009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-20 17:10:35 +0000"
+    },
+    "done": true
+  },
   "trashcans:recipes/decorations/liquid_trash_can": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:36:08 +0000"
@@ -17079,6 +17127,12 @@
   "mcwbridges:recipes/brick_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-19 17:44:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-20 17:06:58 +0000"
     },
     "done": true
   },

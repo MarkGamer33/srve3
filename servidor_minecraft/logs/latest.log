@@ -1852,3 +1852,11 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 17:06:29.482] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [20May2025 17:06:58.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [The Most Useful Key]
 [20May2025 17:07:03.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has reached the goal [A Fast Comeback]
+[20May2025 17:10:35.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Ice Bucket Challenge]
+[20May2025 17:11:26.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has reached the goal [A Metropolis of Restless Souls]
+[20May2025 17:11:30.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [This Must be a Sign!]
+[20May2025 17:11:33.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has reached the goal [A Metropolis of Restless Souls]
+[20May2025 17:11:51.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 moved too quickly! -2.060086591391155,1.4557314798396845,9.952455050683056
+[20May2025 17:16:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Warden
+[20May2025 17:16:49.838] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[20May2025 17:17:39.923] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

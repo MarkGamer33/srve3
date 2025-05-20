@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-20 17:14:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
@@ -1227,6 +1233,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2025-05-18 22:57:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/uranium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-20 17:10:34 +0000"
     },
     "done": true
   },
@@ -2292,6 +2304,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/uranium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-20 17:10:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-05-18 22:30:27 +0000"
@@ -2646,6 +2664,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-20 17:14:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-05-19 20:54:20 +0000"
@@ -2829,6 +2853,12 @@
   "create:recipes/create.palettes/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-19 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-05-20 17:14:05 +0000"
     },
     "done": true
   },
@@ -3889,6 +3919,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/macerating/raw_materials/uranium_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-20 17:10:34 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-19 17:09:18 +0000"
@@ -4823,6 +4859,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_uranium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/uranium]": "2025-05-20 17:10:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/iron_to_diamond_tier_upgrade": {
     "criteria": {
       "has_iron_to_gold_tier_upgrade": "2025-05-20 16:29:14 +0000"
@@ -5379,6 +5421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-20 17:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-18 22:51:32 +0000"
@@ -5451,9 +5499,21 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/smelting/raw_materials/uranium_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-20 17:10:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-05-19 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_cushion": "2025-05-20 17:14:05 +0000"
     },
     "done": true
   },
@@ -7058,6 +7118,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-19 17:45:53 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-05-20 17:11:26 +0000"
     },
     "done": true
   },
@@ -9665,6 +9731,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-05-20 17:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 21:09:29 +0000"
@@ -10236,6 +10308,12 @@
   "byg:biomepedia_gift": {
     "criteria": {
       "tick": "2025-05-18 22:05:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_sheet": "2025-05-20 17:14:05 +0000"
     },
     "done": true
   },
@@ -11388,6 +11466,12 @@
   "croptopia:recipes/documentation": {
     "criteria": {
       "has_crop": "2025-05-18 22:14:26 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/blasting/raw_materials/uranium_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-20 17:10:34 +0000"
     },
     "done": true
   },
@@ -13562,6 +13646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-20 17:14:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-19 17:47:42 +0000"
@@ -13992,6 +14082,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:eroded_badlands": "2025-05-19 17:10:32 +0000",
+      "quark:glimmering_weald": "2025-05-20 17:11:35 +0000",
       "minecraft:sunflower_plains": "2025-05-19 21:41:29 +0000",
       "minecraft:wooded_badlands": "2025-05-19 17:13:20 +0000",
       "minecraft:badlands": "2025-05-19 17:08:44 +0000",
