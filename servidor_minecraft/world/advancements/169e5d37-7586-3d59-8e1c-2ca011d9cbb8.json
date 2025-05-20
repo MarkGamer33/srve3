@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/mossy_cobblestone_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:26:17 +0000"
@@ -1008,6 +1014,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/eggplant_seed": {
     "criteria": {
       "has_eggplant": "2025-05-18 22:48:10 +0000"
@@ -1632,6 +1644,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/decorations/torch_ditchbulb_paste": {
     "criteria": {
       "has_stick": "2025-05-18 22:14:49 +0000"
@@ -1647,6 +1665,12 @@
   "elementalcraft:recipes/elementalcraft/improved_elementpipe_from_impaired_elementpipe_and_ingot": {
     "criteria": {
       "has_swift_alloy_ingot": "2025-05-19 21:11:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
     },
     "done": true
   },
@@ -2760,6 +2784,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/unset_jewel": {
     "criteria": {
       "has_swift_alloy_ingot": "2025-05-19 21:11:53 +0000"
@@ -3045,6 +3075,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:50:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
     },
     "done": true
   },
@@ -4476,6 +4512,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
@@ -5245,6 +5287,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-19 18:08:16 +0000"
@@ -5344,6 +5398,12 @@
   "cfm:recipes/cfm/stripped_acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
     },
     "done": true
   },
@@ -5614,6 +5674,12 @@
   "create:recipes/create.palettes/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-05-19 18:05:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
     },
     "done": true
   },
@@ -6662,6 +6728,12 @@
   "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
     },
     "done": true
   },
@@ -8395,6 +8467,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/jungle_rail_bridge": {
     "criteria": {
       "has_planks": "2025-05-18 22:50:58 +0000"
@@ -8982,6 +9060,12 @@
   "elementalcraft:pickup/powerful_fire_shard": {
     "criteria": {
       "has_powerful_fire_shard": "2025-05-19 22:02:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
     },
     "done": true
   },
@@ -9584,6 +9668,12 @@
   "quarryplus:recipes/workbench": {
     "criteria": {
       "has_redstone": "2025-05-18 22:30:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
     },
     "done": true
   },
@@ -10764,6 +10854,7 @@
       "byg:prairie": "2025-05-19 21:42:30 +0000",
       "byg:sythian_torrids": "2025-05-19 22:09:14 +0000",
       "byg:glowstone_gardens": "2025-05-19 22:29:45 +0000",
+      "byg:sierra_badlands": "2025-05-20 14:29:11 +0000",
       "byg:red_oak_forest": "2025-05-19 15:25:31 +0000",
       "byg:redwood_thicket": "2025-05-19 15:25:46 +0000",
       "byg:dead_sea": "2025-05-19 15:26:47 +0000",
@@ -13770,6 +13861,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/french_fries": {
     "criteria": {
       "has_potato": "2025-05-18 22:57:40 +0000"
@@ -14119,6 +14216,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-19 17:58:33 +0000"
@@ -14362,6 +14465,12 @@
   "create:recipes/create.palettes/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-19 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
     },
     "done": true
   },
@@ -14796,6 +14905,12 @@
   "alchemistry:recipes/dissolver/polished_deepslate": {
     "criteria": {
       "has_the_recipe": "2025-05-19 17:45:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
     },
     "done": true
   },
