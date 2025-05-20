@@ -1741,3 +1741,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 14:29:43.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was obliterated by a sonically-charged shriek
 [20May2025 14:29:43.115] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
 [20May2025 14:29:44.931] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 14:47:05.547] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1127, l='ServerLevel[world]', x=6504.56, y=119.00, z=848.76] died, message: 'Villager hit the ground too hard'
+[20May2025 14:49:51.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Bonfire Lit]
