@@ -14925,6 +14925,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-05-20 23:19:34 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:pickup/swift_alloy_nugget": {
     "criteria": {
       "has_swift_alloy_nugget": "2025-05-18 22:51:55 +0000"
