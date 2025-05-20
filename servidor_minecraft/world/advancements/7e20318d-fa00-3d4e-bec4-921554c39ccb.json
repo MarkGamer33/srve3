@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/crimson_iron_dust": {
+    "criteria": {
+      "has_item": "2025-05-20 23:30:51 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/beef_jerky": {
     "criteria": {
       "has_beef": "2025-05-18 22:41:45 +0000"
@@ -200,6 +206,12 @@
   "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-05-19 18:50:29 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/salvager": {
+    "criteria": {
+      "has_item": "2025-05-20 23:30:51 +0000"
     },
     "done": true
   },
@@ -946,6 +958,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/blaze_gold_dust": {
+    "criteria": {
+      "has_item": "2025-05-20 23:29:02 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/railways/benchcart": {
     "criteria": {
       "hasitem": "2025-05-19 17:42:55 +0000"
@@ -1040,6 +1058,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:39:31 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/glacial_staff": {
+    "criteria": {
+      "has_void_tear": "2025-05-20 23:31:01 +0000"
     },
     "done": true
   },
@@ -2537,6 +2561,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/crimson_iron_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-20 23:30:51 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-05-18 22:07:45 +0000"
@@ -2704,6 +2734,12 @@
   "corail_woodcutter:recipes/from_canopy_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-20 23:29:02 +0000"
     },
     "done": true
   },
@@ -2932,6 +2968,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-18 22:34:54 +0000",
+      "minecraft:hoglin": "2025-05-20 23:26:37 +0000",
       "minecraft:vindicator": "2025-05-19 18:37:58 +0000",
       "minecraft:magma_cube": "2025-05-20 22:02:51 +0000",
       "minecraft:spider": "2025-05-19 17:35:53 +0000",
@@ -2969,6 +3006,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-05-18 22:59:15 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/material_grader": {
+    "criteria": {
+      "has_item": "2025-05-20 23:29:02 +0000"
     },
     "done": true
   },
@@ -3539,6 +3582,12 @@
   "elementalcraft:recipes/elementalcraft/elementpipe_from_impaired_elementpipe_and_nugget": {
     "criteria": {
       "has_drenched_iron_nugget": "2025-05-18 22:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-20 23:26:54 +0000"
     },
     "done": true
   },
@@ -4294,6 +4343,12 @@
   "cfm:recipes/cfm/jungle_table": {
     "criteria": {
       "has_planks": "2025-05-19 18:36:37 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-20 23:30:51 +0000"
     },
     "done": true
   },
@@ -7440,6 +7495,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-05-20 23:22:16 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/charged_porter": {
     "criteria": {
       "pearl": "2025-05-19 17:50:56 +0000"
@@ -9321,6 +9382,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/glowing_water": {
+    "criteria": {
+      "has_nether_wart": "2025-05-20 23:29:01 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/aluminum_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-19 21:12:34 +0000"
@@ -9426,6 +9493,12 @@
   "undergarden:recipes/undergarden_group/slingshot": {
     "criteria": {
       "has_stick": "2025-05-18 22:10:03 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-05-20 23:30:51 +0000"
     },
     "done": true
   },
@@ -10861,6 +10934,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-05-20 23:29:01 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/green_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-19 21:58:27 +0000"
@@ -10960,6 +11039,12 @@
   "additionallanterns:recipes/additionallanterns/normal_lantern_brown": {
     "criteria": {
       "recipe_condition": "2025-05-19 18:29:00 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-05-20 23:30:51 +0000"
     },
     "done": true
   },
@@ -11249,6 +11334,12 @@
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-19 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/sojourner_staff": {
+    "criteria": {
+      "has_void_tear": "2025-05-20 23:31:01 +0000"
     },
     "done": true
   },
@@ -12423,6 +12514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-20 23:29:01 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_stone_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 16:48:55 +0000"
@@ -13210,6 +13307,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/blaze_gold_block": {
+    "criteria": {
+      "has_item": "2025-05-20 23:29:02 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-05-18 22:05:58 +0000"
@@ -13674,6 +13777,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/blaze_gold_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-20 23:29:02 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/quartz_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:14:46 +0000"
@@ -13898,6 +14007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-20 23:29:01 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2025-05-18 22:09:55 +0000"
@@ -13979,6 +14094,12 @@
   "create:recipes/create.palettes/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-20 19:17:30 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_nugget": {
+    "criteria": {
+      "has_item": "2025-05-20 23:30:51 +0000"
     },
     "done": true
   },
@@ -15520,6 +15641,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/blaze_gold_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-20 23:29:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_table": {
     "criteria": {
       "has_planks": "2025-05-19 21:43:42 +0000"
@@ -15685,9 +15812,10 @@
   },
   "silentgear:crimson_iron": {
     "criteria": {
-      "get_ore": "2025-05-20 17:59:23 +0000"
+      "get_ore": "2025-05-20 17:59:23 +0000",
+      "get_ingot": "2025-05-20 23:30:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "alltheores:recipes/alltheores/gold_dust_from_hammer_ingot_crushing": {
     "criteria": {
@@ -15871,6 +15999,12 @@
     },
     "done": true
   },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2025-05-20 23:29:02 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 21:43:42 +0000"
@@ -15955,6 +16089,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/netherite_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 23:26:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-18 22:22:09 +0000"
@@ -16012,6 +16152,12 @@
   "alltheores:recipes/alltheores/nickel_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-19 21:12:34 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_block": {
+    "criteria": {
+      "has_item": "2025-05-20 23:30:51 +0000"
     },
     "done": true
   },
@@ -16492,6 +16638,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/harvest_rod": {
+    "criteria": {
+      "has_void_tear": "2025-05-20 23:31:01 +0000"
+    },
+    "done": true
+  },
   "wirelesschargers:recipes/wirelesschargers/basic_wireless_player_charger": {
     "criteria": {
       "recipe_condition": "2025-05-19 17:50:56 +0000"
@@ -16712,6 +16864,12 @@
   "connectedglass:recipes/misc/borderless_glass_gray_pane2": {
     "criteria": {
       "recipe_condition1": "2025-05-19 22:53:57 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-05-20 23:30:51 +0000"
     },
     "done": true
   },
@@ -17449,6 +17607,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/blaze_gold_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-05-20 23:29:02 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/blue_enchanted_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-20 17:03:52 +0000"
@@ -17686,6 +17850,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/emperor_chalice": {
+    "criteria": {
+      "has_void_tear": "2025-05-20 23:31:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2025-05-18 22:09:55 +0000"
@@ -17707,6 +17877,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/manual": {
     "criteria": {
       "has_book": "2025-05-18 22:11:08 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/blaze_gold_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-05-20 23:29:02 +0000"
     },
     "done": true
   },
@@ -17989,6 +18165,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
       "has_cobbled_deepslate_slab": "2025-05-19 22:47:15 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/blaze_gold_nugget": {
+    "criteria": {
+      "has_item": "2025-05-20 23:29:02 +0000"
     },
     "done": true
   },
@@ -18662,6 +18844,7 @@
       "beef": "2025-05-20 18:36:23 +0000",
       "apple": "2025-05-18 22:12:44 +0000",
       "bread": "2025-05-18 22:28:58 +0000",
+      "golden_apple": "2025-05-20 23:30:39 +0000",
       "cooked_chicken": "2025-05-19 18:45:07 +0000"
     },
     "done": false
@@ -19063,6 +19246,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-05-19 21:12:15 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/red_nether_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 23:29:01 +0000"
     },
     "done": true
   },

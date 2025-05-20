@@ -1836,3 +1836,50 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 23:26:10.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported MarkGamer to Leoy73]
 [20May2025 23:26:10.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [The Imperial March]
 [20May2025 23:26:11.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[20May2025 23:27:37.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported MarkGamer to Leoy73]
+[20May2025 23:27:37.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was doomed to fall
+[20May2025 23:27:37.743] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[20May2025 23:27:38.785] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 23:27:41.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/1094, l='ServerLevel[world]', x=6493.47, y=124.00, z=873.72] died, message: 'Leatherworker hit the ground too hard'
+[20May2025 23:29:02.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Blaze Gold]
+[20May2025 23:29:14.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer fell from a high place
+[20May2025 23:29:14.378] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[20May2025 23:29:15.983] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 23:29:37.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported MarkGamer to Leoy73]
+[20May2025 23:30:29.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[20May2025 23:30:33.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was blown up by Creeper
+[20May2025 23:30:33.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[20May2025 23:30:33.493] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[20May2025 23:30:34.616] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 23:30:51.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Crimson Iron]
+[20May2025 23:31:05.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has reached the goal [Chain Death]
+[20May2025 23:31:05.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was doomed to fall
+[20May2025 23:31:05.591] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[20May2025 23:31:07.140] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 23:31:53.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported MarkGamer to Leoy73]
+[20May2025 23:32:37.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was slain by Phantom
+[20May2025 23:32:37.857] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[20May2025 23:32:39.020] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 23:32:46.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 was slain by Slime
+[20May2025 23:32:46.281] [Server thread/INFO] [tombstone/]: The player Leoy73 has successfully been saved
+[20May2025 23:32:47.369] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 23:33:02.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 was slain by Slime
+[20May2025 23:33:02.832] [Server thread/INFO] [tombstone/]: The player Leoy73 has successfully been saved
+[20May2025 23:33:05.429] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 23:33:07.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Spectator Mode]
+[20May2025 23:33:15.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[20May2025 23:33:18.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 was slain by Slime
+[20May2025 23:33:18.681] [Server thread/INFO] [tombstone/]: The player Leoy73 has successfully been saved
+[20May2025 23:33:21.769] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 23:33:22.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Spectator Mode]
+[20May2025 23:33:36.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[20May2025 23:33:42.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 was slain by Phantom
+[20May2025 23:33:42.697] [Server thread/INFO] [tombstone/]: The player Leoy73 has successfully been saved
+[20May2025 23:33:44.417] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 23:34:30.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 was slain by Phantom
+[20May2025 23:34:30.848] [Server thread/INFO] [tombstone/]: The player Leoy73 has successfully been saved
+[20May2025 23:34:32.120] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 23:34:40.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Spectator Mode]
+[20May2025 23:34:48.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[20May2025 23:35:06.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Spectator Mode]
+[20May2025 23:35:08.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
