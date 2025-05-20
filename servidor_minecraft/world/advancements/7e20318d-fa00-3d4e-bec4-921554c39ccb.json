@@ -694,9 +694,10 @@
   },
   "silentgear:nether_plants": {
     "criteria": {
+      "banana": "2025-05-20 22:02:29 +0000",
       "sapling": "2025-05-20 17:10:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
@@ -954,6 +955,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-20 16:57:40 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2025-05-20 22:02:28 +0000"
     },
     "done": true
   },
@@ -1250,6 +1257,12 @@
   "minecraft:recipes/woodcutting/mahogany/mahogany_chest_from_mahogany_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 14:47:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/incense_stick": {
+    "criteria": {
+      "has_item": "2025-05-20 22:02:29 +0000"
     },
     "done": true
   },
@@ -2308,6 +2321,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/golden_nether_banana": {
+    "criteria": {
+      "has_item": "2025-05-20 22:02:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-18 22:19:41 +0000"
@@ -2818,6 +2837,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-18 22:34:54 +0000",
       "minecraft:vindicator": "2025-05-19 18:37:58 +0000",
+      "minecraft:magma_cube": "2025-05-20 22:02:51 +0000",
       "minecraft:spider": "2025-05-19 17:35:53 +0000",
       "minecraft:piglin_brute": "2025-05-20 17:06:25 +0000",
       "minecraft:creeper": "2025-05-19 17:17:14 +0000",
@@ -5511,6 +5531,12 @@
   "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-18 22:36:08 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/misc/separating/slime_ball": {
+    "criteria": {
+      "has_item": "2025-05-20 22:02:52 +0000"
     },
     "done": true
   },
@@ -8441,6 +8467,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/blood_pendant": {
+    "criteria": {
+      "has_item": "2025-05-20 22:02:29 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/iron_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:14:46 +0000"
@@ -9575,6 +9607,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/speedboat": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-20 22:02:52 +0000"
     },
     "done": true
   },
@@ -11075,6 +11113,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/magma_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 22:02:52 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/granite": {
     "criteria": {
       "has_planks": "2025-05-18 22:16:33 +0000"
@@ -11096,6 +11140,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-05-19 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/alfsteel_pylon": {
+    "criteria": {
+      "criterion2": "2025-05-20 22:02:29 +0000"
     },
     "done": true
   },
@@ -11222,6 +11272,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-18 22:50:55 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/glittery_dust": {
+    "criteria": {
+      "has_item": "2025-05-20 22:02:29 +0000"
     },
     "done": true
   },
@@ -18871,6 +18927,12 @@
       "has_planks": "2025-05-19 18:36:37 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-05-20 22:02:13 +0000"
+    },
+    "done": false
   },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt2": {
     "criteria": {

@@ -1759,3 +1759,35 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 22:02:28.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Tools of War]
 [20May2025 22:02:29.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Strange Flora]
 [20May2025 22:03:54.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported Leoy73 to MarkGamer]
+[20May2025 22:04:40.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 lost connection: Disconnected
+[20May2025 22:04:40.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 left the game
+[20May2025 22:05:30.890] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@356f61f5
+[20May2025 22:05:30.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danilotrento34[/127.125.238.94:54561] logged in with entity id 4282 at (6421.511013190158, -51.0, 172.49009987912837)
+[20May2025 22:05:30.925] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Danilotrento34
+[20May2025 22:05:30.925] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Danilotrento34
+[20May2025 22:05:30.925] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Danilotrento34
+[20May2025 22:05:30.926] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Danilotrento34
+[20May2025 22:05:30.927] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Danilotrento34
+[20May2025 22:05:30.929] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Danilotrento34
+[20May2025 22:05:30.929] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Danilotrento34
+[20May2025 22:05:31.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 joined the game
+[20May2025 22:05:31.224] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Danilotrento34
+[20May2025 22:06:10.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 lost connection: Disconnected
+[20May2025 22:06:10.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 left the game
+[20May2025 22:07:47.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Creative Mode]
+[20May2025 22:09:46.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[20May2025 22:12:02.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Creative Mode]
+[20May2025 22:12:37.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[20May2025 22:13:43.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Creative Mode]
+[20May2025 22:14:08.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[20May2025 22:14:10.534] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1e51267d
+[20May2025 22:14:10.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danilotrento34[/127.125.238.94:45815] logged in with entity id 5441 at (6421.511013190158, -51.0, 172.49009987912837)
+[20May2025 22:14:10.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Danilotrento34
+[20May2025 22:14:10.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Danilotrento34
+[20May2025 22:14:10.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Danilotrento34
+[20May2025 22:14:10.568] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Danilotrento34
+[20May2025 22:14:10.569] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Danilotrento34
+[20May2025 22:14:10.571] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Danilotrento34
+[20May2025 22:14:10.571] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Danilotrento34
+[20May2025 22:14:10.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 joined the game
+[20May2025 22:14:10.863] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Danilotrento34
