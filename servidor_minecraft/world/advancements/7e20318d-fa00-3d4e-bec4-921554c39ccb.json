@@ -1450,6 +1450,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_fence": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:53:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-05-18 22:12:33 +0000"
@@ -2422,6 +2428,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/compressed_iron_chestplate": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 16:48:56 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ebony_slab": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:53:58 +0000"
     },
     "done": true
   },
@@ -3422,6 +3434,12 @@
   "xnet:recipes/xnet/netcable_red": {
     "criteria": {
       "nugget": "2025-05-19 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ebony_boat": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:53:58 +0000"
     },
     "done": true
   },
@@ -5106,6 +5124,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_door": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:53:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 22:38:11 +0000"
@@ -5811,6 +5835,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:53:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-18 22:16:33 +0000"
@@ -5826,6 +5856,12 @@
   "rftoolsbase:recipes/rftoolsbase/machine_base": {
     "criteria": {
       "gold": "2025-05-19 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ebony_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:53:58 +0000"
     },
     "done": true
   },
@@ -12773,6 +12809,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_button": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:53:58 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/raw_nickel_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-05-18 22:22:32 +0000"
@@ -13810,6 +13852,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:53:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-05-18 22:31:17 +0000"
@@ -14258,6 +14306,12 @@
   "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 15:29:09 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ebony_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:53:58 +0000"
     },
     "done": true
   },
@@ -15258,6 +15312,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:53:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-19 16:16:34 +0000"
@@ -15454,6 +15514,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-19 17:52:25 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ebony_sign": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:53:58 +0000"
     },
     "done": true
   },
@@ -15784,6 +15850,12 @@
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2025-05-18 22:16:07 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ebony_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-20 14:53:58 +0000"
     },
     "done": true
   },
