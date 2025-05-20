@@ -1816,3 +1816,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 16:20:23.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 fell from a high place
 [20May2025 16:20:23.624] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
 [20May2025 16:20:32.118] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 16:30:01.950] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/31689, l='ServerLevel[world]', x=6675.78, y=153.04, z=665.46] died: Honeyed Archer suffocated in a wall
+[20May2025 16:31:44.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[20May2025 16:34:33.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Introduction to Chaos]
+[20May2025 16:34:33.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Enchanter]
