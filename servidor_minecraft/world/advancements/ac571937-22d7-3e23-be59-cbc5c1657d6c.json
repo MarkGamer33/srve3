@@ -10881,6 +10881,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-20 15:21:40 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/cut_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-05-19 19:48:19 +0000"

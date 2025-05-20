@@ -1284,6 +1284,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-20 15:30:21 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/iron_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:21:16 +0000"
@@ -3403,6 +3409,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-20 15:30:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-19 17:40:53 +0000"
@@ -5111,6 +5123,12 @@
   "cfm:recipes/cfm/blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/blaze_block": {
+    "criteria": {
+      "has_item": "2025-05-20 15:30:21 +0000"
     },
     "done": true
   },
@@ -11444,6 +11462,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/blaze_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 15:30:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-05-19 21:30:52 +0000"
@@ -12833,6 +12857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-20 15:30:21 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/terracotta": {
     "criteria": {
       "has_planks": "2025-05-19 20:54:20 +0000"
@@ -13112,6 +13142,12 @@
   "silentgear:tip_upgrade": {
     "criteria": {
       "get_item": "2025-05-18 23:17:21 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/brewing/macerating/blaze_powder": {
+    "criteria": {
+      "has_item": "2025-05-20 15:30:21 +0000"
     },
     "done": true
   },
@@ -15369,6 +15405,12 @@
   "ftbic:recipes/ftbic/shaped/fuse": {
     "criteria": {
       "has_item": "2025-05-20 14:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-20 15:30:21 +0000"
     },
     "done": true
   },

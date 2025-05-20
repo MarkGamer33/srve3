@@ -1766,3 +1766,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 15:21:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has completed the challenge [Centennial]
 [20May2025 15:22:04.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1131, l='ServerLevel[world]', x=6522.70, y=128.00, z=868.73] died, message: 'Villager hit the ground too hard'
 [20May2025 15:24:25.907] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1121, l='ServerLevel[world]', x=6493.61, y=124.00, z=873.36] died, message: 'Villager hit the ground too hard'
+[20May2025 15:27:39.697] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1126, l='ServerLevel[world]', x=6506.08, y=125.50, z=858.45] died, message: 'Villager hit the ground too hard'
+[20May2025 15:28:28.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was burnt to a crisp whilst fighting Wither Skeleton
+[20May2025 15:28:28.327] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[20May2025 15:28:29.688] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20May2025 15:30:21.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Into Fire]
