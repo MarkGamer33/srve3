@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/lead_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/industrial_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-05-18 22:21:16 +0000"
@@ -272,6 +278,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-19 17:36:41 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_red_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -755,9 +767,21 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/charging_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-19 17:53:10 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_red": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -917,6 +941,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/uranium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "littlelogistics:recipes/transportation/barge": {
     "criteria": {
       "has_item": "2025-05-20 15:08:50 +0000"
@@ -1052,6 +1082,12 @@
   "croptopia:recipes/croptopia.croptopia/peanut_seed": {
     "criteria": {
       "has_peanut": "2025-05-18 22:49:26 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/nickel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -1197,6 +1233,12 @@
   "cfm:recipes/cfm/dark_oak_desk_cabinet": {
     "criteria": {
       "has_log": "2025-05-18 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/silver_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -1650,6 +1692,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_immortal": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/green_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-19 20:54:20 +0000"
@@ -1698,6 +1746,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/smartwrench": {
     "criteria": {
       "iron": "2025-05-18 22:21:16 +0000"
@@ -1737,6 +1791,12 @@
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/rolling/ingots/uranium_to_uranium_plate": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -1818,6 +1878,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-05-18 22:15:55 +0000"
@@ -1839,6 +1905,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-05-20 16:09:38 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/aurey_matte": {
+    "criteria": {
+      "has_aluminum": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -1929,6 +2001,12 @@
   "alchemistry:recipes/dissolver/iron_block": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -2250,6 +2328,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_dark": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
@@ -2382,6 +2466,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/silver_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "simplemagnets:recipes/simplemagnets/basicmagnet": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:21:16 +0000"
@@ -2415,6 +2505,12 @@
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -2481,6 +2577,12 @@
   "littlelogistics:recipes/transportation/car_dock_rail": {
     "criteria": {
       "has_item": "2025-05-19 17:40:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/aluminum_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -2646,6 +2748,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_immortal_r": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
@@ -2745,6 +2853,18 @@
   "pneumaticcraft:root": {
     "criteria": {
       "0": "2025-05-18 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/extruding/ingots/lead_to_lead_rod": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_lead": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -2865,6 +2985,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-19 21:55:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/lead_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -3552,6 +3678,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_aluminum_hammering": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/moduleplus_template": {
     "criteria": {
       "dimshards": "2025-05-19 18:05:57 +0000"
@@ -3712,6 +3844,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-18 22:57:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_blue": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -4069,6 +4207,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/immortal_stone_0_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
@@ -4152,6 +4296,12 @@
     "criteria": {
       "has_recipe": "2025-05-18 22:13:23 +0000",
       "has_compass": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/zinc_knife": {
+    "criteria": {
+      "has_zinc": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -4242,6 +4392,12 @@
   "cfm:recipes/cfm/stripped_birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-19 17:58:33 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/zinc_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -4416,6 +4572,12 @@
   "cfm:recipes/cfm/purple_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-05-19 20:54:20 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/aluminum_wire": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -4763,6 +4925,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/aluminum_ingot_to_aluminum_block": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2025-05-18 22:14:22 +0000"
@@ -4964,6 +5132,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-18 23:04:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-20 17:45:16 +0000"
     },
     "done": true
   },
@@ -5295,6 +5469,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/ingots/lead_to_lead_gear": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-19 17:58:33 +0000"
@@ -5310,6 +5490,12 @@
   "deepresonance:recipes/deepresonance/machine_frame": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/ingots/aluminum_to_aluminum_rod": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -5364,6 +5550,12 @@
   "cfm:recipes/cfm/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/zinc_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -5607,6 +5799,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/anvil_cart": {
     "criteria": {
       "criterion0": "2025-05-20 14:45:18 +0000"
@@ -5788,6 +5986,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/uranium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:41:37 +0000"
@@ -5890,9 +6094,21 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_tiles": {
+    "criteria": {
+      "has_aluminum": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/diamond_chest": {
     "criteria": {
       "has_gold_gold_chest": "2025-05-19 21:02:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_hv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -5941,6 +6157,18 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-05-19 17:17:36 +0000"
+    },
+    "done": true
+  },
+  "deepresonance:recipes/deepresonance/resonating_plate_block": {
+    "criteria": {
+      "has_resonant_plate": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
+  "deepresonance:recipes/deepresonance/radiation_suit_boots": {
+    "criteria": {
+      "has_resonant_plate": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -6095,6 +6323,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shapeless/uranium_ingot_to_uranium_nugget": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_bricks": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
@@ -6146,6 +6380,12 @@
   "alltheores:recipes/alltheores/raw_aluminum_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/aluminum]": "2025-05-19 16:58:50 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks": {
+    "criteria": {
+      "has_aluminum": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -6395,6 +6635,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/compacting/aluminum_ingot": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-05-18 22:57:15 +0000"
@@ -6443,6 +6689,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_torch": {
+    "criteria": {
+      "has_aluminum": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:59:24 +0000"
@@ -6470,6 +6722,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-05-20 14:40:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_lead_hammering": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -6959,6 +7217,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/rolling/ingots/lead_to_lead_plate": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/inventory_module": {
     "criteria": {
       "ingot": "2025-05-18 22:21:15 +0000"
@@ -7073,6 +7337,12 @@
     },
     "done": true
   },
+  "deepresonance:recipes/deepresonance/radiation_suit_leggings": {
+    "criteria": {
+      "has_resonant_plate": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/counter_module": {
     "criteria": {
       "ingot": "2025-05-18 22:21:15 +0000"
@@ -7181,6 +7451,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-18 22:50:56 +0000"
@@ -7241,6 +7517,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/macerating/ingots/uranium_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-05-20 16:09:38 +0000"
@@ -7262,6 +7544,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/air_grate_module": {
     "criteria": {
       "has_pressure_tube": "2025-05-19 22:06:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_blue_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -7439,6 +7727,18 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/immortal_stone_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/ingots/lead_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/salmonberry_pips": {
     "criteria": {
       "has_salmonberries": "2025-05-20 16:08:42 +0000"
@@ -7611,6 +7911,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_light": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:41 +0000"
@@ -7668,6 +7974,12 @@
   "alltheores:recipes/alltheores/nickel_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-18 22:29:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/silver_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -7989,6 +8301,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/macerating/ingots/aluminum_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/magma_green_r": {
     "criteria": {
       "has_magma_block": "2025-05-18 22:16:48 +0000"
@@ -8118,6 +8436,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-05-19 16:52:08 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/uranium_ingot_to_uranium_block": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -8397,6 +8721,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/rolling/ingots/aluminum_to_aluminum_plate": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-18 22:50:58 +0000"
@@ -8607,6 +8937,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/aluminum_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-05-19 22:07:32 +0000"
@@ -8742,6 +9078,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-05-18 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/immortal_stone_0_light": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -8883,6 +9225,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/silver_knife": {
+    "criteria": {
+      "has_silver": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-05-19 18:05:19 +0000"
@@ -8943,6 +9291,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/silver_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-05-19 20:54:20 +0000"
@@ -8952,6 +9306,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/extruding/ingots/uranium_to_uranium_rod": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -9021,9 +9381,27 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shapeless/lead_ingot_to_lead_nugget": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-05-20 17:37:24 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_tile_from_bricks_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-05-18 22:51:27 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/aluminum_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -9075,6 +9453,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/immortal_stone_0_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-05-19 22:07:32 +0000"
@@ -9105,6 +9489,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/stonecutting/glass": {
     "criteria": {
       "has_for_glass": "2025-05-20 14:43:54 +0000"
@@ -9117,6 +9507,18 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/silver_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/uranium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
@@ -9126,6 +9528,12 @@
   "corail_woodcutter:recipes/from_byg_ether_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/aluminum_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -9198,6 +9606,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:41:37 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/aluminum_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -9500,6 +9914,12 @@
   "alltheores:recipes/alltheores/gold_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/ingots/uranium_to_uranium_rod": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -9857,6 +10277,12 @@
     },
     "done": true
   },
+  "deepresonance:recipes/deepresonance/radiation_monitor": {
+    "criteria": {
+      "": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-05-18 22:50:56 +0000"
@@ -10098,6 +10524,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/ingots/aluminum_to_aluminum_gear": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2025-05-18 22:13:22 +0000"
@@ -10131,6 +10563,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-19 21:39:03 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/zinc_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -10198,6 +10636,12 @@
   "cfm:recipes/cfm/jungle_park_bench": {
     "criteria": {
       "has_log": "2025-05-18 22:50:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stick_aluminum": {
+    "criteria": {
+      "has_alu_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -10449,6 +10893,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_uranium_hammering": {
+    "criteria": {
+      "has_uranium_ingot": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/macerating/obsidian_dust": {
     "criteria": {
       "has_item": "2025-05-19 17:08:55 +0000"
@@ -10608,6 +11058,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_orange": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
+    "criteria": {
+      "has_lead_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -10893,6 +11349,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/nickel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/drenched_iron_block_from_drenched_iron_ingot": {
     "criteria": {
       "has_drenched_iron_ingot": "2025-05-19 20:49:55 +0000"
@@ -11013,6 +11475,18 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_mv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/lead_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/yellow_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-05-18 23:04:51 +0000"
@@ -11065,6 +11539,12 @@
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_trophy": "2025-05-19 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -11137,6 +11617,12 @@
   "reliquary:recipes/mob_charm": {
     "criteria": {
       "has_mob_charm_fragment": "2025-05-19 22:14:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/immortal_stone_0_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -11227,6 +11713,12 @@
   "create:recipes/create.palettes/limestone_pillar_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-05-19 18:05:31 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shapeless/aluminum_ingot_to_aluminum_nugget": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -11548,6 +12040,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_green_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-05-18 22:14:56 +0000"
@@ -11604,6 +12102,12 @@
   "croptopia:recipes/croptopia.croptopia/apple_pie": {
     "criteria": {
       "has_apple": "2025-05-18 22:14:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-20 17:45:16 +0000"
     },
     "done": true
   },
@@ -11727,6 +12231,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/zinc_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/blasting/raw_materials/uranium_to_ingot": {
     "criteria": {
       "has_item": "2025-05-20 17:10:34 +0000"
@@ -11835,6 +12345,12 @@
       "violet": "2025-05-19 18:04:22 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-20 17:45:16 +0000"
+    },
+    "done": true
   },
   "rechiseled:recipes/rechiseled/chisel": {
     "criteria": {
@@ -11980,6 +12496,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/nickel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/magma_red": {
     "criteria": {
       "has_magma_block": "2025-05-18 22:16:48 +0000"
@@ -12052,6 +12574,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/zinc_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/zinc]_ingot": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-18 22:15:55 +0000"
@@ -12073,6 +12601,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-18 22:30:28 +0000"
+    },
+    "done": true
+  },
+  "deepresonance:recipes/deepresonance/radiation_suit_chestplate": {
+    "criteria": {
+      "has_resonant_plate": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -12106,6 +12640,12 @@
     },
     "done": true
   },
+  "deepresonance:recipes/deepresonance/radiation_suit_helmet": {
+    "criteria": {
+      "has_resonant_plate": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/yellow_plate": {
     "criteria": {
       "has_terracotta": "2025-05-19 20:54:20 +0000"
@@ -12127,6 +12667,12 @@
   "cfm:recipes/cfm/stripped_jungle_cabinet": {
     "criteria": {
       "has_log": "2025-05-18 22:50:56 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/lamp_rgb_r": {
+    "criteria": {
+      "has_aluminum": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -12218,6 +12764,12 @@
   "create:recipes/create.palettes/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-05-19 18:05:19 +0000"
+    },
+    "done": true
+  },
+  "deepresonance:recipes/deepresonance/tank": {
+    "criteria": {
+      "has_resonant_plate": "2025-05-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -12314,6 +12866,12 @@
   "pneumaticcraft:recipes/explosion_crafting/compressed_iron_ingot": {
     "criteria": {
       "tnt": "2025-05-18 22:33:10 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_dark_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -12569,6 +13127,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/extruding/ingots/aluminum_to_aluminum_rod": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/building_blocks/macerating/gravel": {
     "criteria": {
       "has_item": "2025-05-18 22:14:40 +0000"
@@ -12734,6 +13298,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2025-05-19 16:56:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/lead_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -12953,6 +13523,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/nickel_knife": {
+    "criteria": {
+      "has_nickel": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-05-18 22:14:40 +0000"
@@ -13097,6 +13673,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-19 20:54:20 +0000"
@@ -13149,6 +13731,12 @@
   "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/immortal_stone_green": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -13209,6 +13797,12 @@
   "silentgear:recipes/silentgear/blaze_gold_ingot_from_nugget": {
     "criteria": {
       "has_item": "2025-05-19 21:58:28 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/immortal_stone_blue": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -13760,6 +14354,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/immortal_stone_0_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_boat_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:50:58 +0000"
@@ -13781,6 +14381,12 @@
   "ftbic:recipes/ftbic/shaped/ejector_upgrade": {
     "criteria": {
       "has_item": "2025-05-20 16:12:51 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/lead_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -14024,6 +14630,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_paddles": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:41 +0000"
@@ -14102,6 +14714,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/uranium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_stairs": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
@@ -14114,9 +14732,21 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/lead_knife": {
+    "criteria": {
+      "has_lead": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-05-18 22:33:33 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/ingots/lead_to_lead_rod": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -14210,6 +14840,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/ingots/uranium_to_uranium_gear": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-18 22:15:55 +0000"
@@ -14286,6 +14922,12 @@
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-05-18 22:14:40 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/nickel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -14995,6 +15637,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/lamp_rgb": {
+    "criteria": {
+      "has_aluminum": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/cord_template": {
     "criteria": {
       "has_item": "2025-05-18 23:05:54 +0000"
@@ -15100,6 +15748,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/stomp_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-19 17:53:10 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/immortal_stone_red": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -15271,6 +15925,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_light_r": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:13:23 +0000"
@@ -15352,6 +16012,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-18 23:04:51 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/nickel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -15613,6 +16279,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/unpacking/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-18 22:15:55 +0000"
@@ -15701,6 +16373,12 @@
   "alchemistry:recipes/dissolver/cooked_porkchop": {
     "criteria": {
       "has_the_recipe": "2025-05-19 17:35:20 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/lead_ingot_to_lead_block": {
+    "criteria": {
+      "has_item": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -15965,6 +16643,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_green": {
+    "criteria": {
+      "has_ingots/aluminum": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },
@@ -16432,6 +17116,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/uranium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-05-20 14:43:54 +0000"
@@ -16597,6 +17287,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-05-18 22:15:57 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/immortal_stone_dark": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
     },
     "done": true
   },

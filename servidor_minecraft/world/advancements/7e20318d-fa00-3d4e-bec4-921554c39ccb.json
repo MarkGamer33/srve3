@@ -643,15 +643,15 @@
     },
     "done": true
   },
-  "botania:recipes/botania/ice_pendant": {
-    "criteria": {
-      "has_item": "2025-05-20 16:55:30 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_dark_oak_chair": {
     "criteria": {
       "has_planks": "2025-05-20 16:08:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-05-20 16:55:30 +0000"
     },
     "done": true
   },
@@ -812,15 +812,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/pneumaticcraft/charging_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-05-20 16:57:40 +0000"
-    },
-    "done": true
-  },
   "byg:recipes/byg.byg/redwood_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-20 14:41:33 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/charging_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-20 16:57:40 +0000"
     },
     "done": true
   },
@@ -1118,15 +1118,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-05-20 16:08:06 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2025-05-20 15:55:53 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-20 16:08:06 +0000"
     },
     "done": true
   },
@@ -4602,15 +4602,15 @@
     },
     "done": true
   },
-  "botania:recipes/botania/monocle": {
-    "criteria": {
-      "has_item": "2025-05-20 16:55:30 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/framed_blocks/framed_fancy_powered_rail": {
     "criteria": {
       "hasFramedBlock": "2025-05-20 15:27:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/monocle": {
+    "criteria": {
+      "has_item": "2025-05-20 16:55:30 +0000"
     },
     "done": true
   },
@@ -10343,15 +10343,15 @@
     },
     "done": true
   },
-  "framedblocks:recipes/framed_blocks/framing_saw": {
-    "criteria": {
-      "hasFramedBlock": "2025-05-20 15:27:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_pressure_plate_from_mahogany_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 14:47:44 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framing_saw": {
+    "criteria": {
+      "hasFramedBlock": "2025-05-20 15:27:26 +0000"
     },
     "done": true
   },
@@ -10887,15 +10887,15 @@
     },
     "done": true
   },
-  "ae2:recipes/ae2.main/misc/tank_sky_stone": {
-    "criteria": {
-      "has_sky_stone_block": "2025-05-20 16:03:29 +0000"
-    },
-    "done": true
-  },
   "alchemistry:recipes/dissolver/diorite": {
     "criteria": {
       "has_the_recipe": "2025-05-20 15:11:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-20 16:03:29 +0000"
     },
     "done": true
   },
@@ -15573,15 +15573,15 @@
     },
     "done": true
   },
-  "botania:recipes/botania/pump": {
-    "criteria": {
-      "has_item": "2025-05-20 16:55:30 +0000"
-    },
-    "done": true
-  },
   "alchemistry:recipes/dissolver/quartz_pillar": {
     "criteria": {
       "has_the_recipe": "2025-05-20 15:13:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pump": {
+    "criteria": {
+      "has_item": "2025-05-20 16:55:30 +0000"
     },
     "done": true
   },
@@ -15634,15 +15634,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-05-20 16:08:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/mahogany/barrel_from_mahogany_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 14:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 16:08:07 +0000"
     },
     "done": true
   },
@@ -16973,15 +16973,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/pneumaticcraft/coordinate_tracker_upgrade": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-05-20 16:57:40 +0000"
-    },
-    "done": true
-  },
   "framedblocks:recipes/framed_blocks/framed_stairs": {
     "criteria": {
       "hasFramedBlock": "2025-05-20 15:27:26 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/coordinate_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-20 16:57:40 +0000"
     },
     "done": true
   },
