@@ -971,6 +971,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-05-20 18:06:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-19 18:08:16 +0000"
@@ -2805,6 +2811,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-05-18 22:30:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-05-20 18:06:00 +0000"
     },
     "done": true
   },
@@ -5415,6 +5427,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/twig_wand": {
+    "criteria": {
+      "has_item": "2025-05-20 18:06:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-19 18:20:26 +0000"
@@ -6596,6 +6614,12 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-19 20:54:20 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-05-20 17:58:43 +0000"
     },
     "done": true
   },
@@ -9123,6 +9147,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-05-20 18:06:00 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/reliquary/void_tear": {
     "criteria": {
       "has_nebulous_heart": "2025-05-20 16:06:52 +0000"
@@ -9710,6 +9740,12 @@
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-05-19 17:47:43 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-05-20 18:06:00 +0000"
     },
     "done": true
   },
@@ -12759,6 +12795,7 @@
       "byg:red_oak_forest": "2025-05-19 15:25:31 +0000",
       "byg:redwood_thicket": "2025-05-19 15:25:46 +0000",
       "byg:dead_sea": "2025-05-19 15:26:47 +0000",
+      "byg:firecracker_shrubland": "2025-05-20 18:02:23 +0000",
       "byg:atacama_desert": "2025-05-19 15:35:48 +0000",
       "byg:araucaria_savanna": "2025-05-19 15:24:15 +0000",
       "byg:crag_gardens": "2025-05-19 15:26:11 +0000",
@@ -13462,6 +13499,12 @@
       "has_wool": "2025-05-20 16:09:38 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-20 18:03:46 +0000"
+    },
+    "done": false
   },
   "xycraft_override:recipes/xycraft_override/shaped/magma_light": {
     "criteria": {
@@ -16523,6 +16566,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/magma_dark_r": {
     "criteria": {
       "has_magma_block": "2025-05-18 22:16:48 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-20 18:03:46 +0000"
     },
     "done": true
   },
