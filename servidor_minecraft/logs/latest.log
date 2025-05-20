@@ -1818,3 +1818,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [20May2025 22:43:51.025] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
 [20May2025 22:43:54.036] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [20May2025 22:44:23.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Fulfillment Comes Cheap]
+[20May2025 22:53:50.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Zombie
+[20May2025 22:53:50.347] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[20May2025 22:53:54.872] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/sub_sandwich": {
     "criteria": {
       "has_item": "2025-05-19 17:32:56 +0000"
@@ -449,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-05-19 19:36:16 +0000"
@@ -620,6 +632,12 @@
   "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_smoking_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2025-05-18 22:32:01 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_blue": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
     },
     "done": true
   },
@@ -878,6 +896,12 @@
   "botania:recipes/botania/manasteel_chestplate": {
     "criteria": {
       "has_item": "2025-05-20 15:15:07 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 22:48:32 +0000"
     },
     "done": true
   },
@@ -1296,6 +1320,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/bricks_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2025-05-20 22:48:32 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/energy_module": {
     "criteria": {
       "ingot": "2025-05-18 22:51:22 +0000"
@@ -1623,6 +1653,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:51:22 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/slime_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 22:42:21 +0000"
     },
     "done": true
   },
@@ -2658,6 +2694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/diamond_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-19 21:52:54 +0000"
@@ -3163,6 +3205,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-05-20 22:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_fence": {
     "criteria": {
       "has_dry_bundle": "2025-05-18 22:28:01 +0000",
@@ -3174,6 +3228,12 @@
     "criteria": {
       "give_recipe": "2025-05-18 22:55:31 +0000",
       "has_block": "2025-05-18 22:55:31 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_red_r": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
     },
     "done": true
   },
@@ -4868,9 +4928,21 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/campfire_cooking/rubber": {
+    "criteria": {
+      "has_item": "2025-05-20 22:42:21 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
     "criteria": {
       "has_wt": "2025-05-18 22:28:01 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_blue_r": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
     },
     "done": true
   },
@@ -5516,6 +5588,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/smoking/rubber": {
+    "criteria": {
+      "has_item": "2025-05-20 22:42:21 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2025-05-19 17:10:31 +0000"
@@ -5657,6 +5735,12 @@
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-05-18 22:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-05-20 22:47:31 +0000"
     },
     "done": true
   },
@@ -5997,6 +6081,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_light": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-19 16:59:05 +0000"
@@ -6123,6 +6213,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/pressure_chamber_wall": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 17:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-20 22:42:21 +0000"
     },
     "done": true
   },
@@ -6255,6 +6351,12 @@
   "silentgear:recipes/silentgear/shovel_template": {
     "criteria": {
       "has_item": "2025-05-19 17:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-05-20 22:47:31 +0000"
     },
     "done": true
   },
@@ -6540,6 +6642,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/bricks": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:48:32 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/oil_can": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:26:09 +0000"
@@ -6789,6 +6897,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-05-19 19:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-05-20 22:47:31 +0000"
     },
     "done": true
   },
@@ -7379,6 +7493,12 @@
   "mcwtrpdoors:recipes/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-05-19 17:36:16 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-20 22:48:32 +0000"
     },
     "done": true
   },
@@ -8006,6 +8126,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-05-20 22:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-20 22:42:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2025-05-19 17:32:48 +0000"
@@ -8219,6 +8351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:51:21 +0000"
@@ -8228,6 +8366,12 @@
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-05-19 16:52:33 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_green": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
     },
     "done": true
   },
@@ -8384,6 +8528,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-05-19 19:36:16 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_dark_r": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
     },
     "done": true
   },
@@ -9137,6 +9287,12 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-05-20 17:28:11 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_light_r": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
     },
     "done": true
   },
@@ -9966,6 +10122,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_red": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/smooth_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-05-19 19:48:19 +0000"
@@ -10657,6 +10819,13 @@
     },
     "done": true
   },
+  "utilitix:recipes/utilitix/glue_ball": {
+    "criteria": {
+      "criterion0": "2025-05-20 22:42:21 +0000",
+      "criterion1": "2025-05-20 22:42:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-05-18 22:36:10 +0000"
@@ -10823,6 +10992,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/compressed_iron_gear": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 17:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
     },
     "done": true
   },
@@ -11003,6 +11178,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
     "criteria": {
       "has_redstone": "2025-05-19 22:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-20 22:42:21 +0000"
     },
     "done": true
   },
@@ -11968,6 +12149,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:48:32 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_door": {
     "criteria": {
       "has_bundle": "2025-05-18 22:28:01 +0000"
@@ -12253,6 +12440,12 @@
   "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:26:37 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_green_r": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
     },
     "done": true
   },
@@ -12574,6 +12767,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-20 22:48:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-19 16:56:48 +0000"
@@ -12620,6 +12819,12 @@
   "mcwbridges:recipes/orange_sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-05-19 19:48:19 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/smelting/rubber": {
+    "criteria": {
+      "has_item": "2025-05-20 22:42:21 +0000"
     },
     "done": true
   },
@@ -12740,6 +12945,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/pressure_chamber_valve_x1": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 17:40:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2025-05-20 22:48:32 +0000"
     },
     "done": true
   },
@@ -12938,6 +13149,12 @@
   "alchemistry:recipes/dissolver/black_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-19 22:11:22 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_dark": {
+    "criteria": {
+      "has_bricks": "2025-05-20 22:48:32 +0000"
     },
     "done": true
   },

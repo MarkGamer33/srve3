@@ -457,6 +457,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutfarmerstone": {
+    "criteria": {
+      "has_items": "2025-05-20 22:45:25 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_magenta_pane2": {
     "criteria": {
       "recipe_condition1": "2025-05-19 22:53:57 +0000"
@@ -1188,6 +1194,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutcook": {
+    "criteria": {
+      "has_items": "2025-05-20 22:48:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:10:48 +0000"
@@ -1738,6 +1750,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/kivi_bricks_cloud_light": {
     "criteria": {
       "has_kivi": "2025-05-18 22:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutlumberjack": {
+    "criteria": {
+      "has_items": "2025-05-20 22:43:27 +0000"
     },
     "done": true
   },
@@ -4157,6 +4175,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2025-05-20 22:43:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-05-19 16:16:34 +0000"
@@ -5337,6 +5361,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_chest": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 16:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutshepherd": {
+    "criteria": {
+      "has_items": "2025-05-20 22:44:19 +0000"
     },
     "done": true
   },
@@ -8329,6 +8359,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutminer": {
+    "criteria": {
+      "has_items": "2025-05-20 22:43:27 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/source_analysis_glass": {
     "criteria": {
       "has_swift_alloy_ingot": "2025-05-18 22:52:01 +0000"
@@ -8549,6 +8585,12 @@
   "hexcasting:recipes/hexcasting/pride_colorizer_pansexual": {
     "criteria": {
       "has_item": "2025-05-20 19:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/fulfill_request": {
+    "criteria": {
+      "click_gui_button_fulfill": "2025-05-20 22:44:23 +0000"
     },
     "done": true
   },
@@ -12755,6 +12797,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutfarmer": {
+    "criteria": {
+      "has_items": "2025-05-20 22:43:27 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_jacaranda_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:07:45 +0000"
@@ -15209,6 +15257,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_light": {
     "criteria": {
       "has_chiseled_stone_bricks": "2025-05-19 17:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutcombatacademy": {
+    "criteria": {
+      "has_items": "2025-05-20 22:49:22 +0000"
     },
     "done": true
   },
@@ -18308,6 +18362,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-05-19 18:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhutsawmill": {
+    "criteria": {
+      "has_items": "2025-05-20 22:43:27 +0000"
     },
     "done": true
   },
