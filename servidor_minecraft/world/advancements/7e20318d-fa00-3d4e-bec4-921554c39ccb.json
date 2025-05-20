@@ -2761,6 +2761,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/orange_juice": {
+    "criteria": {
+      "has_orange": "2025-05-20 23:01:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_grill": {
     "criteria": {
       "has_iron": "2025-05-18 22:30:59 +0000"
@@ -3065,6 +3071,12 @@
   "modonomicon:modonomicon/root": {
     "criteria": {
       "modonomicon_present": "2025-05-18 22:05:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/orange_sapling": {
+    "criteria": {
+      "has_orange": "2025-05-20 23:01:39 +0000"
     },
     "done": true
   },
@@ -7673,6 +7685,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_restock_upgrade": {
+    "criteria": {
+      "has_restock_upgrade": "2025-05-20 22:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-19 21:58:27 +0000"
@@ -10647,6 +10665,12 @@
   "naturesaura:positive_imbalance": {
     "criteria": {
       "triggered_in_code": "2025-05-20 16:01:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_deposit_upgrade": {
+    "criteria": {
+      "has_deposit_upgrade": "2025-05-20 22:56:09 +0000"
     },
     "done": true
   },
