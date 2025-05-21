@@ -2290,6 +2290,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-05-21 12:08:56 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/ender_cart": {
     "criteria": {
       "criterion1": "2025-05-19 17:42:55 +0000"
@@ -4418,6 +4424,7 @@
       "sugar_cane": "2025-05-19 19:01:52 +0000",
       "potato": "2025-05-19 18:04:25 +0000",
       "wheat": "2025-05-19 21:22:10 +0000",
+      "melon": "2025-05-21 12:05:20 +0000",
       "carrot": "2025-05-21 11:58:54 +0000"
     },
     "done": false
@@ -5705,6 +5712,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-21 12:12:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-18 22:36:08 +0000"
@@ -6231,6 +6244,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-21 12:08:56 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2025-05-18 22:38:11 +0000"
@@ -6524,6 +6543,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-19 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-05-21 12:08:56 +0000"
     },
     "done": true
   },
@@ -8699,6 +8724,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-05-21 12:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mangrove/mangrove_sign_from_mangrove_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 15:29:09 +0000"
@@ -10662,6 +10693,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-05-21 12:12:03 +0000"
     },
     "done": true
   },
@@ -13723,6 +13760,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-05-21 12:12:40 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/screen_link": {
     "criteria": {
       "redstone": "2025-05-19 17:39:12 +0000"
@@ -16336,6 +16379,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2025-05-21 12:08:56 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 18:33:18 +0000"
@@ -16837,6 +16886,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-05-21 12:12:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-05-18 22:50:55 +0000"
@@ -16949,6 +17004,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_block_to_items": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-05-21 12:12:03 +0000"
     },
     "done": true
   },
@@ -18040,6 +18101,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/vortex_tube": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 16:48:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-05-21 12:12:40 +0000"
     },
     "done": true
   },
@@ -19495,6 +19562,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:39:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-05-21 12:12:40 +0000"
     },
     "done": true
   },

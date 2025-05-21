@@ -1803,3 +1803,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 11:55:36.901] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Lady Sam the Rejected'/4826, l='ServerLevel[world]', x=6228.08, y=121.00, z=751.92] died: Lady Sam the Rejected was slain by MarkGamer
 [21May2025 11:56:50.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [The Parrots and the Bats]
 [21May2025 12:03:20.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/4283, l='ServerLevel[world]', x=6687.61, y=119.00, z=705.91] died: Undead Knight was slain by MarkGamer
+[21May2025 12:12:03.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Iron Torch]
+[21May2025 12:12:03.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Hunt and Gather]
