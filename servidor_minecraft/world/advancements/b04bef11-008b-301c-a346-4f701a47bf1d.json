@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/air_shard": {
+    "criteria": {
+      "has_air_shard": "2025-05-21 19:45:11 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/granite_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-21 13:05:10 +0000"
@@ -14,6 +20,12 @@
   "tetra:spelunking/find_scroll": {
     "criteria": {
       "find": "2025-05-21 13:26:34 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-05-21 19:41:03 +0000"
     },
     "done": true
   },
@@ -227,6 +239,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/whiterock_brick": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 13:16:16 +0000"
@@ -272,6 +290,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-21 13:17:43 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/water_shard": {
+    "criteria": {
+      "has_water_shard": "2025-05-21 19:38:18 +0000"
     },
     "done": true
   },
@@ -389,6 +413,18 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/whiterock_burnt": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/brewing/uncrafting/ghast_tear": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-05-21 19:41:03 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_tile_from_bricks_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-05-21 13:26:32 +0000"
@@ -455,9 +491,21 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/whiterock_fence": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/dye_colorizer_pink": {
     "criteria": {
       "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-21 19:40:21 +0000"
     },
     "done": true
   },
@@ -476,6 +524,12 @@
   "cfm:recipes/cfm/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-05-21 19:36:58 +0000"
     },
     "done": true
   },
@@ -530,6 +584,12 @@
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-05-21 12:54:16 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/drenched_iron_ingot_from_drenched_iron_nugget": {
+    "criteria": {
+      "has_drenched_iron_nugget": "2025-05-21 19:40:57 +0000"
     },
     "done": true
   },
@@ -718,6 +778,12 @@
   "hexcasting:recipes/hexcasting/dye_colorizer_red": {
     "criteria": {
       "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_stairs_from_whiterock_stonecutting": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -1685,6 +1751,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/spell_desk": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2025-05-21 12:54:16 +0000"
@@ -1919,6 +1991,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/whiterock_brick_from_whiterock_stonecutting": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "ae2additions:recipes/ae2additions/super_cell_housing": {
     "criteria": {
       "has_item": "2025-05-21 13:04:06 +0000"
@@ -2129,6 +2207,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/binder": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:36:47 +0000"
@@ -2216,6 +2300,12 @@
   "cfm:recipes/cfm/oak_blinds": {
     "criteria": {
       "has_log": "2025-05-21 12:58:39 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/air_mill_grindstone": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -2310,6 +2400,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/source_breeder_pedestal": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_nightshade_planks": {
     "criteria": {
       "has_ingredient": "2025-05-21 12:54:17 +0000"
@@ -2328,9 +2424,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-21 19:40:21 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/heat_frame": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/source_displacement_plate_water": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -2451,6 +2559,12 @@
   "reliquary:recipes/food/uncrafting/spider_eye": {
     "criteria": {
       "has_chelicerae": "2025-05-21 13:26:34 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/whiterock": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -2628,6 +2742,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/source_breeder": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-21 12:54:17 +0000"
@@ -2751,6 +2871,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-21 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/extractor_improved": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -3038,6 +3164,12 @@
   "undergarden:undergarden/root": {
     "criteria": {
       "tick": "2025-05-21 12:36:47 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/container": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -3397,6 +3529,7 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:rainbow_beach": "2025-05-21 19:44:19 +0000",
       "byg:red_oak_forest": "2025-05-21 12:54:15 +0000",
       "byg:redwood_thicket": "2025-05-21 12:36:47 +0000",
       "byg:dead_sea": "2025-05-21 13:44:03 +0000",
@@ -3530,6 +3663,12 @@
   "croptopia:recipes/croptopia.croptopia/cooking_pot": {
     "criteria": {
       "has_iron": "2025-05-21 13:16:11 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/rune_slate": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -3839,6 +3978,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/source_displacement_plate_fire": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-05-21 13:05:31 +0000"
@@ -3918,6 +4063,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/fireblastfurnace": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-05-21 12:54:17 +0000"
@@ -3960,9 +4111,21 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/powerful_water_shard_from_water_shards": {
+    "criteria": {
+      "has_water_shard": "2025-05-21 19:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-21 13:15:52 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/mossy_cobblestone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-21 19:40:21 +0000"
     },
     "done": true
   },
@@ -4011,6 +4174,12 @@
   "computercraft:recipes/computercraft/pocket_computer_advanced": {
     "criteria": {
       "has_apple": "2025-05-21 13:34:37 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/binder_improved": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -4128,6 +4297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-21 19:40:21 +0000"
+    },
+    "done": true
+  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-05-21 14:08:23 +0000"
@@ -4151,6 +4326,12 @@
       "has_wool": "2025-05-21 13:39:20 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-21 19:44:42 +0000"
+    },
+    "done": false
   },
   "reliquary:recipes/reliquary/mob_charm_fragments/wither_skeleton": {
     "criteria": {
@@ -4314,6 +4495,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/solar_synthesizer": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/stone_base": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
@@ -4326,6 +4513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-21 19:40:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-21 12:54:16 +0000"
@@ -4335,6 +4528,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-05-21 12:54:17 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/crystallizer": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -4520,6 +4719,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/antenna": {
+    "criteria": {
+      "bars": "2025-05-21 19:36:58 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/epic": {
     "criteria": {
       "sword": "2025-05-21 12:57:48 +0000"
@@ -4541,6 +4746,12 @@
   "ftbic:recipes/building_blocks/macerating/cobblestone": {
     "criteria": {
       "has_item": "2025-05-21 13:26:32 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mob_charm_fragments/creeper": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-05-21 19:41:03 +0000"
     },
     "done": true
   },
@@ -4640,6 +4851,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/firefurnace": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-21 13:08:44 +0000"
@@ -4721,6 +4938,7 @@
       "minecraft:creeper": "2025-05-21 13:17:27 +0000",
       "minecraft:wither_skeleton": "2025-05-21 13:58:42 +0000",
       "minecraft:husk": "2025-05-21 13:59:40 +0000",
+      "minecraft:cave_spider": "2025-05-21 19:44:54 +0000",
       "minecraft:silverfish": "2025-05-21 13:24:23 +0000",
       "minecraft:zombie": "2025-05-21 13:17:13 +0000"
     },
@@ -4747,6 +4965,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-05-21 19:17:35 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_mossy": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -4909,6 +5133,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/spruce_chest": {
     "criteria": {
       "has_spruce_plank": "2025-05-21 13:16:16 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/watercrystal": {
+    "criteria": {
+      "has_watercrystal": "2025-05-21 19:38:19 +0000"
     },
     "done": true
   },
@@ -5122,9 +5352,21 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/source_displacement_plate_air": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-05-21 12:54:16 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/watercrystal_block_from_watercrystal": {
+    "criteria": {
+      "has_watercrystal": "2025-05-21 19:38:19 +0000"
     },
     "done": true
   },
@@ -5149,6 +5391,12 @@
   "hexcasting:recipes/hexcasting/pride_colorizer_asexual": {
     "criteria": {
       "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mob_charm_fragments/ghast": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-05-21 19:41:03 +0000"
     },
     "done": true
   },
@@ -5609,6 +5857,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/major_rune_slate": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_sythian_planks": {
     "criteria": {
       "has_ingredient": "2025-05-21 12:54:16 +0000"
@@ -5619,7 +5873,9 @@
     "criteria": {
       "minecraft:eroded_badlands": "2025-05-21 14:07:20 +0000",
       "minecraft:wooded_badlands": "2025-05-21 13:43:53 +0000",
+      "minecraft:bamboo_jungle": "2025-05-21 19:38:35 +0000",
       "minecraft:savanna_plateau": "2025-05-21 13:08:24 +0000",
+      "minecraft:beach": "2025-05-21 19:44:36 +0000",
       "minecraft:stony_peaks": "2025-05-21 13:09:04 +0000",
       "minecraft:sparse_jungle": "2025-05-21 13:43:30 +0000",
       "minecraft:lukewarm_ocean": "2025-05-21 13:23:46 +0000",
@@ -5693,6 +5949,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/drenched_iron_nugget": {
+    "criteria": {
+      "has_drenched_iron_nugget": "2025-05-21 19:40:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-05-21 13:05:31 +0000"
@@ -5727,6 +5989,12 @@
   "reliquary:recipes/reliquary/infernal_claw": {
     "criteria": {
       "has_slime_pearl": "2025-05-21 14:03:37 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/purifier": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -5772,6 +6040,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/elementpipe_from_impaired_elementpipe_and_nugget": {
+    "criteria": {
+      "has_drenched_iron_nugget": "2025-05-21 19:40:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
@@ -5799,6 +6073,12 @@
   "hexcasting:recipes/hexcasting/amethyst_dust_unpacking": {
     "criteria": {
       "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/pureinfuser": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -6057,6 +6337,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/logistics_frame_default_storage": {
     "criteria": {
       "has_logistics_core": "2025-05-21 13:26:31 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/water_mill_wood_saw": {
+    "criteria": {
+      "has_watercrystal": "2025-05-21 19:38:19 +0000"
     },
     "done": true
   },
@@ -6457,6 +6743,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/shrinebase": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 13:16:16 +0000"
@@ -6517,6 +6809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-21 19:40:21 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2025-05-21 13:16:16 +0000"
@@ -6526,6 +6824,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-21 13:15:13 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 19:40:21 +0000"
     },
     "done": true
   },
@@ -6556,6 +6860,12 @@
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/sapling": {
     "criteria": {
       "has_item": "2025-05-21 14:00:41 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_wall_from_whiterock_stonecutting": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -6673,6 +6983,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/whiterock_slab": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/french_fries": {
     "criteria": {
       "has_potato": "2025-05-21 12:54:17 +0000"
@@ -6682,6 +6998,12 @@
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-05-21 12:57:48 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/inscriber": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -6712,6 +7034,12 @@
   "botania:recipes/botania/red_string_container": {
     "criteria": {
       "has_base_block": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/minor_rune_slate": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -7004,6 +7332,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-05-21 19:44:42 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_witch_hazel_planks": {
     "criteria": {
       "has_ingredient": "2025-05-21 12:54:17 +0000"
@@ -7013,6 +7347,12 @@
   "silentgear:recipes/silentgear/crimson_iron_dust_blasting": {
     "criteria": {
       "has_item": "2025-05-21 14:00:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-21 19:40:21 +0000"
     },
     "done": true
   },
@@ -7128,6 +7468,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-21 13:15:51 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_wall": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -7335,6 +7681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-21 19:40:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-05-21 13:26:32 +0000"
@@ -7461,6 +7813,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/powerful_air_shard_from_air_shards": {
+    "criteria": {
+      "has_air_shard": "2025-05-21 19:45:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-21 12:58:39 +0000"
@@ -7494,6 +7852,12 @@
   "hexcasting:recipes/hexcasting/slate": {
     "criteria": {
       "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_slab_from_whiterock_stonecutting": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -7541,6 +7905,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/element_holder_water": {
+    "criteria": {
+      "has_watercrystal": "2025-05-21 19:38:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
@@ -7550,6 +7920,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-21 19:06:19 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/source_displacement_plate_earth": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -7700,6 +8076,12 @@
   "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_def": {
     "criteria": {
       "iron_ingot": "2025-05-21 13:16:11 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_stairs": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
     },
     "done": true
   },
@@ -7919,6 +8301,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/diffuser": {
+    "criteria": {
+      "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/reliquary/mob_charm_fragments/cave_spider": {
     "criteria": {
       "has_chelicerae": "2025-05-21 13:26:34 +0000"
@@ -7928,6 +8316,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_blue_r": {
     "criteria": {
       "has_stone_bricks": "2025-05-21 13:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-21 19:40:21 +0000"
     },
     "done": true
   },
