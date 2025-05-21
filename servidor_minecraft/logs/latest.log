@@ -1951,3 +1951,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 20:29:17.566] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
 [21May2025 20:29:17.567] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
 [21May2025 20:29:30.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 moved too quickly! 8.824959816278351,-3.766367993957516,-3.1693043374293097
+[21May2025 20:33:50.793] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dr. Michael Ostochicman the Boring'/47005, l='ServerLevel[world]', x=5143.22, y=61.00, z=-302.53] died: Dr. Michael Ostochicman the Boring was slain by Danilotrento34
+[21May2025 20:37:47.539] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Oliver the Warrior'/48234, l='ServerLevel[world]', x=5151.43, y=52.00, z=-351.95] died: Oliver the Warrior was slain by Danilotrento34
