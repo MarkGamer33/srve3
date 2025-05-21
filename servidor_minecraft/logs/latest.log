@@ -66,3 +66,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 00:28:19.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
 [21May2025 00:30:40.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Hollow Solids]
 [21May2025 00:36:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Quite the Renovation]
+[21May2025 00:55:24.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Jess the Marbles Winner'/12492, l='ServerLevel[world]', x=6460.37, y=-45.00, z=1349.50] died: Jess the Marbles Winner was slain by MarkGamer
