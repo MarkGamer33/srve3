@@ -67,3 +67,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 00:30:40.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Hollow Solids]
 [21May2025 00:36:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Quite the Renovation]
 [21May2025 00:55:24.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Jess the Marbles Winner'/12492, l='ServerLevel[world]', x=6460.37, y=-45.00, z=1349.50] died: Jess the Marbles Winner was slain by MarkGamer
+[21May2025 01:14:23.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3392ms or 67 ticks behind
+[21May2025 01:14:46.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity deepresonance:resonating_crystal @ BlockPos{x=12723, y=104, z=318} state Block{naturesaura:warped_aura_mushroom} invalid for ticking:
+[21May2025 01:16:25.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Those Were the Days]
+[21May2025 01:16:48.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [War Pigs]

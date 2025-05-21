@@ -1032,6 +1032,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-05-21 01:14:23 +0000"
+    },
+    "done": false
+  },
   "xnet:recipes/xnet/netcable_blue": {
     "criteria": {
       "nugget": "2025-05-19 22:09:51 +0000"
@@ -2980,10 +2986,12 @@
       "minecraft:pillager": "2025-05-18 22:50:26 +0000",
       "minecraft:blaze": "2025-05-19 22:02:05 +0000",
       "minecraft:skeleton": "2025-05-18 22:27:43 +0000",
+      "minecraft:ghast": "2025-05-21 01:15:31 +0000",
       "minecraft:hoglin": "2025-05-20 23:26:51 +0000",
       "minecraft:vindicator": "2025-05-20 19:29:25 +0000",
       "minecraft:magma_cube": "2025-05-19 21:56:51 +0000",
       "minecraft:spider": "2025-05-18 23:15:20 +0000",
+      "minecraft:piglin_brute": "2025-05-21 01:17:21 +0000",
       "minecraft:creeper": "2025-05-19 16:15:14 +0000",
       "minecraft:slime": "2025-05-20 23:43:11 +0000",
       "quark:forgotten": "2025-05-20 15:51:21 +0000",
@@ -7354,6 +7362,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-05-21 01:16:48 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/bone_block": {
     "criteria": {
       "has_the_recipe": "2025-05-19 17:31:51 +0000"
@@ -7813,6 +7827,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-18 22:47:46 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/platinum_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-21 01:10:11 +0000"
     },
     "done": true
   },
@@ -9379,6 +9399,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/platinum_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-05-21 01:10:10 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/reliquary/glowing_water": {
     "criteria": {
       "has_nether_wart": "2025-05-19 22:05:06 +0000"
@@ -9556,6 +9582,12 @@
   "reliquary:recipes/reliquary/mob_charm_belt": {
     "criteria": {
       "has_mob_charm_fragment": "2025-05-19 22:14:11 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/chiseled_deepslate": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 01:09:27 +0000"
     },
     "done": true
   },
@@ -10260,6 +10292,12 @@
   "croptopia:recipes/candy_corn": {
     "criteria": {
       "has_the_recipe": "2025-05-21 00:15:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/gold_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_gold_to_diamond_tier_upgrade": "2025-05-21 01:05:03 +0000"
     },
     "done": true
   },
@@ -12460,6 +12498,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/platinum_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-05-21 01:10:10 +0000"
+    },
+    "done": true
+  },
   "quarryplus:recipes/solid_fuel_quarry": {
     "criteria": {
       "has_storage_blocks/gold": "2025-05-19 17:09:30 +0000"
@@ -12529,6 +12573,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-18 22:15:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/platinum_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-05-21 01:10:10 +0000"
     },
     "done": true
   },
@@ -17175,9 +17225,12 @@
       "byg:red_oak_forest": "2025-05-19 15:25:31 +0000",
       "byg:redwood_thicket": "2025-05-19 15:25:46 +0000",
       "byg:dead_sea": "2025-05-19 15:26:47 +0000",
+      "byg:quartz_desert": "2025-05-21 01:16:04 +0000",
       "byg:firecracker_shrubland": "2025-05-20 18:02:23 +0000",
       "byg:atacama_desert": "2025-05-19 15:35:48 +0000",
+      "byg:embur_bog": "2025-05-21 01:15:35 +0000",
       "byg:araucaria_savanna": "2025-05-19 15:24:15 +0000",
+      "byg:wailing_garth": "2025-05-21 01:14:42 +0000",
       "byg:crag_gardens": "2025-05-19 15:26:11 +0000",
       "byg:red_rock_valley": "2025-05-19 15:24:26 +0000",
       "byg:howling_peaks": "2025-05-18 22:35:03 +0000",
@@ -18370,6 +18423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-05-21 01:09:27 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/blaze_gold_nugget": {
     "criteria": {
       "has_item": "2025-05-19 21:58:28 +0000"
@@ -18580,6 +18639,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-05-19 17:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-21 01:16:25 +0000"
     },
     "done": true
   },
@@ -19169,6 +19234,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-19 21:12:22 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/platinum_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2025-05-21 01:10:11 +0000"
     },
     "done": true
   },
