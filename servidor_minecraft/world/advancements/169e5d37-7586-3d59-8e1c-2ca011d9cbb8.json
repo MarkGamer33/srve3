@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/bort_block": {
+    "criteria": {
+      "has_item": "2025-05-21 00:39:09 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/palm_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 17:07:07 +0000"
@@ -500,6 +506,12 @@
   "silentgear:recipes/silentgear/arrow_blueprint": {
     "criteria": {
       "has_item": "2025-05-20 22:18:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_platinum_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/platinum]": "2025-05-21 00:39:31 +0000"
     },
     "done": true
   },
@@ -3370,6 +3382,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-05-21 00:36:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-05-20 16:09:38 +0000"
@@ -4569,6 +4587,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_limited_barrel_4": {
     "criteria": {
       "has_dark_oak_plank": "2025-05-18 22:14:22 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/bort_from_block": {
+    "criteria": {
+      "has_item": "2025-05-21 00:39:09 +0000"
     },
     "done": true
   },
@@ -10515,6 +10539,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/platinum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-21 00:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
@@ -14302,6 +14332,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_platinum_from_block": {
+    "criteria": {
+      "has_item": "2025-05-21 00:39:34 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
     "criteria": {
       "has_item0": "2025-05-19 17:27:09 +0000"
@@ -15583,6 +15619,12 @@
   "additionallanterns:recipes/additionallanterns/warped_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/platinum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-21 00:39:31 +0000"
     },
     "done": true
   },
@@ -17546,7 +17588,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-05-20 18:03:46 +0000"
+      "in_better_spider_dungeon": "2025-05-20 18:03:46 +0000",
+      "in_better_monster_room": "2025-05-21 00:36:21 +0000"
     },
     "done": false
   },
