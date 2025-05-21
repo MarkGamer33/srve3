@@ -576,6 +576,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-05-21 22:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_leggings": "2025-05-21 12:57:48 +0000"
@@ -1354,6 +1360,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-21 13:16:12 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/zinc_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-21 22:50:46 +0000"
     },
     "done": true
   },
@@ -3430,6 +3442,7 @@
       "minecraft:skeleton": "2025-05-21 13:16:57 +0000",
       "minecraft:spider": "2025-05-21 13:17:35 +0000",
       "minecraft:creeper": "2025-05-21 13:17:27 +0000",
+      "minecraft:phantom": "2025-05-21 22:46:51 +0000",
       "minecraft:witch": "2025-05-21 22:00:28 +0000",
       "minecraft:wither_skeleton": "2025-05-21 13:58:42 +0000",
       "minecraft:husk": "2025-05-21 13:59:40 +0000",
@@ -5304,6 +5317,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/network_node": {
     "criteria": {
       "has_capacitor": "2025-05-21 13:31:21 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/zinc_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-21 22:50:46 +0000"
     },
     "done": true
   },
@@ -10207,6 +10226,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-05-21 22:55:33 +0000",
       "potato": "2025-05-21 12:57:42 +0000",
       "bread": "2025-05-21 13:00:07 +0000"
     },
@@ -10451,6 +10471,12 @@
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-05-21 22:46:51 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {

@@ -1975,3 +1975,40 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 22:44:15.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig fell from a high place
 [21May2025 22:44:15.879] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
 [21May2025 22:44:17.285] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:46:37.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was blown up by ToroBoig
+[21May2025 22:46:37.748] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[21May2025 22:46:42.408] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:47:06.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig was blown up by Danilotrento34
+[21May2025 22:47:06.725] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
+[21May2025 22:47:08.423] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:47:27.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was blown up by ToroBoig
+[21May2025 22:47:27.182] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[21May2025 22:47:29.376] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:50:46.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was blown up by ToroBoig
+[21May2025 22:50:46.882] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[21May2025 22:50:48.308] [Server thread/ERROR] [ModdingLegacy/blue_skies/]: Blue Skies' player capability wasn't present for ac571937-22d7-3e23-be59-cbc5c1657d6c when trying to do a dungeon block break check. This should be reported if happening consistently!
+[21May2025 22:50:49.462] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:50:59.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig was blown up by Danilotrento34
+[21May2025 22:50:59.024] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
+[21May2025 22:51:00.324] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:51:06.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig was blown up by Leoy73
+[21May2025 22:51:06.679] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
+[21May2025 22:51:07.924] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:51:35.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig was blown up by Leoy73
+[21May2025 22:51:35.984] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
+[21May2025 22:51:37.169] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:52:15.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was blown up by ToroBoig
+[21May2025 22:52:15.525] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[21May2025 22:52:16.783] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:52:40.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was blown up by Leoy73
+[21May2025 22:52:40.135] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[21May2025 22:52:41.812] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:52:51.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig was blown up by Danilotrento34
+[21May2025 22:52:51.864] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
+[21May2025 22:52:53.873] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:53:53.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig was blown up by Danilotrento34
+[21May2025 22:53:54.008] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
+[21May2025 22:53:56.482] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:54:22.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was blown up by ToroBoig
+[21May2025 22:54:22.131] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[21May2025 22:54:23.375] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
