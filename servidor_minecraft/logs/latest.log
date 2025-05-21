@@ -1951,3 +1951,14 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 13:29:55.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Penteconter]
 [21May2025 13:30:13.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 lost connection: Disconnected
 [21May2025 13:30:13.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 left the game
+[21May2025 13:33:25.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Jaws]
+[21May2025 13:34:11.594] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] in ServerLevel[world] around BlockPos{x=14502, y=53, z=960} within 50 chunks
+[21May2025 13:34:11.596] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] at BlockPos{x=14489, y=0, z=1289} (took 1ms)
+[21May2025 13:34:11.616] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[21May2025 13:34:12.157] [Server thread/WARN] [Async Locator/]: Async Locator -> Couldn't find item handler capability on chest LootrChestBlockEntity at BlockPos{x=14502, y=53, z=960}
+[21May2025 13:34:39.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Totally Tubular Transfer]
+[21May2025 13:35:18.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [This Must be a Sign!]
+[21May2025 13:35:38.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! 1.9854435971301427,0.0,-9.923204373399358
+[21May2025 13:36:36.795] [Worker-Main-151/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-56, z=-43}
+[21May2025 13:36:36.796] [Worker-Main-151/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-52, z=-38}
+[21May2025 13:39:27.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Knowledge raises the soul]

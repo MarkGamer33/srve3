@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/spruce": {
     "criteria": {
       "has_planks": "2025-05-20 18:57:15 +0000"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/iridium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2025-05-18 22:49:56 +0000"
@@ -356,6 +368,12 @@
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:54 +0000"
     },
     "done": true
   },
@@ -750,6 +768,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/silver_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/shield_blueprint": {
     "criteria": {
       "has_item": "2025-05-20 22:18:25 +0000"
@@ -939,6 +963,12 @@
   "corail_woodcutter:recipes/from_time_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
     },
     "done": true
   },
@@ -1291,6 +1321,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/ruby_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/trampoline": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
@@ -1390,6 +1426,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-05-20 16:09:41 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_white": {
+    "criteria": {
+      "has_item": "2025-05-21 13:35:01 +0000"
     },
     "done": true
   },
@@ -1666,6 +1708,18 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/glassblower_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/platinum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -2137,6 +2191,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 17:07:07 +0000"
@@ -2372,6 +2432,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_beef_stew": {
     "criteria": {
       "has_beef": "2025-05-18 22:47:46 +0000"
@@ -2557,6 +2623,12 @@
   "littlelogistics:recipes/redstone/rapid_hopper": {
     "criteria": {
       "has_item": "2025-05-20 15:06:09 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/copper_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -3501,6 +3573,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/ruby_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/doughnut": {
     "criteria": {
       "has_milk": "2025-05-19 23:07:31 +0000"
@@ -3528,6 +3606,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-05-20 16:09:41 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/lumium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -4434,6 +4518,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/conversions/manasteel_block_deconstruct": {
     "criteria": {
       "has_item": "2025-05-20 19:14:05 +0000"
@@ -4913,6 +5003,12 @@
   "handcrafted:recipes/misc/white_plate": {
     "criteria": {
       "has_terracotta": "2025-05-19 20:54:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
     },
     "done": true
   },
@@ -5572,6 +5668,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/zinc_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/text_module": {
     "criteria": {
       "ingot": "2025-05-18 22:21:16 +0000"
@@ -5597,6 +5699,12 @@
       "opened_cart": "2025-05-19 17:40:06 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/mason_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
+    },
+    "done": true
   },
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_chest": {
     "criteria": {
@@ -6651,6 +6759,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 23:39:38 +0000"
@@ -6745,6 +6859,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-05-18 22:18:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
     },
     "done": true
   },
@@ -7126,6 +7246,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-19 22:02:40 +0000"
@@ -7148,6 +7274,12 @@
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
     },
     "done": true
   },
@@ -7515,6 +7647,12 @@
   "silentgear:recipes/silentgear/dagger_blueprint": {
     "criteria": {
       "has_item": "2025-05-20 22:18:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/osmium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -8576,6 +8714,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/steel_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-05-20 17:14:05 +0000"
@@ -8895,6 +9039,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/iron_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-05-20 14:44:30 +0000"
@@ -8910,6 +9060,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/lead_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -9357,6 +9513,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/invar_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_stone_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
@@ -9597,6 +9759,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/silver_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-18 23:24:48 +0000"
@@ -9660,6 +9828,12 @@
   "reliquary:recipes/reliquary/glowing_water": {
     "criteria": {
       "has_nether_wart": "2025-05-19 22:05:06 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/aluminum_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -9885,6 +10059,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_chair": {
     "criteria": {
       "has_planks": "2025-05-20 18:57:15 +0000"
@@ -9995,6 +10175,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/electrum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
@@ -10016,6 +10202,12 @@
   "silentgear:recipes/silentgear/crossbow_template": {
     "criteria": {
       "has_item": "2025-05-18 23:05:54 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/bronze_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -10145,6 +10337,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_white_double": {
+    "criteria": {
+      "has_alt_item": "2025-05-21 13:35:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-20 17:22:33 +0000"
@@ -10262,6 +10460,12 @@
   "cfm:recipes/cfm/dye_blue_picket_gate": {
     "criteria": {
       "has_dye": "2025-05-20 22:18:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/zinc_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -10685,6 +10889,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/tin_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/raw_zinc_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-05-19 18:06:46 +0000"
@@ -10778,6 +10988,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_phantom_dark_membrane": {
     "criteria": {
       "has_chorus": "2025-05-20 23:08:01 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/enderium_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -12065,6 +12281,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/constantan_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_ladder": {
     "criteria": {
       "has_dry_bamboo": "2025-05-18 22:13:22 +0000"
@@ -12248,6 +12470,12 @@
   "rftoolsbase:recipes/rftoolsbase/filter_module": {
     "criteria": {
       "hopper": "2025-05-20 15:06:09 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/diamond_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -12669,6 +12897,18 @@
   "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 23:28:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/signalum_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -13100,6 +13340,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/carpenter_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:54 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/red_nether_bricks_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:26:17 +0000"
@@ -13212,6 +13458,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/iron_to_diamond_tier_upgrade": {
     "criteria": {
       "has_iron_to_gold_tier_upgrade": "2025-05-20 16:29:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/shepherd_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:54 +0000"
     },
     "done": true
   },
@@ -13335,6 +13587,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:54 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
@@ -13362,6 +13620,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-05-19 23:07:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/gold_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -14077,6 +14341,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/nickel_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/screen_link": {
     "criteria": {
       "redstone": "2025-05-18 22:30:28 +0000"
@@ -14134,6 +14404,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-05-20 17:23:25 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/peridot_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -14362,6 +14638,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_red_r": {
     "criteria": {
       "has_stone_bricks": "2025-05-19 17:09:18 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/iron_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -14941,6 +15223,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/tin_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/golden_apple": {
     "criteria": {
       "has_the_recipe": "2025-05-18 23:14:52 +0000"
@@ -15262,6 +15550,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
     "criteria": {
       "has_copper_ingot": "2025-05-20 17:22:33 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/uranium_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -15823,6 +16117,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
@@ -15946,6 +16246,12 @@
   "minecolonies:recipes/combat/chainmailleggings": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/copper_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -16340,6 +16646,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/peridot_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/auto_lubricator": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:41 +0000"
@@ -16373,6 +16685,12 @@
   "mcwbridges:recipes/blackstone_bridge": {
     "criteria": {
       "has_planks": "2025-05-19 22:07:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
     },
     "done": true
   },
@@ -16410,6 +16728,12 @@
     "criteria": {
       "get_ore": "2025-05-19 22:10:01 +0000",
       "get_ingot": "2025-05-19 21:59:12 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/gold_dust_from_hammer_ingot_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -16542,6 +16866,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2025-05-20 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conversions/white_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-21 13:35:01 +0000"
     },
     "done": true
   },
@@ -16732,6 +17062,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/tinkerer_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/end_stone_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:26:17 +0000"
@@ -16765,6 +17101,12 @@
   "additionallanterns:recipes/additionallanterns/stone_chain": {
     "criteria": {
       "recipe_condition": "2025-05-19 17:27:09 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/nickel_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -16954,6 +17296,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-19 17:11:09 +0000"
@@ -16999,6 +17347,12 @@
   "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-20 18:57:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
     },
     "done": true
   },
@@ -17059,6 +17413,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-20 16:09:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
     },
     "done": true
   },
@@ -17309,6 +17669,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:54 +0000"
+    },
+    "done": true
+  },
   "wirelesschargers:recipes/wirelesschargers/basic_wireless_player_charger": {
     "criteria": {
       "recipe_condition": "2025-05-19 22:59:54 +0000"
@@ -17483,6 +17849,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/philosopher_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/iron_rod": {
     "criteria": {
       "has_item": "2025-05-18 22:21:15 +0000"
@@ -17651,6 +18023,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/osmium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_cabinet": {
     "criteria": {
       "has_log": "2025-05-18 22:50:56 +0000"
@@ -17742,6 +18120,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/sapphire_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-18 22:30:13 +0000"
@@ -17763,6 +18147,12 @@
   "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
     "criteria": {
       "ingot": "2025-05-18 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_white": {
+    "criteria": {
+      "has_alt_item": "2025-05-21 13:35:01 +0000"
     },
     "done": true
   },
@@ -18466,6 +18856,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/lead_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/reliquary/mob_charm_fragments/slime": {
     "criteria": {
       "has_slime_pearl": "2025-05-19 22:03:49 +0000"
@@ -18541,6 +18937,12 @@
   "croptopia:recipes/croptopia.croptopia/nectarine_sapling": {
     "criteria": {
       "has_nectarine": "2025-05-20 16:08:41 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/netherite_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -19139,6 +19541,12 @@
   "cfm:recipes/cfm/acacia_desk": {
     "criteria": {
       "has_planks": "2025-05-20 23:28:28 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/white_petal_block": {
+    "criteria": {
+      "has_item": "2025-05-21 13:35:01 +0000"
     },
     "done": true
   },
@@ -19870,6 +20278,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/aluminum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/french_fries": {
     "criteria": {
       "has_potato": "2025-05-18 22:57:40 +0000"
@@ -20009,6 +20423,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:57:11 +0000"
@@ -20018,6 +20438,12 @@
   "alchemistry:recipes/dissolver/raw_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-05-20 15:52:14 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/platinum_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -20195,6 +20621,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/brass_dust_from_alloy_blending": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-18 23:24:48 +0000"
@@ -20246,6 +20678,12 @@
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2025-05-18 22:49:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/uranium_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
     },
     "done": true
   },
@@ -20669,9 +21107,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/sapphire_dust_from_hammer_crushing": {
+    "criteria": {
+      "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-05-18 22:47:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-05-21 13:34:55 +0000"
     },
     "done": true
   },
