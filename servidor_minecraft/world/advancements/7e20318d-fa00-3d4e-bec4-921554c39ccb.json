@@ -14918,6 +14918,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-21 17:45:49 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_chest": {
     "criteria": {
       "hasFramedBlock": "2025-05-20 15:27:26 +0000"
