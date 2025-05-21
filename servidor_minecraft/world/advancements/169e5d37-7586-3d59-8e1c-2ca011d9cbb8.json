@@ -1302,6 +1302,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2025-05-21 00:30:40 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/directional_highspeed_rail": {
     "criteria": {
       "criterion1": "2025-05-18 22:14:49 +0000"

@@ -62,3 +62,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 00:02:35.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/1056, l='ServerLevel[world]', x=6740.98, y=126.25, z=777.36] died: Honeyed Archer suffocated in a wall
 [21May2025 00:02:42.343] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
 [21May2025 00:17:50.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Livia'/3269, l='ServerLevel[world]', x=6576.43, y=118.00, z=831.51] died: Livia was slain by MarkGamer
+[21May2025 00:28:17.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[21May2025 00:28:19.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[21May2025 00:30:40.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Hollow Solids]
+[21May2025 00:36:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Quite the Renovation]
