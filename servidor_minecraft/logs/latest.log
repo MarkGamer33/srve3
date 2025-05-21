@@ -1864,3 +1864,16 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 23:22:50.924] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
 [21May2025 23:22:53.640] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [21May2025 23:22:55.727] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 23:23:59.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Applied effect Levitation to ToroBoig]
+[21May2025 23:26:12.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:entity.lightning_bolt.thunder to ToroBoig]
+[21May2025 23:26:29.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:entity.lightning_bolt.thunder to ToroBoig]
+[21May2025 23:28:34.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported ToroBoig to Leoy73]
+[21May2025 23:30:04.868] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a4b44e3
+[21May2025 23:30:06.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig was blown up by Creeper
+[21May2025 23:30:06.108] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
+[21May2025 23:30:07.994] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 23:30:23.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[21May2025 23:30:23.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[21May2025 23:30:26.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Applied effect Blindness to Danilotrento34]
+[21May2025 23:30:53.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Applied effect Blindness to 3 targets]
+[21May2025 23:32:08.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:entity.creeper.primed to Leoy73]

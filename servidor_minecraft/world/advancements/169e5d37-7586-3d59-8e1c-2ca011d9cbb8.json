@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/basic_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_gold_tier_upgrade": "2025-05-21 23:26:20 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/shears_template": {
     "criteria": {
       "has_item": "2025-05-18 23:05:54 +0000"
@@ -1213,6 +1219,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_orange2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-19 18:08:16 +0000"
@@ -1234,6 +1246,13 @@
   "connectedglass:recipes/misc/borderless_glass1": {
     "criteria": {
       "recipe_condition": "2025-05-20 14:43:53 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -1513,6 +1532,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/stone_wand": {
     "criteria": {
       "has_item": "2025-05-18 22:14:40 +0000"
@@ -1654,6 +1679,12 @@
   "cfm:recipes/cfm/jungle_desk_cabinet": {
     "criteria": {
       "has_log": "2025-05-18 22:50:56 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -2890,6 +2921,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-19 22:09:51 +0000"
@@ -3235,6 +3272,13 @@
     },
     "done": false
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/blueprint_book": {
     "criteria": {
       "has_item": "2025-05-18 23:05:54 +0000"
@@ -3545,6 +3589,13 @@
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-05-20 16:09:38 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -3932,6 +3983,12 @@
   "cfm:recipes/cfm/stripped_acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -4515,6 +4572,13 @@
   "rftoolsbase:recipes/rftoolsbase/machine_frame": {
     "criteria": {
       "iron_ingot": "2025-05-20 15:47:44 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -7337,6 +7401,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_orange2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/iron_bars": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:21:16 +0000"
@@ -7960,6 +8031,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -9063,6 +9140,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/diamond_hook": {
     "criteria": {
       "has_items": "2025-05-18 22:13:23 +0000"
@@ -10132,6 +10216,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_green": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-20 17:44:45 +0000"
@@ -10605,6 +10696,13 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_blue": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -12174,6 +12272,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_dark": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-20 17:44:45 +0000"
@@ -13214,6 +13318,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-19 17:20:56 +0000"
@@ -13265,6 +13376,12 @@
   "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -14371,6 +14488,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/mashed_potatoes": {
     "criteria": {
       "has_milk": "2025-05-19 23:07:31 +0000"
@@ -14675,6 +14798,12 @@
   "create:recipes/create.palettes/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-19 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -15195,6 +15324,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
@@ -15564,6 +15700,13 @@
   "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
     "criteria": {
       "redstone": "2025-05-18 22:30:28 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -16299,6 +16442,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_brown2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-05-19 22:07:32 +0000"
@@ -16791,6 +16941,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-05-18 23:20:40 +0000"
@@ -16890,6 +17046,13 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-05-19 22:02:40 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -17832,6 +17995,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000",
+      "has_the_recipe": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_trapdoor_from_acacia_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 23:35:16 +0000"
@@ -18040,6 +18210,12 @@
     "criteria": {
       "give_recipe": "2025-05-20 23:39:28 +0000",
       "has_block": "2025-05-20 23:39:28 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -18343,6 +18519,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/glass_blue": {
     "criteria": {
       "has_dyes/black": "2025-05-20 22:18:25 +0000"
@@ -18574,6 +18756,13 @@
   "mekanismtools:paxel": {
     "criteria": {
       "any_paxel": "2025-05-19 17:25:02 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane3": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 23:28:44 +0000",
+      "recipe_condition": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -18855,6 +19044,13 @@
   "xycraft_override:recipes/xycraft_override/shaped/magma_blue_r": {
     "criteria": {
       "has_magma_block": "2025-05-18 22:16:48 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass1": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 23:28:44 +0000",
+      "recipe_condition": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -19421,6 +19617,12 @@
   "ftbic:recipes/building_blocks/macerating/cobblestone": {
     "criteria": {
       "has_item": "2025-05-18 22:15:47 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_brown2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -20017,6 +20219,12 @@
   "botania:recipes/botania/pump": {
     "criteria": {
       "has_item": "2025-05-20 19:14:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition1": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
@@ -21475,6 +21683,12 @@
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2025-05-18 22:15:47 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass1": {
+    "criteria": {
+      "recipe_condition": "2025-05-21 23:28:44 +0000"
     },
     "done": true
   },
