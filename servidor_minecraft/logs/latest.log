@@ -1858,3 +1858,25 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 12:57:57.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has completed the challenge [He Wasn't So Strong]
 [21May2025 12:58:38.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Isn't It Iron Pick]
 [21May2025 12:59:06.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Amateur Archaeologist]
+[21May2025 13:04:06.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Diamonds!]
+[21May2025 13:04:45.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Cover Me with Diamonds]
+[21May2025 13:05:59.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/19303, l='ServerLevel[world]', x=6646.73, y=107.41, z=835.12] died: Undead Knight suffocated in a wall
+[21May2025 13:06:47.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has reached the goal [Worthy Equipment]
+[21May2025 13:08:03.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6275ms or 125 ticks behind
+[21May2025 13:08:03.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved too quickly! -1.255382651961554,1.0,-10.193937564428097
+[21May2025 13:08:03.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! -3.303568508529679,-1.5216761829341863,9.546558123164004
+[21May2025 13:08:23.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5068ms or 101 ticks behind
+[21May2025 13:08:23.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 moved too quickly! -10.027239617525993,1.0521085410078257,1.700532928995358
+[21May2025 13:08:48.364] [Worker-Main-150/WARN] [ModernFix/]: The namespace yungsextras contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[21May2025 13:09:28.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported MarkGamer to ToroBoig]
+[21May2025 13:09:33.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported Leoy73 to ToroBoig]
+[21May2025 13:10:28.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved too quickly! 0.9194526012543065,-2.6532047674705552,9.702194343760539
+[21May2025 13:10:28.967] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=13764, y=95, z=405} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[21May2025 13:10:28.967] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=13764, y=95, z=405}
+[21May2025 13:10:28.968] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=13765, y=96, z=405} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[21May2025 13:10:28.968] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=13765, y=96, z=405}
+[21May2025 13:10:28.968] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=13764, y=96, z=405} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[21May2025 13:10:28.968] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=13764, y=96, z=405}
+[21May2025 13:10:29.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Stone Age]
+[21May2025 13:10:31.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 moved too quickly! 9.10763616276381,-0.3946637657674614,4.75640314646904
+[21May2025 13:10:31.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved too quickly! -5.551233505277196,3.0,-8.024423087796777

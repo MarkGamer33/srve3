@@ -1555,6 +1555,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-05-21 13:05:36 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/macerating/raw_materials/aluminum_to_dust": {
     "criteria": {
       "has_item": "2025-05-18 22:20:36 +0000"
@@ -1648,6 +1654,12 @@
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2025-05-18 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rope": {
+    "criteria": {
+      "has_straw": "2025-05-21 13:05:36 +0000"
     },
     "done": true
   },
@@ -8442,6 +8454,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-05-21 13:05:36 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/borderless_glass_gray2": {
     "criteria": {
       "recipe_condition1": "2025-05-19 22:53:52 +0000"
@@ -12092,6 +12110,12 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/moduleplus_template": {
+    "criteria": {
+      "dimshards": "2025-05-21 13:01:11 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_iron_helmet": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 16:48:55 +0000"
@@ -12877,6 +12901,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/canvas": {
+    "criteria": {
+      "has_straw": "2025-05-21 13:05:36 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/red_nether_bricks_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:14:46 +0000"
@@ -12948,6 +12978,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-18 22:16:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-05-21 13:05:36 +0000"
     },
     "done": true
   },
@@ -13685,6 +13721,12 @@
   "cfm:recipes/cfm/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-18 22:36:08 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/infused_diamond": {
+    "criteria": {
+      "shard": "2025-05-21 13:01:11 +0000"
     },
     "done": true
   },
@@ -14974,6 +15016,12 @@
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/module_template": {
+    "criteria": {
+      "dimshards": "2025-05-21 13:01:11 +0000"
     },
     "done": true
   },
@@ -16875,6 +16923,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-05-21 13:05:36 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/redwood_crafting_table": {
     "criteria": {
       "has_planks": "2025-05-20 14:41:33 +0000"
@@ -17550,6 +17604,12 @@
   "xnet:recipes/xnet/netcable_yellow": {
     "criteria": {
       "nugget": "2025-05-19 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-05-21 13:05:36 +0000"
     },
     "done": true
   },
@@ -19249,6 +19309,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_red": {
     "criteria": {
       "has_stone_bricks": "2025-05-18 22:39:33 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/infused_enderpearl": {
+    "criteria": {
+      "shard": "2025-05-21 13:01:11 +0000"
     },
     "done": true
   },
