@@ -801,6 +801,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_frying_pan": "2025-05-21 18:01:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_orange_wool": "2025-05-18 22:50:55 +0000"
@@ -1100,6 +1106,12 @@
   "reliquary:recipes/reliquary/glacial_staff": {
     "criteria": {
       "has_void_tear": "2025-05-20 23:31:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pizza": {
+    "criteria": {
+      "has_frying_pan": "2025-05-21 18:01:07 +0000"
     },
     "done": true
   },
@@ -2392,6 +2404,12 @@
     },
     "done": true
   },
+  "croptopia:pot": {
+    "criteria": {
+      "cooking_pot": "2025-05-21 18:00:37 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_beef_stew": {
     "criteria": {
       "has_beef": "2025-05-18 22:41:45 +0000"
@@ -3496,6 +3514,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/dauphine_potatoes": {
+    "criteria": {
+      "has_frying_pan": "2025-05-21 18:01:07 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-20 22:31:24 +0000"
@@ -3535,6 +3559,12 @@
   "framedblocks:recipes/framed_blocks/framed_vertical_stairs": {
     "criteria": {
       "hasFramedBlock": "2025-05-20 15:27:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_flour": "2025-05-21 18:00:14 +0000"
     },
     "done": true
   },
@@ -3655,6 +3685,12 @@
   "elementalcraft:pickup/drenched_iron_nugget": {
     "criteria": {
       "has_drenched_iron_nugget": "2025-05-18 22:52:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/macaron": {
+    "criteria": {
+      "has_food_press": "2025-05-21 18:02:40 +0000"
     },
     "done": true
   },
@@ -3910,6 +3946,12 @@
   "reliquary:recipes/reliquary/holy_hand_grenade": {
     "criteria": {
       "has_glowing_water": "2025-05-20 19:15:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/enchilada": {
+    "criteria": {
+      "has_tortilla": "2025-05-21 18:01:22 +0000"
     },
     "done": true
   },
@@ -4180,6 +4222,12 @@
   "minecolonies:recipes/minecolonies/resourcescroll": {
     "criteria": {
       "has_build_tool": "2025-05-20 22:34:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_wellington": {
+    "criteria": {
+      "has_frying_pan": "2025-05-21 18:01:07 +0000"
     },
     "done": true
   },
@@ -5619,6 +5667,7 @@
   "croptopia:gather_food": {
     "criteria": {
       "scrambled_eggs": "2025-05-21 17:23:45 +0000",
+      "tortilla": "2025-05-21 18:01:22 +0000",
       "pork_jerky": "2025-05-21 17:35:20 +0000"
     },
     "done": false
@@ -5671,6 +5720,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_chest": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 16:48:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/croque_madame": {
+    "criteria": {
+      "has_frying_pan": "2025-05-21 18:01:07 +0000"
     },
     "done": true
   },
@@ -6059,6 +6114,12 @@
     "criteria": {
       "recipe_condition1": "2025-05-19 22:53:38 +0000",
       "has_the_recipe": "2025-05-19 22:53:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cinnamon_roll": {
+    "criteria": {
+      "has_frying_pan": "2025-05-21 18:01:07 +0000"
     },
     "done": true
   },
@@ -6593,6 +6654,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/sweet_crepes": {
+    "criteria": {
+      "took_flour": "2025-05-21 18:00:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-05-18 22:10:03 +0000"
@@ -6764,6 +6831,12 @@
   "hexcasting:recipes/hexcasting/pride_colorizer_bisexual": {
     "criteria": {
       "has_item": "2025-05-20 19:18:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:food_press": {
+    "criteria": {
+      "food_press": "2025-05-21 18:02:40 +0000"
     },
     "done": true
   },
@@ -7532,6 +7605,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/taco": {
+    "criteria": {
+      "has_tortilla": "2025-05-21 18:01:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-05-20 17:10:35 +0000"
@@ -7770,6 +7849,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
     "criteria": {
       "has_porkchop": "2025-05-21 12:04:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/quesadilla": {
+    "criteria": {
+      "has_tortilla": "2025-05-21 18:01:22 +0000"
     },
     "done": true
   },
@@ -8205,6 +8290,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/croque_monsieur": {
+    "criteria": {
+      "has_frying_pan": "2025-05-21 18:01:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/obedience_stick": {
     "criteria": {
       "has_item": "2025-05-20 16:55:30 +0000"
@@ -8437,6 +8528,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_light_blue": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 16:48:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/tortilla": {
+    "criteria": {
+      "took_flour": "2025-05-21 18:00:14 +0000"
     },
     "done": true
   },
@@ -8807,6 +8904,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/ravioli": {
+    "criteria": {
+      "has_noodle": "2025-05-21 18:00:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/onion": {
     "criteria": {
       "has_onion_crate": "2025-05-20 16:08:06 +0000"
@@ -8961,6 +9064,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
     "criteria": {
       "has_bucket": "2025-05-18 22:36:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/grilled_cheese": {
+    "criteria": {
+      "has_frying_pan": "2025-05-21 18:01:07 +0000"
     },
     "done": true
   },
@@ -9853,6 +9962,12 @@
     },
     "done": true
   },
+  "croptopia:mortar_and_pestle": {
+    "criteria": {
+      "mortar_and_pestle": "2025-05-21 18:02:40 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/borderless_glass_yellow2": {
     "criteria": {
       "recipe_condition1": "2025-05-19 22:53:52 +0000"
@@ -10355,6 +10470,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_peanut_butter": {
+    "criteria": {
+      "has_food_press": "2025-05-21 18:02:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 21:44:01 +0000"
@@ -10583,6 +10704,12 @@
     },
     "done": true
   },
+  "croptopia:frying_pan": {
+    "criteria": {
+      "frying_pan": "2025-05-21 18:01:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-19 21:58:27 +0000"
@@ -10806,6 +10933,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/hashed_brown": {
+    "criteria": {
+      "has_frying_pan": "2025-05-21 18:01:07 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/gold_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:14:46 +0000"
@@ -10917,6 +11050,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-05-18 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/quiche": {
+    "criteria": {
+      "has_frying_pan": "2025-05-21 18:01:07 +0000"
     },
     "done": true
   },
@@ -11175,6 +11314,12 @@
   "xnet:recipes/xnet/advanced_connector_yellow": {
     "criteria": {
       "chest": "2025-05-20 22:17:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_fish_and_chips": {
+    "criteria": {
+      "has_flour": "2025-05-21 18:00:14 +0000"
     },
     "done": true
   },
@@ -12032,6 +12177,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/baked_crepes": {
+    "criteria": {
+      "has_frying_pan": "2025-05-21 18:01:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:30:59 +0000"
@@ -12125,6 +12276,12 @@
   "create:recipes/create.palettes/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-18 22:16:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/olive_oil": {
+    "criteria": {
+      "has_food_press": "2025-05-21 18:02:40 +0000"
     },
     "done": true
   },
@@ -12437,6 +12594,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 22:38:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/dough": {
+    "criteria": {
+      "has_flour": "2025-05-21 18:00:14 +0000"
     },
     "done": true
   },
@@ -13907,6 +14070,12 @@
   "alltheores:recipes/alltheores/diamond_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-05-19 18:39:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/ground_pork": {
+    "criteria": {
+      "has_food_press": "2025-05-21 18:02:41 +0000"
     },
     "done": true
   },
@@ -16529,6 +16698,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/tostada": {
+    "criteria": {
+      "has_tortilla": "2025-05-21 18:01:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-18 22:16:33 +0000"
@@ -16616,6 +16791,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-05-19 18:12:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/noodles": {
+    "criteria": {
+      "has_flour": "2025-05-21 18:00:14 +0000"
     },
     "done": true
   },
@@ -20634,6 +20815,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/paprika": {
+    "criteria": {
+      "has_mortar_and_pestle": "2025-05-21 18:02:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-05-19 16:48:51 +0000"
@@ -20667,6 +20854,12 @@
   "botania:main/lexicon_use": {
     "criteria": {
       "use_lexicon": "2025-05-19 21:13:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/the_big_breakfast": {
+    "criteria": {
+      "has_frying_pan": "2025-05-21 18:01:07 +0000"
     },
     "done": true
   },
@@ -20745,6 +20938,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/asphalt2": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/sunny_side_eggs": {
+    "criteria": {
+      "has_frying_pan": "2025-05-21 18:01:07 +0000"
     },
     "done": true
   },

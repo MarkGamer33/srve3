@@ -1825,3 +1825,23 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 17:36:34.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Fancy Water]
 [21May2025 17:37:20.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Fancy Water]
 [21May2025 17:45:49.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [What a Deal!]
+[21May2025 17:59:09.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7128ms or 142 ticks behind
+[21May2025 18:00:37.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Potted]
+[21May2025 18:01:07.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Can't Be Used as a Weapon]
+[21May2025 18:01:44.030] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@48175d64
+[21May2025 18:01:44.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danilotrento34[/127.125.238.94:32885] logged in with entity id 8966 at (6639.424740193784, 96.0, 760.5732606048877)
+[21May2025 18:01:44.069] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Danilotrento34
+[21May2025 18:01:44.069] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Danilotrento34
+[21May2025 18:01:44.070] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Danilotrento34
+[21May2025 18:01:44.070] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Danilotrento34
+[21May2025 18:01:44.071] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Danilotrento34
+[21May2025 18:01:44.074] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Danilotrento34
+[21May2025 18:01:44.074] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Danilotrento34
+[21May2025 18:01:44.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 joined the game
+[21May2025 18:01:44.411] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Danilotrento34
+[21May2025 18:02:40.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [A Deadly Weapon For... Crushing]
+[21May2025 18:02:40.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Blendern't]
+[21May2025 18:04:35.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved too quickly! 6.0816246066533495,-1.0,8.743054515172844
+[21May2025 18:04:36.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved too quickly! 5.679519043408618,4.0,7.776750501223432
+[21May2025 18:04:59.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Hearty Meal]
+[21May2025 18:05:02.289] [Worker-Main-82/WARN] [ModernFix/]: The namespace betterstrongholds contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
