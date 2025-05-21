@@ -2439,6 +2439,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/powerful_water_shard_from_water_shards": {
+    "criteria": {
+      "has_water_shard": "2025-05-20 23:43:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-05-18 22:33:33 +0000"
@@ -2716,6 +2722,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-20 23:44:52 +0000"
+    },
+    "done": true
+  },
   "productivebees:husbandry/bee_cage/overworld_nest": {
     "criteria": {
       "get_item": "2025-05-19 17:11:11 +0000"
@@ -2943,6 +2955,7 @@
       "minecraft:magma_cube": "2025-05-19 21:56:51 +0000",
       "minecraft:spider": "2025-05-18 23:15:20 +0000",
       "minecraft:creeper": "2025-05-19 16:15:14 +0000",
+      "minecraft:slime": "2025-05-20 23:43:11 +0000",
       "quark:forgotten": "2025-05-20 15:51:21 +0000",
       "minecraft:phantom": "2025-05-20 23:08:01 +0000",
       "minecraft:zombified_piglin": "2025-05-19 22:32:31 +0000",
@@ -3532,6 +3545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-20 23:42:16 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/copper_torch": {
     "criteria": {
       "has_copper": "2025-05-20 17:22:33 +0000"
@@ -4019,6 +4038,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-20 23:46:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-19 22:07:05 +0000"
@@ -4043,16 +4068,16 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_2": {
-    "criteria": {
-      "has_birch_plank": "2025-05-20 23:39:38 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/connectedglass/clear_glass_red_pane2": {
     "criteria": {
       "recipe_condition2": "2025-05-20 22:13:56 +0000",
       "has_the_recipe": "2025-05-20 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2025-05-20 23:39:38 +0000"
     },
     "done": true
   },
@@ -12983,16 +13008,16 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-05-20 23:41:24 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/scratched_glass_red_pane2": {
     "criteria": {
       "recipe_condition2": "2025-05-20 22:13:56 +0000",
       "has_the_recipe": "2025-05-20 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-20 23:41:24 +0000"
     },
     "done": true
   },
@@ -15092,6 +15117,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/water_shard": {
+    "criteria": {
+      "has_water_shard": "2025-05-20 23:43:02 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/cooked_beef": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:47:46 +0000"
@@ -16046,6 +16077,12 @@
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/netherite_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 23:42:16 +0000"
     },
     "done": true
   },
