@@ -611,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-05-21 23:05:26 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/manasteel_chestplate": {
     "criteria": {
       "has_item": "2025-05-20 19:14:05 +0000"
@@ -3768,6 +3774,12 @@
   "silentgear:recipes/silentgear/slingshot_template": {
     "criteria": {
       "has_item": "2025-05-18 23:05:54 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 23:05:26 +0000"
     },
     "done": true
   },
@@ -13666,6 +13678,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_divided_panel_vertical": {
+    "criteria": {
+      "hasFramedCornerPillar": "2025-05-21 23:02:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-05-18 22:51:28 +0000"
@@ -16080,6 +16098,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-19 17:27:09 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_pillar": {
+    "criteria": {
+      "hasFramedCornerPillar": "2025-05-21 23:02:57 +0000"
     },
     "done": true
   },

@@ -1868,6 +1868,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-05-21 23:03:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_thin_pot": {
     "criteria": {
       "has_terracotta": "2025-05-19 21:58:27 +0000"
@@ -13770,6 +13776,12 @@
     },
     "done": true
   },
+  "silentgear:swords": {
+    "criteria": {
+      "katana": "2025-05-21 23:03:54 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/black_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-18 22:36:08 +0000"
@@ -15312,6 +15324,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/inverted_bricks_cloud_dark": {
+    "criteria": {
+      "has_xychorium_gem_dark": "2025-05-21 23:03:54 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2025-05-18 22:09:55 +0000"
@@ -16570,6 +16588,12 @@
   "botania:recipes/botania/manasteel_sword": {
     "criteria": {
       "has_item": "2025-05-20 16:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-05-21 23:03:54 +0000"
     },
     "done": true
   },
@@ -20286,6 +20310,12 @@
   "securitycraft:recipes/securitycraft/alarm": {
     "criteria": {
       "has_redstone": "2025-05-19 17:39:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/compacting/xychorium_gem_dark": {
+    "criteria": {
+      "has_xychorium_gem_dark": "2025-05-21 23:03:54 +0000"
     },
     "done": true
   },

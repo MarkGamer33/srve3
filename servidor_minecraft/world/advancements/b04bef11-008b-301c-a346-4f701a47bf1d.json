@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-05-21 22:03:26 +0000"
@@ -462,6 +468,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/quartz_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-05-21 12:54:17 +0000"
@@ -582,6 +594,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/iron_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_leggings": "2025-05-21 12:57:48 +0000"
@@ -660,6 +678,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/deepslate_iron_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_chair": {
     "criteria": {
       "has_planks": "2025-05-21 13:16:16 +0000"
@@ -669,6 +693,12 @@
   "silentgear:recipes/silentgear/bort_block": {
     "criteria": {
       "has_item": "2025-05-21 22:09:44 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_phantom_dark_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-21 23:00:27 +0000"
     },
     "done": true
   },
@@ -1537,6 +1567,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_phantom_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-21 23:00:27 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/air_mill_grindstone": {
     "criteria": {
       "has_whiterock": "2025-05-21 19:38:23 +0000"
@@ -1588,6 +1624,12 @@
   "constructionwand:recipes/tools/stone_wand": {
     "criteria": {
       "has_item": "2025-05-21 13:10:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/copper_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
     },
     "done": true
   },
@@ -1921,6 +1963,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/deepslate": {
     "criteria": {
       "has_the_recipe": "2025-05-21 22:03:25 +0000"
@@ -2098,6 +2146,12 @@
   "silentgear:repair_kit": {
     "criteria": {
       "sturdy_repair_kit": "2025-05-21 21:53:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
     },
     "done": true
   },
@@ -2332,6 +2386,12 @@
   "delightful:recipes/knives/manasteel_knife": {
     "criteria": {
       "has_manasteel": "2025-05-21 13:26:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/deepslate_gold_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
     },
     "done": true
   },
@@ -3057,6 +3117,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/deepslate_diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/oak": {
     "criteria": {
       "has_oak": "2025-05-21 12:54:17 +0000"
@@ -3382,6 +3448,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fillet_knife": {
     "criteria": {
       "has_items": "2025-05-21 13:16:11 +0000"
@@ -3391,6 +3463,12 @@
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2025-05-21 13:05:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/gravel_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
     },
     "done": true
   },
@@ -3440,6 +3518,7 @@
     "criteria": {
       "minecraft:blaze": "2025-05-21 19:06:13 +0000",
       "minecraft:skeleton": "2025-05-21 13:16:57 +0000",
+      "minecraft:vindicator": "2025-05-21 23:01:47 +0000",
       "minecraft:spider": "2025-05-21 13:17:35 +0000",
       "minecraft:creeper": "2025-05-21 13:17:27 +0000",
       "minecraft:phantom": "2025-05-21 22:46:51 +0000",
@@ -3563,6 +3642,12 @@
   "elementalcraft:pickup/watercrystal": {
     "criteria": {
       "has_watercrystal": "2025-05-21 19:38:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/stone_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
     },
     "done": true
   },
@@ -3797,6 +3882,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-21 13:16:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sand_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:55 +0000"
     },
     "done": true
   },
@@ -4827,6 +4918,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/wire_cutters": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-21 13:16:12 +0000"
@@ -4896,6 +4993,12 @@
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-05-21 13:39:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
     },
     "done": true
   },
@@ -5470,6 +5573,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/crude_furnace": {
     "criteria": {
       "criterion1": "2025-05-21 13:10:29 +0000"
@@ -5638,9 +5753,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/oil_can": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:36:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
     },
     "done": true
   },
@@ -5860,6 +5987,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_phantom_glowing_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-21 23:00:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-05-21 13:16:16 +0000"
@@ -5869,6 +6002,12 @@
   "ftbic:recipes/ftbic/rolling/ingots/copper_to_copper_plate": {
     "criteria": {
       "has_item": "2025-05-21 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-05-21 23:01:50 +0000"
     },
     "done": true
   },
@@ -6708,6 +6847,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/deepslate_copper_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2025-05-21 22:33:04 +0000"
@@ -6981,6 +7132,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/deepslate_emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-05-21 21:59:11 +0000"
@@ -7101,6 +7258,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/diamond_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-21 13:39:18 +0000"
@@ -7170,6 +7333,12 @@
   "hexcasting:recipes/hexcasting/scroll_medium": {
     "criteria": {
       "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
     },
     "done": true
   },
@@ -7308,6 +7477,12 @@
   "delightful:recipes/food/marshmallow_stick": {
     "criteria": {
       "has_sugar": "2025-05-21 22:00:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/cobbled_deepslate_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:55 +0000"
     },
     "done": true
   },
@@ -7462,6 +7637,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/coal_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-21 21:50:50 +0000"
@@ -7531,6 +7712,12 @@
   "croptopia:recipes/croptopia.croptopia/caramel_from_smoking_sugar": {
     "criteria": {
       "has_sugar": "2025-05-21 22:00:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/emerald_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
     },
     "done": true
   },
@@ -7804,6 +7991,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-21 23:01:50 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/crafting_card": {
     "criteria": {
       "crafter": "2025-05-21 13:16:16 +0000"
@@ -7860,6 +8053,12 @@
   "botania:recipes/botania/manasteel_boots": {
     "criteria": {
       "has_item": "2025-05-21 13:26:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
     },
     "done": true
   },
@@ -8157,6 +8356,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-05-21 23:02:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
@@ -8240,6 +8445,7 @@
       "byg:ebony_woods": "2025-05-21 13:43:28 +0000",
       "byg:lush_stacks": "2025-05-21 13:44:18 +0000",
       "byg:basalt_barrera": "2025-05-21 21:57:21 +0000",
+      "byg:temperate_rainforest": "2025-05-21 23:01:04 +0000",
       "byg:windswept_desert": "2025-05-21 19:18:40 +0000"
     },
     "done": false
@@ -8793,6 +8999,18 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_red": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/gold_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/deepslate_lapis_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
     },
     "done": true
   },
@@ -9353,6 +9571,12 @@
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-05-21 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/deepslate_redstone_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
     },
     "done": true
   },
@@ -10218,6 +10442,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/dirt_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_brown": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
@@ -10226,6 +10456,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-21 22:59:43 +0000",
       "cooked_beef": "2025-05-21 22:55:33 +0000",
       "potato": "2025-05-21 12:57:42 +0000",
       "bread": "2025-05-21 13:00:07 +0000"
@@ -10421,6 +10652,12 @@
   "rftoolsutility:recipes/rftoolsutility/counterplus_module": {
     "criteria": {
       "ingot": "2025-05-21 13:16:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smoker_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
     },
     "done": true
   },
@@ -11019,6 +11256,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_membrane": "2025-05-21 23:00:27 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/blackstone_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-21 13:05:09 +0000"
@@ -11393,9 +11636,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-21 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-05-21 22:59:41 +0000"
     },
     "done": true
   },
