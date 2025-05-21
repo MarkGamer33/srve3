@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "b04bef11008b301ca3464f701a47bf1d"
+	name: "ToroBoig"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		159872B988A173AA: 1
+	}
+	started: {
+		1B175B2C955D8395: 1747831007267L
+		159872B988A173AA: 1747831007267L
+		731686C758AD9A99: 1747831007267L
+		0000000000000001: 1747831007267L
+	}
+	completed: {
+		159872B988A173AA: 1747831007267L
+		731686C758AD9A99: 1747831007267L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
