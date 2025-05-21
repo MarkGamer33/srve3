@@ -366,6 +366,12 @@
     },
     "done": true
   },
+  "functionalstorage:recipes/functionalstorage/netherite_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-21 14:16:53 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-19 18:12:33 +0000"
@@ -665,6 +671,12 @@
   "additionallanterns:recipes/additionallanterns/normal_lantern_cyan": {
     "criteria": {
       "recipe_condition": "2025-05-19 18:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-21 14:16:53 +0000"
     },
     "done": true
   },
@@ -5015,6 +5027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-21 14:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 18:05:00 +0000"
@@ -5429,6 +5447,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/netherite_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 14:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 22:53:21 +0000"
@@ -5640,6 +5664,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/screwdriver": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-21 14:16:53 +0000"
     },
     "done": true
   },
@@ -6543,6 +6573,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-21 14:16:53 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-20 22:31:24 +0000"
@@ -7207,6 +7243,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-21 14:16:53 +0000"
     },
     "done": true
   },
@@ -10838,6 +10880,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/smithing/netherite_opal_knife": {
+    "criteria": {
+      "has_ingots/netherite": "2025-05-21 14:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2025-05-18 22:41:16 +0000"
@@ -11261,6 +11309,12 @@
   "cfm:recipes/cfm/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-18 22:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-21 14:16:53 +0000"
     },
     "done": true
   },
@@ -12046,6 +12100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-21 14:16:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-20 19:17:30 +0000"
@@ -12814,6 +12874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-21 14:16:53 +0000"
+    },
+    "done": true
+  },
   "quarryplus:recipes/solid_fuel_quarry": {
     "criteria": {
       "has_diamond_pickaxe": "2025-05-19 22:31:20 +0000"
@@ -12955,6 +13021,12 @@
   "framedblocks:recipes/framed_blocks/framed_gold_pressure_plate": {
     "criteria": {
       "hasFramedBlock": "2025-05-20 15:27:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-05-21 14:15:23 +0000"
     },
     "done": true
   },
@@ -13787,6 +13859,12 @@
     },
     "done": true
   },
+  "rsinfinitybooster:recipes/refinedstorage/infinity_card": {
+    "criteria": {
+      "has_item": "2025-05-21 14:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:30:59 +0000"
@@ -14007,6 +14085,12 @@
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-19 21:58:28 +0000"
+    },
+    "done": true
+  },
+  "aeinfinitybooster:recipes/aeinfinitybooster/infinity_card": {
+    "criteria": {
+      "has_item": "2025-05-21 14:16:53 +0000"
     },
     "done": true
   },
@@ -14929,6 +15013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-21 14:16:53 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/borderless_glass_gray_pane2": {
     "criteria": {
       "recipe_condition1": "2025-05-19 22:53:57 +0000",
@@ -15760,6 +15850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-21 14:16:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-19 22:53:21 +0000"
@@ -16070,6 +16166,12 @@
   "sfm:recipes/sfm/manager": {
     "criteria": {
       "has_chest": "2025-05-18 22:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-21 14:16:53 +0000"
     },
     "done": true
   },
@@ -18329,6 +18431,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_tool_swapper_upgrade": {
+    "criteria": {
+      "has_tool_swapper_upgrade": "2025-05-21 14:15:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-05-19 17:44:51 +0000"
@@ -18848,6 +18956,12 @@
       "minecraft:plains": "2025-05-18 23:25:25 +0000"
     },
     "done": false
+  },
+  "additionallanterns:recipes/additionallanterns/netherite_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-21 14:16:53 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/cfm/jungle_kitchen_counter": {
     "criteria": {
@@ -19388,7 +19502,8 @@
       "potato": "2025-05-21 12:30:49 +0000",
       "bread": "2025-05-18 22:28:58 +0000",
       "golden_apple": "2025-05-20 23:30:39 +0000",
-      "cooked_chicken": "2025-05-19 18:45:07 +0000"
+      "cooked_chicken": "2025-05-19 18:45:07 +0000",
+      "carrot": "2025-05-21 14:12:03 +0000"
     },
     "done": false
   },
@@ -19419,6 +19534,12 @@
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 22:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-21 14:16:53 +0000"
     },
     "done": true
   },

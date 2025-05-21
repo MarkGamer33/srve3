@@ -419,6 +419,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-19 17:16:19 +0000"
@@ -557,6 +563,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/crafting_table": {
     "criteria": {
       "has_the_recipe": "2025-05-19 16:52:33 +0000"
@@ -674,6 +686,12 @@
   "rootsclassic:recipes/rootsclassic/bark_knife": {
     "criteria": {
       "has_sapling": "2025-05-19 16:22:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-21 14:20:20 +0000"
     },
     "done": true
   },
@@ -1098,6 +1116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/heat_sink": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 17:40:24 +0000"
@@ -1425,6 +1449,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/gilded_blackstone_blue_r": {
     "criteria": {
       "has_gilded_blackstone": "2025-05-19 23:06:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
     },
     "done": true
   },
@@ -1773,6 +1803,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/mud_bricks_light": {
     "criteria": {
       "has_mud_bricks": "2025-05-19 17:32:48 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/blackstone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-21 14:19:26 +0000"
     },
     "done": true
   },
@@ -2148,6 +2184,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/prismarine": {
     "criteria": {
       "has_qq": "2025-05-18 22:28:00 +0000"
@@ -2328,6 +2370,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-05-19 17:39:01 +0000"
@@ -2493,6 +2541,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/regulator_tube_module": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 17:40:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2025-05-21 14:19:26 +0000"
     },
     "done": true
   },
@@ -2706,6 +2760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/air_canister": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 17:40:24 +0000"
@@ -2842,6 +2902,12 @@
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2025-05-18 22:28:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
     },
     "done": true
   },
@@ -3501,6 +3567,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_grill": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
@@ -3814,6 +3886,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/red_nether_bricks_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:47:45 +0000"
@@ -4093,6 +4171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/pickaxe_template": {
     "criteria": {
       "has_item": "2025-05-19 17:27:05 +0000"
@@ -4135,6 +4219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/liquid_compressor": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 17:40:24 +0000"
@@ -4162,6 +4252,12 @@
   "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:26:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
     },
     "done": true
   },
@@ -4663,6 +4759,12 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-05-21 14:11:30 +0000"
+    },
+    "done": true
+  },
   "travelanchors:recipes/travelanchors/travel_staff": {
     "criteria": {
       "criterion0": "2025-05-18 22:51:22 +0000"
@@ -4940,6 +5042,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-21 14:20:21 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/bricks_blue_r": {
     "criteria": {
       "has_bricks": "2025-05-20 22:48:32 +0000"
@@ -4991,6 +5099,12 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-05-20 17:28:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
     },
     "done": true
   },
@@ -5432,6 +5546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:55:40 +0000"
@@ -5534,6 +5654,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_willow_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:28:00 +0000"
@@ -5597,6 +5723,12 @@
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2025-05-19 17:10:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
     },
     "done": true
   },
@@ -5849,6 +5981,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-19 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
     },
     "done": true
   },
@@ -6183,6 +6321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_bundle": {
     "criteria": {
       "has_dry_bamboo": "2025-05-18 22:28:01 +0000"
@@ -6279,6 +6423,12 @@
   "ftbic:recipes/ftbic/shaped/ingots/iron_to_iron_rod": {
     "criteria": {
       "has_item": "2025-05-18 22:51:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
     },
     "done": true
   },
@@ -6498,6 +6648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "wirelesschargers:recipes/wirelesschargers/basic_wireless_block_charger": {
     "criteria": {
       "recipe_condition": "2025-05-19 21:06:43 +0000"
@@ -6624,6 +6780,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/block_cutter/slabs/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-05-20 16:58:17 +0000"
@@ -6633,6 +6795,12 @@
   "silentgear:recipes/silentgear/coating_template": {
     "criteria": {
       "has_item": "2025-05-19 17:27:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
     },
     "done": true
   },
@@ -6954,6 +7122,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-05-19 16:52:33 +0000"
@@ -7161,6 +7335,18 @@
   "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_blue": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-20 15:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-21 14:17:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
     },
     "done": true
   },
@@ -7484,6 +7670,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_grill": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
@@ -7688,6 +7880,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_sorting_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:28:01 +0000"
@@ -7766,6 +7964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/emerald_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:47:45 +0000"
@@ -7823,6 +8027,12 @@
   "silentgear:recipes/silentgear/saw_template": {
     "criteria": {
       "has_item": "2025-05-19 17:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
     },
     "done": true
   },
@@ -7922,9 +8132,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-05-19 22:12:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-21 14:19:26 +0000"
     },
     "done": true
   },
@@ -7994,6 +8216,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/deepslate_tiles": {
     "criteria": {
       "has_the_recipe": "2025-05-20 22:15:56 +0000"
@@ -8033,6 +8261,12 @@
   "ae2:recipes/ae2.main/misc/chests_sky_stone": {
     "criteria": {
       "has_sky_stone_block": "2025-05-20 16:57:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
     },
     "done": true
   },
@@ -8138,6 +8372,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-05-21 14:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2025-05-19 17:32:48 +0000"
@@ -8214,6 +8454,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-05-19 16:56:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
     },
     "done": true
   },
@@ -8504,6 +8750,12 @@
   "silentgear:recipes/silentgear/excavator_template": {
     "criteria": {
       "has_item": "2025-05-19 17:27:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
     },
     "done": true
   },
@@ -8942,6 +9194,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_items": "2025-05-18 22:28:01 +0000"
@@ -9074,6 +9332,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/blackstone_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/food/uncrafting/spider_eye": {
     "criteria": {
       "has_chelicerae": "2025-05-20 15:15:10 +0000"
@@ -9191,6 +9455,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
     },
     "done": true
   },
@@ -9487,6 +9757,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
@@ -9562,6 +9838,12 @@
   "rftoolsbase:recipes/rftoolsbase/manual": {
     "criteria": {
       "book": "2025-05-18 22:29:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
     },
     "done": true
   },
@@ -9676,6 +9958,12 @@
   "mcwbridges:recipes/bamboo_bridge": {
     "criteria": {
       "has_planks": "2025-05-19 17:43:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
     },
     "done": true
   },
@@ -9826,6 +10114,12 @@
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-05-19 17:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
     },
     "done": true
   },
@@ -10158,6 +10452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/briefcase": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
@@ -10203,6 +10503,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/kerosene_lamp": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 17:40:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
     },
     "done": true
   },
@@ -10470,6 +10776,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-20 15:45:41 +0000"
@@ -10491,6 +10803,12 @@
   "alltheores:recipes/alltheores/iron_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-05-18 22:51:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
     },
     "done": true
   },
@@ -10551,6 +10869,12 @@
   "cfm:recipes/cfm/spruce_cabinet": {
     "criteria": {
       "has_planks": "2025-05-19 16:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
     },
     "done": true
   },
@@ -10711,6 +11035,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-05-21 14:20:16 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/obedience_stick": {
     "criteria": {
       "has_item": "2025-05-20 15:15:07 +0000"
@@ -10777,6 +11107,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-05-18 22:30:03 +0000"
@@ -10829,6 +11165,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-05-18 22:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-21 14:17:33 +0000"
     },
     "done": true
   },
@@ -11247,6 +11589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:10:30 +0000"
@@ -11460,6 +11808,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-19 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
     },
     "done": true
   },
@@ -12035,6 +12389,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
@@ -12317,6 +12677,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/knife_template": {
     "criteria": {
       "has_item": "2025-05-19 17:27:05 +0000"
@@ -12419,6 +12785,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-20 15:41:31 +0000"
@@ -12473,6 +12845,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/basalt_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-21 14:17:33 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:53:18 +0000"
@@ -12497,6 +12875,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/polished_basalt": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 14:17:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_cooler": {
     "criteria": {
       "has_chest": "2025-05-19 17:43:09 +0000"
@@ -12506,6 +12890,12 @@
   "corail_woodcutter:recipes/from_dark_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:28:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
     },
     "done": true
   },
@@ -12554,6 +12944,12 @@
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/sapling": {
     "criteria": {
       "has_item": "2025-05-19 16:22:27 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/smooth_basalt": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 14:17:33 +0000"
     },
     "done": true
   },
@@ -13008,6 +13404,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:26:37 +0000"
@@ -13386,6 +13788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-21 14:17:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-19 17:10:31 +0000"
@@ -13520,6 +13928,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-21 14:17:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-19 17:43:09 +0000"
@@ -13595,6 +14009,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/asphalt2": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-21 14:19:26 +0000"
     },
     "done": true
   },

@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/sub_sandwich": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2025-05-21 12:59:41 +0000"
@@ -431,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/gunpowder_witch_hat": {
     "criteria": {
       "has_witch_hat": "2025-05-21 14:08:58 +0000"
@@ -440,6 +452,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-05-21 12:57:48 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_pink": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -512,6 +530,12 @@
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-05-21 12:54:16 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_yellow": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -637,6 +661,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_aromantic": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-05-21 12:58:39 +0000"
@@ -667,6 +697,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_magenta": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 13:05:31 +0000"
@@ -676,6 +712,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-05-21 13:15:51 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_red": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -721,6 +763,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/amethyst_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/coal_block": {
     "criteria": {
       "has_the_recipe": "2025-05-21 13:04:58 +0000"
@@ -763,15 +811,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_magenta": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-05-21 14:04:06 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_magenta": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
     },
     "done": true
   },
@@ -1027,6 +1075,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_cyan": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/compactor": {
     "criteria": {
       "has_item": "2025-05-21 13:16:12 +0000"
@@ -1097,6 +1151,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/network_data_storage": {
     "criteria": {
       "has_capacitor": "2025-05-21 13:31:21 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:root": {
+    "criteria": {
+      "has_charged_amethyst": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -1229,6 +1289,12 @@
   "cfm:recipes/cfm/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_gray": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -1481,6 +1547,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/scroll_paper": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:36:46 +0000"
@@ -1709,15 +1781,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/pneumaticcraft/pressure_chamber_interface": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
-    },
-    "done": true
-  },
   "silentgear:recipes/silentgear/crimson_iron_ingot_from_nugget": {
     "criteria": {
       "has_item": "2025-05-21 14:00:39 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/pressure_chamber_interface": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
     },
     "done": true
   },
@@ -1793,6 +1865,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/scroll_medium": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "allthemodium:recipes/allthemodium/teleport_pad": {
     "criteria": {
       "has_ender_pearl": "2025-05-21 13:28:13 +0000"
@@ -1844,6 +1922,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-21 13:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-21 14:15:15 +0000"
     },
     "done": true
   },
@@ -2021,6 +2105,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_demiboy": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "quarryplus:recipes/workbench": {
     "criteria": {
       "has_storage_blocks/gold": "2025-05-21 14:04:06 +0000"
@@ -2105,9 +2195,21 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-21 14:15:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_blinds": {
     "criteria": {
       "has_log": "2025-05-21 12:58:39 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_bisexual": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -2184,6 +2286,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-21 14:15:44 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/scroll_small": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_nightshade_planks": {
     "criteria": {
       "has_ingredient": "2025-05-21 12:54:17 +0000"
@@ -2193,6 +2307,12 @@
   "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
     "criteria": {
       "has_items": "2025-05-21 12:54:16 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_blue": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -2514,6 +2634,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-21 14:15:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_upgraded_gate": {
     "criteria": {
       "has_log": "2025-05-21 12:58:39 +0000"
@@ -2672,6 +2798,12 @@
   "cfm:recipes/cfm/oak_park_bench": {
     "criteria": {
       "has_log": "2025-05-21 12:58:39 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_lime": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -2879,6 +3011,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_nonbinary": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:36:46 +0000"
@@ -3005,6 +3143,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_plural": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 13:05:31 +0000"
@@ -3095,6 +3239,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_transgender": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-05-21 13:15:57 +0000"
@@ -3116,6 +3266,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/air_canister": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_genderfluid": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -3237,6 +3393,7 @@
       "byg:forgotten_forest": "2025-05-21 13:43:51 +0000",
       "byg:baobab_savanna": "2025-05-21 13:18:57 +0000",
       "byg:amaranth_fields": "2025-05-21 13:34:49 +0000",
+      "byg:brimstone_caverns": "2025-05-21 14:15:16 +0000",
       "byg:ebony_woods": "2025-05-21 13:43:28 +0000",
       "byg:lush_stacks": "2025-05-21 13:44:18 +0000"
     },
@@ -3264,6 +3421,12 @@
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2025-05-21 12:54:17 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_aroace": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -3369,6 +3532,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_light_blue": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-05-21 13:04:06 +0000"
@@ -3450,6 +3619,12 @@
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_gold_block": "2025-05-21 14:04:06 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_lesbian": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -4182,6 +4357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
       "has_mutton": "2025-05-21 13:39:19 +0000"
@@ -4398,6 +4579,12 @@
     },
     "done": true
   },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-05-21 14:15:15 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fillet_knife": {
     "criteria": {
       "has_items": "2025-05-21 13:16:11 +0000"
@@ -4407,6 +4594,12 @@
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2025-05-21 13:05:06 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_gay": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -4567,6 +4760,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/compacting/xychorium_gem_blue": {
+    "criteria": {
+      "has_xychorium_gem_blue": "2025-05-21 14:11:05 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2025-05-21 13:21:11 +0000"
@@ -4681,15 +4880,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_gray": {
-    "criteria": {
-      "has_ingot_iron_compressed": "2025-05-21 14:08:32 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_gold_block": "2025-05-21 14:04:06 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_gray": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2025-05-21 14:08:32 +0000"
     },
     "done": true
   },
@@ -4726,6 +4925,12 @@
   "croptopia:recipes/croptopia.croptopia/knife": {
     "criteria": {
       "has_iron": "2025-05-21 13:16:11 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_brown": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -4885,6 +5090,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_asexual": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/gold_wire": {
     "criteria": {
       "has_item": "2025-05-21 13:27:50 +0000"
@@ -4945,6 +5162,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_white": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-05-21 13:16:16 +0000"
@@ -4960,6 +5183,12 @@
   "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-21 12:58:39 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/amethyst_tiles": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -5005,6 +5234,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-21 14:19:48 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/flarestack": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:36:47 +0000"
@@ -5032,6 +5267,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-05-21 13:39:20 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/amethyst_dust_packing": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -5173,6 +5414,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/blaze_gold_nugget": {
     "criteria": {
       "has_item": "2025-05-21 14:01:23 +0000"
@@ -5258,6 +5505,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/inverted_bricks_cloud_blue": {
+    "criteria": {
+      "has_xychorium_gem_blue": "2025-05-21 14:11:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-05-21 13:16:12 +0000"
@@ -5329,6 +5582,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/scroll": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 13:16:17 +0000"
@@ -5390,6 +5649,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_orange": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-21 13:16:12 +0000"
@@ -5432,6 +5697,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_light_gray": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-21 13:10:29 +0000"
@@ -5459,6 +5730,12 @@
   "cfm:recipes/cfm/red_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/amethyst_dust_unpacking": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -5513,6 +5790,12 @@
   "utilitix:recipes/utilitix/highspeed_rail": {
     "criteria": {
       "criterion1": "2025-05-21 13:05:06 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_pansexual": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -5708,6 +5991,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_purple": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_door": {
     "criteria": {
       "has_bundle": "2025-05-21 12:54:17 +0000"
@@ -5828,6 +6117,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-21 14:16:03 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chilli_relleno": {
     "criteria": {
       "has_egg": "2025-05-21 13:17:43 +0000"
@@ -5864,6 +6159,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_intersex": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/single_use_battery": {
     "criteria": {
       "has_item": "2025-05-21 13:04:58 +0000"
@@ -5873,6 +6174,12 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-05-21 13:16:12 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_black": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -6057,6 +6364,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_genderqueer": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 13:16:17 +0000"
@@ -6147,6 +6460,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/jeweler_hammer": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_willow_planks": {
     "criteria": {
       "has_ingredient": "2025-05-21 12:54:16 +0000"
@@ -6210,6 +6529,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-05-21 14:06:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-21 14:15:44 +0000"
     },
     "done": true
   },
@@ -6378,6 +6703,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/manometer": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-21 14:19:43 +0000"
     },
     "done": true
   },
@@ -6617,6 +6948,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/uuid_colorizer": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:36:46 +0000"
@@ -6737,6 +7074,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-21 14:15:42 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:36:47 +0000"
@@ -6836,6 +7179,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_yellow": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_agender": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -7037,6 +7386,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_demigirl": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_stone_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
@@ -7052,6 +7407,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-21 13:16:16 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/slate": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
@@ -7102,6 +7463,12 @@
   "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_green": {
+    "criteria": {
+      "has_item": "2025-05-21 14:11:16 +0000"
     },
     "done": true
   },
