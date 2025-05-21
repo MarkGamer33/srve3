@@ -21109,6 +21109,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2025-05-21 23:47:32 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/aluminum_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-19 16:58:50 +0000"

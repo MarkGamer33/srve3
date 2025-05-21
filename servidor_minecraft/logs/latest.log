@@ -1935,3 +1935,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 23:40:40.269] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
 [21May2025 23:40:41.990] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [21May2025 23:42:18.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Creative Mode]
+[21May2025 23:43:49.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[21May2025 23:45:01.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Creative Mode]
+[21May2025 23:45:56.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[21May2025 23:48:53.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Creative Mode]
+[21May2025 23:49:36.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[21May2025 23:49:41.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has reached the goal [Fortuitous Militia]
+[21May2025 23:51:26.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Sweet Dreams]
