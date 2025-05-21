@@ -1356,6 +1356,18 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/pipe_priority_rings": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-05-21 20:27:35 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/instrument_retriever": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2025-05-21 20:27:35 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_time_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:28:01 +0000"
@@ -1389,6 +1401,12 @@
   "cfm:recipes/cfm/light_gray_cooler": {
     "criteria": {
       "has_chest": "2025-05-19 17:43:09 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/cover_frame": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2025-05-21 20:27:34 +0000"
     },
     "done": true
   },
@@ -1623,6 +1641,12 @@
   "undergarden:recipes/decorations/torch_ditchbulb_paste": {
     "criteria": {
       "has_stick": "2025-05-19 17:39:01 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/improved_elementpipe_from_impaired_elementpipe_and_ingot": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-05-21 20:27:35 +0000"
     },
     "done": true
   },
@@ -2088,6 +2112,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/quartz_bricks_blue_r": {
+    "criteria": {
+      "has_quartz_bricks": "2025-05-21 20:24:18 +0000"
+    },
+    "done": true
+  },
   "modularrouters:recipes/modularrouters/modular_router": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:51:22 +0000"
@@ -2289,6 +2319,12 @@
   "silentgear:recipes/silentgear/paxel_template": {
     "criteria": {
       "has_item": "2025-05-19 17:27:05 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/swift_alloy_nugget_from_swift_alloy_ingot": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-05-21 20:27:35 +0000"
     },
     "done": true
   },
@@ -2619,6 +2655,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/chiseled_polished_blackstone_light_r": {
     "criteria": {
       "has_chiseled_polished_blackstone": "2025-05-19 22:16:41 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/unset_jewel": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-05-21 20:27:35 +0000"
     },
     "done": true
   },
@@ -4502,6 +4544,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/quartz_bricks_dark_r": {
+    "criteria": {
+      "has_quartz_bricks": "2025-05-21 20:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-19 21:57:06 +0000"
@@ -4995,6 +5043,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/element_holder_earth": {
+    "criteria": {
+      "has_earthcrystal": "2025-05-21 20:22:52 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-20 17:03:01 +0000"
@@ -5094,6 +5148,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:51:21 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/drenched_saw_blade": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2025-05-21 20:27:34 +0000"
     },
     "done": true
   },
@@ -5208,6 +5268,18 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-05-21 14:20:21 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/swift_alloy_ingot": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-05-21 20:27:35 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/earthcrystal": {
+    "criteria": {
+      "has_earthcrystal": "2025-05-21 20:22:52 +0000"
     },
     "done": true
   },
@@ -5970,6 +6042,12 @@
   "additionallanterns:recipes/additionallanterns/red_sandstone_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:47:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/quartz_bricks_light": {
+    "criteria": {
+      "has_quartz_bricks": "2025-05-21 20:24:18 +0000"
     },
     "done": true
   },
@@ -6757,6 +6835,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/source_stabilizer": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-05-21 20:27:35 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_holly_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:28:01 +0000"
@@ -6922,6 +7006,12 @@
   "croptopia:recipes/croptopia.croptopia/peach_jam": {
     "criteria": {
       "has_peach": "2025-05-18 22:52:10 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/earthcrystal_block_from_earthcrystal": {
+    "criteria": {
+      "has_earthcrystal": "2025-05-21 20:22:52 +0000"
     },
     "done": true
   },
@@ -7153,6 +7243,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/elementpipe_from_impaired_elementpipe_and_ingot": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2025-05-21 20:27:34 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
     "criteria": {
       "has_catalyzing_gland": "2025-05-20 22:28:20 +0000"
@@ -7297,9 +7393,21 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/quartz_bricks_blue": {
+    "criteria": {
+      "has_quartz_bricks": "2025-05-21 20:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2025-05-20 22:47:31 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/quartz_bricks_green_r": {
+    "criteria": {
+      "has_quartz_bricks": "2025-05-21 20:24:18 +0000"
     },
     "done": true
   },
@@ -7384,6 +7492,12 @@
   "reliquary:recipes/reliquary/void_tear": {
     "criteria": {
       "has_nebulous_heart": "2025-05-20 15:51:40 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/quartz_bricks_red_r": {
+    "criteria": {
+      "has_quartz_bricks": "2025-05-21 20:24:18 +0000"
     },
     "done": true
   },
@@ -7546,6 +7660,12 @@
   "xnet:recipes/xnet/netcable_green": {
     "criteria": {
       "nugget": "2025-05-21 20:05:33 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/swift_alloy_block_from_swift_alloy_ingot": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-05-21 20:27:35 +0000"
     },
     "done": true
   },
@@ -7953,6 +8073,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/chisel": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-05-21 20:27:35 +0000"
+    },
+    "done": true
+  },
   "hexcasting:grant_patchi_book": {
     "criteria": {
       "tick": "2025-05-18 22:26:09 +0000"
@@ -8100,6 +8226,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_stairs": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 17:40:23 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/drenched_iron_nugget_from_drenched_iron_ingot": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2025-05-21 20:27:34 +0000"
     },
     "done": true
   },
@@ -9362,6 +9494,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/drenched_iron_block_from_drenched_iron_ingot": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2025-05-21 20:27:34 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/chiseled_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:55:40 +0000"
@@ -9825,6 +9963,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/shrine_upgrade_core": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-05-21 20:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 16:52:33 +0000"
@@ -10031,6 +10175,12 @@
   "cfm:recipes/cfm/stripped_acacia_park_bench": {
     "criteria": {
       "has_log": "2025-05-20 17:03:01 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/quartz_bricks_dark": {
+    "criteria": {
+      "has_quartz_bricks": "2025-05-21 20:24:18 +0000"
     },
     "done": true
   },
@@ -10555,6 +10705,7 @@
       "byg:red_oak_forest": "2025-05-19 15:32:38 +0000",
       "byg:redwood_thicket": "2025-05-19 15:34:01 +0000",
       "byg:dead_sea": "2025-05-20 15:15:00 +0000",
+      "byg:rose_fields": "2025-05-21 20:28:27 +0000",
       "byg:firecracker_shrubland": "2025-05-20 16:51:24 +0000",
       "byg:magma_wastes": "2025-05-21 14:20:49 +0000",
       "byg:atacama_desert": "2025-05-19 20:24:56 +0000",
@@ -10562,6 +10713,7 @@
       "byg:jacaranda_forest": "2025-05-21 20:09:22 +0000",
       "byg:crag_gardens": "2025-05-19 15:32:50 +0000",
       "byg:red_rock_valley": "2025-05-19 15:39:06 +0000",
+      "byg:dacite_ridges": "2025-05-21 20:28:43 +0000",
       "byg:forgotten_forest": "2025-05-18 23:14:22 +0000",
       "byg:crimson_gardens": "2025-05-19 22:10:56 +0000",
       "byg:baobab_savanna": "2025-05-19 20:28:41 +0000",
@@ -11213,6 +11365,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/quartz_bricks_light_r": {
+    "criteria": {
+      "has_quartz_bricks": "2025-05-21 20:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-05-19 19:48:19 +0000"
@@ -11367,6 +11525,12 @@
   "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/quartz_bricks_green": {
+    "criteria": {
+      "has_quartz_bricks": "2025-05-21 20:24:18 +0000"
     },
     "done": true
   },
@@ -11585,6 +11749,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-19 17:38:11 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/element_beam": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-05-21 20:27:35 +0000"
     },
     "done": true
   },
@@ -12309,6 +12479,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/source_analysis_glass": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-05-21 20:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-20 22:15:56 +0000"
@@ -12834,6 +13010,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/drenched_iron_ingot": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2025-05-21 20:27:34 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-18 22:55:40 +0000"
@@ -12873,6 +13055,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-19 16:56:48 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/sorter": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-05-21 20:27:35 +0000"
     },
     "done": true
   },
@@ -13047,6 +13235,12 @@
   "mcwlights:recipes/tiki_torches": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:29:24 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/improved_elementpipe_from_elementpipe_and_ingot": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2025-05-21 20:27:35 +0000"
     },
     "done": true
   },
@@ -13348,6 +13542,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-19 16:15:14 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/quartz_bricks_red": {
+    "criteria": {
+      "has_quartz_bricks": "2025-05-21 20:24:18 +0000"
     },
     "done": true
   },
