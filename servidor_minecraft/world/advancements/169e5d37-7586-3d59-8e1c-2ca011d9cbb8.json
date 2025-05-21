@@ -930,6 +930,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 13:42:41 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-05-18 22:54:46 +0000"
@@ -2200,6 +2206,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 17:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-21 13:42:41 +0000"
     },
     "done": true
   },
@@ -14572,6 +14584,12 @@
   "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/coal_block": {
+    "criteria": {
+      "has_item": "2025-05-21 13:42:41 +0000"
     },
     "done": true
   },

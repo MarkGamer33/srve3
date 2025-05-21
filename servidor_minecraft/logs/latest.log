@@ -1962,3 +1962,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 13:36:36.795] [Worker-Main-151/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-56, z=-43}
 [21May2025 13:36:36.796] [Worker-Main-151/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-52, z=-38}
 [21May2025 13:39:27.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Knowledge raises the soul]
+[21May2025 13:44:36.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[21May2025 13:44:36.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[21May2025 13:50:21.046] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@589ddd94
+[21May2025 13:50:21.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leoy73[/127.190.75.98:46449] logged in with entity id 41316 at (-15384.711737973039, 131.5748083858829, -18148.79167747686)
+[21May2025 13:50:21.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Leoy73
+[21May2025 13:50:21.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Leoy73
+[21May2025 13:50:21.084] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Leoy73
+[21May2025 13:50:21.084] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Leoy73
+[21May2025 13:50:21.085] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Leoy73
+[21May2025 13:50:21.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Leoy73
+[21May2025 13:50:21.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Leoy73
+[21May2025 13:50:21.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 joined the game
+[21May2025 13:50:21.352] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
+[21May2025 13:50:22.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 lost connection: Disconnected
+[21May2025 13:50:22.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 left the game
