@@ -1852,3 +1852,31 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 21:39:24.877] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
 [21May2025 21:39:32.839] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [21May2025 21:40:11.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Into Fire]
+[21May2025 21:44:28.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Upgrade My Tool!]
+[21May2025 21:47:37.899] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3eefe47b
+[21May2025 21:47:37.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danilotrento34[/127.125.238.94:48641] logged in with entity id 11434 at (5152.130691194656, 52.0, -268.79143665607603)
+[21May2025 21:47:37.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Danilotrento34
+[21May2025 21:47:37.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Danilotrento34
+[21May2025 21:47:37.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Danilotrento34
+[21May2025 21:47:37.935] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Danilotrento34
+[21May2025 21:47:37.937] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Danilotrento34
+[21May2025 21:47:37.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Danilotrento34
+[21May2025 21:47:37.938] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Danilotrento34
+[21May2025 21:47:38.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 joined the game
+[21May2025 21:47:38.203] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Danilotrento34
+[21May2025 21:48:55.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 lost connection: Disconnected
+[21May2025 21:48:55.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 left the game
+[21May2025 21:49:57.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5043ms or 100 ticks behind
+[21May2025 21:50:22.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10165ms or 203 ticks behind
+[21May2025 21:52:28.744] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3661fa0f
+[21May2025 21:52:28.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danilotrento34[/127.125.238.94:33345] logged in with entity id 14057 at (5152.130691194656, 52.0, -268.79143665607603)
+[21May2025 21:52:28.780] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Danilotrento34
+[21May2025 21:52:28.780] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Danilotrento34
+[21May2025 21:52:28.781] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Danilotrento34
+[21May2025 21:52:28.781] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Danilotrento34
+[21May2025 21:52:28.782] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Danilotrento34
+[21May2025 21:52:28.784] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Danilotrento34
+[21May2025 21:52:28.784] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Danilotrento34
+[21May2025 21:52:28.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 joined the game
+[21May2025 21:52:28.996] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Danilotrento34
+[21May2025 21:53:08.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Handyman]
