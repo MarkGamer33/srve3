@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/lead_ingot_from_slate_ore": {
+    "criteria": {
+      "has_item": "2025-05-21 22:29:05 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/comparator_redirector_up": {
     "criteria": {
       "criterion1": "2025-05-21 13:10:29 +0000"
@@ -1990,6 +1996,12 @@
   "create:recipes/create.palettes/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-21 21:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-05-21 22:33:04 +0000"
     },
     "done": true
   },
@@ -5451,6 +5463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-05-21 22:30:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 13:16:17 +0000"
@@ -6125,6 +6143,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/lead_ingot_from_slate_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-21 22:29:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-21 21:58:04 +0000"
@@ -6632,6 +6656,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-21 21:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-05-21 22:33:04 +0000"
     },
     "done": true
   },
@@ -7617,6 +7647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-05-21 22:32:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/witch_trophy": {
     "criteria": {
       "has_trophy": "2025-05-21 21:58:04 +0000"
@@ -7883,6 +7919,12 @@
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2025-05-21 14:08:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_lead_from_block": {
+    "criteria": {
+      "has_item": "2025-05-21 22:34:22 +0000"
     },
     "done": true
   },
@@ -8375,6 +8417,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/osmium_ingot_from_slate_ore": {
+    "criteria": {
+      "has_item": "2025-05-21 22:29:51 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_green_r": {
     "criteria": {
       "has_deepslate": "2025-05-21 22:03:37 +0000"
@@ -8790,6 +8838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2025-05-21 22:30:56 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/macerating/ores/lead_to_dust": {
     "criteria": {
       "has_item": "2025-05-21 22:17:59 +0000"
@@ -9166,6 +9220,12 @@
   "reliquary:recipes/misc/uncrafting/glowstone_dust": {
     "criteria": {
       "has_witch_hat": "2025-05-21 14:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-05-21 22:32:37 +0000"
     },
     "done": true
   },
@@ -9917,6 +9977,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_osmium_from_block": {
+    "criteria": {
+      "has_item": "2025-05-21 22:34:46 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_door": {
     "criteria": {
       "has_bundle": "2025-05-21 12:54:17 +0000"
@@ -10215,6 +10281,12 @@
   "corail_woodcutter:recipes/from_dark_planks": {
     "criteria": {
       "has_ingredient": "2025-05-21 12:54:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/osmium_ingot_from_slate_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-21 22:29:51 +0000"
     },
     "done": true
   },

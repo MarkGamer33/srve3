@@ -3464,6 +3464,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/ghast": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-05-21 22:21:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:14:22 +0000"
@@ -4835,6 +4841,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/osmium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-21 22:26:21 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_reinforced": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
@@ -5330,6 +5342,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-05-21 22:21:35 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_limited_barrel_4": {
     "criteria": {
       "has_oak_plank": "2025-05-19 17:54:38 +0000"
@@ -5817,6 +5835,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_chest": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/lead_ingot_from_slate_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-21 22:34:47 +0000"
     },
     "done": true
   },
@@ -8002,6 +8026,12 @@
   "create:recipes/create.palettes/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-19 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_silver_from_block": {
+    "criteria": {
+      "has_item": "2025-05-21 22:34:46 +0000"
     },
     "done": true
   },
@@ -10602,6 +10632,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/lead_ingot_from_slate_ore": {
+    "criteria": {
+      "has_item": "2025-05-21 22:34:48 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/comparator_redirector_up": {
     "criteria": {
       "criterion1": "2025-05-18 22:14:40 +0000"
@@ -10833,6 +10869,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/crop_support": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/brewing/uncrafting/ghast_tear": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-05-21 22:21:35 +0000"
     },
     "done": true
   },
@@ -12414,6 +12456,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/smelting/ores/lead_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-21 22:34:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-19 18:08:16 +0000"
@@ -12700,6 +12748,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-20 23:28:28 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/blasting/ores/lead_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-21 22:34:47 +0000"
     },
     "done": true
   },
@@ -13618,6 +13672,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/creeper": {
+    "criteria": {
+      "has_catalyzing_gland": "2025-05-21 22:21:35 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/nutty_cookie": {
     "criteria": {
       "has_nuts": "2025-05-21 00:15:20 +0000",
@@ -14483,6 +14543,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_stairs_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:50:58 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_osmium_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/osmium]": "2025-05-21 22:26:21 +0000"
     },
     "done": true
   },
@@ -18043,6 +18109,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/osmium_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-21 22:26:21 +0000"
+    },
+    "done": true
+  },
   "wirelesschargers:recipes/wirelesschargers/basic_wireless_player_charger": {
     "criteria": {
       "recipe_condition": "2025-05-19 22:59:54 +0000"
@@ -19139,6 +19211,12 @@
   "rootsclassic:recipes/rootsclassic/attuned_standing_stone": {
     "criteria": {
       "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/ores/lead_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-21 22:34:47 +0000"
     },
     "done": true
   },

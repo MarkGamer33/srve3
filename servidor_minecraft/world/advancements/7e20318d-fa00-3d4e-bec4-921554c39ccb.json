@@ -2772,6 +2772,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/iron_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-05-21 22:35:39 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/pecan_ice_cream": {
     "criteria": {
       "has_pecan": "2025-05-18 22:41:21 +0000"
@@ -3323,6 +3329,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/cokebrick": {
     "criteria": {
       "has_item": "2025-05-19 17:42:44 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_dark": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:31:24 +0000"
     },
     "done": true
   },
@@ -3965,6 +3977,12 @@
   "mcwdoors:recipes/birch": {
     "criteria": {
       "has_wood": "2025-05-18 22:59:15 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_blue": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:31:24 +0000"
     },
     "done": true
   },
@@ -5031,6 +5049,12 @@
   "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
       "has_chest": "2025-05-18 22:29:26 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_green_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:31:24 +0000"
     },
     "done": true
   },
@@ -8257,6 +8281,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_light": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-19 21:12:34 +0000"
@@ -8693,6 +8723,12 @@
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2025-05-18 22:37:54 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-05-21 22:20:56 +0000"
     },
     "done": true
   },
@@ -10094,6 +10130,12 @@
   "framedblocks:recipes/framed_blocks/framed_collapsible_block": {
     "criteria": {
       "hasFramedBlock": "2025-05-20 15:27:27 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_dark_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:31:24 +0000"
     },
     "done": true
   },
@@ -14847,6 +14889,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_green": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:31:24 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass_pink2": {
     "criteria": {
       "recipe_condition1": "2025-05-19 22:53:38 +0000",
@@ -17400,6 +17448,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_light_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:31:24 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-05-19 16:16:34 +0000"
@@ -18340,6 +18394,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_red": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:31:24 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/molotov_wool": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:57 +0000"
@@ -18647,6 +18707,12 @@
     "criteria": {
       "has_the_recipe": "2025-05-19 22:53:52 +0000",
       "recipe_condition": "2025-05-19 22:53:52 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_blue_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:31:24 +0000"
     },
     "done": true
   },
@@ -19886,6 +19952,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_red_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:31:24 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/amethyst_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:14:46 +0000"
@@ -19955,6 +20027,12 @@
   "hexcasting:recipes/hexcasting/dye_colorizer_light_gray": {
     "criteria": {
       "has_item": "2025-05-20 19:18:40 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/iron_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-21 22:35:39 +0000"
     },
     "done": true
   },
@@ -20739,6 +20817,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/misc/smelting/dusts/iron_to_iron_ingot": {
+    "criteria": {
+      "has_item": "2025-05-21 22:35:39 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/minecolonies/supplycampdeployer": {
     "criteria": {
       "has_chest": "2025-05-18 22:29:26 +0000"
@@ -20906,6 +20990,12 @@
   "securitycraft:recipes/securitycraft/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-05-19 18:50:29 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/misc/blasting/dusts/iron_to_iron_ingot": {
+    "criteria": {
+      "has_item": "2025-05-21 22:35:39 +0000"
     },
     "done": true
   },
