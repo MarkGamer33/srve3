@@ -1874,3 +1874,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 18:13:51.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 left the game
 [21May2025 18:15:58.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [This Must be a Sign!]
 [21May2025 18:16:18.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[21May2025 18:18:23.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
+[21May2025 18:19:38.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Spider
+[21May2025 18:19:38.624] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[21May2025 18:19:44.312] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 18:27:00.011] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3899a2f6
