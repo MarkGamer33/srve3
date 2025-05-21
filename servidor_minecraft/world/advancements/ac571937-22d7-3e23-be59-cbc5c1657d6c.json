@@ -6093,6 +6093,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2025-05-21 19:52:50 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
@@ -8530,6 +8536,12 @@
     },
     "done": true
   },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "pineapple_seed": "2025-05-21 19:51:37 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2025-05-18 22:28:01 +0000",
@@ -10784,6 +10796,13 @@
     },
     "done": true
   },
+  "croptopia:gather_all": {
+    "criteria": {
+      "soybean_seed": "2025-05-21 19:51:37 +0000",
+      "mustard_seed": "2025-05-21 19:51:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-19 17:44:46 +0000"
@@ -11387,6 +11406,12 @@
     },
     "done": true
   },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-05-21 19:51:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-19 21:57:06 +0000"
@@ -11722,6 +11747,13 @@
       "has_item": "2025-05-19 21:52:54 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "mustard_seed": "2025-05-21 19:51:37 +0000",
+      "soybean_seed": "2025-05-21 19:51:37 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
@@ -12734,6 +12766,7 @@
       "baked_potato": "2025-05-19 22:22:21 +0000",
       "apple": "2025-05-18 22:42:29 +0000",
       "potato": "2025-05-18 23:02:32 +0000",
+      "poisonous_potato": "2025-05-21 19:53:07 +0000",
       "bread": "2025-05-18 22:29:53 +0000",
       "golden_apple": "2025-05-19 20:01:32 +0000"
     },
