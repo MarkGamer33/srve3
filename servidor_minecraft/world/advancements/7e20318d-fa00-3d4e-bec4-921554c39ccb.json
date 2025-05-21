@@ -4421,6 +4421,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "rice": "2025-05-21 12:31:38 +0000",
       "sugar_cane": "2025-05-19 19:01:52 +0000",
       "potato": "2025-05-19 18:04:25 +0000",
       "wheat": "2025-05-19 21:22:10 +0000",
@@ -6588,6 +6589,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-05-21 12:26:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-05-21 12:31:54 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:30:59 +0000"
@@ -7902,6 +7915,12 @@
   "botania:recipes/botania/obedience_stick": {
     "criteria": {
       "has_item": "2025-05-20 16:55:30 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/deluxe_cheeseburger": {
+    "criteria": {
+      "has_bacon": "2025-05-21 12:28:24 +0000"
     },
     "done": true
   },
@@ -10209,6 +10228,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-05-21 12:28:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-05-19 17:24:57 +0000"
@@ -11372,6 +11397,12 @@
   "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
       "has_sweet_fruit": "2025-05-18 22:07:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-05-21 12:31:38 +0000"
     },
     "done": true
   },
@@ -14237,6 +14268,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-05-21 12:31:54 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:57 +0000"
@@ -15123,6 +15160,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/shield": {
     "criteria": {
       "has_shield": "2025-05-19 17:42:06 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/deluxe_cheeseburger_from_milk": {
+    "criteria": {
+      "has_bacon": "2025-05-21 12:28:24 +0000"
     },
     "done": true
   },
@@ -17158,6 +17201,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-05-21 12:28:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-19 18:36:37 +0000"
@@ -17391,6 +17440,12 @@
   "byg:recipes/byg.byg/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 18:33:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_skillet": {
+    "criteria": {
+      "skillet": "2025-05-21 12:26:12 +0000"
     },
     "done": true
   },
@@ -19039,6 +19094,7 @@
       "baked_potato": "2025-05-20 19:21:26 +0000",
       "beef": "2025-05-20 18:36:23 +0000",
       "apple": "2025-05-18 22:12:44 +0000",
+      "potato": "2025-05-21 12:30:49 +0000",
       "bread": "2025-05-18 22:28:58 +0000",
       "golden_apple": "2025-05-20 23:30:39 +0000",
       "cooked_chicken": "2025-05-19 18:45:07 +0000"

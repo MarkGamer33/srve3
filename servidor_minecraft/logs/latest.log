@@ -1805,3 +1805,15 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 12:03:20.581] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/4283, l='ServerLevel[world]', x=6687.61, y=119.00, z=705.91] died: Undead Knight was slain by MarkGamer
 [21May2025 12:12:03.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Iron Torch]
 [21May2025 12:12:03.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Hunt and Gather]
+[21May2025 12:34:16.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Mister Tyrone the Lazy'/13143, l='ServerLevel[world]', x=6655.71, y=107.28, z=827.16] died: Mister Tyrone the Lazy was slain by MarkGamer
+[21May2025 12:36:46.380] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@350ce71e
+[21May2025 12:36:46.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:52897] logged in with entity id 14573 at (6640.5, 145.0, 701.5)
+[21May2025 12:36:46.409] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[21May2025 12:36:46.409] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[21May2025 12:36:46.410] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[21May2025 12:36:46.410] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[21May2025 12:36:46.411] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[21May2025 12:36:46.413] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[21May2025 12:36:46.413] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[21May2025 12:36:46.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[21May2025 12:36:47.287] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig

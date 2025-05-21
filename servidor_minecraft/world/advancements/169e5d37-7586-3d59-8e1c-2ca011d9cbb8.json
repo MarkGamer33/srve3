@@ -2396,6 +2396,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:47:42 +0000"
@@ -2758,6 +2764,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/lemon_sapling": {
+    "criteria": {
+      "has_lemon": "2025-05-21 12:33:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 17:07:07 +0000"
@@ -3054,6 +3066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/raw_tin_from_block": {
     "criteria": {
       "has_item": "2025-05-19 18:22:46 +0000"
@@ -3147,6 +3165,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/range_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-19 17:53:10 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
@@ -3458,6 +3482,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-05-18 22:30:28 +0000"
@@ -3721,6 +3751,12 @@
   "silentgear:recipes/silentgear/axe_blueprint": {
     "criteria": {
       "has_item": "2025-05-20 22:18:25 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
@@ -4397,6 +4433,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_lemon_coconut_bar": {
+    "criteria": {
+      "has_lemon": "2025-05-21 12:33:49 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_nickel3": {
     "criteria": {
       "has_the_recipe": "2025-05-20 17:55:48 +0000"
@@ -5023,6 +5065,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/lemon_chicken": {
+    "criteria": {
+      "has_lemon": "2025-05-21 12:33:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 16:10:06 +0000"
@@ -5479,6 +5527,14 @@
     },
     "done": true
   },
+  "croptopia:gather_food": {
+    "criteria": {
+      "sea_lettuce": "2025-05-21 12:31:44 +0000",
+      "cooked_shrimp": "2025-05-21 12:32:13 +0000",
+      "oyster": "2025-05-21 12:32:13 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-05-18 22:13:22 +0000"
@@ -5890,6 +5946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:40 +0000"
@@ -6122,6 +6184,12 @@
   "elementalcraft:pickup/powerful_fire_shard": {
     "criteria": {
       "has_powerful_fire_shard": "2025-05-19 22:02:06 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_paper": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
@@ -6866,9 +6934,21 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/red_sheet": {
     "criteria": {
       "has_sheet": "2025-05-20 22:14:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-21 12:29:03 +0000"
     },
     "done": true
   },
@@ -7332,6 +7412,12 @@
   "botania:recipes/botania/lens_normal": {
     "criteria": {
       "has_item": "2025-05-20 19:14:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
@@ -8362,6 +8448,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
@@ -9000,6 +9092,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/tiki_torches": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:14:56 +0000"
@@ -9087,6 +9185,12 @@
   "croptopia:recipes/flour": {
     "criteria": {
       "has_grain": "2025-05-18 22:51:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
@@ -10862,6 +10966,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-20 17:22:33 +0000"
@@ -11384,6 +11494,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-05-21 12:29:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/blacklist_module": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
@@ -11531,6 +11647,12 @@
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
@@ -11786,6 +11908,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/granite": {
     "criteria": {
       "has_planks": "2025-05-19 18:08:16 +0000"
@@ -11855,6 +11983,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 18:57:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
@@ -12192,6 +12326,12 @@
   "cfm:recipes/cfm/brown_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-19 17:58:33 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
@@ -12567,6 +12707,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2025-05-19 17:09:05 +0000"
@@ -12838,6 +12984,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
@@ -13034,6 +13186,12 @@
   "pneumaticcraft:pressure_tube": {
     "criteria": {
       "0": "2025-05-19 22:06:46 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
@@ -14085,6 +14243,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/yellow_grill": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:15 +0000"
@@ -14811,6 +14975,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/stone_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:26:17 +0000"
@@ -14838,6 +15008,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-05-19 17:54:38 +0000"
+    },
+    "done": true
+  },
+  "rootsclassic:recipes/rootsclassic/fruit_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-21 12:29:03 +0000"
     },
     "done": true
   },
@@ -15207,6 +15383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/smelting/industrial_grade_metal": {
     "criteria": {
       "has_item": "2025-05-18 22:21:16 +0000"
@@ -15459,6 +15641,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 17:47:42 +0000"
@@ -15546,6 +15734,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/immortal_stone_0_red": {
     "criteria": {
       "has_aluminum_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "rootsclassic:recipes/rootsclassic/rooty_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-21 12:29:03 +0000"
     },
     "done": true
   },
@@ -15687,6 +15881,12 @@
     },
     "done": true
   },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_item": "2025-05-21 12:29:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-05-19 17:47:43 +0000"
@@ -15702,6 +15902,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_stone": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemonade": {
+    "criteria": {
+      "has_lemon": "2025-05-21 12:33:49 +0000"
     },
     "done": true
   },
@@ -16187,6 +16393,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-05-21 12:29:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-18 22:17:09 +0000"
@@ -16482,6 +16694,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-05-19 18:05:19 +0000"
@@ -16677,6 +16895,12 @@
   "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 23:35:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
@@ -16999,6 +17223,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-05-21 12:29:03 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
@@ -17020,6 +17250,12 @@
   "ftbic:recipes/ftbic/separating/silicon_from_sand": {
     "criteria": {
       "has_item": "2025-05-19 17:06:00 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
@@ -17450,6 +17686,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
@@ -17531,6 +17773,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-20 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-05-21 12:29:03 +0000"
     },
     "done": true
   },
@@ -17820,6 +18068,12 @@
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2025-05-19 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
@@ -18504,6 +18758,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
@@ -18834,6 +19094,12 @@
   "xycraft_world:recipes/xycraft_world/stonecutting/glass_viewer_silicon": {
     "criteria": {
       "has_for_glass_viewer_silicon": "2025-05-20 14:43:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
@@ -19188,6 +19454,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/stomp_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-19 17:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-21 12:29:03 +0000"
     },
     "done": true
   },
@@ -19728,6 +20000,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch/birch_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 23:28:27 +0000"
@@ -19935,6 +20213,12 @@
   "croptopia:recipes/misc/purple_dye": {
     "criteria": {
       "has_the_recipe": "2025-05-20 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-05-21 12:33:59 +0000"
     },
     "done": true
   },
