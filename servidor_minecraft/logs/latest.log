@@ -73,3 +73,11 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 01:16:48.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [War Pigs]
 [21May2025 01:22:47.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
 [21May2025 01:26:39.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[21May2025 01:29:22.778] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Maximillian the Magical'/18097, l='ServerLevel[world]', x=12854.46, y=42.88, z=-54.57] died: Maximillian the Magical was slain by MarkGamer
+[21May2025 01:30:28.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3994ms or 79 ticks behind
+[21May2025 01:30:39.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15806, y=61, z=124} BlockPos{x=-15806, y=59, z=124}
+[21May2025 01:37:46.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer fell from a high place
+[21May2025 01:37:46.429] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[21May2025 01:37:47.501] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 01:39:05.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer lost connection: Disconnected
+[21May2025 01:39:05.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer left the game
