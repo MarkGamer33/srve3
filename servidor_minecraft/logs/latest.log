@@ -2077,3 +2077,46 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 14:22:43.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Chancellor Donald the Rejected
 [21May2025 14:22:43.623] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
 [21May2025 14:22:50.747] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 14:23:08.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[21May2025 14:23:08.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[21May2025 14:23:24.094] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f325f0b
+[21May2025 14:24:24.110] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[21May2025 14:26:47.615] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[21May2025 14:26:49.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:51029] logged in with entity id 58587 at (854.2263349185873, 67.0, 129.35467402595182)
+[21May2025 14:26:49.474] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[21May2025 14:26:49.477] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[21May2025 14:26:49.478] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[21May2025 14:26:49.478] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[21May2025 14:26:49.479] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[21May2025 14:26:49.480] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[21May2025 14:26:49.481] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[21May2025 14:26:49.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[21May2025 14:26:49.950] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[21May2025 14:26:49.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[21May2025 14:26:49.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[21May2025 14:26:50.016] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 2b94a12f-04dc-446d-bdb8-11a656fb07b4
+[21May2025 14:26:50.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 205993ms or 4119 ticks behind
+[21May2025 14:26:50.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer lost connection: Disconnected
+[21May2025 14:26:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer left the game
+[21May2025 14:26:50.352] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 1136829d-b644-470b-b56d-27ca6afd9485
+[21May2025 14:26:50.357] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/srve/servidor_minecraft/./crash-reports/crash-2025-05-21_14.26.50-server.txt
+[21May2025 14:26:50.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 lost connection: Disconnected
+[21May2025 14:26:50.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 left the game
+[21May2025 14:26:50.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 lost connection: Disconnected
+[21May2025 14:26:50.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 left the game
+[21May2025 14:26:50.509] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21May2025 14:26:50.655] [Server thread/INFO] [Async Locator/]: Async Locator -> Shutting down locating executor service
+[21May2025 14:26:50.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21May2025 14:26:50.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21May2025 14:26:50.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21May2025 14:26:52.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21May2025 14:26:54.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[21May2025 14:26:54.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[21May2025 14:26:54.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[21May2025 14:26:54.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[21May2025 14:26:54.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[21May2025 14:26:54.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[21May2025 14:26:54.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[21May2025 14:26:54.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mythicbotany:alfheim
+[21May2025 14:26:54.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[21May2025 14:26:54.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether

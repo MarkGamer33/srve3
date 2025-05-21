@@ -3726,6 +3726,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/very_crude_repair_kit": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 14:21:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-20 15:55:53 +0000"
@@ -12091,6 +12097,12 @@
   "allthetweaks:recipes/allthetweaks/ender_pearl_block": {
     "criteria": {
       "has_ender_pearl": "2025-05-19 17:50:56 +0000"
+    },
+    "done": true
+  },
+  "silentgear:repair_kit": {
+    "criteria": {
+      "very_crude_repair_kit": "2025-05-21 14:21:23 +0000"
     },
     "done": true
   },
