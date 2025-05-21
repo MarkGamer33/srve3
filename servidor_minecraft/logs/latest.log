@@ -1900,3 +1900,29 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 22:00:28.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Ambush]
 [21May2025 22:00:28.348] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Duchess Alana the Doominator'/19677, l='ServerLevel[world]', x=7059.58, y=-7.00, z=12806.32] died: Duchess Alana the Doominator was blown up by ToroBoig
 [21May2025 22:00:30.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[21May2025 22:04:18.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Ka-chink! 1]
+[21May2025 22:05:33.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Apothic Spawners]
+[21May2025 22:05:35.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[21May2025 22:05:59.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig was blown up by ToroBoig
+[21May2025 22:05:59.455] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
+[21May2025 22:06:02.935] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:07:24.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Don the Errant
+[21May2025 22:07:24.198] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[21May2025 22:07:26.967] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:08:00.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Don the Errant
+[21May2025 22:08:00.503] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[21May2025 22:08:29.871] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:08:36.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Sneak 100]
+[21May2025 22:09:14.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Don the Errant
+[21May2025 22:09:14.253] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[21May2025 22:09:27.522] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 22:10:30.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Hollow Solids]
+[21May2025 22:10:32.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 moved too quickly! -10.132932073551274,0.6306263397304832,0.3361676593469838
+[21May2025 22:10:32.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21May2025 22:11:00.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Applied effect Freezing to Danilotrento34]
+[21May2025 22:12:05.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has reached the goal [This Belongs in a Museum]
+[21May2025 22:12:05.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Applied effect Absorption to Danilotrento34]
+[21May2025 22:12:58.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Chest Slayer]
+[21May2025 22:13:32.432] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[21May2025 22:13:34.479] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[21May2025 22:14:14.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [A Metallur-what?]

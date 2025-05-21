@@ -737,6 +737,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_zinc_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2025-05-21 22:01:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-19 17:36:16 +0000"
@@ -1761,6 +1767,12 @@
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 19:34:55 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/zinc_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-21 22:01:17 +0000"
     },
     "done": true
   },
@@ -6673,6 +6685,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/zinc_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-21 22:01:18 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/bone": {
     "criteria": {
       "has_rib_bone": "2025-05-20 15:42:09 +0000"
@@ -7414,6 +7432,12 @@
   "evilcraft:fart": {
     "criteria": {
       "criteria_0": "2025-05-18 22:34:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-05-21 22:05:14 +0000"
     },
     "done": true
   },

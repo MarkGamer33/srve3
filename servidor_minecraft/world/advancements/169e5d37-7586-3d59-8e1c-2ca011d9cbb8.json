@@ -6603,6 +6603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-21 22:03:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:15 +0000"
@@ -12072,6 +12078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-21 22:03:02 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/raspberry_jam": {
     "criteria": {
       "has_raspberry": "2025-05-20 16:08:41 +0000"
@@ -15120,6 +15132,12 @@
   "botania:recipes/botania/bauble_box": {
     "criteria": {
       "has_item": "2025-05-20 19:14:05 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/ores/iron_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-21 22:03:02 +0000"
     },
     "done": true
   },
@@ -21090,6 +21108,12 @@
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2025-05-18 22:49:56 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2025-05-21 22:05:33 +0000"
     },
     "done": true
   },
