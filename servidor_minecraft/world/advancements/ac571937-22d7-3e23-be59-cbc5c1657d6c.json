@@ -1098,6 +1098,12 @@
     },
     "done": true
   },
+  "compactmachines:recipes/compactmachines/personal_shrinking_device": {
+    "criteria": {
+      "picked_up_ender_eye": "2025-05-21 23:06:57 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/silver_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-19 21:52:55 +0000"
@@ -1668,6 +1674,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/improved_elementpipe_from_impaired_elementpipe_and_nugget": {
+    "criteria": {
+      "has_swift_alloy_nugget": "2025-05-21 23:06:54 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/iron_block": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:51:22 +0000"
@@ -2064,6 +2076,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/swift_alloy_ingot_from_swift_alloy_nugget": {
+    "criteria": {
+      "has_swift_alloy_nugget": "2025-05-21 23:06:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-18 22:53:18 +0000"
@@ -2373,6 +2391,12 @@
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2025-05-21 22:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-21 23:06:57 +0000"
     },
     "done": true
   },
@@ -3427,6 +3451,12 @@
     },
     "done": true
   },
+  "littlelogistics:recipes/transportation/receiver_component": {
+    "criteria": {
+      "has_item": "2025-05-21 23:06:57 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-05-18 22:26:09 +0000"
@@ -3846,6 +3876,12 @@
   "undergarden:recipes/undergarden_group/shard_torch": {
     "criteria": {
       "has_stick": "2025-05-19 17:39:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-05-21 23:06:57 +0000"
     },
     "done": true
   },
@@ -4759,6 +4795,12 @@
   "create:recipes/create.palettes/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-21 20:07:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-05-21 23:06:57 +0000"
     },
     "done": true
   },
@@ -5708,6 +5750,12 @@
   "botania:recipes/botania/animated_torch": {
     "criteria": {
       "has_item": "2025-05-19 22:14:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/itemfinder": {
+    "criteria": {
+      "has_item": "2025-05-21 23:06:57 +0000"
     },
     "done": true
   },
@@ -6987,6 +7035,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/rough_rod2": {
+    "criteria": {
+      "has_item": "2025-05-21 23:06:57 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/reliquary/kraken_shell_fragment": {
     "criteria": {
       "has_squid_beak": "2025-05-20 22:32:32 +0000"
@@ -7098,6 +7152,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/network_api": {
     "criteria": {
       "has_capacitor": "2025-05-18 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-05-21 23:06:57 +0000"
     },
     "done": true
   },
@@ -7665,6 +7725,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/swift_alloy_nugget": {
+    "criteria": {
+      "has_swift_alloy_nugget": "2025-05-21 23:06:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-19 17:43:09 +0000"
@@ -7806,6 +7872,12 @@
   "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-05-21 23:06:58 +0000"
     },
     "done": true
   },
@@ -9538,6 +9610,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-05-21 23:06:57 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-05-19 17:10:31 +0000"
@@ -9908,6 +9986,12 @@
   "farmersdelight:recipes/farmersdelight/rice": {
     "criteria": {
       "has_rice_panicle": "2025-05-21 22:34:03 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/improved_elementpipe_from_elementpipe_and_nugget": {
+    "criteria": {
+      "has_swift_alloy_nugget": "2025-05-21 23:06:54 +0000"
     },
     "done": true
   },
@@ -12715,6 +12799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-05-21 23:06:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-05-18 22:51:22 +0000"
@@ -13317,6 +13407,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/pressure_chamber_glass": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 17:40:24 +0000"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/transmitter_component": {
+    "criteria": {
+      "has_item": "2025-05-21 23:06:57 +0000"
     },
     "done": true
   },
@@ -14156,6 +14252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-21 23:06:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-05-19 17:36:16 +0000"
@@ -14645,6 +14747,12 @@
   "naturalist:recipes/naturalist/bug_net": {
     "criteria": {
       "has_bamboo": "2025-05-19 17:43:27 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/chiseled_deepslate": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 23:06:46 +0000"
     },
     "done": true
   },
