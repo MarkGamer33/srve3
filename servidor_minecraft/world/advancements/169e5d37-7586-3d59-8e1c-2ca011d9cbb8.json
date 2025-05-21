@@ -2890,6 +2890,12 @@
     },
     "done": true
   },
+  "croptopia:gather_drinks": {
+    "criteria": {
+      "rum": "2025-05-21 17:37:20 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2025-05-18 22:13:22 +0000",
@@ -13949,6 +13955,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/rum_raisin_ice_cream": {
+    "criteria": {
+      "has_rum": "2025-05-21 17:37:16 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/molasses_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-05-19 17:11:09 +0000"
@@ -21214,6 +21226,12 @@
   "securitycraft:recipes/securitycraft/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-05-19 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getdrinks": {
+    "criteria": {
+      "has_drink": "2025-05-21 17:37:20 +0000"
     },
     "done": true
   },

@@ -2765,6 +2765,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/decorations/dead_bush": {
+    "criteria": {
+      "has_salts": "2025-05-21 17:36:01 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/shard_torch": {
     "criteria": {
       "has_stick": "2025-05-18 22:10:03 +0000"
@@ -2825,6 +2831,12 @@
       "has_lapis_lazuli": "2025-05-20 16:57:40 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_drinks": {
+    "criteria": {
+      "rum": "2025-05-21 17:36:34 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -5027,6 +5039,12 @@
     },
     "done": true
   },
+  "create:recipes/food/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-05-21 17:39:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-05-18 22:50:55 +0000"
@@ -5600,7 +5618,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "scrambled_eggs": "2025-05-21 17:23:45 +0000"
+      "scrambled_eggs": "2025-05-21 17:23:45 +0000",
+      "pork_jerky": "2025-05-21 17:35:20 +0000"
     },
     "done": false
   },
@@ -6435,6 +6454,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/protein_bar": {
+    "criteria": {
+      "has_caramel": "2025-05-21 17:36:15 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/pressure_chamber_interface": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 16:48:56 +0000"
@@ -6655,6 +6680,12 @@
   "quarryplus:recipes/workbench": {
     "criteria": {
       "has_redstone": "2025-05-19 17:39:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/salt_from_water_bottle": {
+    "criteria": {
+      "has_water_bottle": "2025-05-21 17:33:00 +0000"
     },
     "done": true
   },
@@ -10582,6 +10613,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2025-05-21 17:39:07 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/diving_board": {
     "criteria": {
       "has_wheat": "2025-05-18 22:09:24 +0000"
@@ -12494,6 +12531,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/rum": {
+    "criteria": {
+      "has_molasses": "2025-05-21 17:36:15 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/moduleplus_template": {
     "criteria": {
       "dimshards": "2025-05-21 13:01:11 +0000"
@@ -13000,6 +13043,12 @@
   "mcwdoors:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-05-20 16:08:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/blasting_salt": {
+    "criteria": {
+      "has_water": "2025-05-21 17:33:00 +0000"
     },
     "done": true
   },
@@ -13894,6 +13943,12 @@
   "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
     "criteria": {
       "has_item": "2025-05-18 22:11:08 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/rum_raisin_ice_cream": {
+    "criteria": {
+      "has_rum": "2025-05-21 17:36:29 +0000"
     },
     "done": true
   },
@@ -15060,6 +15115,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 22:53:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2025-05-21 17:39:07 +0000"
     },
     "done": true
   },
@@ -16646,6 +16707,12 @@
   "alchemistry:recipes/dissolver/redstone": {
     "criteria": {
       "has_the_recipe": "2025-05-21 17:23:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/salt_from_smoking_water_bottle": {
+    "criteria": {
+      "has_water_bottle": "2025-05-21 17:33:00 +0000"
     },
     "done": true
   },
@@ -18329,6 +18396,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_salt": "2025-05-21 17:36:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-05-18 22:07:48 +0000"
@@ -19484,6 +19557,12 @@
     },
     "done": true
   },
+  "croptopia:salt": {
+    "criteria": {
+      "salt": "2025-05-21 17:36:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-05-18 22:16:07 +0000"
@@ -19784,6 +19863,12 @@
   "corail_woodcutter:recipes/from_transformation_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_salt": "2025-05-21 17:36:01 +0000"
     },
     "done": true
   },
@@ -20804,6 +20889,12 @@
   "securitycraft:recipes/securitycraft/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-05-19 18:50:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getdrinks": {
+    "criteria": {
+      "has_drink": "2025-05-21 17:36:34 +0000"
     },
     "done": true
   },
