@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-21 13:55:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-18 22:14:49 +0000"
@@ -9663,6 +9669,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/smooth_stone_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 13:55:13 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_redwood_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:22 +0000"
@@ -11564,6 +11576,12 @@
   "cfm:recipes/cfm/purple_cooler": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem_cut": {
+    "criteria": {
+      "cut": "2025-05-21 13:59:21 +0000"
     },
     "done": true
   },
@@ -14689,6 +14707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-21 13:55:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-19 18:08:16 +0000"
@@ -15064,6 +15088,12 @@
   "botania:recipes/botania/quartz_red": {
     "criteria": {
       "has_item": "2025-05-19 22:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-21 13:55:13 +0000"
     },
     "done": true
   },
@@ -19769,6 +19799,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-05-18 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/smooth_stone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-21 13:55:13 +0000"
     },
     "done": true
   },

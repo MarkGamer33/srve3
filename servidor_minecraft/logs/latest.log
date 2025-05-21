@@ -1977,3 +1977,66 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 13:50:21.352] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
 [21May2025 13:50:22.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 lost connection: Disconnected
 [21May2025 13:50:22.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 left the game
+[21May2025 13:52:37.198] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@38efae91
+[21May2025 13:52:37.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leoy73[/127.190.75.98:50193] logged in with entity id 41607 at (-15384.711737973039, 131.5748083858829, -18148.79167747686)
+[21May2025 13:52:37.234] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Leoy73
+[21May2025 13:52:37.234] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Leoy73
+[21May2025 13:52:37.235] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Leoy73
+[21May2025 13:52:37.235] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Leoy73
+[21May2025 13:52:37.236] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Leoy73
+[21May2025 13:52:37.237] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Leoy73
+[21May2025 13:52:37.237] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Leoy73
+[21May2025 13:52:37.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 joined the game
+[21May2025 13:52:37.471] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
+[21May2025 13:56:03.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has reached the goal [Fortuitous Militia]
+[21May2025 13:56:27.995] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@595cfd6b
+[21May2025 13:56:28.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:39181] logged in with entity id 44121 at (6970.300000011921, 63.0625, 560.6893469270599)
+[21May2025 13:56:28.030] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[21May2025 13:56:28.030] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[21May2025 13:56:28.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[21May2025 13:56:28.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[21May2025 13:56:28.032] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[21May2025 13:56:28.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[21May2025 13:56:28.034] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[21May2025 13:56:28.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[21May2025 13:56:28.221] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[21May2025 13:57:34.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 was shot by Wither Skeleton
+[21May2025 13:57:34.404] [Server thread/INFO] [tombstone/]: The player Leoy73 has successfully been saved
+[21May2025 13:57:35.698] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 13:57:43.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Spectator Mode]
+[21May2025 13:57:45.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[21May2025 13:58:01.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 was doomed to fall by Leoy73
+[21May2025 13:58:01.057] [Server thread/INFO] [tombstone/]: The player Leoy73 has successfully been saved
+[21May2025 13:58:02.699] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 13:58:12.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Spectator Mode]
+[21May2025 13:58:17.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[21May2025 13:58:32.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported ToroBoig to Leoy73]
+[21May2025 13:59:21.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [The Lapidary]
+[21May2025 14:00:41.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Strange Flora]
+[21May2025 14:01:21.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 was blown up by Leoy73
+[21May2025 14:01:22.014] [Server thread/INFO] [tombstone/]: The player Leoy73 has successfully been saved
+[21May2025 14:01:23.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Blaze Gold]
+[21May2025 14:01:23.336] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 14:01:43.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [A Strange Grave Dust]
+[21May2025 14:04:18.054] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@764fa5df
+[21May2025 14:04:18.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danilotrento34[/127.125.238.94:51157] logged in with entity id 50172 at (6635.7540645288245, 96.0, 749.998941898727)
+[21May2025 14:04:18.082] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Danilotrento34
+[21May2025 14:04:18.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Danilotrento34
+[21May2025 14:04:18.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Danilotrento34
+[21May2025 14:04:18.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Danilotrento34
+[21May2025 14:04:18.084] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Danilotrento34
+[21May2025 14:04:18.085] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Danilotrento34
+[21May2025 14:04:18.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Danilotrento34
+[21May2025 14:04:18.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 joined the game
+[21May2025 14:04:18.370] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Danilotrento34
+[21May2025 14:06:03.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Magic Writing]
+[21May2025 14:06:18.151] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7dd27ff4
+[21May2025 14:07:41.622] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/43962, l='ServerLevel[world]', x=6601.75, y=143.19, z=691.35] died: Honeyed Archer burned to death
+[21May2025 14:08:11.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [First Age]
+[21May2025 14:08:23.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Tunnel Treasures]
+[21May2025 14:08:24.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Tunnel Treasures]
+[21May2025 14:08:33.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [The First Explosion (of many?)]
+[21May2025 14:10:04.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [A True Source of Evil]
+[21May2025 14:11:05.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported Leoy73 to ToroBoig]
+[21May2025 14:11:16.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Hexcasting Research]
+[21May2025 14:11:30.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has reached the goal [This Belongs in a Museum]

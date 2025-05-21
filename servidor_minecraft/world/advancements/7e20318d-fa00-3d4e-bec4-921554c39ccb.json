@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/stick": {
+    "criteria": {
+      "has_witch_hat": "2025-05-21 14:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:39:31 +0000"
@@ -1989,6 +1995,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/brewing/uncrafting/magma_cream": {
+    "criteria": {
+      "has_molten_core": "2025-05-21 14:05:53 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/clear_glass_cyan_pane2": {
     "criteria": {
       "recipe_condition1": "2025-05-19 22:54:09 +0000"
@@ -2651,6 +2663,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-05-21 14:08:24 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/misc/compressing/paper": {
     "criteria": {
       "has_item": "2025-05-19 18:32:34 +0000"
@@ -2935,6 +2953,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/decorations/uncrafting/wither_skeleton_skull": {
+    "criteria": {
+      "has_withered_rib": "2025-05-21 14:03:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-05-18 22:09:55 +0000"
@@ -3025,6 +3049,7 @@
       "minecraft:phantom": "2025-05-20 23:08:17 +0000",
       "minecraft:witch": "2025-05-18 22:22:09 +0000",
       "minecraft:wither_skeleton": "2025-05-20 17:57:35 +0000",
+      "minecraft:husk": "2025-05-21 14:02:07 +0000",
       "minecraft:cave_spider": "2025-05-20 16:58:59 +0000",
       "minecraft:piglin": "2025-05-20 17:04:49 +0000",
       "minecraft:stray": "2025-05-20 19:22:18 +0000",
@@ -4056,6 +4081,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/destruction_catalyst": {
+    "criteria": {
+      "has_molten_core": "2025-05-21 14:05:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blue_bowl": {
     "criteria": {
       "has_terracotta": "2025-05-19 21:58:27 +0000"
@@ -4071,6 +4102,12 @@
   "xnet:recipes/xnet/redstoneproxy_update": {
     "criteria": {
       "torch": "2025-05-19 21:11:23 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/brewing/uncrafting/glass_bottle": {
+    "criteria": {
+      "has_witch_hat": "2025-05-21 14:09:44 +0000"
     },
     "done": true
   },
@@ -4113,6 +4150,12 @@
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_connected_from_mahogany_stairs_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 22:46:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-21 13:56:03 +0000"
     },
     "done": true
   },
@@ -5176,6 +5219,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/blaze": {
+    "criteria": {
+      "has_molten_core": "2025-05-21 14:05:53 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/gold_nugget": {
     "criteria": {
       "has_zombie_heart": "2025-05-20 19:23:11 +0000"
@@ -5221,6 +5270,12 @@
   "connectedglass:recipes/misc/clear_glass_blue_pane2": {
     "criteria": {
       "recipe_condition1": "2025-05-19 22:54:08 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/redstone/uncrafting/redstone": {
+    "criteria": {
+      "has_witch_hat": "2025-05-21 14:09:44 +0000"
     },
     "done": true
   },
@@ -5480,7 +5535,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-05-19 18:38:29 +0000",
-      "opened_chest": "2025-05-18 22:07:59 +0000"
+      "opened_chest": "2025-05-18 22:07:59 +0000",
+      "opened_cart": "2025-05-21 14:08:24 +0000"
     },
     "done": false
   },
@@ -7763,6 +7819,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/wither_skeleton": {
+    "criteria": {
+      "has_withered_rib": "2025-05-21 14:03:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-19 21:12:34 +0000"
@@ -8211,6 +8273,12 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-19 21:58:27 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mercy_cross": {
+    "criteria": {
+      "has_withered_rib": "2025-05-21 14:03:15 +0000"
     },
     "done": true
   },
@@ -9548,6 +9616,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/blaze_rod": {
+    "criteria": {
+      "has_molten_core": "2025-05-21 14:05:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-18 22:36:07 +0000"
@@ -10403,6 +10477,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/gunpowder_witch_hat": {
+    "criteria": {
+      "has_witch_hat": "2025-05-21 14:09:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-05-19 17:30:27 +0000"
@@ -11061,6 +11141,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-05-18 22:12:33 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/lantern_of_paranoia": {
+    "criteria": {
+      "has_molten_core": "2025-05-21 14:05:53 +0000"
     },
     "done": true
   },
@@ -12074,6 +12160,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/sugar": {
+    "criteria": {
+      "has_witch_hat": "2025-05-21 14:09:44 +0000"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/pride_colorizer_plural": {
     "criteria": {
       "has_item": "2025-05-20 19:18:40 +0000"
@@ -12581,6 +12673,12 @@
   "toolbelt:recipes/pouch": {
     "criteria": {
       "has_leather": "2025-05-18 22:41:45 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mob_charm_fragments/witch": {
+    "criteria": {
+      "has_witch_hat": "2025-05-21 14:09:44 +0000"
     },
     "done": true
   },
@@ -13933,6 +14031,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 18:36:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-05-21 13:55:52 +0000"
     },
     "done": true
   },
@@ -15560,6 +15664,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/midas_touchstone": {
+    "criteria": {
+      "has_molten_core": "2025-05-21 14:05:53 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-19 18:12:33 +0000"
@@ -16640,6 +16750,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/magma_cube": {
+    "criteria": {
+      "has_molten_core": "2025-05-21 14:05:53 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/chiseled_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:39:33 +0000"
@@ -16812,6 +16928,12 @@
   "cfm:recipes/cfm/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-05-18 22:29:26 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/salamander_eye": {
+    "criteria": {
+      "has_molten_core": "2025-05-21 14:05:53 +0000"
     },
     "done": true
   },
@@ -18343,6 +18465,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_boat_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 18:36:37 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/glowstone_dust": {
+    "criteria": {
+      "has_witch_hat": "2025-05-21 14:09:44 +0000"
     },
     "done": true
   },
@@ -20119,6 +20247,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:30:59 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/interdiction_torch": {
+    "criteria": {
+      "has_molten_core": "2025-05-21 14:05:53 +0000"
     },
     "done": true
   },
