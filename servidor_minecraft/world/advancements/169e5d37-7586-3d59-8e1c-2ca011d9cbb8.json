@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-21 11:59:44 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-05-19 21:13:10 +0000"
@@ -1102,6 +1108,12 @@
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 17:54:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2025-05-21 11:59:44 +0000"
     },
     "done": true
   },
@@ -4975,6 +4987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-21 11:59:44 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/ingots/gold_to_gold_gear": {
     "criteria": {
       "has_item": "2025-05-18 23:14:52 +0000"
@@ -4990,6 +5008,12 @@
   "silentgear:recipes/silentgear/coating_template": {
     "criteria": {
       "has_item": "2025-05-18 23:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-21 11:56:50 +0000"
     },
     "done": true
   },
@@ -6655,6 +6679,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-05-21 12:05:08 +0000",
+      "minecraft:sheep": "2025-05-21 11:56:50 +0000"
+    },
+    "done": false
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
@@ -8130,6 +8161,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest": {
     "criteria": {
       "has_oak_plank": "2025-05-19 17:54:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/fel_pumpkin": {
+    "criteria": {
+      "has_item": "2025-05-21 11:59:44 +0000"
     },
     "done": true
   },
@@ -10411,6 +10448,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2025-05-21 11:59:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-21 01:18:16 +0000"
@@ -12479,6 +12522,12 @@
   "utilitix:recipes/utilitix/linked_repeater": {
     "criteria": {
       "criterion2": "2025-05-18 22:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-21 11:59:44 +0000"
     },
     "done": true
   },
