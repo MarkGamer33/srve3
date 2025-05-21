@@ -1840,3 +1840,29 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 19:05:30.911] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [21May2025 19:06:19.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Into Fire]
 [21May2025 19:06:35.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Sweet Dreams]
+[21May2025 19:07:53.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[21May2025 19:07:53.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[21May2025 19:08:09.240] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@59bf5ea
+[21May2025 19:08:09.273] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:33521] logged in with entity id 9982 at (6637.699999988079, 96.0, 756.3000000119209)
+[21May2025 19:08:09.275] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[21May2025 19:08:09.276] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[21May2025 19:08:09.276] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[21May2025 19:08:09.276] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[21May2025 19:08:09.277] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[21May2025 19:08:09.279] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[21May2025 19:08:09.279] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[21May2025 19:08:09.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[21May2025 19:08:09.676] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[21May2025 19:08:51.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[21May2025 19:08:51.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[21May2025 19:13:17.090] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@45fc984d
+[21May2025 19:13:17.124] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:42395] logged in with entity id 11312 at (6637.699999988079, 96.0, 756.3000000119209)
+[21May2025 19:13:17.126] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[21May2025 19:13:17.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[21May2025 19:13:17.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[21May2025 19:13:17.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[21May2025 19:13:17.128] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[21May2025 19:13:17.130] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[21May2025 19:13:17.130] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[21May2025 19:13:17.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[21May2025 19:13:17.486] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig

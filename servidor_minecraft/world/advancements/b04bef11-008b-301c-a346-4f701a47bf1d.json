@@ -799,6 +799,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/utilitix/mob_yoinker": {
+    "criteria": {
+      "criterion2": "2025-05-21 19:13:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-05-21 13:35:18 +0000"
@@ -1313,6 +1319,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/transfer_gadget": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-21 19:06:19 +0000"
     },
     "done": true
   },
@@ -3424,9 +3436,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-21 19:06:19 +0000"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/pride_colorizer_aroace": {
     "criteria": {
       "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/blaze_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 19:06:19 +0000"
     },
     "done": true
   },
@@ -4495,6 +4519,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-21 19:06:35 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_bundle": "2025-05-21 12:54:16 +0000"
@@ -4678,6 +4708,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-21 19:06:13 +0000",
       "minecraft:skeleton": "2025-05-21 13:16:57 +0000",
       "minecraft:spider": "2025-05-21 13:17:35 +0000",
       "minecraft:creeper": "2025-05-21 13:17:27 +0000",
@@ -4934,6 +4965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-21 19:06:19 +0000"
+    },
+    "done": true
+  },
   "deepresonance:recipes/deepresonance/machine_frame": {
     "criteria": {
       "has_iron": "2025-05-21 13:16:11 +0000"
@@ -5120,6 +5157,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/blaze_block": {
+    "criteria": {
+      "has_item": "2025-05-21 19:06:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-05-21 13:05:06 +0000"
@@ -5195,6 +5238,12 @@
   "alchemistry:recipes/dissolver/chain": {
     "criteria": {
       "has_the_recipe": "2025-05-21 13:16:12 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/brewing/macerating/blaze_powder": {
+    "criteria": {
+      "has_item": "2025-05-21 19:06:19 +0000"
     },
     "done": true
   },
@@ -7463,6 +7512,12 @@
   "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-21 19:06:19 +0000"
     },
     "done": true
   },
