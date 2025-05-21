@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/mossy_cobblestone_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-21 13:05:10 +0000"
@@ -260,6 +266,12 @@
   "cfm:recipes/cfm/blue_grill": {
     "criteria": {
       "has_iron": "2025-05-21 13:16:11 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-21 22:12:58 +0000"
     },
     "done": true
   },
@@ -368,6 +380,12 @@
   "additionallanterns:recipes/additionallanterns/dark_prismarine_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-21 13:05:10 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/lead_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-21 22:18:09 +0000"
     },
     "done": true
   },
@@ -799,6 +817,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/silver_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-21 21:51:47 +0000"
@@ -874,6 +898,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-21 22:03:26 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/diorite_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -1021,6 +1051,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/blasting/raw_materials/lead_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-21 22:18:09 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:36:46 +0000"
@@ -1153,6 +1189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/crimson_iron_ingot_from_nugget": {
     "criteria": {
       "has_item": "2025-05-21 14:00:39 +0000"
@@ -1177,6 +1219,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/decorations/torch_ditchbulb_paste": {
     "criteria": {
       "has_stick": "2025-05-21 13:05:06 +0000"
@@ -1192,6 +1240,12 @@
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-05-21 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
     },
     "done": true
   },
@@ -1483,6 +1537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-21 13:15:52 +0000"
@@ -1681,6 +1741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-21 22:11:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-05-21 13:05:06 +0000"
@@ -1774,6 +1840,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-21 14:15:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/smelting/ores/lead_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-21 22:17:59 +0000"
     },
     "done": true
   },
@@ -2005,6 +2083,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-21 13:39:20 +0000"
@@ -2032,6 +2116,12 @@
   "undergarden:undergarden/root": {
     "criteria": {
       "tick": "2025-05-21 12:36:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
     },
     "done": true
   },
@@ -2161,6 +2251,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/blasting/ores/lead_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-21 22:17:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-05-21 13:39:20 +0000"
@@ -2269,6 +2365,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_iron_helmet": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
@@ -2290,6 +2392,12 @@
   "rftoolsutility:recipes/rftoolsutility/machineinformation_module": {
     "criteria": {
       "ingot": "2025-05-21 13:16:12 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/raw_materials/lead_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-21 22:18:09 +0000"
     },
     "done": true
   },
@@ -2339,6 +2447,12 @@
   "create:recipes/create.palettes/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-21 22:04:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -2673,6 +2787,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2025-05-21 12:54:17 +0000"
@@ -2712,6 +2832,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-21 13:15:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -2943,6 +3069,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/redstone_module": {
     "criteria": {
       "ingot": "2025-05-21 13:16:11 +0000"
@@ -3052,6 +3184,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-21 13:16:16 +0000"
@@ -3115,6 +3253,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/inventory_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-21 22:08:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -3340,6 +3484,12 @@
   "corail_woodcutter:recipes/from_byg_jacaranda_planks": {
     "criteria": {
       "has_ingredient": "2025-05-21 12:54:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
     },
     "done": true
   },
@@ -3721,6 +3871,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/lead_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-21 22:18:09 +0000"
+    },
+    "done": true
+  },
   "silentgear:root": {
     "criteria": {
       "get_item": "2025-05-21 13:16:16 +0000"
@@ -3787,6 +3943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-21 13:16:11 +0000"
@@ -3808,6 +3970,12 @@
   "elementalcraft:recipes/elementalcraft/major_rune_slate": {
     "criteria": {
       "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-05-21 22:12:05 +0000"
     },
     "done": true
   },
@@ -3932,6 +4100,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/cut_copper": {
     "criteria": {
       "has_the_recipe": "2025-05-21 21:50:55 +0000"
@@ -3941,6 +4115,12 @@
   "hexcasting:recipes/hexcasting/amethyst_dust_unpacking": {
     "criteria": {
       "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
     },
     "done": true
   },
@@ -4013,6 +4193,12 @@
   "cfm:recipes/cfm/stripped_acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
     },
     "done": true
   },
@@ -4142,6 +4328,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-05-21 13:17:36 +0000"
@@ -4235,6 +4427,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/vortex_cannon": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_lead_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/lead]": "2025-05-21 22:18:09 +0000"
     },
     "done": true
   },
@@ -4472,6 +4670,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2025-05-21 12:58:39 +0000"
@@ -4541,6 +4745,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-21 22:03:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -4748,6 +4958,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_witch_hazel_planks": {
     "criteria": {
       "has_ingredient": "2025-05-21 12:54:17 +0000"
@@ -4839,6 +5055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-05-21 13:05:31 +0000"
@@ -4884,6 +5106,12 @@
   "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
     },
     "done": true
   },
@@ -5583,6 +5811,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/macerating/ores/gold_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-21 22:11:47 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/reliquary/fertile_essence": {
     "criteria": {
       "has_slime_pearl": "2025-05-21 14:03:37 +0000"
@@ -5733,6 +5967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-21 22:11:14 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/tin_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-21 21:58:27 +0000"
@@ -5808,6 +6048,12 @@
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-05-21 12:54:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -5975,6 +6221,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "hexcasting:grant_patchi_book": {
     "criteria": {
       "tick": "2025-05-21 12:36:47 +0000"
@@ -6113,6 +6365,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-05-21 13:17:43 +0000"
@@ -6134,6 +6392,12 @@
   "sfm:recipes/sfm/manager": {
     "criteria": {
       "has_iron_ingot": "2025-05-21 13:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -6287,6 +6551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-21 22:11:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-21 13:16:12 +0000"
@@ -6332,6 +6602,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-21 13:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-05-21 22:11:47 +0000"
     },
     "done": true
   },
@@ -6480,6 +6756,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_purple": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
@@ -6532,6 +6814,12 @@
     "criteria": {
       "has_wit": "2025-05-21 12:54:17 +0000",
       "has_wct": "2025-05-21 12:54:17 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/andesite": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -6653,6 +6941,12 @@
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_gold_block": "2025-05-21 14:04:06 +0000"
+    },
+    "done": true
+  },
+  "rootsclassic:recipes/rootsclassic/pestle": {
+    "criteria": {
+      "has_diorite": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -6992,6 +7286,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/chiseled_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-05-21 13:15:52 +0000"
@@ -7101,6 +7401,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/polished_diorite": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/spawner_extractor": {
     "criteria": {
       "has_spawner_agitator": "2025-05-21 13:26:34 +0000"
@@ -7164,6 +7470,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2025-05-21 13:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -7508,6 +7820,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/smelting/raw_materials/lead_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-21 22:18:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-21 13:15:52 +0000"
@@ -7670,6 +7988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/crimson_iron_dust_smelting": {
     "criteria": {
       "has_item": "2025-05-21 14:00:39 +0000"
@@ -7727,6 +8051,12 @@
   "alltheores:recipes/alltheores/copper_ore_hammer": {
     "criteria": {
       "has_copper_ingot": "2025-05-21 21:50:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -7877,6 +8207,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/explosion_crafting/compressed_iron_ingot": {
     "criteria": {
       "tnt": "2025-05-21 13:06:10 +0000"
@@ -7910,6 +8246,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-21 13:05:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/lead_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-05-21 22:17:59 +0000"
     },
     "done": true
   },
@@ -8123,6 +8465,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/mossy_cobblestone_chain": {
     "criteria": {
       "recipe_condition": "2025-05-21 19:40:21 +0000"
@@ -8273,9 +8621,21 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/silver_ingot_from_slate_ore": {
+    "criteria": {
+      "has_item": "2025-05-21 22:10:44 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2025-05-21 21:58:04 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/lead_ingot_from_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-21 22:17:59 +0000"
     },
     "done": true
   },
@@ -8427,6 +8787,12 @@
   "rootsclassic:recipes/rootsclassic/attuned_standing_stone": {
     "criteria": {
       "has_diamond": "2025-05-21 13:04:06 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/ores/lead_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-21 22:17:59 +0000"
     },
     "done": true
   },
@@ -8725,6 +9091,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/blaze_gold_dust_smelting": {
     "criteria": {
       "has_item": "2025-05-21 14:01:23 +0000"
@@ -8785,6 +9157,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/glowstone_dust": {
     "criteria": {
       "has_witch_hat": "2025-05-21 14:08:58 +0000"
@@ -8836,6 +9214,12 @@
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-05-21 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/raw_materials/gold_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-21 22:11:14 +0000"
     },
     "done": true
   },
@@ -9091,6 +9475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-21 14:11:16 +0000"
@@ -9198,6 +9588,7 @@
       "minecraft:forest": "2025-05-21 13:35:24 +0000",
       "minecraft:desert": "2025-05-21 14:07:37 +0000",
       "minecraft:jungle": "2025-05-21 13:37:26 +0000",
+      "minecraft:ocean": "2025-05-21 22:10:45 +0000",
       "minecraft:savanna": "2025-05-21 13:20:32 +0000"
     },
     "done": false
@@ -9229,6 +9620,12 @@
   "cfm:recipes/cfm/red_grill": {
     "criteria": {
       "has_iron": "2025-05-21 13:16:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -9538,6 +9935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
     "criteria": {
       "has_deepslate_lapis_ore": "2025-05-21 22:08:22 +0000"
@@ -9565,6 +9968,12 @@
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2025-05-21 13:16:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -9625,6 +10034,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-21 13:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-05-21 22:11:47 +0000"
     },
     "done": true
   },
@@ -9752,6 +10167,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-21 22:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -9941,6 +10362,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/french_fries": {
     "criteria": {
       "has_potato": "2025-05-21 12:54:17 +0000"
@@ -9995,6 +10422,12 @@
     },
     "done": true
   },
+  "rootsclassic:recipes/rootsclassic/pestle2": {
+    "criteria": {
+      "has_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/lexicon": {
     "criteria": {
       "has_alt_item": "2025-05-21 13:16:16 +0000"
@@ -10016,6 +10449,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-21 13:10:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -10095,6 +10534,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 13:16:17 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/raw_gold_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 22:11:14 +0000"
     },
     "done": true
   },
@@ -10179,6 +10624,18 @@
   "alchemistry:recipes/dissolver/stone_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-21 21:58:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
     },
     "done": true
   },
@@ -10368,9 +10825,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-21 22:19:36 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-05-21 12:36:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
     },
     "done": true
   },
@@ -10425,6 +10894,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/speed_upgrade_from_glycerol": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-21 22:08:22 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/silver_ingot_from_slate_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-21 22:10:44 +0000"
     },
     "done": true
   },
@@ -10685,6 +11160,12 @@
   "alchemistry:recipes/dissolver/polished_deepslate": {
     "criteria": {
       "has_the_recipe": "2025-05-21 22:03:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
     },
     "done": true
   },
