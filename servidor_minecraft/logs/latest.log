@@ -1820,3 +1820,41 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 12:49:22.000] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@74a5552f[id=<null>,name=ToroBoig,properties={},legacy=false] (/127.162.215.77:49231): Took too long to log in
 [21May2025 12:49:22.001] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74a5552f[id=<null>,name=ToroBoig,properties={},legacy=false] (/127.162.215.77:49231) lost connection: Took too long to log in
 [21May2025 12:49:22.039] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21May2025 12:50:33.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Spectator Mode]
+[21May2025 12:50:33.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[21May2025 12:50:51.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 lost connection: Disconnected
+[21May2025 12:50:51.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 left the game
+[21May2025 12:51:00.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[21May2025 12:51:00.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[21May2025 12:51:06.643] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39c11526
+[21May2025 12:51:06.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leoy73[/127.190.75.98:35259] logged in with entity id 18355 at (6638.827796408012, 106.0, 729.7542478139036)
+[21May2025 12:51:06.683] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Leoy73
+[21May2025 12:51:06.683] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Leoy73
+[21May2025 12:51:06.683] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Leoy73
+[21May2025 12:51:06.684] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Leoy73
+[21May2025 12:51:06.685] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Leoy73
+[21May2025 12:51:06.686] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Leoy73
+[21May2025 12:51:06.687] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Leoy73
+[21May2025 12:51:06.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 joined the game
+[21May2025 12:51:06.984] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
+[21May2025 12:53:04.028] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@555a4754
+[21May2025 12:53:04.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:56741] logged in with entity id 18622 at (6640.5, 145.0, 701.5)
+[21May2025 12:53:04.059] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[21May2025 12:53:04.059] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[21May2025 12:53:04.060] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[21May2025 12:53:04.060] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[21May2025 12:53:04.061] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[21May2025 12:53:04.063] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[21May2025 12:53:04.063] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[21May2025 12:53:04.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[21May2025 12:53:04.299] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[21May2025 12:53:47.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Spectator Mode]
+[21May2025 12:53:48.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[21May2025 12:57:47.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Apothic Affixes]
+[21May2025 12:57:48.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Suit Up]
+[21May2025 12:57:48.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [How'd You Get This?]
+[21May2025 12:57:48.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [I Found It Underground]
+[21May2025 12:57:48.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Epic!]
+[21May2025 12:57:57.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has completed the challenge [He Wasn't So Strong]
+[21May2025 12:58:38.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Isn't It Iron Pick]
+[21May2025 12:59:06.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Amateur Archaeologist]
