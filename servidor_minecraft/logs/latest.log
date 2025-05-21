@@ -1824,3 +1824,19 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 18:47:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 fell from a high place
 [21May2025 18:47:59.778] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
 [21May2025 18:48:04.398] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 19:04:39.304] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33544a8b
+[21May2025 19:04:39.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:35629] logged in with entity id 8437 at (854.2263349185873, 67.0, 129.35467402595182)
+[21May2025 19:04:39.353] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[21May2025 19:04:39.354] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[21May2025 19:04:39.354] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[21May2025 19:04:39.354] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[21May2025 19:04:39.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[21May2025 19:04:39.359] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[21May2025 19:04:39.360] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[21May2025 19:04:39.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[21May2025 19:04:39.612] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[21May2025 19:05:29.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig was burnt to a crisp whilst fighting Blaze
+[21May2025 19:05:29.302] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
+[21May2025 19:05:30.911] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 19:06:19.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Into Fire]
+[21May2025 19:06:35.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Sweet Dreams]
