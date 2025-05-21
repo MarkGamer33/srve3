@@ -3303,6 +3303,12 @@
     },
     "done": true
   },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-05-21 18:43:02 +0000"
+    },
+    "done": false
+  },
   "silentgear:recipes/silentgear/golden_nether_banana": {
     "criteria": {
       "has_item": "2025-05-19 22:02:26 +0000"

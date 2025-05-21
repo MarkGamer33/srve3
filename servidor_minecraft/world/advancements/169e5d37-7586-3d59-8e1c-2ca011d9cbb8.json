@@ -4738,6 +4738,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/water_shard": {
+    "criteria": {
+      "has_powerful_water_shard": "2025-05-21 18:41:11 +0000"
+    },
+    "done": true
+  },
   "quark:get_diamond_heart": {
     "criteria": {
       "get_diamond_heart": "2025-05-19 23:12:36 +0000"
@@ -9990,6 +9996,12 @@
   "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_water_shard": {
+    "criteria": {
+      "has_powerful_water_shard": "2025-05-21 18:41:11 +0000"
     },
     "done": true
   },
