@@ -1797,3 +1797,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 11:46:39.222] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Leoy73
 [21May2025 11:46:39.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 joined the game
 [21May2025 11:46:39.614] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
+[21May2025 11:53:17.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has reached the goal [Dinner's Served!]
+[21May2025 11:54:15.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[21May2025 11:55:20.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved too quickly! 9.22952826287019,-4.0,1.13965489653026
+[21May2025 11:55:36.901] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Lady Sam the Rejected'/4826, l='ServerLevel[world]', x=6228.08, y=121.00, z=751.92] died: Lady Sam the Rejected was slain by MarkGamer
+[21May2025 11:56:50.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [The Parrots and the Bats]
