@@ -1918,3 +1918,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 19:58:18.394] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=5524, y=67, z=-597} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
 [21May2025 19:58:18.394] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=5524, y=67, z=-597}
 [21May2025 19:58:26.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Ambush]
+[21May2025 19:59:26.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 moved too quickly! 0.0,16.67204455249788,0.0
+[21May2025 20:06:57.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5449, y=55, z=-435} BlockPos{x=5448, y=54, z=-435}
+[21May2025 20:07:23.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5452, y=54, z=-438} BlockPos{x=5453, y=53, z=-440}
+[21May2025 20:07:23.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5452, y=54, z=-438} BlockPos{x=5453, y=53, z=-440}
