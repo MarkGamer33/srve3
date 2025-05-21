@@ -3407,7 +3407,8 @@
       "byg:amaranth_fields": "2025-05-21 13:34:49 +0000",
       "byg:brimstone_caverns": "2025-05-21 14:15:16 +0000",
       "byg:ebony_woods": "2025-05-21 13:43:28 +0000",
-      "byg:lush_stacks": "2025-05-21 13:44:18 +0000"
+      "byg:lush_stacks": "2025-05-21 13:44:18 +0000",
+      "byg:windswept_desert": "2025-05-21 19:18:40 +0000"
     },
     "done": false
   },
@@ -3691,6 +3692,12 @@
   "cfm:recipes/cfm/yellow_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/inertcrystal_block_from_inert_crystal": {
+    "criteria": {
+      "has_inert_crystal": "2025-05-21 19:17:59 +0000"
     },
     "done": true
   },
@@ -4737,6 +4744,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-21 19:17:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-05-21 13:16:11 +0000"
@@ -5612,6 +5625,7 @@
       "minecraft:lukewarm_ocean": "2025-05-21 13:23:46 +0000",
       "minecraft:river": "2025-05-21 13:17:07 +0000",
       "minecraft:stony_shore": "2025-05-21 13:43:59 +0000",
+      "minecraft:dripstone_caves": "2025-05-21 19:17:58 +0000",
       "minecraft:forest": "2025-05-21 13:35:24 +0000",
       "minecraft:desert": "2025-05-21 14:07:37 +0000",
       "minecraft:jungle": "2025-05-21 13:37:26 +0000",
@@ -5962,6 +5976,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-05-21 19:17:35 +0000"
+    },
+    "done": true
+  },
   "mininggadgets:recipes/mininggadgets/upgrade_empty": {
     "criteria": {
       "has_diamonds": "2025-05-21 13:04:06 +0000"
@@ -6019,6 +6039,12 @@
   "dungeons_arise:find_heavenly_rider": {
     "criteria": {
       "location0": "2025-05-21 13:58:33 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/inert_crystal": {
+    "criteria": {
+      "has_inert_crystal": "2025-05-21 19:17:59 +0000"
     },
     "done": true
   },
@@ -7258,6 +7284,12 @@
   "undergarden:recipes/undergarden_group/slingshot": {
     "criteria": {
       "has_stick": "2025-05-21 13:05:06 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/contained_crystal": {
+    "criteria": {
+      "has_inertcrystal": "2025-05-21 19:17:59 +0000"
     },
     "done": true
   },
