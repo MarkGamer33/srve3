@@ -1921,3 +1921,33 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 13:20:35.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! -10.127493000203685,-0.7477966597462711,-0.6579748128449978
 [21May2025 13:21:08.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has reached the goal [Flawless Crystals]
 [21May2025 13:21:11.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Far From Perfect]
+[21May2025 13:21:34.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Disme A Dozen]
+[21May2025 13:21:45.179] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=14373, y=67, z=107} but found not block entity block Block{minecraft:air} at location
+[21May2025 13:21:45.179] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=14373, y=67, z=107}
+[21May2025 13:22:36.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Crops of the Wild]
+[21May2025 13:22:46.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Close Quarters]
+[21May2025 13:23:36.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Smoke On The Water]
+[21May2025 13:23:40.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported ToroBoig to MarkGamer]
+[21May2025 13:23:41.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Smoke On The Water]
+[21May2025 13:23:43.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported Leoy73 to ToroBoig]
+[21May2025 13:23:50.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Smoke On The Water]
+[21May2025 13:24:36.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Barrel Booty]
+[21May2025 13:25:02.586] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] in ServerLevel[world] around BlockPos{x=14458, y=47, z=143} within 50 chunks
+[21May2025 13:25:02.593] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[21May2025 13:25:09.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Knowledge of Death]
+[21May2025 13:25:09.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Ashes 'n Bones]
+[21May2025 13:26:20.336] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> No TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] found (took 77,749ms)
+[21May2025 13:26:20.336] [Server thread/INFO] [Async Locator/]: Async Locator -> No location found - invalidating map stack
+[21May2025 13:26:20.337] [Server thread/WARN] [Async Locator/]: Async Locator -> Couldn't find item handler capability on chest LootrChestBlockEntity at BlockPos{x=14458, y=47, z=143}
+[21May2025 13:26:34.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Re-acquired Knowledge]
+[21May2025 13:28:36.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was slain by Skeleton
+[21May2025 13:28:36.499] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[21May2025 13:28:37.642] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 13:28:40.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 was blown up by Leoy73
+[21May2025 13:28:40.654] [Server thread/INFO] [tombstone/]: The player Leoy73 has successfully been saved
+[21May2025 13:28:43.499] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 13:29:41.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3164ms or 63 ticks behind
+[21May2025 13:29:41.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! 8.94890681781908,0.8786601175096109,-4.417510955034686
+[21May2025 13:29:55.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Penteconter]
+[21May2025 13:30:13.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 lost connection: Disconnected
+[21May2025 13:30:13.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 left the game

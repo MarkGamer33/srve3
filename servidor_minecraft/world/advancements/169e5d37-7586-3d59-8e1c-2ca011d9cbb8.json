@@ -738,6 +738,12 @@
     },
     "done": true
   },
+  "compactmachines:recipes/compactmachines/personal_shrinking_device": {
+    "criteria": {
+      "picked_up_ender_eye": "2025-05-21 13:30:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
@@ -1702,6 +1708,12 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-05-18 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-21 13:30:16 +0000"
     },
     "done": true
   },
@@ -2728,6 +2740,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-05-21 13:30:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-19 22:09:51 +0000"
@@ -3056,6 +3074,7 @@
       "minecraft:silverfish": "2025-05-19 20:37:30 +0000",
       "minecraft:stray": "2025-05-20 18:44:27 +0000",
       "minecraft:zombie": "2025-05-18 22:30:39 +0000",
+      "minecraft:drowned": "2025-05-21 13:25:37 +0000",
       "minecraft:zombie_villager": "2025-05-19 20:55:41 +0000"
     },
     "done": false
@@ -6542,6 +6561,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-05-21 13:30:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2025-05-20 16:09:38 +0000"
@@ -8756,6 +8781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-05-21 13:23:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
@@ -9011,6 +9042,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-05-20 23:28:50 +0000"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/transmitter_component": {
+    "criteria": {
+      "has_item": "2025-05-21 13:30:16 +0000"
     },
     "done": true
   },
@@ -9512,6 +9549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-21 13:30:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-05-18 22:14:22 +0000"
@@ -9665,6 +9708,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-05-20 18:09:48 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/black_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 13:23:50 +0000"
     },
     "done": true
   },
@@ -10501,6 +10550,12 @@
   "croptopia:recipes/candy_corn": {
     "criteria": {
       "has_the_recipe": "2025-05-21 00:15:20 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-05-21 13:23:36 +0000"
     },
     "done": true
   },
@@ -12599,6 +12654,12 @@
     },
     "done": true
   },
+  "littlelogistics:recipes/transportation/receiver_component": {
+    "criteria": {
+      "has_item": "2025-05-21 13:30:16 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/ingots/copper_to_copper_rod": {
     "criteria": {
       "has_item": "2025-05-20 17:22:33 +0000"
@@ -13443,6 +13504,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-05-21 13:30:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
@@ -14133,6 +14200,12 @@
   "botania:recipes/botania/animated_torch": {
     "criteria": {
       "has_item": "2025-05-19 21:00:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/itemfinder": {
+    "criteria": {
+      "has_item": "2025-05-21 13:30:16 +0000"
     },
     "done": true
   },
@@ -15141,6 +15214,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/network_api": {
     "criteria": {
       "has_capacitor": "2025-05-19 22:00:00 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-05-21 13:30:16 +0000"
     },
     "done": true
   },
@@ -16670,6 +16749,12 @@
       "in_pyramid_nether": "2025-05-19 22:07:06 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-05-21 13:24:47 +0000"
+    },
+    "done": true
   },
   "hexcasting:recipes/hexcasting/scroll_medium": {
     "criteria": {
@@ -18705,6 +18790,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-05-21 13:24:47 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/compressing/industrial_grade_metal": {
     "criteria": {
       "has_item": "2025-05-18 22:21:16 +0000"
@@ -18990,6 +19081,7 @@
       "minecraft:wooded_badlands": "2025-05-19 17:13:20 +0000",
       "minecraft:badlands": "2025-05-19 17:08:44 +0000",
       "minecraft:savanna_plateau": "2025-05-19 20:50:20 +0000",
+      "minecraft:beach": "2025-05-21 13:23:21 +0000",
       "minecraft:stony_peaks": "2025-05-19 15:24:29 +0000",
       "minecraft:sparse_jungle": "2025-05-18 22:47:44 +0000",
       "minecraft:river": "2025-05-18 22:45:19 +0000",
