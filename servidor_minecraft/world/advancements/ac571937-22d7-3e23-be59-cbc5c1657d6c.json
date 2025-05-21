@@ -833,6 +833,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_phantom_dark_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-21 23:33:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-05-19 19:49:02 +0000"
@@ -992,6 +998,12 @@
   "croptopia:knife": {
     "criteria": {
       "knife": "2025-05-19 23:09:22 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/nickel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-21 23:33:59 +0000"
     },
     "done": true
   },
@@ -1971,6 +1983,12 @@
   "cfm:recipes/cfm/oak_blinds": {
     "criteria": {
       "has_log": "2025-05-19 17:10:31 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_phantom_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-21 23:33:59 +0000"
     },
     "done": true
   },
@@ -5086,6 +5104,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_hv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-21 23:33:59 +0000"
+    },
+    "done": true
+  },
   "travelanchors:recipes/travelanchors/travel_staff": {
     "criteria": {
       "criterion0": "2025-05-18 22:51:22 +0000"
@@ -7653,6 +7677,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_phantom_glowing_membrane": {
+    "criteria": {
+      "has_chorus": "2025-05-21 23:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-05-19 16:52:33 +0000"
@@ -9380,6 +9410,12 @@
     },
     "done": true
   },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "celery_seed": "2025-05-21 23:33:59 +0000"
+    },
+    "done": false
+  },
   "xycraft_override:recipes/xycraft_override/shaped/chiseled_polished_blackstone_light": {
     "criteria": {
       "has_chiseled_polished_blackstone": "2025-05-19 22:16:41 +0000"
@@ -9724,6 +9760,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/nickel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-21 23:33:59 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-05-20 15:42:06 +0000"
@@ -9841,6 +9883,12 @@
   "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2025-05-18 22:29:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_mv": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-21 23:33:59 +0000"
     },
     "done": true
   },
@@ -10768,6 +10816,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/nickel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-21 23:33:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_chair": {
     "criteria": {
       "has_log": "2025-05-19 17:26:37 +0000"
@@ -11555,6 +11609,7 @@
   "croptopia:gather_all": {
     "criteria": {
       "soybean_seed": "2025-05-21 19:51:37 +0000",
+      "celery_seed": "2025-05-21 23:33:59 +0000",
       "mustard_seed": "2025-05-21 19:51:37 +0000"
     },
     "done": false
@@ -11667,6 +11722,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/nickel_knife": {
+    "criteria": {
+      "has_nickel": "2025-05-21 23:33:59 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:26:38 +0000"
@@ -11766,6 +11827,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-18 22:29:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-21 23:33:59 +0000"
     },
     "done": true
   },
@@ -12860,6 +12927,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/nickel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-21 23:33:59 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/magenta_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-05-19 17:16:19 +0000"
@@ -13909,6 +13982,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/nickel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-21 23:33:59 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/counterplus_module": {
     "criteria": {
       "ingot": "2025-05-18 22:51:22 +0000"
@@ -14735,6 +14814,12 @@
   "cfm:recipes/cfm/birch_coffee_table": {
     "criteria": {
       "has_log": "2025-05-19 17:26:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_membrane": "2025-05-21 23:33:59 +0000"
     },
     "done": true
   },

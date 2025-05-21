@@ -1877,3 +1877,61 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 23:30:26.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Applied effect Blindness to Danilotrento34]
 [21May2025 23:30:53.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Applied effect Blindness to 3 targets]
 [21May2025 23:32:08.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:entity.creeper.primed to Leoy73]
+[21May2025 23:33:43.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Spectator Mode]
+[21May2025 23:33:44.287] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@52911e84
+[21May2025 23:33:44.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:37739] logged in with entity id 4807 at (6636.620935942371, 96.0, 754.6999999880791)
+[21May2025 23:33:44.337] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[21May2025 23:33:44.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[21May2025 23:33:44.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[21May2025 23:33:44.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[21May2025 23:33:44.339] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[21May2025 23:33:44.341] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[21May2025 23:33:44.342] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[21May2025 23:33:44.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[21May2025 23:33:44.677] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[21May2025 23:33:47.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported Leoy73 to ToroBoig]
+[21May2025 23:33:49.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
+[21May2025 23:34:43.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:music_disc.pigstep to Leoy73]
+[21May2025 23:34:48.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:music_disc.pigstep to Leoy73]
+[21May2025 23:34:51.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:music_disc.pigstep to Leoy73]
+[21May2025 23:34:52.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:music_disc.pigstep to Leoy73]
+[21May2025 23:34:52.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:music_disc.pigstep to Leoy73]
+[21May2025 23:34:53.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:music_disc.pigstep to Leoy73]
+[21May2025 23:35:12.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:music_disc.pigstep to ToroBoig]
+[21May2025 23:35:15.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:music_disc.pigstep to ToroBoig]
+[21May2025 23:35:16.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:music_disc.pigstep to ToroBoig]
+[21May2025 23:35:16.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:music_disc.pigstep to ToroBoig]
+[21May2025 23:35:17.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:music_disc.pigstep to ToroBoig]
+[21May2025 23:35:17.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:music_disc.pigstep to ToroBoig]
+[21May2025 23:35:53.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:block.note_block.basedrum to Leoy73]
+[21May2025 23:35:54.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:block.note_block.basedrum to Leoy73]
+[21May2025 23:35:55.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:block.note_block.basedrum to Leoy73]
+[21May2025 23:35:55.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:block.note_block.basedrum to Leoy73]
+[21May2025 23:35:55.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:block.note_block.basedrum to Leoy73]
+[21May2025 23:36:00.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:block.note_block.basedrum to Leoy73]
+[21May2025 23:36:01.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has completed the challenge [Learn to Fart]
+[21May2025 23:36:17.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:18.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:18.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:19.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:19.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:20.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:21.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:21.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:22.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:22.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:23.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:23.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:28.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:28.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:29.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:29.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:30.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:32.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:36:33.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Played sound minecraft:ui.button.click to Leoy73]
+[21May2025 23:38:35.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Summoned new BOO]
+[21May2025 23:38:46.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Summoned new BOO]
+[21May2025 23:40:40.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was blown up by MarkGamer
+[21May2025 23:40:40.269] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[21May2025 23:40:41.990] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 23:42:18.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Creative Mode]

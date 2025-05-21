@@ -3849,6 +3849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-21 23:37:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_cooler": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
@@ -6152,6 +6158,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-05-21 13:26:29 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2025-05-21 23:36:01 +0000"
     },
     "done": true
   },

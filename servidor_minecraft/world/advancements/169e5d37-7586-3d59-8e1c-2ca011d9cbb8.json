@@ -2607,6 +2607,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/ice_magus_rod": {
+    "criteria": {
+      "has_frozen_core": "2025-05-21 23:32:22 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/kivi_bricks_cloud_dark_r": {
     "criteria": {
       "has_kivi": "2025-05-19 21:09:26 +0000"
@@ -3172,6 +3178,12 @@
   "silentgear:recipes/silentgear/coating_blueprint": {
     "criteria": {
       "has_item": "2025-05-20 22:18:25 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/snowball": {
+    "criteria": {
+      "has_frozen_core": "2025-05-21 23:32:22 +0000"
     },
     "done": true
   },
@@ -13921,6 +13933,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/shears_of_winter": {
+    "criteria": {
+      "has_frozen_core": "2025-05-21 23:32:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/nutty_cookie": {
     "criteria": {
       "has_nuts": "2025-05-21 00:15:20 +0000",
@@ -15887,6 +15905,12 @@
   "alchemistry:recipes/dissolver/golden_apple": {
     "criteria": {
       "has_the_recipe": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/building_blocks/uncrafting/packed_ice": {
+    "criteria": {
+      "has_frozen_core": "2025-05-21 23:32:22 +0000"
     },
     "done": true
   },
