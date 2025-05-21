@@ -1824,3 +1824,31 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 21:24:28.236] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MarkGamer
 [21May2025 21:24:28.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer joined the game
 [21May2025 21:24:28.576] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MarkGamer
+[21May2025 21:33:18.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[21May2025 21:35:04.661] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1814c4a3
+[21May2025 21:35:04.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leoy73[/127.190.75.98:50791] logged in with entity id 8039 at (6646.496870673645, 98.0, 726.0937293988684)
+[21May2025 21:35:04.715] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Leoy73
+[21May2025 21:35:04.716] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Leoy73
+[21May2025 21:35:04.720] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Leoy73
+[21May2025 21:35:04.720] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Leoy73
+[21May2025 21:35:04.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Leoy73
+[21May2025 21:35:04.725] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Leoy73
+[21May2025 21:35:04.725] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Leoy73
+[21May2025 21:35:04.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 joined the game
+[21May2025 21:35:05.073] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
+[21May2025 21:35:54.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Those'll Do For Now]
+[21May2025 21:38:47.624] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@17588dbe
+[21May2025 21:38:47.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:60379] logged in with entity id 8611 at (4276.789079178583, 69.0, -3988.1737093091742)
+[21May2025 21:38:47.683] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[21May2025 21:38:47.684] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[21May2025 21:38:47.685] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[21May2025 21:38:47.685] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[21May2025 21:38:47.689] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[21May2025 21:38:47.691] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[21May2025 21:38:47.691] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[21May2025 21:38:47.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[21May2025 21:38:48.000] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[21May2025 21:39:24.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig was slain by Zombie
+[21May2025 21:39:24.877] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
+[21May2025 21:39:32.839] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 21:40:11.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Into Fire]
