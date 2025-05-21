@@ -9079,6 +9079,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/rune": {
+    "criteria": {
+      "has_rune": "2025-05-21 18:10:22 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-20 17:03:01 +0000"
@@ -10227,6 +10233,7 @@
       "byg:firecracker_shrubland": "2025-05-20 16:51:24 +0000",
       "byg:magma_wastes": "2025-05-21 14:20:49 +0000",
       "byg:atacama_desert": "2025-05-19 20:24:56 +0000",
+      "byg:araucaria_savanna": "2025-05-21 18:08:40 +0000",
       "byg:crag_gardens": "2025-05-19 15:32:50 +0000",
       "byg:red_rock_valley": "2025-05-19 15:39:06 +0000",
       "byg:forgotten_forest": "2025-05-18 23:14:22 +0000",

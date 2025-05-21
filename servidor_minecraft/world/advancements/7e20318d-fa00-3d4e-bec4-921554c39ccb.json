@@ -3117,6 +3117,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-21 18:07:09 +0000",
       "minecraft:skeleton": "2025-05-18 22:34:54 +0000",
       "minecraft:hoglin": "2025-05-20 23:26:37 +0000",
       "minecraft:vindicator": "2025-05-19 18:37:58 +0000",
@@ -5597,6 +5598,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/sausage": {
+    "criteria": {
+      "has_ground_pork": "2025-05-21 18:03:28 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/borderless_glass_purple_pane2": {
     "criteria": {
       "recipe_condition1": "2025-05-19 22:53:57 +0000"
@@ -7867,6 +7874,12 @@
   "create:recipes/create.palettes/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-20 19:17:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-05-21 18:04:59 +0000"
     },
     "done": true
   },
@@ -17736,6 +17749,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-05-21 18:09:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_door_from_mahogany_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 14:47:44 +0000"
@@ -18307,6 +18326,12 @@
   "farmersdelight:main/use_skillet": {
     "criteria": {
       "skillet": "2025-05-21 12:26:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-05-21 18:09:34 +0000"
     },
     "done": true
   },
