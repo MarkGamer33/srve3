@@ -4269,6 +4269,7 @@
       "minecraft:spider": "2025-05-19 17:35:36 +0000",
       "minecraft:piglin_brute": "2025-05-19 23:05:57 +0000",
       "minecraft:creeper": "2025-05-20 15:51:49 +0000",
+      "minecraft:phantom": "2025-05-21 22:43:34 +0000",
       "minecraft:zombified_piglin": "2025-05-19 21:56:58 +0000",
       "minecraft:wither_skeleton": "2025-05-20 15:57:23 +0000",
       "minecraft:husk": "2025-05-20 15:14:41 +0000",
@@ -13685,6 +13686,12 @@
       "has_gilded_blackstone": "2025-05-19 23:06:35 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-05-21 22:43:34 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {

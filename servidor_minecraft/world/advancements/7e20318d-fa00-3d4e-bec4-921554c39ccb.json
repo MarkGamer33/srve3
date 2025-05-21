@@ -752,6 +752,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/steel_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-05-21 22:37:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 22:38:11 +0000"
@@ -16351,6 +16357,12 @@
     },
     "done": true
   },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2025-05-21 22:42:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-05-19 16:48:50 +0000"
@@ -20857,6 +20869,12 @@
   "cfm:recipes/cfm/crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-05-18 22:29:27 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/steel_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-21 22:37:03 +0000"
     },
     "done": true
   },

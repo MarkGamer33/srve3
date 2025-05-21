@@ -3565,6 +3565,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_dark": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:37:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-05-21 14:00:28 +0000"
@@ -4220,6 +4226,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_blue": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:37:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_crate": {
     "criteria": {
       "has_planks": "2025-05-21 13:16:16 +0000"
@@ -4331,6 +4343,12 @@
   "elementalcraft:recipes/elementalcraft/water_mill_wood_saw": {
     "criteria": {
       "has_watercrystal": "2025-05-21 19:38:19 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_green": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:37:08 +0000"
     },
     "done": true
   },
@@ -4505,6 +4523,12 @@
   "botania:recipes/botania/itemfinder": {
     "criteria": {
       "has_item": "2025-05-21 13:28:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-21 22:44:15 +0000"
     },
     "done": true
   },
@@ -5352,6 +5376,12 @@
   "cfm:recipes/cfm/orange_cooler": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_green_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:37:08 +0000"
     },
     "done": true
   },
@@ -6938,6 +6968,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_light_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:37:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-05-21 13:16:11 +0000"
@@ -8048,6 +8084,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_red": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:37:08 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/molotov_wool": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:36:46 +0000"
@@ -8111,6 +8153,12 @@
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/stick": {
     "criteria": {
       "has_item": "2025-05-21 13:05:06 +0000"
+    },
+    "done": true
+  },
+  "deepresonance:recipes/deepresonance/resonating_plate": {
+    "criteria": {
+      "has_ore": "2025-05-21 22:36:00 +0000"
     },
     "done": true
   },
@@ -8324,6 +8372,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_copper_ingot": "2025-05-21 21:50:50 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_blue_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:37:08 +0000"
     },
     "done": true
   },
@@ -8636,6 +8690,12 @@
   "reliquary:recipes/reliquary/mob_charm_fragments/wither_skeleton": {
     "criteria": {
       "has_withered_rib": "2025-05-21 14:00:28 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_light": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:37:08 +0000"
     },
     "done": true
   },
@@ -9665,6 +9725,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_red_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:37:08 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/amethyst_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-21 13:05:09 +0000"
@@ -10666,6 +10732,12 @@
   "create:recipes/create.palettes/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-21 22:03:37 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_dark_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-21 22:37:08 +0000"
     },
     "done": true
   },

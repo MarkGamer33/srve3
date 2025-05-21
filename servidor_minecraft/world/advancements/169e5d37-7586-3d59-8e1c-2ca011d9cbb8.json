@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-21 22:41:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-05-20 18:09:48 +0000"
@@ -5898,6 +5904,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cooked_chicken": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 22:41:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_chest_boat_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 23:28:28 +0000"
@@ -7054,6 +7066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-21 22:41:59 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_red2": {
     "criteria": {
       "recipe_condition2": "2025-05-20 22:13:56 +0000"
@@ -8128,6 +8146,12 @@
   "connectedglass:recipes/misc/clear_glass_red_pane2": {
     "criteria": {
       "recipe_condition2": "2025-05-20 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-05-21 22:41:59 +0000"
     },
     "done": true
   },
@@ -9439,6 +9463,12 @@
   "silentgear:recipes/silentgear/mattock_blueprint": {
     "criteria": {
       "has_item": "2025-05-20 22:18:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-21 22:41:59 +0000"
     },
     "done": true
   },
@@ -11298,6 +11328,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-21 22:41:59 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:13:23 +0000"
@@ -11859,6 +11895,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/aurey_matte": {
     "criteria": {
       "has_aluminum": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-21 22:41:59 +0000"
     },
     "done": true
   },
@@ -13139,6 +13181,12 @@
   "additionallanterns:recipes/additionallanterns/cobbled_deepslate_chain": {
     "criteria": {
       "recipe_condition": "2025-05-19 17:45:53 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/amethyst_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-21 22:35:59 +0000"
     },
     "done": true
   },
@@ -18558,6 +18606,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/stonecutting/amethyst_tiles": {
+    "criteria": {
+      "has_item": "2025-05-21 22:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-05-18 22:30:13 +0000"
@@ -20245,6 +20299,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2025-05-21 22:41:59 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/smooth_stone_chain": {
     "criteria": {
       "recipe_condition": "2025-05-21 13:55:13 +0000"
@@ -20820,6 +20880,12 @@
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-05-21 22:43:51 +0000"
     },
     "done": true
   },
