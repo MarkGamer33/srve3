@@ -1104,6 +1104,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-21 21:50:17 +0000",
       "minecraft:soul_sand_valley": "2025-05-20 17:57:11 +0000",
       "minecraft:basalt_deltas": "2025-05-20 22:00:02 +0000"
     },
@@ -18401,6 +18402,7 @@
       "byg:firecracker_shrubland": "2025-05-19 15:20:39 +0000",
       "byg:weeping_witch_forest": "2025-05-19 15:18:02 +0000",
       "byg:atacama_desert": "2025-05-19 16:09:59 +0000",
+      "byg:embur_bog": "2025-05-21 21:51:45 +0000",
       "byg:araucaria_savanna": "2025-05-19 15:23:12 +0000",
       "byg:crag_gardens": "2025-05-19 15:26:10 +0000",
       "byg:bayou": "2025-05-18 23:28:33 +0000",
