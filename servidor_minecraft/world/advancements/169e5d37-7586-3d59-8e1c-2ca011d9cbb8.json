@@ -2855,6 +2855,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/orange_juice": {
+    "criteria": {
+      "has_orange": "2025-05-21 13:19:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-19 17:27:09 +0000"
@@ -3207,6 +3213,12 @@
   "ftbic:recipes/ftbic/shaped/ingots/lead_to_lead_gear": {
     "criteria": {
       "has_item": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/orange_sapling": {
+    "criteria": {
+      "has_orange": "2025-05-21 13:19:59 +0000"
     },
     "done": true
   },
@@ -7904,6 +7916,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-05-18 22:14:40 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 13:17:09 +0000"
     },
     "done": true
   },
@@ -12617,6 +12635,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-05-21 13:16:21 +0000",
+      "has_block": "2025-05-21 13:16:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 21:09:29 +0000"
@@ -13561,6 +13586,12 @@
     "criteria": {
       "give_recipe": "2025-05-20 16:10:06 +0000",
       "has_block": "2025-05-20 16:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-21 13:16:21 +0000"
     },
     "done": true
   },
@@ -18264,6 +18295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-21 13:17:09 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/building_blocks/macerating/cobblestone": {
     "criteria": {
       "has_item": "2025-05-18 22:15:47 +0000"
@@ -19016,6 +19053,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-05-18 22:14:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-05-21 13:17:09 +0000"
     },
     "done": true
   },

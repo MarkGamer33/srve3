@@ -1880,3 +1880,44 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 13:10:29.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Stone Age]
 [21May2025 13:10:31.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 moved too quickly! 9.10763616276381,-0.3946637657674614,4.75640314646904
 [21May2025 13:10:31.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved too quickly! -5.551233505277196,3.0,-8.024423087796777
+[21May2025 13:11:05.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=14315, y=68, z=362} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[21May2025 13:11:05.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=14315, y=68, z=362}
+[21May2025 13:11:05.002] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=14316, y=65, z=364} but found not block entity block Block{minecraft:stone} at location
+[21May2025 13:11:05.002] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=14316, y=65, z=364}
+[21May2025 13:11:05.002] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=14315, y=65, z=364} but found not block entity block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] at location
+[21May2025 13:11:05.002] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] but failed at location BlockPos{x=14315, y=65, z=364}
+[21May2025 13:11:05.002] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=14315, y=68, z=363} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[21May2025 13:11:05.003] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=14315, y=68, z=363}
+[21May2025 13:11:05.003] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=14315, y=67, z=362} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[21May2025 13:11:05.003] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=14315, y=67, z=362}
+[21May2025 13:11:47.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[21May2025 13:11:47.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[21May2025 13:11:51.678] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@688d8a1b[id=<null>,name=ToroBoig,properties={},legacy=false] (/127.162.215.77:49045) lost connection: Disconnected
+[21May2025 13:14:35.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 moved too quickly! 1.2889033985920832,-9.062276821938553,5.764029158299422
+[21May2025 13:14:59.980] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d9e9dd9
+[21May2025 13:15:00.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:44567] logged in with entity id 24272 at (14169.277365790123, 110.0, 567.6840112377739)
+[21May2025 13:15:00.020] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[21May2025 13:15:00.020] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[21May2025 13:15:00.020] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[21May2025 13:15:00.020] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[21May2025 13:15:00.022] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[21May2025 13:15:00.024] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[21May2025 13:15:00.024] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[21May2025 13:15:00.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[21May2025 13:15:00.294] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[21May2025 13:15:57.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Not a Diamond]
+[21May2025 13:16:08.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement ['X' Marks the Spot]
+[21May2025 13:16:11.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Acquire Hardware]
+[21May2025 13:16:57.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Monster Hunter]
+[21May2025 13:17:48.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 was blown up by Creeper
+[21May2025 13:17:48.079] [Server thread/INFO] [tombstone/]: The player Leoy73 has successfully been saved
+[21May2025 13:17:49.516] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 13:18:12.553] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['General Shadows the Pathetic'/24757, l='ServerLevel[world]', x=14285.91, y=68.00, z=489.54] died: General Shadows the Pathetic was blown up by Leoy73
+[21May2025 13:18:16.641] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/24725, l='ServerLevel[world]', x=14349.70, y=65.00, z=582.11] died: Undead Knight was slain by Spider
+[21May2025 13:19:20.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21May2025 13:19:50.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[21May2025 13:19:54.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[21May2025 13:20:35.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved too quickly! -3.1205407480956637,0.0,-10.091282632626758
+[21May2025 13:20:35.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! -10.127493000203685,-0.7477966597462711,-0.6579748128449978
+[21May2025 13:21:08.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has reached the goal [Flawless Crystals]
+[21May2025 13:21:11.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Far From Perfect]
