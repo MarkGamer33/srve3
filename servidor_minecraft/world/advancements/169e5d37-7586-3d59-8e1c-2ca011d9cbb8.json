@@ -1866,6 +1866,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-05-21 00:15:02 +0000"
+    },
+    "done": true
+  },
   "undergarden:undergarden/root": {
     "criteria": {
       "tick": "2025-05-18 22:05:42 +0000"
@@ -5343,6 +5349,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/roasted_nuts_from_campfire": {
+    "criteria": {
+      "has_nut": "2025-05-21 00:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-18 22:24:14 +0000"
@@ -5678,6 +5690,12 @@
   "cfm:recipes/cfm/birch_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-20 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_nuts": {
+    "criteria": {
+      "has_nut": "2025-05-21 00:15:20 +0000"
     },
     "done": true
   },
@@ -8249,6 +8267,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_nuts": "2025-05-21 00:15:20 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_book": "2025-05-18 22:57:15 +0000"
@@ -8854,6 +8878,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-05-19 21:12:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/trail_mix": {
+    "criteria": {
+      "has_nuts": "2025-05-21 00:15:20 +0000"
     },
     "done": true
   },
@@ -9597,6 +9627,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_nut": "2025-05-21 00:15:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
@@ -10185,6 +10221,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_the_recipe": "2025-05-21 00:15:20 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/crafting_table": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:14:22 +0000"
@@ -10572,6 +10614,12 @@
   "undergarden:recipes/undergarden_group/smogstem_boat": {
     "criteria": {
       "in_water": "2025-05-18 22:15:57 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2025-05-21 00:15:20 +0000"
     },
     "done": true
   },
@@ -12614,6 +12662,13 @@
   "bambooeverything:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_bundle": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nutty_cookie": {
+    "criteria": {
+      "has_nuts": "2025-05-21 00:15:20 +0000",
+      "has_the_recipe": "2025-05-21 00:15:20 +0000"
     },
     "done": true
   },
@@ -16422,6 +16477,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/nut_milk": {
+    "criteria": {
+      "has_nuts": "2025-05-21 00:15:20 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/blue_enchanted_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 17:07:07 +0000"
@@ -16834,6 +16895,12 @@
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2025-05-19 22:32:32 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2025-05-21 00:15:20 +0000"
     },
     "done": true
   },
@@ -17480,6 +17547,12 @@
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_smoking": {
+    "criteria": {
+      "has_nut": "2025-05-21 00:15:20 +0000"
     },
     "done": true
   },
@@ -19119,6 +19192,12 @@
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-21 00:15:02 +0000"
     },
     "done": true
   },
