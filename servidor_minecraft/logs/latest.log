@@ -1820,3 +1820,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 18:46:09.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Phantom
 [21May2025 18:46:09.860] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
 [21May2025 18:46:14.217] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 18:47:55.624] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@81b5d83
+[21May2025 18:47:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 fell from a high place
+[21May2025 18:47:59.778] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[21May2025 18:48:04.398] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
