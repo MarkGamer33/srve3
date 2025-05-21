@@ -2209,6 +2209,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/air_shard": {
+    "criteria": {
+      "has_powerful_air_shard": "2025-05-21 00:53:44 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/rftoolsbuilder/green_shield_template_block": {
     "criteria": {
       "glass": "2025-05-20 14:43:53 +0000"
@@ -19223,6 +19229,12 @@
   "rftoolsbase:recipes/rftoolsbase/infused_enderpearl": {
     "criteria": {
       "shard": "2025-05-19 18:05:57 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_air_shard": {
+    "criteria": {
+      "has_powerful_air_shard": "2025-05-21 00:53:44 +0000"
     },
     "done": true
   },
