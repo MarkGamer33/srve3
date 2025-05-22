@@ -2012,3 +2012,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 15:29:08.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
 [22May2025 15:33:14.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito tried to swim in lava
 [22May2025 15:33:14.170] [Server thread/INFO] [tombstone/]: The player josito has successfully been saved
+[22May2025 15:34:34.216] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 15:34:57.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [The Most Useful Key]
+[22May2025 15:36:19.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has reached the goal [A Fast Comeback]
