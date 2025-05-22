@@ -2015,3 +2015,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 15:34:34.216] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [22May2025 15:34:57.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [The Most Useful Key]
 [22May2025 15:36:19.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has reached the goal [A Fast Comeback]
+[22May2025 15:47:02.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josito lost connection: Disconnected
+[22May2025 15:47:02.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito left the game
+[22May2025 15:47:37.902] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c240a0b[id=<null>,name=MarkGamer,properties={},legacy=false] (/127.183.135.68:56631) lost connection: Disconnected
+[22May2025 15:48:43.772] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@625ed65
+[22May2025 15:48:43.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarkGamer[/127.183.135.68:59713] logged in with entity id 63711 at (-1900.300000011921, -5.0, -3548.699999988079)
+[22May2025 15:48:43.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MarkGamer
+[22May2025 15:48:43.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MarkGamer
+[22May2025 15:48:43.807] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MarkGamer
+[22May2025 15:48:43.807] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MarkGamer
+[22May2025 15:48:43.808] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MarkGamer
+[22May2025 15:48:43.810] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MarkGamer
+[22May2025 15:48:43.810] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MarkGamer
+[22May2025 15:48:43.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer joined the game
+[22May2025 15:48:44.026] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MarkGamer
+[22May2025 15:50:38.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
