@@ -1411,6 +1411,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_red": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/crimson_iron_ingot_from_nugget": {
     "criteria": {
       "has_item": "2025-05-21 14:00:39 +0000"
@@ -2894,6 +2900,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_green_r": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-22 14:21:39 +0000"
@@ -3832,6 +3844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/inventory_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-21 22:08:22 +0000"
@@ -4038,6 +4056,7 @@
       "minecraft:cave_spider": "2025-05-21 19:44:54 +0000",
       "minecraft:silverfish": "2025-05-21 13:24:23 +0000",
       "minecraft:enderman": "2025-05-22 14:38:13 +0000",
+      "minecraft:stray": "2025-05-22 14:59:22 +0000",
       "minecraft:zombie": "2025-05-21 13:17:13 +0000"
     },
     "done": false
@@ -4381,6 +4400,12 @@
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-05-21 13:39:20 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_red_r": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
     },
     "done": true
   },
@@ -4754,6 +4779,12 @@
   "alchemistry:recipes/dissolver/baked_potato": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
     },
     "done": true
   },
@@ -5159,6 +5190,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_light": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
+    },
+    "done": true
+  },
   "rftoolsstorage:recipes/rftoolsstorage/dump_module": {
     "criteria": {
       "ingot": "2025-05-21 13:16:11 +0000"
@@ -5522,6 +5559,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-05-21 23:45:04 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_dark_r": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
     },
     "done": true
   },
@@ -6774,6 +6817,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_green": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
     "criteria": {
       "has_catalyzing_gland": "2025-05-21 19:41:03 +0000"
@@ -7167,6 +7216,12 @@
   "corail_woodcutter:recipes/from_twilight_oak_planks": {
     "criteria": {
       "has_ingredient": "2025-05-21 12:54:17 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_blue": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
     },
     "done": true
   },
@@ -8100,6 +8155,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/compressed_stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2025-05-21 13:26:32 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_dark": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
     },
     "done": true
   },
@@ -9078,6 +9139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-05-21 13:15:52 +0000"
@@ -9267,6 +9334,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-05-21 12:54:17 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_light_r": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
     },
     "done": true
   },
@@ -9518,6 +9591,12 @@
   "alchemistry:recipes/alchemistry/dissolver": {
     "criteria": {
       "has_item": "2025-05-21 13:16:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_blue_r": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
     },
     "done": true
   },
@@ -12248,6 +12327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersiveengineering/toolupgrade_drill_lube": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:36:46 +0000"
@@ -12825,6 +12910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/aluminum_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-21 21:51:47 +0000"
@@ -13280,6 +13371,12 @@
   "cfm:recipes/cfm/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
     },
     "done": true
   },

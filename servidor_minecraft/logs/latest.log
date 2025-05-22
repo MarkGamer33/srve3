@@ -1986,3 +1986,16 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 14:50:27.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! 10.040378665186381,0.0,-0.04336522853145652
 [22May2025 14:50:38.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
 [22May2025 14:50:38.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[22May2025 14:52:58.335] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@15f33f18
+[22May2025 14:52:58.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:34893] logged in with entity id 49903 at (-1846.717336424634, 24.0, -3463.9168140945426)
+[22May2025 14:52:58.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[22May2025 14:52:58.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[22May2025 14:52:58.377] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[22May2025 14:52:58.377] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[22May2025 14:52:58.378] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[22May2025 14:52:58.379] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[22May2025 14:52:58.379] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[22May2025 14:52:58.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[22May2025 14:52:58.637] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[22May2025 14:54:40.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Your First Receptacle]
+[22May2025 15:02:06.290] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Mother Grabtoast'/53106, l='ServerLevel[world]', x=-1885.41, y=6.00, z=-3534.91] died: Mother Grabtoast was slain by ToroBoig
