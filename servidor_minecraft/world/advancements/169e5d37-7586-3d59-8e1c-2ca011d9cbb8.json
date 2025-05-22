@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/jungle_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-05-18 22:50:58 +0000"
@@ -1020,6 +1026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-05-19 18:05:31 +0000"
@@ -1523,6 +1535,13 @@
   "corail_woodcutter:recipes/from_byg_palm_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_pane1": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 09:24:13 +0000",
+      "recipe_condition": "2025-05-22 09:24:13 +0000"
     },
     "done": true
   },
@@ -2559,6 +2578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
     "criteria": {
       "has_copper_ingot": "2025-05-20 17:22:33 +0000"
@@ -3333,6 +3358,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2025-05-22 09:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-19 18:08:16 +0000"
@@ -4049,6 +4080,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/magma_blue": {
     "criteria": {
       "has_magma_block": "2025-05-18 22:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
     },
     "done": true
   },
@@ -4844,6 +4881,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-05-18 22:22:34 +0000",
+      "rice": "2025-05-22 09:19:38 +0000",
       "sugar_cane": "2025-05-19 18:17:10 +0000",
       "potato": "2025-05-19 18:01:51 +0000",
       "wheat": "2025-05-19 17:33:28 +0000"
@@ -5412,6 +5450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 16:10:06 +0000"
@@ -5493,6 +5537,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/basic_to_iron_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-05-19 21:00:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/mustard_seed": {
+    "criteria": {
+      "has_mustard": "2025-05-22 09:17:57 +0000"
     },
     "done": true
   },
@@ -5604,6 +5654,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/gold_nugget": {
+    "criteria": {
+      "has_zombie_heart": "2025-05-22 09:19:11 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/stonecutting/kivi_tiles": {
     "criteria": {
       "has_for_kivi_tiles": "2025-05-19 21:09:26 +0000"
@@ -5625,6 +5681,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/pressure_tube": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/pineapple_juice": {
+    "criteria": {
+      "has_pineapple": "2025-05-22 09:17:57 +0000"
     },
     "done": true
   },
@@ -5902,6 +5964,7 @@
     "criteria": {
       "sea_lettuce": "2025-05-21 12:31:44 +0000",
       "cooked_shrimp": "2025-05-21 12:32:13 +0000",
+      "calamari": "2025-05-22 09:21:39 +0000",
       "oyster": "2025-05-21 12:32:13 +0000"
     },
     "done": false
@@ -6097,6 +6160,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_tank": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-22 09:22:25 +0000"
     },
     "done": true
   },
@@ -6675,6 +6744,7 @@
   },
   "croptopia:gather_jungle": {
     "criteria": {
+      "pineapple_seed": "2025-05-22 09:18:16 +0000",
       "peanut_seed": "2025-05-18 22:49:26 +0000"
     },
     "done": false
@@ -6682,6 +6752,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-22 09:21:39 +0000"
     },
     "done": true
   },
@@ -7208,6 +7284,12 @@
       "minecraft:sheep": "2025-05-21 11:56:50 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-05-22 09:19:29 +0000"
+    },
+    "done": true
   },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
@@ -8274,6 +8356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2025-05-19 16:56:28 +0000"
@@ -8357,6 +8445,12 @@
       "has_stone_types_limestone": "2025-05-19 18:05:31 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "mustard_seed": "2025-05-22 09:17:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
@@ -9802,6 +9896,12 @@
     },
     "done": true
   },
+  "deepresonance:recipes/deepresonance/lens": {
+    "criteria": {
+      "has_pane": "2025-05-22 09:24:13 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_light_r": {
     "criteria": {
       "has_ingots/aluminum": "2025-05-20 17:44:45 +0000"
@@ -10072,6 +10172,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/zombified_piglin": {
+    "criteria": {
+      "has_zombie_heart": "2025-05-22 09:19:11 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-20 18:57:15 +0000"
@@ -10334,6 +10440,12 @@
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-05-19 17:17:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-22 09:25:05 +0000"
     },
     "done": true
   },
@@ -11048,6 +11160,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-22 09:25:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-05-19 17:44:45 +0000"
@@ -11531,6 +11649,12 @@
   "alltheores:recipes/alltheores/platinum_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-05-21 00:39:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-22 09:17:56 +0000"
     },
     "done": true
   },
@@ -12326,6 +12450,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-05-22 09:19:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
@@ -13023,6 +13153,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-05-22 09:21:39 +0000"
+    },
+    "done": true
+  },
   "sfm:recipes/sfm/cable": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:15 +0000"
@@ -13382,6 +13518,12 @@
   "additionallanterns:recipes/additionallanterns/cobbled_deepslate_chain": {
     "criteria": {
       "recipe_condition": "2025-05-19 17:45:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-05-22 09:17:56 +0000"
     },
     "done": true
   },
@@ -13822,6 +13964,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-05-18 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-05-22 09:21:39 +0000"
     },
     "done": true
   },
@@ -14777,6 +14925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:15 +0000"
@@ -15246,6 +15400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-18 22:30:13 +0000"
@@ -15261,6 +15421,12 @@
   "silentgear:recipes/silentgear/tip_blueprint": {
     "criteria": {
       "has_item": "2025-05-20 22:18:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-05-22 09:26:03 +0000"
     },
     "done": true
   },
@@ -15469,6 +15635,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-05-22 09:19:29 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:41 +0000"
@@ -15616,6 +15788,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
     },
     "done": true
   },
@@ -15950,6 +16128,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/pineapple_seed": {
+    "criteria": {
+      "has_pineapple": "2025-05-22 09:17:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_desk": {
     "criteria": {
       "has_planks": "2025-05-18 22:54:46 +0000"
@@ -15995,6 +16179,12 @@
   "alltheores:recipes/alltheores/zinc_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-05-19 18:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
     },
     "done": true
   },
@@ -16602,6 +16792,12 @@
   "reliquary:recipes/reliquary/void_tear": {
     "criteria": {
       "has_nebulous_heart": "2025-05-20 16:06:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2025-05-22 09:21:39 +0000"
     },
     "done": true
   },
@@ -18471,6 +18667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/building_blocks/stone_wall": {
     "criteria": {
       "criterion0": "2025-05-19 17:27:09 +0000"
@@ -18582,6 +18784,12 @@
   "cfm:recipes/cfm/stripped_warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-19 17:58:33 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/food/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2025-05-22 09:19:11 +0000"
     },
     "done": true
   },
@@ -18765,6 +18973,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 09:24:13 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/guide_book": {
     "criteria": {
       "has_template_board": "2025-05-18 23:05:54 +0000"
@@ -18780,6 +18994,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_fence_gate_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 23:28:28 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mob_charm_fragments/zombie": {
+    "criteria": {
+      "has_zombie_heart": "2025-05-22 09:19:11 +0000"
     },
     "done": true
   },
@@ -19772,6 +19992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/gold_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]_ingot": "2025-05-18 23:14:52 +0000"
@@ -19835,6 +20061,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/spruce_chest": {
     "criteria": {
       "has_spruce_plank": "2025-05-18 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
     },
     "done": true
   },
@@ -19958,6 +20190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-22 09:24:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/fridge_dark": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:15 +0000"
@@ -20059,6 +20297,12 @@
       "has_the_recipe": "2025-05-18 22:05:40 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "mustard_seed": "2025-05-22 09:17:57 +0000"
+    },
+    "done": false
   },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_wall": {
     "criteria": {
@@ -20375,6 +20619,7 @@
       "quark:glimmering_weald": "2025-05-20 17:11:35 +0000",
       "minecraft:sunflower_plains": "2025-05-19 21:41:29 +0000",
       "minecraft:wooded_badlands": "2025-05-19 17:13:20 +0000",
+      "minecraft:bamboo_jungle": "2025-05-22 09:21:51 +0000",
       "minecraft:badlands": "2025-05-19 17:08:44 +0000",
       "minecraft:savanna_plateau": "2025-05-19 20:50:20 +0000",
       "minecraft:beach": "2025-05-21 13:23:21 +0000",
@@ -20390,6 +20635,7 @@
       "minecraft:forest": "2025-05-20 19:10:25 +0000",
       "minecraft:desert": "2025-05-19 17:10:39 +0000",
       "minecraft:ocean": "2025-05-20 18:33:41 +0000",
+      "minecraft:jungle": "2025-05-22 09:22:09 +0000",
       "minecraft:warm_ocean": "2025-05-19 17:12:01 +0000",
       "minecraft:flower_forest": "2025-05-20 18:11:05 +0000",
       "minecraft:deep_dark": "2025-05-18 22:37:52 +0000",
@@ -22085,6 +22331,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-21 13:34:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-22 09:21:39 +0000"
     },
     "done": true
   },
