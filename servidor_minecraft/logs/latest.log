@@ -1946,3 +1946,32 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 21:18:41.667] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
 [22May2025 21:18:43.851] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [22May2025 21:23:05.752] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d582c7d
+[22May2025 21:24:08.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[22May2025 21:30:00.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Danilotrento34 to ToroBoig
+[22May2025 21:30:10.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MarkGamer to ToroBoig
+[22May2025 21:30:49.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Super Creeps]
+[22May2025 21:30:53.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[22May2025 21:30:53.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[22May2025 21:31:09.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Super Creeps]
+[22May2025 21:33:17.985] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f8e56e7
+[22May2025 21:33:18.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:51173] logged in with entity id 31722 at (-1609.4696026118138, 70.0, -1673.0554966107659)
+[22May2025 21:33:18.034] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[22May2025 21:33:18.034] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[22May2025 21:33:18.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[22May2025 21:33:18.035] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[22May2025 21:33:18.036] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[22May2025 21:33:18.037] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[22May2025 21:33:18.038] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[22May2025 21:33:18.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[22May2025 21:33:18.317] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[22May2025 21:33:56.131] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6c268f8d
+[22May2025 21:33:56.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: josito[/127.23.157.184:42519] logged in with entity id 32223 at (6644.021281897906, 96.0, 761.5867295558984)
+[22May2025 21:33:56.166] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to josito
+[22May2025 21:33:56.166] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to josito
+[22May2025 21:33:56.167] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to josito
+[22May2025 21:33:56.167] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to josito
+[22May2025 21:33:56.168] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to josito
+[22May2025 21:33:56.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to josito
+[22May2025 21:33:56.170] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to josito
+[22May2025 21:33:56.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito joined the game
+[22May2025 21:33:56.399] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: josito
