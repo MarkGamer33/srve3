@@ -1849,3 +1849,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 10:10:13.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
 [22May2025 10:17:32.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
 [22May2025 10:19:20.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
+[22May2025 10:24:11.910] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Toastver the Ninja'/20519, l='ServerLevel[world]', x=-3279.58, y=43.00, z=103.60] died: Toastver the Ninja was slain by MarkGamer
+[22May2025 10:28:14.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['EnigmaQuip the Funky'/20996, l='ServerLevel[world]', x=-3274.30, y=57.00, z=145.38] died: EnigmaQuip the Funky was slain by MarkGamer
+[22May2025 10:30:21.059] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Lord Biz the Dragonborn'/21206, l='ServerLevel[world]', x=-3274.46, y=57.00, z=145.46] died: Lord Biz the Dragonborn was slain by MarkGamer
