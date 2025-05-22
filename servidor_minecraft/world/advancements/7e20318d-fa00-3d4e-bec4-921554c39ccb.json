@@ -2363,6 +2363,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-05-22 13:28:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-19 22:53:21 +0000"
@@ -3377,6 +3383,12 @@
   "xnet:recipes/xnet/advanced_connector_blue": {
     "criteria": {
       "chest": "2025-05-20 22:17:02 +0000"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/simplemagnets/advancedmagnet": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 13:31:02 +0000"
     },
     "done": true
   },
@@ -4743,6 +4755,12 @@
   "cfm:recipes/cfm/jungle_table": {
     "criteria": {
       "has_planks": "2025-05-19 18:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder": {
+    "criteria": {
+      "builders_hut": "2025-05-22 13:26:44 +0000"
     },
     "done": true
   },
@@ -13737,6 +13755,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-05-19 16:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2025-05-22 13:26:44 +0000"
     },
     "done": true
   },

@@ -1818,3 +1818,37 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 13:08:03.763] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
 [22May2025 13:26:44.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has reached the goal [Build a Builder Building]
 [22May2025 13:28:49.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [The Basics]
+[22May2025 13:36:36.052] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@74abf918
+[22May2025 13:36:36.108] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:56943] logged in with entity id 15439 at (6642.073191132314, 96.0, 760.7053332656384)
+[22May2025 13:36:36.110] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[22May2025 13:36:36.110] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[22May2025 13:36:36.111] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[22May2025 13:36:36.111] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[22May2025 13:36:36.112] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[22May2025 13:36:36.114] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[22May2025 13:36:36.114] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[22May2025 13:36:36.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[22May2025 13:36:36.432] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[22May2025 13:36:56.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6706, y=-22, z=789} BlockPos{x=6697, y=-35, z=773}
+[22May2025 13:36:56.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6706, y=-22, z=789} BlockPos{x=6697, y=-35, z=773}
+[22May2025 13:36:56.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6706, y=-22, z=789} BlockPos{x=6697, y=-35, z=773}
+[22May2025 13:37:30.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[22May2025 13:37:30.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[22May2025 13:38:21.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6715, y=-31, z=756} BlockPos{x=6716, y=-31, z=756}
+[22May2025 13:38:24.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6709, y=-35, z=755} BlockPos{x=6710, y=-34, z=756}
+[22May2025 13:38:24.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6709, y=-35, z=755} BlockPos{x=6709, y=-35, z=756}
+[22May2025 13:38:59.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6695, y=-37, z=760} BlockPos{x=6697, y=-37, z=759}
+[22May2025 13:38:59.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6695, y=-37, z=760} BlockPos{x=6697, y=-37, z=759}
+[22May2025 13:39:03.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6684, y=-39, z=760} BlockPos{x=6685, y=-39, z=760}
+[22May2025 13:39:06.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6692, y=-39, z=758} BlockPos{x=6693, y=-39, z=759}
+[22May2025 13:39:35.544] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a6f29b0
+[22May2025 13:39:35.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:49861] logged in with entity id 17051 at (6642.073191132314, 96.0, 760.7053332656384)
+[22May2025 13:39:35.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[22May2025 13:39:35.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[22May2025 13:39:35.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[22May2025 13:39:35.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[22May2025 13:39:35.584] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[22May2025 13:39:35.586] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[22May2025 13:39:35.586] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[22May2025 13:39:35.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[22May2025 13:39:35.879] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
