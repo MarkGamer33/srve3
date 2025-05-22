@@ -1,11 +1,6 @@
-[2025-05-21T23:15:16,085][W] [TQW/initialLog]: Config in '§r              §5§l(MSX)  §dHosting Gratuito§r
+[2025-05-22T09:01:02,271][W] [TQW/initialLog]: Config in '§r              §5§l(MSX)  §dHosting Gratuito§r
           §f§nhttps://discord.gg/w9xt8ydNZe'
 {
-  "server": {
-    "machineWork": {
-      "unworkableDimensions": []
-    }
-  },
   "common": {
     "enableMap": {
       "mini_quarry": true,
@@ -130,6 +125,11 @@
         "breakFortuneCoefficient": 1.5874010519681996,
         "breakSilktouchCoefficient": 4.0
       }
+    }
+  },
+  "server": {
+    "machineWork": {
+      "unworkableDimensions": []
     }
   }
 }
