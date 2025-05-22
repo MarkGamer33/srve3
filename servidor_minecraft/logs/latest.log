@@ -1805,3 +1805,14 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 12:18:14.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
 [22May2025 12:22:45.227] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [22May2025 12:27:18.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[22May2025 13:08:03.263] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f3907d2
+[22May2025 13:08:03.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leoy73[/127.190.75.98:45663] logged in with entity id 8035 at (6639.805769529435, 96.0, 761.9374662684132)
+[22May2025 13:08:03.327] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Leoy73
+[22May2025 13:08:03.327] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Leoy73
+[22May2025 13:08:03.328] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Leoy73
+[22May2025 13:08:03.328] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Leoy73
+[22May2025 13:08:03.329] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Leoy73
+[22May2025 13:08:03.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Leoy73
+[22May2025 13:08:03.332] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Leoy73
+[22May2025 13:08:03.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 joined the game
+[22May2025 13:08:03.763] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
