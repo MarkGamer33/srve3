@@ -2952,6 +2952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-22 16:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-18 22:16:48 +0000"
@@ -3286,6 +3292,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/item_life_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-19 17:53:10 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/copper_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 16:13:59 +0000"
     },
     "done": true
   },
@@ -4139,6 +4151,12 @@
   "cfm:recipes/cfm/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-19 17:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-05-22 16:14:00 +0000"
     },
     "done": true
   },
@@ -5233,6 +5251,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-05-22 16:14:00 +0000"
     },
     "done": true
   },
@@ -15091,6 +15115,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/copper_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-22 16:14:00 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_dark_r": {
     "criteria": {
       "has_stone_bricks": "2025-05-19 17:09:18 +0000"
@@ -15757,6 +15787,12 @@
   "create:recipes/create.palettes/layered_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cut_copper": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 16:14:00 +0000"
     },
     "done": true
   },
@@ -16515,6 +16551,12 @@
   "deepresonance:recipes/deepresonance/radiation_suit_leggings": {
     "criteria": {
       "has_resonant_plate": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-22 16:14:00 +0000"
     },
     "done": true
   },
@@ -20139,6 +20181,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/copper_ore_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-22 16:14:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-05-18 22:30:28 +0000"
@@ -22315,6 +22363,12 @@
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-05-19 17:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-22 16:14:00 +0000"
     },
     "done": true
   },
