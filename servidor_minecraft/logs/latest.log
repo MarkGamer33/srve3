@@ -2064,3 +2064,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 17:32:45.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
 [22May2025 17:57:37.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [Introduction to Chaos]
 [22May2025 18:02:03.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [The Basics]
+[22May2025 18:15:39.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/102639, l='ServerLevel[world]', x=6144.88, y=121.54, z=99.14] died: Honeyed Archer suffocated in a wall
