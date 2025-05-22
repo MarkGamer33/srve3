@@ -5600,6 +5600,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/cave_spider": {
+    "criteria": {
+      "has_chelicerae": "2025-05-22 12:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-19 17:44:42 +0000"
@@ -7474,6 +7480,12 @@
   "elementalcraft:pickup/whiterock": {
     "criteria": {
       "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/food/uncrafting/spider_eye": {
+    "criteria": {
+      "has_chelicerae": "2025-05-22 12:22:42 +0000"
     },
     "done": true
   },
@@ -10701,6 +10713,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/spider": {
+    "criteria": {
+      "has_chelicerae": "2025-05-22 12:22:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-05-18 22:05:43 +0000"
@@ -11445,6 +11463,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-05-18 22:47:48 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/string": {
+    "criteria": {
+      "has_chelicerae": "2025-05-22 12:22:42 +0000"
     },
     "done": true
   },
