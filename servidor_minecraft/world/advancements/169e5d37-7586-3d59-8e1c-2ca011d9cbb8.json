@@ -6457,6 +6457,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-05-22 16:29:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-18 22:15:55 +0000"
@@ -16749,6 +16755,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-22 10:38:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-05-22 16:29:49 +0000"
     },
     "done": true
   },

@@ -9663,8 +9663,11 @@
       "byg:red_oak_forest": "2025-05-19 16:27:21 +0000",
       "byg:redwood_thicket": "2025-05-19 16:23:30 +0000",
       "byg:firecracker_shrubland": "2025-05-19 17:49:30 +0000",
+      "byg:atacama_desert": "2025-05-22 16:25:45 +0000",
       "byg:araucaria_savanna": "2025-05-19 17:47:35 +0000",
+      "byg:crag_gardens": "2025-05-22 16:27:07 +0000",
       "byg:red_rock_valley": "2025-05-19 17:20:13 +0000",
+      "byg:forgotten_forest": "2025-05-22 16:26:46 +0000",
       "byg:baobab_savanna": "2025-05-19 17:47:33 +0000",
       "byg:ebony_woods": "2025-05-19 23:01:14 +0000",
       "byg:temperate_rainforest": "2025-05-19 17:34:35 +0000"
@@ -11332,6 +11335,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-05-22 16:25:20 +0000",
       "minecraft:badlands": "2025-05-19 17:20:09 +0000",
       "minecraft:savanna_plateau": "2025-05-19 17:50:52 +0000",
       "minecraft:stony_peaks": "2025-05-19 17:47:49 +0000",
