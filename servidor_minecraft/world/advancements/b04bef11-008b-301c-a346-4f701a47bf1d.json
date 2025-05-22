@@ -594,6 +594,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-05-22 14:30:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-21 23:06:59 +0000"
@@ -1384,6 +1390,12 @@
   "cfm:recipes/cfm/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-05-22 14:30:30 +0000"
     },
     "done": true
   },
@@ -4007,6 +4019,7 @@
       "minecraft:husk": "2025-05-21 13:59:40 +0000",
       "minecraft:cave_spider": "2025-05-21 19:44:54 +0000",
       "minecraft:silverfish": "2025-05-21 13:24:23 +0000",
+      "minecraft:enderman": "2025-05-22 14:38:13 +0000",
       "minecraft:zombie": "2025-05-21 13:17:13 +0000"
     },
     "done": false
@@ -5434,6 +5447,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-05-22 14:30:30 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_bundle_uncrafting": {
     "criteria": {
       "has_dry_bundle": "2025-05-21 12:54:16 +0000"
@@ -5875,6 +5894,12 @@
   "silentgear:recipes/silentgear/crimson_iron_dust_blasting": {
     "criteria": {
       "has_item": "2025-05-21 14:00:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-05-22 14:30:30 +0000"
     },
     "done": true
   },
@@ -6632,6 +6657,12 @@
   "securitycraft:recipes/securitycraft/blast_furnace_mine": {
     "criteria": {
       "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-22 14:30:30 +0000"
     },
     "done": true
   },
@@ -9768,6 +9799,7 @@
       "byg:red_oak_forest": "2025-05-21 12:54:15 +0000",
       "byg:redwood_thicket": "2025-05-21 12:36:47 +0000",
       "byg:dead_sea": "2025-05-21 13:44:03 +0000",
+      "byg:autumnal_forest": "2025-05-22 14:30:38 +0000",
       "byg:firecracker_shrubland": "2025-05-21 13:10:59 +0000",
       "byg:atacama_desert": "2025-05-21 13:43:54 +0000",
       "byg:araucaria_savanna": "2025-05-21 23:29:46 +0000",
@@ -10488,6 +10520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_stripped_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-22 14:30:30 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_fence_gate": {
     "criteria": {
       "has_bamboo": "2025-05-21 12:54:16 +0000",
@@ -10709,6 +10747,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-21 13:17:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-05-22 14:30:30 +0000"
     },
     "done": true
   },

@@ -1952,3 +1952,20 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 14:29:12.704] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1685, y=74, z=-3323} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
 [22May2025 14:29:12.704] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-1685, y=74, z=-3323}
 [22May2025 14:30:26.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved too quickly! -10.045303458030503,0.0,1.3554931523375444
+[22May2025 14:34:39.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[22May2025 14:34:39.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[22May2025 14:35:56.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [Ka-chink! 2]
+[22May2025 14:36:52.530] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ead2df1
+[22May2025 14:36:52.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:45589] logged in with entity id 40398 at (-1922.1555034750572, 71.0, -3301.212932593397)
+[22May2025 14:36:52.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[22May2025 14:36:52.566] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[22May2025 14:36:52.566] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[22May2025 14:36:52.566] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[22May2025 14:36:52.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[22May2025 14:36:52.569] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[22May2025 14:36:52.569] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[22May2025 14:36:52.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[22May2025 14:36:52.800] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[22May2025 14:38:46.145] [Worker-Main-205/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1716, y=40, z=-3630}
+[22May2025 14:40:27.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[22May2025 14:40:27.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MarkGamer to ToroBoig
