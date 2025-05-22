@@ -1891,6 +1891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-22 22:58:57 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/food/cake_compat": {
     "criteria": {
       "has_item": "2025-05-19 17:59:47 +0000"
@@ -4200,6 +4206,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_aluminum_from_block": {
+    "criteria": {
+      "has_item": "2025-05-22 22:55:44 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2025-05-19 16:26:48 +0000"
@@ -4586,6 +4598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-22 22:58:57 +0000"
+    },
+    "done": true
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2025-05-19 16:23:29 +0000"
@@ -4805,6 +4823,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-22 15:33:10 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/netherite_scrap": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:58:57 +0000"
     },
     "done": true
   },
@@ -5823,6 +5847,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 17:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-22 22:58:57 +0000"
     },
     "done": true
   },

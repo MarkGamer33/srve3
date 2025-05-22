@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_blue_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-21 13:17:43 +0000"
@@ -254,6 +260,12 @@
   "minecraft:recipes/woodcutting/mahogany/mahogany_boat_from_mahogany_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_nether_bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 22:59:14 +0000"
     },
     "done": true
   },
@@ -663,6 +675,12 @@
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-05-22 14:30:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-22 22:58:52 +0000"
     },
     "done": true
   },
@@ -1135,9 +1153,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/heat_sink": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_light_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
     },
     "done": true
   },
@@ -1264,6 +1294,12 @@
   "silentgear:recipes/misc/emerald_from_shards": {
     "criteria": {
       "has_item": "2025-05-21 13:09:07 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_red_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
     },
     "done": true
   },
@@ -1510,6 +1546,12 @@
   "cfm:recipes/cfm/light_blue_grill": {
     "criteria": {
       "has_iron": "2025-05-21 13:16:12 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cracked_nether_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:59:14 +0000"
     },
     "done": true
   },
@@ -1897,6 +1939,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/blackstone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 22:58:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_crate": {
     "criteria": {
       "has_planks": "2025-05-22 14:26:46 +0000"
@@ -2164,6 +2212,12 @@
   "create:recipes/create.palettes/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-05-21 13:39:20 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_red": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
     },
     "done": true
   },
@@ -2731,6 +2785,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_green": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-21 22:19:36 +0000"
@@ -2770,6 +2830,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/regulator_tube_module": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2025-05-22 22:58:15 +0000"
     },
     "done": true
   },
@@ -2998,6 +3064,12 @@
   "alltheores:recipes/alltheores/diamond_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-21 21:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
     },
     "done": true
   },
@@ -3446,6 +3518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
       "has_iron": "2025-05-21 13:16:12 +0000"
@@ -3732,6 +3810,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-21 13:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
     },
     "done": true
   },
@@ -4627,6 +4711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
@@ -4654,6 +4744,12 @@
   "botania:recipes/botania/manasteel_helmet": {
     "criteria": {
       "has_item": "2025-05-21 13:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
     },
     "done": true
   },
@@ -4798,6 +4894,12 @@
   "botania:recipes/botania/manasteel_shears": {
     "criteria": {
       "has_item": "2025-05-21 13:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
     },
     "done": true
   },
@@ -5588,6 +5690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-22 22:58:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-22 20:15:39 +0000"
@@ -6068,6 +6176,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_dark_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-21 22:04:29 +0000"
@@ -6101,6 +6215,12 @@
   "create:recipes/create.palettes/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-21 22:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
     },
     "done": true
   },
@@ -6203,6 +6323,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_dark_r": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-22 14:56:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2025-05-22 22:58:15 +0000"
     },
     "done": true
   },
@@ -6981,6 +7107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_bundle": {
     "criteria": {
       "has_dry_bamboo": "2025-05-21 12:54:16 +0000"
@@ -7314,9 +7446,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 13:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
     },
     "done": true
   },
@@ -8366,6 +8510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/copper_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-21 13:05:10 +0000"
@@ -8690,6 +8840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/emerald_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-21 13:05:10 +0000"
@@ -8741,6 +8897,12 @@
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-05-21 13:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
     },
     "done": true
   },
@@ -8840,6 +9002,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/blackstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-22 22:58:15 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/diamond_shears": {
     "criteria": {
       "criterion0": "2025-05-21 13:04:06 +0000"
@@ -8898,6 +9066,12 @@
     "criteria": {
       "get_ore": "2025-05-22 22:54:53 +0000",
       "get_ingot": "2025-05-21 14:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
     },
     "done": true
   },
@@ -9882,6 +10056,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_dark": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2025-05-21 13:16:16 +0000"
@@ -10075,6 +10255,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/blackstone_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:58:15 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-05-22 14:23:00 +0000"
@@ -10228,6 +10414,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 13:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
     },
     "done": true
   },
@@ -10515,6 +10707,12 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-05-22 20:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
     },
     "done": true
   },
@@ -10869,6 +11067,12 @@
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-05-21 23:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
     },
     "done": true
   },
@@ -11259,6 +11463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/briefcase": {
     "criteria": {
       "has_iron": "2025-05-21 13:16:12 +0000"
@@ -11322,6 +11532,12 @@
   "ftbic:recipes/building_blocks/macerating/gravel": {
     "criteria": {
       "has_item": "2025-05-21 13:10:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_silver_from_block": {
+    "criteria": {
+      "has_item": "2025-05-22 22:58:46 +0000"
     },
     "done": true
   },
@@ -11664,6 +11880,12 @@
   "cfm:recipes/cfm/spruce_cabinet": {
     "criteria": {
       "has_planks": "2025-05-21 13:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
     },
     "done": true
   },
@@ -12155,6 +12377,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/nether_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:59:14 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/tin_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-21 22:07:51 +0000"
@@ -12200,6 +12428,12 @@
   "botania:recipes/botania/manasteel_hoe": {
     "criteria": {
       "has_item": "2025-05-21 13:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
     },
     "done": true
   },
@@ -12413,6 +12647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-21 12:58:39 +0000"
@@ -12557,6 +12797,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_blue": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-21 22:03:26 +0000"
@@ -12578,6 +12824,12 @@
   "ftbic:recipes/ftbic/compressing/industrial_grade_metal": {
     "criteria": {
       "has_item": "2025-05-21 13:16:12 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_light": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
     },
     "done": true
   },
@@ -12764,6 +13016,12 @@
   "alchemistry:recipes/dissolver/quartz_pillar": {
     "criteria": {
       "has_the_recipe": "2025-05-21 23:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
     },
     "done": true
   },
@@ -13375,6 +13633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/logistics_configurator": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
@@ -13516,6 +13780,12 @@
   "securitycraft:recipes/securitycraft/dirt_mine": {
     "criteria": {
       "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/blackstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-22 22:58:15 +0000"
     },
     "done": true
   },
@@ -13969,6 +14239,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_green_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:59:14 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/lexicon": {
     "criteria": {
       "has_alt_item": "2025-05-21 13:16:16 +0000"
@@ -14225,6 +14501,12 @@
   "securitycraft:recipes/securitycraft/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-05-22 15:24:34 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-05-22 22:59:14 +0000"
     },
     "done": true
   },
@@ -14863,6 +15145,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/asphalt2": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-05-22 22:58:15 +0000"
     },
     "done": true
   },
