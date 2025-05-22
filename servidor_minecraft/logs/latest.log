@@ -1822,3 +1822,12 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 09:46:21.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved too quickly! -6.7091934629506795,-1.0666400008296932,7.993168417546258
 [22May2025 09:46:23.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved too quickly! -7.144022409988793,-2.863442377512243,6.674789905184298
 [22May2025 09:46:41.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved too quickly! -4.483409618971564,1.0,9.443191215970728
+[22May2025 09:52:08.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was slain by Piglin Brute
+[22May2025 09:52:08.246] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[22May2025 09:52:09.812] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 09:52:34.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was slain by Piglin Brute
+[22May2025 09:52:34.776] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[22May2025 09:52:35.946] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 09:52:52.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was slain by Piglin Brute
+[22May2025 09:52:52.812] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[22May2025 09:52:54.298] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

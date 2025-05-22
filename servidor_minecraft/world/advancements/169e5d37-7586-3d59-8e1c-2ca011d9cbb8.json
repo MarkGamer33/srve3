@@ -17605,6 +17605,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-05-22 09:46:44 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_light": {
     "criteria": {
       "has_chiseled_stone_bricks": "2025-05-21 18:19:58 +0000"
@@ -19507,6 +19513,7 @@
       "byg:quartz_desert": "2025-05-21 01:16:04 +0000",
       "byg:warped_desert": "2025-05-21 14:22:35 +0000",
       "byg:firecracker_shrubland": "2025-05-20 18:02:23 +0000",
+      "byg:weeping_witch_forest": "2025-05-22 09:46:38 +0000",
       "byg:magma_wastes": "2025-05-21 14:21:08 +0000",
       "byg:atacama_desert": "2025-05-19 15:35:48 +0000",
       "byg:embur_bog": "2025-05-21 01:15:35 +0000",
@@ -21021,6 +21028,7 @@
       "minecraft:savanna_plateau": "2025-05-19 20:50:20 +0000",
       "minecraft:beach": "2025-05-21 13:23:21 +0000",
       "minecraft:stony_peaks": "2025-05-19 15:24:29 +0000",
+      "minecraft:dark_forest": "2025-05-22 09:46:41 +0000",
       "minecraft:sparse_jungle": "2025-05-18 22:47:44 +0000",
       "minecraft:river": "2025-05-18 22:45:19 +0000",
       "minecraft:lukewarm_ocean": "2025-05-19 15:26:59 +0000",
@@ -21035,6 +21043,7 @@
       "minecraft:jungle": "2025-05-22 09:22:09 +0000",
       "minecraft:warm_ocean": "2025-05-19 17:12:01 +0000",
       "minecraft:flower_forest": "2025-05-20 18:11:05 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-22 09:48:37 +0000",
       "minecraft:deep_dark": "2025-05-18 22:37:52 +0000",
       "minecraft:meadow": "2025-05-21 18:04:45 +0000",
       "minecraft:savanna": "2025-05-19 20:47:31 +0000",
