@@ -8981,6 +8981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-05-22 20:46:20 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_green_enchanted_planks": {
     "criteria": {
       "has_ingredient": "2025-05-21 12:54:17 +0000"
@@ -12279,6 +12285,7 @@
       "minecraft:taiga": "2025-05-22 14:23:54 +0000",
       "minecraft:eroded_badlands": "2025-05-21 14:07:20 +0000",
       "minecraft:frozen_river": "2025-05-22 20:22:11 +0000",
+      "minecraft:birch_forest": "2025-05-22 20:48:55 +0000",
       "minecraft:windswept_hills": "2025-05-22 20:25:14 +0000",
       "minecraft:wooded_badlands": "2025-05-21 13:43:53 +0000",
       "minecraft:bamboo_jungle": "2025-05-21 19:38:35 +0000",
