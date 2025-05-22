@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_mercy": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-22 21:50:07 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/normal_nether_bricks_chain": {
     "criteria": {
       "recipe_condition": "2025-05-19 21:57:06 +0000"
@@ -1752,6 +1758,12 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-05-22 21:47:39 +0000"
+    },
+    "done": true
+  },
   "ae2additions:recipes/ae2additions/super_cell_housing": {
     "criteria": {
       "has_item": "2025-05-19 16:55:48 +0000"
@@ -1779,6 +1791,12 @@
   "ae2wtlib:recipes/magnet_card": {
     "criteria": {
       "has_wct": "2025-05-18 22:28:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-22 21:51:40 +0000"
     },
     "done": true
   },
@@ -3777,6 +3795,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cacophonium": {
+    "criteria": {
+      "has_item": "2025-05-22 21:45:03 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-05-18 22:28:01 +0000"
@@ -5465,6 +5489,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/holy_hand_grenade": {
+    "criteria": {
+      "has_glowing_water": "2025-05-22 21:45:13 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/bricks_blue_r": {
     "criteria": {
       "has_bricks": "2025-05-20 22:48:32 +0000"
@@ -6753,6 +6783,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_limited_barrel_4": {
     "criteria": {
       "has_dark_oak_plank": "2025-05-19 17:36:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-05-22 21:50:07 +0000"
     },
     "done": true
   },
@@ -11519,6 +11555,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/glowing_bread": {
+    "criteria": {
+      "has_glowing_water": "2025-05-22 21:45:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-05-19 19:39:29 +0000"
@@ -12199,6 +12241,12 @@
   "ae2:recipes/ae2.main/network/blocks/crank": {
     "criteria": {
       "has_stick": "2025-05-19 17:39:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/fine_silk": {
+    "criteria": {
+      "has_item": "2025-05-22 21:45:32 +0000"
     },
     "done": true
   },
@@ -15239,6 +15287,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/fine_silk_cloth": {
+    "criteria": {
+      "has_item": "2025-05-22 21:45:32 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_icebreaker": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:26:09 +0000"
@@ -15356,6 +15410,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/mud_bricks_light_r": {
     "criteria": {
       "has_mud_bricks": "2025-05-19 17:32:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-22 21:50:19 +0000"
     },
     "done": true
   },

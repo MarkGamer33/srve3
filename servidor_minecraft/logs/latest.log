@@ -2010,3 +2010,66 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 21:41:21.819] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [22May2025 21:42:18.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported josito to MarkGamer
 [22May2025 21:42:19.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [Super Creeps]
+[22May2025 21:44:44.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/35840, l='ServerLevel[world]', x=-1580.65, y=120.01, z=-1741.76] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:44:48.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/37407, l='ServerLevel[world]', x=-1585.49, y=120.01, z=-1741.00] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:44:54.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/33903, l='ServerLevel[world]', x=-1584.39, y=120.01, z=-1743.70] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:44:55.812] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/35841, l='ServerLevel[world]', x=-1586.41, y=120.01, z=-1743.22] died: Dinnerbone was slain by ToroBoig
+[22May2025 21:44:55.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/36267, l='ServerLevel[world]', x=-1580.30, y=120.01, z=-1743.70] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:45:27.916] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/33904, l='ServerLevel[world]', x=-1582.31, y=121.01, z=-1742.31] died: Dinnerbone was blown up by MarkGamer using    [Bailey's Bovine Rocket]
+[22May2025 21:45:59.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [Magic Writing]
+[22May2025 21:46:10.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Wither Skeleton
+[22May2025 21:46:10.780] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 21:46:12.561] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 21:46:45.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Wither Skeleton
+[22May2025 21:46:45.712] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 21:46:47.157] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 21:47:09.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has completed the challenge [Centennial]
+[22May2025 21:47:20.356] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/35819, l='ServerLevel[world]', x=-1588.70, y=128.01, z=-1741.70] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:47:20.360] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39138, l='ServerLevel[world]', x=-1587.70, y=128.01, z=-1737.30] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:47:22.470] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39139, l='ServerLevel[world]', x=-1586.30, y=128.01, z=-1741.69] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:47:22.472] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39158, l='ServerLevel[world]', x=-1587.90, y=128.01, z=-1741.47] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:47:22.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/38964, l='ServerLevel[world]', x=-1582.97, y=128.01, z=-1741.23] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:47:27.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39434, l='ServerLevel[world]', x=-1586.82, y=128.01, z=-1741.70] died: Dinnerbone was slain by ToroBoig
+[22May2025 21:47:39.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [A True Source of Evil]
+[22May2025 21:48:01.485] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at BlockPos{x=-1597, y=132, z=-1717} as the loot table 'dungeons_arise:chests/temple_treasure_small' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[22May2025 21:48:21.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39882, l='ServerLevel[world]', x=-1581.43, y=136.01, z=-1715.34] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:48:24.459] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/38168, l='ServerLevel[world]', x=-1588.36, y=136.01, z=-1717.66] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:48:31.707] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39881, l='ServerLevel[world]', x=-1580.68, y=136.01, z=-1711.49] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:48:41.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39883, l='ServerLevel[world]', x=-1583.56, y=136.01, z=-1713.19] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:48:43.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Mutual Aid]
+[22May2025 21:48:43.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has reached the goal [Like a bird]
+[22May2025 21:49:25.553] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at BlockPos{x=-1597, y=132, z=-1717} as the loot table 'dungeons_arise:chests/temple_treasure_small' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[22May2025 21:49:27.106] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at BlockPos{x=-1597, y=132, z=-1717} as the loot table 'dungeons_arise:chests/temple_treasure_small' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[22May2025 21:49:32.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/40808, l='ServerLevel[world]', x=-1594.24, y=136.01, z=-1709.30] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:49:34.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/38539, l='ServerLevel[world]', x=-1591.30, y=136.01, z=-1712.40] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:49:34.822] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/38538, l='ServerLevel[world]', x=-1594.98, y=136.01, z=-1710.43] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:49:34.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/38540, l='ServerLevel[world]', x=-1595.52, y=136.01, z=-1711.22] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:49:34.828] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/40606, l='ServerLevel[world]', x=-1594.05, y=136.01, z=-1711.63] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:49:37.459] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/40744, l='ServerLevel[world]', x=-1594.31, y=136.01, z=-1717.12] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:49:38.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/38167, l='ServerLevel[world]', x=-1580.31, y=136.01, z=-1711.30] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 21:49:42.858] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39809, l='ServerLevel[world]', x=-1580.30, y=136.01, z=-1714.70] died: Dinnerbone was slain by MarkGamer
+[22May2025 21:50:07.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Mutual Aid]
+[22May2025 21:50:07.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has reached the goal [A self-respecting Soul]
+[22May2025 21:50:19.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has reached the goal [Like a bird]
+[22May2025 21:50:25.010] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at BlockPos{x=-1597, y=132, z=-1717} as the loot table 'dungeons_arise:chests/temple_treasure_small' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[22May2025 21:50:35.117] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39360, l='ServerLevel[world]', x=-1601.70, y=136.01, z=-1709.30] died: Dinnerbone was slain by MarkGamer
+[22May2025 21:51:32.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[22May2025 21:51:40.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has reached the goal [To be or not to be]
+[22May2025 21:52:00.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has reached the goal [Traveling lightning rod]
+[22May2025 21:52:09.908] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41815, l='ServerLevel[world]', x=-1585.00, y=144.01, z=-1712.66] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:52:19.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [Mutual Aid]
+[22May2025 21:52:19.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has reached the goal [To be or not to be]
+[22May2025 21:52:20.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39864, l='ServerLevel[world]', x=-1580.70, y=144.01, z=-1719.70] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:52:29.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Wither Skeleton
+[22May2025 21:52:29.128] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 21:52:30.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has reached the goal [To be or not to be]
+[22May2025 21:52:31.276] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 21:52:35.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41649, l='ServerLevel[world]', x=-1586.62, y=144.01, z=-1714.20] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:52:35.016] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/39865, l='ServerLevel[world]', x=-1585.11, y=144.01, z=-1716.08] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:52:35.865] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/42186, l='ServerLevel[world]', x=-1580.60, y=144.01, z=-1711.13] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:52:37.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41313, l='ServerLevel[world]', x=-1584.17, y=144.01, z=-1715.87] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:52:37.277] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41314, l='ServerLevel[world]', x=-1583.37, y=144.01, z=-1716.70] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:52:42.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41491, l='ServerLevel[world]', x=-1585.26, y=144.01, z=-1711.31] died: Dinnerbone was blown up by ToroBoig
+[22May2025 21:54:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer withered away whilst fighting Wither Skeleton
+[22May2025 21:54:27.118] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
+[22May2025 21:54:28.909] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

@@ -1657,6 +1657,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-22 21:52:30 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/iron_wand": {
     "criteria": {
       "has_item": "2025-05-21 13:16:11 +0000"
@@ -6597,6 +6603,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-05-22 21:48:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-22 14:21:39 +0000"
@@ -7479,6 +7491,12 @@
   "ftbic:recipes/ftbic/macerating/ores/gold_to_dust": {
     "criteria": {
       "has_item": "2025-05-21 22:11:47 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gold_nugget": {
+    "criteria": {
+      "has_zombie_heart": "2025-05-22 21:41:16 +0000"
     },
     "done": true
   },
@@ -10115,6 +10133,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/food/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2025-05-22 21:41:16 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/smelting/raw_materials/lead_to_ingot": {
     "criteria": {
       "has_item": "2025-05-21 22:18:09 +0000"
@@ -10400,6 +10424,12 @@
   "corail_woodcutter:recipes/from_byg_mangrove_planks": {
     "criteria": {
       "has_ingredient": "2025-05-21 12:54:16 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mob_charm_fragments/zombie": {
+    "criteria": {
+      "has_zombie_heart": "2025-05-22 21:41:16 +0000"
     },
     "done": true
   },
@@ -13523,6 +13553,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/zombified_piglin": {
+    "criteria": {
+      "has_zombie_heart": "2025-05-22 21:41:16 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-22 14:26:46 +0000"
@@ -14440,6 +14476,12 @@
   "alltheores:recipes/alltheores/sapphire_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-21 21:51:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-22 21:48:43 +0000"
     },
     "done": true
   },

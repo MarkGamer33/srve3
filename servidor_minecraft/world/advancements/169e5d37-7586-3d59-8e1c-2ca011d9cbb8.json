@@ -1653,6 +1653,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-22 21:52:00 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/polished_granite": {
     "criteria": {
       "has_the_recipe": "2025-05-19 18:08:16 +0000"
