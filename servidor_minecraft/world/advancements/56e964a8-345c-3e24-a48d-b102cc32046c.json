@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/sythian_wood": {
+    "criteria": {
+      "has_log": "2025-05-22 22:50:54 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_duck_egg": "2025-05-19 19:45:01 +0000"
@@ -251,6 +257,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_blue_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-19 17:59:47 +0000"
@@ -284,6 +296,12 @@
   "cfm:recipes/cfm/cyan_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-05-19 20:08:40 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_nether_bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 22:45:36 +0000"
     },
     "done": true
   },
@@ -809,6 +827,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/raw_crimson_iron_block": {
+    "criteria": {
+      "has_item": "2025-05-22 22:45:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_chair": {
     "criteria": {
       "has_planks": "2025-05-19 17:07:59 +0000"
@@ -1139,6 +1163,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_light_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 17:13:46 +0000"
@@ -1178,6 +1208,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-19 17:11:14 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_raw_ore_smelting": {
+    "criteria": {
+      "has_item": "2025-05-22 22:45:28 +0000"
     },
     "done": true
   },
@@ -1262,6 +1298,12 @@
   "silentgear:recipes/misc/emerald_from_shards": {
     "criteria": {
       "has_item": "2025-05-19 17:59:38 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_red_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
     },
     "done": true
   },
@@ -1496,6 +1538,12 @@
   "cfm:recipes/cfm/light_blue_grill": {
     "criteria": {
       "has_iron": "2025-05-19 17:13:47 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/cracked_nether_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:45:36 +0000"
     },
     "done": true
   },
@@ -2209,6 +2257,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_red": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-05-19 17:19:55 +0000"
@@ -2803,6 +2857,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_green": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-19 22:12:16 +0000"
@@ -3328,6 +3388,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/crimson_iron_raw_ore_blasting": {
+    "criteria": {
+      "has_item": "2025-05-22 22:45:28 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_ebony_planks": {
     "criteria": {
       "has_ingredient": "2025-05-19 16:26:48 +0000"
@@ -3439,6 +3505,12 @@
   "mcwroofs:recipes/andesite": {
     "criteria": {
       "has_planks": "2025-05-19 17:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
     },
     "done": true
   },
@@ -3704,6 +3776,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-19 21:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
     },
     "done": true
   },
@@ -4682,6 +4760,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_dark": {
+    "criteria": {
+      "has_magma_block": "2025-05-22 22:46:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 16:55:44 +0000"
@@ -4769,6 +4853,12 @@
   "cfm:recipes/cfm/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-19 17:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
     },
     "done": true
   },
@@ -5477,6 +5567,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_blue": {
+    "criteria": {
+      "has_magma_block": "2025-05-22 22:46:05 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/infused_diamond": {
     "criteria": {
       "shard": "2025-05-19 20:47:19 +0000"
@@ -5661,6 +5757,12 @@
   "rftoolsutility:recipes/rftoolsutility/screen_link": {
     "criteria": {
       "redstone": "2025-05-22 15:41:07 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_green": {
+    "criteria": {
+      "has_magma_block": "2025-05-22 22:46:05 +0000"
     },
     "done": true
   },
@@ -5970,6 +6072,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_dark_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-19 22:17:45 +0000"
@@ -6177,6 +6285,12 @@
   "connectedglass:recipes/misc/borderless_glass_purple2": {
     "criteria": {
       "recipe_condition1": "2025-05-22 17:00:15 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/raw_crimson_iron_from_block": {
+    "criteria": {
+      "has_item": "2025-05-22 22:45:28 +0000"
     },
     "done": true
   },
@@ -7060,6 +7174,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_green_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-22 22:46:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_park_bench": {
     "criteria": {
       "has_log": "2025-05-19 22:27:35 +0000"
@@ -7207,6 +7327,12 @@
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-05-19 17:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
     },
     "done": true
   },
@@ -8197,6 +8323,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_zinc_from_block": {
+    "criteria": {
+      "has_item": "2025-05-22 22:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-19 22:15:43 +0000"
@@ -8242,6 +8374,12 @@
   "connectedglass:recipes/connectedglass/borderless_glass_white2": {
     "criteria": {
       "recipe_condition1": "2025-05-22 17:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
     },
     "done": true
   },
@@ -8793,6 +8931,12 @@
     },
     "done": true
   },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ore": "2025-05-22 22:45:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-19 22:54:41 +0000"
@@ -9153,6 +9297,12 @@
   "tetra:recipes/planks": {
     "criteria": {
       "got_wood": "2025-05-19 16:55:45 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_light_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-22 22:46:05 +0000"
     },
     "done": true
   },
@@ -9663,6 +9813,12 @@
   "corail_woodcutter:recipes/from_byg_skyris_planks": {
     "criteria": {
       "has_ingredient": "2025-05-19 16:26:48 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_dark": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
     },
     "done": true
   },
@@ -10301,6 +10457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_blue2": {
     "criteria": {
       "recipe_condition1": "2025-05-22 17:00:15 +0000"
@@ -10569,6 +10731,12 @@
   "alchemistry:recipes/dissolver/redstone_block": {
     "criteria": {
       "has_the_recipe": "2025-05-22 15:41:07 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_red": {
+    "criteria": {
+      "has_magma_block": "2025-05-22 22:46:05 +0000"
     },
     "done": true
   },
@@ -10962,6 +11130,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_blue_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-22 22:46:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blue_glazed_medium_pot": {
     "criteria": {
       "has_terracotta": "2025-05-19 20:08:40 +0000"
@@ -11097,6 +11271,12 @@
   "ftbic:recipes/building_blocks/macerating/gravel": {
     "criteria": {
       "has_item": "2025-05-19 16:56:56 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_silver_from_block": {
+    "criteria": {
+      "has_item": "2025-05-22 22:47:16 +0000"
     },
     "done": true
   },
@@ -11379,6 +11559,12 @@
   "create:recipes/create.palettes/cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_light": {
+    "criteria": {
+      "has_magma_block": "2025-05-22 22:46:05 +0000"
     },
     "done": true
   },
@@ -11852,6 +12038,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/sythian_planks": {
+    "criteria": {
+      "has_logs": "2025-05-22 22:50:54 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/blocks/crank": {
     "criteria": {
       "has_stick": "2025-05-19 16:56:52 +0000"
@@ -11942,6 +12134,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/nether_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:45:36 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/tin_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-05-19 17:24:55 +0000"
@@ -11999,6 +12197,12 @@
   "botania:recipes/botania/manasteel_hoe": {
     "criteria": {
       "has_item": "2025-05-22 21:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
     },
     "done": true
   },
@@ -12338,6 +12542,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_blue": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-22 15:29:17 +0000"
@@ -12365,6 +12575,12 @@
   "alchemistry:recipes/dissolver/yellow_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-19 20:08:40 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_light": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
     },
     "done": true
   },
@@ -12556,6 +12772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_shovel": "2025-05-19 17:03:31 +0000"
@@ -12684,6 +12906,12 @@
   "hexcasting:recipes/hexcasting/scroll": {
     "criteria": {
       "has_item": "2025-05-19 20:47:17 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_red_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-22 22:46:05 +0000"
     },
     "done": true
   },
@@ -13201,6 +13429,12 @@
   "additionallanterns:recipes/additionallanterns/iron_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-19 16:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
     },
     "done": true
   },
@@ -13763,6 +13997,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_green_r": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-22 22:45:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/lexicon": {
     "criteria": {
       "has_item": "2025-05-19 17:32:52 +0000"
@@ -13980,6 +14220,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/magma_dark_r": {
+    "criteria": {
+      "has_magma_block": "2025-05-22 22:46:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-05-19 20:12:51 +0000"
@@ -14001,6 +14247,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-22 15:29:17 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-05-22 22:45:36 +0000"
     },
     "done": true
   },

@@ -2298,3 +2298,17 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 22:44:32.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 lost connection: Disconnected
 [22May2025 22:44:32.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 left the game
 [22May2025 22:44:49.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported josito to MarkGamer
+[22May2025 22:47:12.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MarkGamer to ToroBoig
+[22May2025 22:48:18.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MarkGamer to ToroBoig
+[22May2025 22:53:10.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=931, y=20, z=84} BlockPos{x=933, y=20, z=85}
+[22May2025 22:53:27.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ToroBoig to josito
+[22May2025 22:53:59.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=944, y=10, z=93} BlockPos{x=943, y=10, z=93}
+[22May2025 22:53:59.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=944, y=10, z=93} BlockPos{x=943, y=10, z=93}
+[22May2025 22:54:16.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=950, y=11, z=98} BlockPos{x=950, y=11, z=99}
+[22May2025 22:54:16.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=950, y=11, z=98} BlockPos{x=950, y=11, z=99}
+[22May2025 22:54:16.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=950, y=11, z=98} BlockPos{x=950, y=11, z=99}
+[22May2025 22:54:16.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=950, y=11, z=98} BlockPos{x=950, y=11, z=99}
+[22May2025 22:54:39.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved wrongly!
+[22May2025 22:54:53.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Crimson Iron]
+[22May2025 22:55:42.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MarkGamer to ToroBoig
+[22May2025 22:56:45.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
