@@ -1999,3 +1999,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 14:52:58.637] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
 [22May2025 14:54:40.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Your First Receptacle]
 [22May2025 15:02:06.290] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Mother Grabtoast'/53106, l='ServerLevel[world]', x=-1885.41, y=6.00, z=-3534.91] died: Mother Grabtoast was slain by ToroBoig
+[22May2025 15:06:49.927] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Mister Ernette the Supreme'/54932, l='ServerLevel[world]', x=-1933.51, y=-4.64, z=-3484.73] died: Mister Ernette the Supreme was slain by MarkGamer
+[22May2025 15:09:52.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer lost connection: Disconnected
+[22May2025 15:09:52.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer left the game
+[22May2025 15:12:03.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [Cover Me with Diamonds]
