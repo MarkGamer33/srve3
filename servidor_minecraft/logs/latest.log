@@ -1831,3 +1831,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 09:52:52.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer was slain by Piglin Brute
 [22May2025 09:52:52.812] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
 [22May2025 09:52:54.298] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 10:01:21.400] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer lost connection: Timed out
+[22May2025 10:01:21.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer left the game
+[22May2025 10:01:21.474] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22May2025 10:01:53.978] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@67aec851
+[22May2025 10:01:54.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarkGamer[/127.183.135.68:58631] logged in with entity id 17470 at (6644.135570966821, 96.0, 762.2355676493381)
+[22May2025 10:01:54.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MarkGamer
+[22May2025 10:01:54.043] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MarkGamer
+[22May2025 10:01:54.043] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MarkGamer
+[22May2025 10:01:54.043] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MarkGamer
+[22May2025 10:01:54.045] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MarkGamer
+[22May2025 10:01:54.047] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MarkGamer
+[22May2025 10:01:54.047] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MarkGamer
+[22May2025 10:01:54.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer joined the game
+[22May2025 10:01:54.485] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MarkGamer
+[22May2025 10:05:27.173] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Victor the Odd-Smelling'/17775, l='ServerLevel[world]', x=6588.31, y=118.77, z=828.50] died: Victor the Odd-Smelling was slain by MarkGamer
