@@ -1845,6 +1845,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_sheet": "2025-05-22 09:35:54 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/bow_blueprint": {
     "criteria": {
       "has_item": "2025-05-20 22:18:25 +0000"
@@ -2112,6 +2118,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-05-19 17:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-22 09:35:54 +0000"
     },
     "done": true
   },
@@ -3352,6 +3364,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2025-05-22 09:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:14:22 +0000"
@@ -4377,6 +4395,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-05-22 09:32:08 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_1": {
     "criteria": {
       "has_birch_plank": "2025-05-20 23:39:38 +0000"
@@ -4416,6 +4440,12 @@
   "handcrafted:recipes/misc/blue_bowl": {
     "criteria": {
       "has_terracotta": "2025-05-19 20:54:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-22 09:32:08 +0000"
     },
     "done": true
   },
@@ -5588,6 +5618,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-05-22 09:32:08 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/hammer_blueprint": {
     "criteria": {
       "has_item": "2025-05-20 22:18:25 +0000"
@@ -5972,6 +6008,12 @@
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2025-05-18 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-22 09:35:54 +0000"
     },
     "done": true
   },
@@ -6491,6 +6533,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-18 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_smooth_stone": {
+    "criteria": {
+      "has_item": "2025-05-22 09:32:08 +0000"
     },
     "done": true
   },
@@ -8620,6 +8668,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_normal_stone_slab": {
+    "criteria": {
+      "has_block": "2025-05-22 09:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-05-19 22:58:29 +0000"
@@ -9104,6 +9158,12 @@
   "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:47:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-22 09:32:08 +0000"
     },
     "done": true
   },
@@ -10328,6 +10388,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-22 09:32:08 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/aluminum_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-21 13:34:12 +0000"
@@ -10590,6 +10656,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/speed_upgrade_from_glycerol": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-19 17:53:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_cushion": "2025-05-22 09:35:54 +0000"
     },
     "done": true
   },
@@ -12156,6 +12228,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-22 09:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2025-05-18 22:33:26 +0000"
@@ -12738,6 +12816,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_button": {
+    "criteria": {
+      "has_block": "2025-05-22 09:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:57:11 +0000"
@@ -12780,6 +12864,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_reader": {
+    "criteria": {
+      "has_stone": "2025-05-22 09:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-21 22:48:40 +0000"
@@ -12807,6 +12897,12 @@
   "elementalcraft:recipes/elementalcraft/swift_alloy_nugget_from_swift_alloy_ingot": {
     "criteria": {
       "has_swift_alloy_ingot": "2025-05-19 21:11:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-22 09:32:08 +0000"
     },
     "done": true
   },
@@ -13388,6 +13484,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-05-22 09:35:54 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/crimson_steel_ingot_from_block": {
     "criteria": {
       "has_item": "2025-05-20 23:37:34 +0000"
@@ -13720,6 +13822,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-05-22 09:35:54 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/monocle": {
     "criteria": {
       "has_item": "2025-05-20 19:14:05 +0000"
@@ -13741,6 +13849,12 @@
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2025-05-19 17:09:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-22 09:32:08 +0000"
     },
     "done": true
   },
@@ -14220,6 +14334,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_stairs": {
+    "criteria": {
+      "has_block": "2025-05-22 09:32:08 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/grip_template": {
     "criteria": {
       "has_item": "2025-05-18 23:05:54 +0000"
@@ -14400,6 +14520,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_bricks": {
+    "criteria": {
+      "has_block": "2025-05-22 09:32:08 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mud_brick": {
     "criteria": {
       "has_qq": "2025-05-18 22:13:23 +0000"
@@ -14530,6 +14656,12 @@
   "byg:recipes/byg.byg/rainbow_eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 17:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-22 09:35:54 +0000"
     },
     "done": true
   },
@@ -18065,6 +18197,12 @@
     },
     "done": true
   },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-05-22 09:35:54 +0000"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/scroll_medium": {
     "criteria": {
       "has_item": "2025-05-19 17:39:22 +0000"
@@ -18772,6 +18910,12 @@
   "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-05-20 16:09:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-22 09:32:08 +0000"
     },
     "done": true
   },
