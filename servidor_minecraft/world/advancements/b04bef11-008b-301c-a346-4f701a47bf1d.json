@@ -9726,6 +9726,12 @@
     },
     "done": true
   },
+  "silentgear:bow": {
+    "criteria": {
+      "get_item": "2025-05-22 20:59:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-21 21:58:37 +0000"
