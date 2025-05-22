@@ -19814,6 +19814,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2025-05-22 16:02:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "bacon_and_eggs": "2025-05-21 12:29:03 +0000"
@@ -19853,6 +19859,12 @@
   "connectedglass:recipes/misc/borderless_glass_magenta2": {
     "criteria": {
       "recipe_condition1": "2025-05-21 23:28:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-05-22 16:00:47 +0000"
     },
     "done": true
   },

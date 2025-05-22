@@ -2030,3 +2030,14 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 15:48:43.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer joined the game
 [22May2025 15:48:44.026] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MarkGamer
 [22May2025 15:50:38.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[22May2025 16:10:44.726] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3695fbd8
+[22May2025 16:10:44.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: josito[/127.23.157.184:54011] logged in with entity id 66559 at (6643.407545351418, 96.0, 762.075673448444)
+[22May2025 16:10:44.760] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to josito
+[22May2025 16:10:44.760] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to josito
+[22May2025 16:10:44.760] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to josito
+[22May2025 16:10:44.760] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to josito
+[22May2025 16:10:44.761] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to josito
+[22May2025 16:10:44.763] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to josito
+[22May2025 16:10:44.763] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to josito
+[22May2025 16:10:44.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito joined the game
+[22May2025 16:10:44.997] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: josito
