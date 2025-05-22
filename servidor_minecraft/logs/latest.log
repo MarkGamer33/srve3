@@ -1816,3 +1816,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 13:08:03.332] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Leoy73
 [22May2025 13:08:03.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 joined the game
 [22May2025 13:08:03.763] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
+[22May2025 13:26:44.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has reached the goal [Build a Builder Building]
+[22May2025 13:28:49.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [The Basics]

@@ -617,6 +617,12 @@
     },
     "done": true
   },
+  "laserio:recipes/laserio/logic_chip_raw": {
+    "criteria": {
+      "has_quartz": "2025-05-22 13:22:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-05-20 19:04:50 +0000"
@@ -650,6 +656,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-05-20 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 13:22:28 +0000"
     },
     "done": true
   },
@@ -984,6 +996,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/quartz_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 13:22:28 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-05-18 22:54:46 +0000"
@@ -1017,6 +1035,12 @@
   "corail_woodcutter:recipes/from_time_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 13:22:28 +0000"
     },
     "done": true
   },
@@ -6068,6 +6092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 13:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-18 22:24:14 +0000"
@@ -6497,6 +6527,12 @@
   "create:recipes/create.palettes/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-19 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/glowstone_slab": {
+    "criteria": {
+      "has_wood": "2025-05-22 13:24:36 +0000"
     },
     "done": true
   },
@@ -8356,6 +8392,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2025-05-22 13:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-05-18 22:50:58 +0000"
@@ -8631,6 +8673,12 @@
       "mustard_seed": "2025-05-22 09:17:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-05-22 13:24:36 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
@@ -9026,6 +9074,12 @@
   "elementalcraft:recipes/elementalcraft/element_beam": {
     "criteria": {
       "has_swift_alloy_ingot": "2025-05-19 21:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 13:22:28 +0000"
     },
     "done": true
   },
@@ -9438,6 +9492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 13:22:28 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/borderless_glass_gray2": {
     "criteria": {
       "recipe_condition1": "2025-05-21 23:28:44 +0000",
@@ -9544,6 +9604,12 @@
   "elementalcraft:recipes/elementalcraft/source_analysis_glass": {
     "criteria": {
       "has_swift_alloy_ingot": "2025-05-19 21:11:53 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/quartz_pillar": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 13:22:28 +0000"
     },
     "done": true
   },
@@ -9887,6 +9953,12 @@
   "cfm:recipes/cfm/light_blue_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-05-19 20:54:20 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/tablet": {
+    "criteria": {
+      "quartz": "2025-05-22 13:22:28 +0000"
     },
     "done": true
   },
@@ -13736,6 +13808,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/quartz_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 13:22:28 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/acacia": {
     "criteria": {
       "has_acacia": "2025-05-18 22:13:23 +0000"
@@ -14119,6 +14197,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-05-18 22:14:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2025-05-22 13:22:28 +0000"
     },
     "done": true
   },
@@ -14643,6 +14727,12 @@
   "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 13:22:28 +0000"
     },
     "done": true
   },
@@ -15496,6 +15586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 13:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-19 20:54:20 +0000"
@@ -15676,6 +15772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 13:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:59:24 +0000"
@@ -15757,6 +15859,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-05-18 22:50:58 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/quartz_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 13:22:28 +0000"
     },
     "done": true
   },
@@ -17726,6 +17834,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/smooth_quartz": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 13:22:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_grill": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
@@ -17735,6 +17849,12 @@
   "mcwtrpdoors:recipes/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-05-18 22:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 13:22:28 +0000"
     },
     "done": true
   },
@@ -18087,6 +18207,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 13:22:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-05-21 13:34:55 +0000"
@@ -18308,6 +18434,12 @@
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-05-19 23:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 13:22:28 +0000"
     },
     "done": true
   },
@@ -20489,6 +20621,12 @@
   "xycraft_world:recipes/xycraft_world/compacting/xychorium_gem_blue": {
     "criteria": {
       "has_xychorium_gem_blue": "2025-05-19 21:03:06 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/chiseled_quartz_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 13:22:28 +0000"
     },
     "done": true
   },
