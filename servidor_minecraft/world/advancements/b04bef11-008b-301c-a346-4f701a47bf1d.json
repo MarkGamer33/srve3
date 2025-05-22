@@ -3152,6 +3152,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-05-22 22:35:07 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/birch_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-22 14:21:39 +0000"

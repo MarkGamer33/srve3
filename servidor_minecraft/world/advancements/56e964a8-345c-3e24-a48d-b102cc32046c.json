@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/crafting_table": {
     "criteria": {
       "has_the_recipe": "2025-05-19 16:55:45 +0000"
@@ -2437,6 +2443,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/prismarine": {
     "criteria": {
       "has_qq": "2025-05-19 16:26:48 +0000"
@@ -2458,6 +2470,12 @@
   "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:09:55 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/nether_brick": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:42:10 +0000"
     },
     "done": true
   },
@@ -2488,6 +2506,12 @@
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2025-05-19 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-22 22:39:12 +0000"
     },
     "done": true
   },
@@ -2626,6 +2650,12 @@
   "utilitix:recipes/utilitix/experience_crystal": {
     "criteria": {
       "criterion1": "2025-05-19 17:59:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
     },
     "done": true
   },
@@ -5568,6 +5598,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/extruding/ingots/iron_to_iron_rod": {
     "criteria": {
       "has_item": "2025-05-19 17:13:46 +0000"
@@ -6450,6 +6486,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/fishing_line": {
     "criteria": {
       "has_items": "2025-05-19 16:26:48 +0000"
@@ -6979,6 +7021,12 @@
   "ftbic:recipes/ftbic/shaped/ingots/iron_to_iron_rod": {
     "criteria": {
       "has_item": "2025-05-19 17:13:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
     },
     "done": true
   },
@@ -7895,6 +7943,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-22 22:40:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/combiner": {
     "criteria": {
       "has_item": "2025-05-19 17:13:46 +0000"
@@ -7982,6 +8042,12 @@
   "bambooeverything:recipes/dry_bamboo_trapdoor": {
     "criteria": {
       "has_dry_bundle": "2025-05-19 16:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-22 22:42:30 +0000"
     },
     "done": true
   },
@@ -8416,6 +8482,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-19 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
     },
     "done": true
   },
@@ -8871,6 +8943,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/light_gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-19 20:08:40 +0000"
@@ -9228,6 +9306,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2025-05-19 17:52:10 +0000"
@@ -9357,6 +9441,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 22:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-22 22:39:12 +0000"
     },
     "done": true
   },
@@ -10404,6 +10494,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-05-22 15:29:17 +0000"
@@ -10665,6 +10761,7 @@
   },
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
+      "byg:sythian_torrids": "2025-05-22 22:42:11 +0000",
       "byg:sierra_badlands": "2025-05-19 23:00:59 +0000",
       "byg:black_forest": "2025-05-22 21:42:19 +0000",
       "byg:red_oak_forest": "2025-05-19 16:27:21 +0000",
@@ -10678,6 +10775,7 @@
       "byg:forgotten_forest": "2025-05-22 16:26:46 +0000",
       "byg:baobab_savanna": "2025-05-19 17:47:33 +0000",
       "byg:amaranth_fields": "2025-05-22 16:30:39 +0000",
+      "byg:brimstone_caverns": "2025-05-22 22:39:13 +0000",
       "byg:ebony_woods": "2025-05-19 23:01:14 +0000",
       "byg:temperate_rainforest": "2025-05-19 17:34:35 +0000"
     },
@@ -10969,6 +11067,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/kerosene_lamp": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 21:11:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
     },
     "done": true
   },
@@ -11269,6 +11373,12 @@
   "reliquary:recipes/reliquary/mob_charm_fragments/wither_skeleton": {
     "criteria": {
       "has_withered_rib": "2025-05-19 22:54:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
     },
     "done": true
   },
@@ -11609,6 +11719,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-05-19 16:27:15 +0000"
@@ -11630,6 +11746,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 17:13:47 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-05-22 22:39:12 +0000"
     },
     "done": true
   },
@@ -11666,6 +11788,12 @@
   "cfm:recipes/cfm/stripped_spruce_cabinet": {
     "criteria": {
       "has_log": "2025-05-19 22:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-22 22:40:41 +0000"
     },
     "done": true
   },
@@ -12307,6 +12435,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_stairs": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 21:11:40 +0000"
@@ -12890,6 +13024,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2025-05-19 17:13:47 +0000"
@@ -13269,6 +13409,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersiveengineering/toolupgrade_drill_lube": {
     "criteria": {
       "has_the_recipe": "2025-05-19 16:23:28 +0000"
@@ -13305,6 +13451,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/basalt_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 22:40:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 17:07:58 +0000"
@@ -13329,6 +13481,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/polished_basalt": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:40:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_cooler": {
     "criteria": {
       "has_chest": "2025-05-19 17:52:11 +0000"
@@ -13338,6 +13496,12 @@
   "corail_woodcutter:recipes/from_dark_planks": {
     "criteria": {
       "has_ingredient": "2025-05-19 16:26:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
     },
     "done": true
   },
@@ -13392,6 +13556,12 @@
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/sapling": {
     "criteria": {
       "has_item": "2025-05-19 17:32:52 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/smooth_basalt": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:40:41 +0000"
     },
     "done": true
   },
@@ -13572,6 +13742,12 @@
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-19 17:52:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-22 22:44:42 +0000"
     },
     "done": true
   },
@@ -13840,6 +14016,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-05-19 17:47:39 +0000"
@@ -14012,6 +14194,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_yellow": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 21:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-22 22:42:10 +0000"
     },
     "done": true
   },
@@ -14202,6 +14390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-22 22:40:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-19 17:09:55 +0000"
@@ -14339,6 +14533,12 @@
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-22 17:00:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-05-22 22:40:32 +0000"
     },
     "done": true
   },

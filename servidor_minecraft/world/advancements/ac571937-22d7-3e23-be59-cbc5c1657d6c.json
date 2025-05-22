@@ -881,6 +881,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:38:26 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/jukebox": {
     "criteria": {
       "has_the_recipe": "2025-05-19 16:55:48 +0000"
@@ -1058,6 +1064,12 @@
   "create:recipes/create.palettes/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-18 22:43:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_kitchen_sink": {
+    "criteria": {
+      "has_top": "2025-05-22 22:38:26 +0000"
     },
     "done": true
   },
@@ -4487,6 +4499,7 @@
       "minecraft:piglin": "2025-05-19 22:25:33 +0000",
       "minecraft:silverfish": "2025-05-19 17:54:35 +0000",
       "minecraft:stray": "2025-05-20 15:40:17 +0000",
+      "minecraft:enderman": "2025-05-22 22:42:49 +0000",
       "minecraft:zombie": "2025-05-19 19:39:19 +0000",
       "minecraft:zombie_villager": "2025-05-19 21:47:40 +0000"
     },
@@ -5089,6 +5102,13 @@
   "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-05-22 22:36:34 +0000",
+      "has_block": "2025-05-22 22:36:34 +0000"
     },
     "done": true
   },
@@ -6963,6 +6983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-22 22:38:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_desk": {
     "criteria": {
       "has_planks": "2025-05-19 16:52:33 +0000"
@@ -7488,6 +7514,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-05-22 22:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-22 22:36:34 +0000"
     },
     "done": true
   },
@@ -8612,6 +8644,12 @@
   "deeperdarker:recipes/deeperdarker/echo_boat": {
     "criteria": {
       "in_water": "2025-05-18 22:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-05-22 22:38:26 +0000"
     },
     "done": true
   },
@@ -9767,6 +9805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-22 22:38:22 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-05-19 17:15:21 +0000"
@@ -10878,6 +10922,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-05-22 22:38:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/wood/spruce_banister": {
     "criteria": {
       "has_item": "2025-05-18 22:55:40 +0000"
@@ -11650,6 +11700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-22 22:38:22 +0000"
+    },
+    "done": true
+  },
   "simplemagnets:recipes/simplemagnets/basic_demagnetization_coil": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:51:21 +0000"
@@ -11840,6 +11896,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-05-22 22:38:26 +0000",
       "in_better_spider_dungeon": "2025-05-21 20:10:38 +0000"
     },
     "done": false
@@ -13273,6 +13330,7 @@
       "minecraft:frozen_ocean": "2025-05-22 22:30:34 +0000",
       "minecraft:windswept_forest": "2025-05-22 21:30:52 +0000",
       "minecraft:jungle": "2025-05-18 23:09:59 +0000",
+      "minecraft:ocean": "2025-05-22 22:34:38 +0000",
       "minecraft:deep_dark": "2025-05-19 15:35:49 +0000",
       "minecraft:meadow": "2025-05-20 22:39:30 +0000",
       "minecraft:savanna": "2025-05-19 15:45:49 +0000",
@@ -13427,6 +13485,12 @@
   "alltheores:recipes/alltheores/iron_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-19 21:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-22 22:38:22 +0000"
     },
     "done": true
   },
