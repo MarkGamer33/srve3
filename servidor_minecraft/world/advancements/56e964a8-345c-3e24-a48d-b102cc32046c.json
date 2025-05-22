@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "dimstorage:recipes/dimstorage_tab/dim_wall": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-22 15:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-05-19 19:46:32 +0000"
@@ -1031,6 +1037,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/macerating/ender_dust": {
+    "criteria": {
+      "has_item": "2025-05-22 15:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-19 22:15:43 +0000"
@@ -1319,6 +1331,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/allthemodium/teleport_pad": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-22 15:13:21 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/note_hook": {
     "criteria": {
       "has_items": "2025-05-19 16:26:49 +0000"
@@ -1544,6 +1562,12 @@
   "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-19 22:17:45 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/decorations/block": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 15:13:21 +0000"
     },
     "done": true
   },
@@ -2222,6 +2246,12 @@
   "silentgear:repair_kit": {
     "criteria": {
       "very_crude_repair_kit": "2025-05-19 17:59:42 +0000"
+    },
+    "done": true
+  },
+  "allthetweaks:recipes/allthetweaks/ender_pearl_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-22 15:13:21 +0000"
     },
     "done": true
   },
@@ -3046,6 +3076,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-19 17:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-05-22 15:12:03 +0000"
     },
     "done": true
   },
@@ -5899,6 +5935,12 @@
     },
     "done": true
   },
+  "wirelesschargers:recipes/wirelesschargers/basic_wireless_block_charger": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 15:13:21 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/trough": {
     "criteria": {
       "has_item": "2025-05-19 16:53:39 +0000"
@@ -8049,7 +8091,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-05-19 20:58:13 +0000"
+      "minecraft:cow": "2025-05-19 20:58:13 +0000",
+      "minecraft:pig": "2025-05-22 15:16:19 +0000",
+      "minecraft:sheep": "2025-05-22 15:16:54 +0000"
     },
     "done": false
   },
@@ -8311,6 +8355,12 @@
     },
     "done": true
   },
+  "wirelesschargers:recipes/wirelesschargers/basic_wireless_player_charger": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 15:13:21 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-05-19 16:26:48 +0000"
@@ -8463,6 +8513,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-19 21:33:34 +0000"
+    },
+    "done": true
+  },
+  "itemcollectors:recipes/decorations/basic_collector": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 15:13:21 +0000"
     },
     "done": true
   },
@@ -8955,9 +9011,21 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_upgrade": {
+    "criteria": {
+      "pearl": "2025-05-22 15:13:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-19 17:22:57 +0000"
+    },
+    "done": true
+  },
+  "entangled:recipes/misc/item": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 15:13:21 +0000"
     },
     "done": true
   },
@@ -9156,6 +9224,12 @@
   "xnet:recipes/xnet/netcable_yellow": {
     "criteria": {
       "nugget": "2025-05-19 21:00:10 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
+    "criteria": {
+      "pearl": "2025-05-22 15:13:21 +0000"
     },
     "done": true
   },
@@ -9499,6 +9573,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/camo_applicator": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 21:11:40 +0000"
+    },
+    "done": true
+  },
+  "shrink:recipes/shrink/shrinking_device": {
+    "criteria": {
+      "has_enderpearls": "2025-05-22 15:13:21 +0000"
     },
     "done": true
   },

@@ -2003,3 +2003,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 15:09:52.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer lost connection: Disconnected
 [22May2025 15:09:52.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer left the game
 [22May2025 15:12:03.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [Cover Me with Diamonds]
+[22May2025 15:18:26.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito was slain by Zombie
+[22May2025 15:18:26.420] [Server thread/INFO] [tombstone/]: The player josito has successfully been saved
+[22May2025 15:18:28.213] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 15:21:22.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [Ka-chink! 1]
+[22May2025 15:22:36.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Ice Bucket Challenge]
