@@ -1969,3 +1969,20 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 14:38:46.145] [Worker-Main-205/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1716, y=40, z=-3630}
 [22May2025 14:40:27.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
 [22May2025 14:40:27.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MarkGamer to ToroBoig
+[22May2025 14:47:47.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has reached the goal [Great minds think alike]
+[22May2025 14:48:21.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer lost connection: Disconnected
+[22May2025 14:48:21.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer left the game
+[22May2025 14:48:38.753] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55a5ac32
+[22May2025 14:48:38.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarkGamer[/127.183.135.68:43951] logged in with entity id 47973 at (-1917.7820033682237, 24.0, -3498.6859074912045)
+[22May2025 14:48:38.786] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MarkGamer
+[22May2025 14:48:38.786] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MarkGamer
+[22May2025 14:48:38.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MarkGamer
+[22May2025 14:48:38.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MarkGamer
+[22May2025 14:48:38.788] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MarkGamer
+[22May2025 14:48:38.789] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MarkGamer
+[22May2025 14:48:38.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MarkGamer
+[22May2025 14:48:38.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer joined the game
+[22May2025 14:48:39.057] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MarkGamer
+[22May2025 14:50:27.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! 10.040378665186381,0.0,-0.04336522853145652
+[22May2025 14:50:38.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[22May2025 14:50:38.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game

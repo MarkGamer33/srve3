@@ -1007,6 +1007,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 14:42:41 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/emerald_chain": {
     "criteria": {
       "recipe_condition": "2025-05-19 17:59:38 +0000"
@@ -2444,6 +2450,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_4": {
     "criteria": {
       "has_spruce_plank": "2025-05-19 17:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-22 14:42:41 +0000"
     },
     "done": true
   },
@@ -4795,6 +4807,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-05-19 22:28:55 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/coal_block": {
+    "criteria": {
+      "has_item": "2025-05-22 14:42:41 +0000"
     },
     "done": true
   },
@@ -12052,6 +12070,12 @@
       "has_ingredient": "2025-05-19 16:26:48 +0000"
     },
     "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "fluffy_seeds": "2025-05-22 14:46:33 +0000"
+    },
+    "done": false
   },
   "mcwlights:recipes/garden_light": {
     "criteria": {
