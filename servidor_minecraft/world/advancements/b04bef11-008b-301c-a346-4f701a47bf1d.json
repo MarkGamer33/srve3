@@ -1477,6 +1477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-22 20:49:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 23:49:57 +0000"
@@ -2014,6 +2020,12 @@
   "alchemistry:recipes/dissolver/polished_granite": {
     "criteria": {
       "has_the_recipe": "2025-05-21 21:58:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2025-05-22 20:49:39 +0000"
     },
     "done": true
   },
@@ -4843,6 +4855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-22 20:49:39 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-22 14:21:39 +0000"
@@ -5459,6 +5477,12 @@
   "create:recipes/create.palettes/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-22 20:49:39 +0000"
     },
     "done": true
   },
@@ -6462,6 +6486,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-05-21 21:50:55 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/dark_prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 20:49:39 +0000"
     },
     "done": true
   },
@@ -8141,6 +8171,12 @@
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-05-21 13:17:43 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/prismarine": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 20:49:39 +0000"
     },
     "done": true
   },
@@ -9995,6 +10031,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/separating/silicon_from_sand": {
+    "criteria": {
+      "has_item": "2025-05-22 20:49:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2025-05-22 14:21:39 +0000"
@@ -10472,6 +10514,7 @@
       "byg:atacama_desert": "2025-05-21 13:43:54 +0000",
       "byg:araucaria_savanna": "2025-05-21 23:29:46 +0000",
       "byg:red_rock_valley": "2025-05-21 23:29:44 +0000",
+      "byg:autumnal_valley": "2025-05-22 20:51:48 +0000",
       "byg:skyris_vale": "2025-05-22 14:24:28 +0000",
       "byg:forgotten_forest": "2025-05-21 13:43:51 +0000",
       "byg:baobab_savanna": "2025-05-21 13:18:57 +0000",
@@ -11112,6 +11155,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 20:49:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_cabinet": {
     "criteria": {
       "has_planks": "2025-05-21 13:16:16 +0000"
@@ -11350,6 +11399,12 @@
   "apotheosis:affix/epic": {
     "criteria": {
       "sword": "2025-05-21 12:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-22 20:49:39 +0000"
     },
     "done": true
   },
@@ -12376,6 +12431,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-05-22 20:49:39 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/purifier": {
     "criteria": {
       "has_whiterock": "2025-05-21 19:38:23 +0000"
@@ -12835,6 +12896,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_green": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/prismarine_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 20:49:39 +0000"
     },
     "done": true
   },

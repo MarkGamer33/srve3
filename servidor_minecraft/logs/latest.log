@@ -1914,3 +1914,19 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 20:46:35.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! 2.1013774638608993,-1.7860244296691548,10.074516343243545
 [22May2025 20:46:36.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
 [22May2025 20:49:22.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! 9.32116813702578,-1.4592581292140778,-3.66915233981058
+[22May2025 20:55:55.339] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f4776f5
+[22May2025 20:55:55.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarkGamer[/127.183.135.68:41029] logged in with entity id 22531 at (6779.830436195447, 150.56622736977195, 619.4958252201416)
+[22May2025 20:55:55.382] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MarkGamer
+[22May2025 20:55:55.382] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MarkGamer
+[22May2025 20:55:55.382] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MarkGamer
+[22May2025 20:55:55.383] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MarkGamer
+[22May2025 20:55:55.384] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MarkGamer
+[22May2025 20:55:55.386] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MarkGamer
+[22May2025 20:55:55.386] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MarkGamer
+[22May2025 20:55:55.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer joined the game
+[22May2025 20:55:55.673] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MarkGamer
+[22May2025 20:55:56.037] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bat['Bat'/22549, l='ServerLevel[world]', x=6780.80, y=-31.42, z=508.52]
+[22May2025 20:57:13.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set MarkGamer's game mode to Survival Mode
+[22May2025 20:59:22.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [A Better Bow]
+[22May2025 21:01:43.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ToroBoig to MarkGamer
+[22May2025 21:02:03.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ToroBoig to MarkGamer
