@@ -3018,6 +3018,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/tinted_borderless_glass1": {
+    "criteria": {
+      "recipe_condition": "2025-05-22 14:17:35 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/aluminum_wire": {
     "criteria": {
       "has_item": "2025-05-20 17:44:45 +0000"
@@ -6578,6 +6584,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/stonecutting/glass_viewer_dark": {
+    "criteria": {
+      "has_for_glass_viewer_dark": "2025-05-22 14:17:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-19 22:58:34 +0000"
@@ -8545,6 +8557,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_sign_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 23:28:27 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/building_blocks/stonecutting/tinted_glass": {
+    "criteria": {
+      "has_for_tinted_glass": "2025-05-22 14:17:35 +0000"
     },
     "done": true
   },
@@ -12909,6 +12927,13 @@
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-05-22 09:19:38 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/tinted_borderless_glass1": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 14:17:35 +0000",
+      "recipe_condition": "2025-05-22 14:17:35 +0000"
     },
     "done": true
   },

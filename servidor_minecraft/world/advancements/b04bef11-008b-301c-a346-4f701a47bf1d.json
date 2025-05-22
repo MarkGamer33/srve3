@@ -11055,6 +11055,7 @@
       "minecraft:savanna_plateau": "2025-05-21 13:08:24 +0000",
       "minecraft:beach": "2025-05-21 19:44:36 +0000",
       "minecraft:stony_peaks": "2025-05-21 13:09:04 +0000",
+      "minecraft:dark_forest": "2025-05-22 14:11:59 +0000",
       "minecraft:sparse_jungle": "2025-05-21 13:43:30 +0000",
       "minecraft:lukewarm_ocean": "2025-05-21 13:23:46 +0000",
       "minecraft:river": "2025-05-21 13:17:07 +0000",
@@ -11064,6 +11065,7 @@
       "minecraft:desert": "2025-05-21 14:07:37 +0000",
       "minecraft:jungle": "2025-05-21 13:37:26 +0000",
       "minecraft:ocean": "2025-05-21 22:10:45 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-22 14:13:17 +0000",
       "minecraft:savanna": "2025-05-21 13:20:32 +0000",
       "minecraft:plains": "2025-05-21 23:28:01 +0000"
     },
@@ -11252,6 +11254,12 @@
   "create:recipes/create.palettes/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-21 22:04:29 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-22 14:14:58 +0000"
     },
     "done": true
   },
