@@ -3194,6 +3194,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-22 21:11:37 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/quartz_bricks": {
     "criteria": {
       "has_the_recipe": "2025-05-21 23:44:31 +0000"

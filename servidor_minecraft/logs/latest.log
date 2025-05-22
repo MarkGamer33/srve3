@@ -1931,3 +1931,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 21:01:43.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ToroBoig to MarkGamer
 [22May2025 21:02:03.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ToroBoig to MarkGamer
 [22May2025 21:11:37.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Take Aim]
+[22May2025 21:15:34.339] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18276e25
+[22May2025 21:15:34.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danilotrento34[/127.125.238.94:54475] logged in with entity id 27315 at (6607.594467867512, 113.0, 750.8108915522706)
+[22May2025 21:15:34.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Danilotrento34
+[22May2025 21:15:34.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Danilotrento34
+[22May2025 21:15:34.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Danilotrento34
+[22May2025 21:15:34.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Danilotrento34
+[22May2025 21:15:34.378] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Danilotrento34
+[22May2025 21:15:34.379] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Danilotrento34
+[22May2025 21:15:34.379] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Danilotrento34
+[22May2025 21:15:34.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 joined the game
+[22May2025 21:15:34.698] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Danilotrento34
+[22May2025 21:18:41.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was shot by ToroBoig
+[22May2025 21:18:41.667] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 21:18:43.851] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 21:23:05.752] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d582c7d
