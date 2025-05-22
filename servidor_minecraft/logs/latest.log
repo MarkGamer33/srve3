@@ -2062,3 +2062,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 17:31:10.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set MarkGamer's game mode to Spectator Mode
 [22May2025 17:31:24.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set MarkGamer's game mode to Survival Mode
 [22May2025 17:32:45.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[22May2025 17:57:37.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [Introduction to Chaos]
+[22May2025 18:02:03.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [The Basics]
