@@ -1044,6 +1044,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-21 13:34:55 +0000"
@@ -1481,6 +1487,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },
@@ -2133,6 +2145,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2025-05-18 22:21:16 +0000"
@@ -2322,6 +2340,12 @@
   "littlelogistics:recipes/transportation/junction_rail": {
     "criteria": {
       "has_item": "2025-05-19 17:40:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },
@@ -4155,6 +4179,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/frozen_bench": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
@@ -4314,6 +4344,12 @@
   "rftoolsstorage:recipes/rftoolsstorage/storage_control_module": {
     "criteria": {
       "ingot": "2025-05-18 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_green": {
+    "criteria": {
+      "has_deepslate": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },
@@ -4838,6 +4874,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_silver_hammering": {
     "criteria": {
       "has_silver_ingot": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_dark": {
+    "criteria": {
+      "has_deepslate": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },
@@ -5603,6 +5645,12 @@
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 16:10:06 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_blue": {
+    "criteria": {
+      "has_deepslate": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },
@@ -6686,6 +6734,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/diamond_chain": {
     "criteria": {
       "recipe_condition": "2025-05-18 23:24:48 +0000"
@@ -7380,6 +7434,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_light_r": {
+    "criteria": {
+      "has_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-05-19 18:08:16 +0000"
@@ -7949,6 +8009,12 @@
   "alchemistry:recipes/dissolver/orange_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-19 20:54:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },
@@ -9095,6 +9161,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_blue_r": {
+    "criteria": {
+      "has_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_green": {
     "criteria": {
       "has_stone_bricks": "2025-05-19 17:09:18 +0000"
@@ -10046,6 +10118,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/tiki_torches": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:14:56 +0000"
@@ -10436,6 +10514,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_red_r": {
+    "criteria": {
+      "has_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/building_blocks/planks_from_driftwood": {
     "criteria": {
       "has_items": "2025-05-18 22:13:23 +0000"
@@ -10553,6 +10637,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-19 18:08:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },
@@ -11928,6 +12018,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/button_module": {
     "criteria": {
       "ingot": "2025-05-18 22:21:16 +0000"
@@ -12888,6 +12984,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-05-18 22:15:55 +0000"
@@ -13482,6 +13584,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:temples": {
     "criteria": {
       "in_temple_nether_wasteland": "2025-05-21 14:17:51 +0000",
@@ -13540,6 +13648,12 @@
   "alchemistry:recipes/dissolver/dripstone_block": {
     "criteria": {
       "has_the_recipe": "2025-05-19 18:20:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },
@@ -13781,6 +13895,12 @@
   "cfm:recipes/cfm/black_sofa": {
     "criteria": {
       "has_wool": "2025-05-22 09:35:54 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_red": {
+    "criteria": {
+      "has_deepslate": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },
@@ -14179,6 +14299,12 @@
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },
@@ -16848,6 +16974,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-20 18:57:15 +0000"
@@ -17389,6 +17521,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
@@ -17398,6 +17536,12 @@
   "charginggadgets:recipes/charginggadgets/charging_station": {
     "criteria": {
       "has_diamonds": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },
@@ -17951,6 +18095,12 @@
   "constructionwand:recipes/misc/core_angel": {
     "criteria": {
       "has_item": "2025-05-19 21:13:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },
@@ -19057,6 +19207,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/improved_elementpipe_from_elementpipe_and_nugget": {
     "criteria": {
       "has_swift_alloy_nugget": "2025-05-19 21:11:55 +0000"
@@ -19700,6 +19856,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_dark_r": {
+    "criteria": {
+      "has_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/kivi_bricks_cloud_red": {
     "criteria": {
       "has_kivi": "2025-05-19 21:09:26 +0000"
@@ -20038,6 +20200,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_green_r": {
+    "criteria": {
+      "has_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_purification": {
     "criteria": {
       "has_magic_scroll": "2025-05-21 14:19:52 +0000"
@@ -20161,6 +20329,12 @@
   "silentgear:recipes/silentgear/shears_blueprint": {
     "criteria": {
       "has_item": "2025-05-20 22:18:25 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_light": {
+    "criteria": {
+      "has_deepslate": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },
@@ -21705,6 +21879,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:15 +0000"
@@ -22593,6 +22773,12 @@
   "additionallanterns:recipes/additionallanterns/blackstone_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:26:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-05-22 13:57:37 +0000"
     },
     "done": true
   },

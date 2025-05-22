@@ -18688,6 +18688,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhuttavern": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 13:49:40 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:09:55 +0000"
