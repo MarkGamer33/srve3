@@ -2073,3 +2073,55 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 21:54:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer withered away whilst fighting Wither Skeleton
 [22May2025 21:54:27.118] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
 [22May2025 21:54:28.909] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 21:54:56.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Cave Spider
+[22May2025 21:54:56.082] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 21:54:57.186] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 21:55:21.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 withered away whilst fighting Danilotrento34
+[22May2025 21:55:21.223] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 21:55:23.576] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 21:55:44.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [Spooky Scary Skeleton]
+[22May2025 21:55:49.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Wither Skeleton
+[22May2025 21:55:49.359] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 21:55:50.569] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 21:56:50.534] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[22May2025 21:57:25.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Wither Skeleton
+[22May2025 21:57:25.098] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 21:57:26.122] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 21:57:49.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/42636, l='ServerLevel[world]', x=-1598.48, y=168.01, z=-1740.39] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:58:00.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/42638, l='ServerLevel[world]', x=-1600.11, y=168.01, z=-1738.16] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 21:58:04.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41609, l='ServerLevel[world]', x=-1571.23, y=160.01, z=-1713.42] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:58:05.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Wither Skeleton
+[22May2025 21:58:05.749] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 21:58:07.408] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 21:58:09.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41791, l='ServerLevel[world]', x=-1567.66, y=160.01, z=-1712.87] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:58:15.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41790, l='ServerLevel[world]', x=-1577.84, y=160.01, z=-1714.23] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:58:25.615] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/43853, l='ServerLevel[world]', x=-1572.48, y=160.01, z=-1711.96] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:58:35.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41607, l='ServerLevel[world]', x=-1575.28, y=160.01, z=-1718.80] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:58:40.804] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/43854, l='ServerLevel[world]', x=-1572.20, y=160.01, z=-1713.38] died: Dinnerbone was shot by Dinnerbone
+[22May2025 21:58:48.363] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41608, l='ServerLevel[world]', x=-1567.30, y=160.01, z=-1720.70] died: Dinnerbone was slain by ToroBoig
+[22May2025 21:59:01.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Wither Skeleton
+[22May2025 21:59:01.569] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 21:59:03.328] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 21:59:24.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/42637, l='ServerLevel[world]', x=-1600.24, y=168.01, z=-1732.88] died: Dinnerbone was slain by ToroBoig
+[22May2025 21:59:33.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has reached the goal [Great minds think alike]
+[22May2025 21:59:35.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was blown up by Danilotrento34
+[22May2025 21:59:35.189] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 21:59:40.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/43057, l='ServerLevel[world]', x=-1570.09, y=160.01, z=-1710.39] died: Dinnerbone was shot by MarkGamer
+[22May2025 21:59:59.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported MarkGamer to Danilotrento34
+[22May2025 22:00:06.910] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 22:01:08.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 withered away whilst fighting Wither Skeleton
+[22May2025 22:01:08.526] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 22:01:12.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <josito> POR DONDE SUBO?
+[22May2025 22:01:12.808] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 22:01:29.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported josito to MarkGamer
+[22May2025 22:03:21.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Wither Skeleton
+[22May2025 22:03:21.805] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 22:03:23.093] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 22:03:33.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito was slain by Wither Skeleton
+[22May2025 22:03:33.427] [Server thread/INFO] [tombstone/]: The player josito has successfully been saved
+[22May2025 22:03:35.868] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 22:03:44.764] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/48682, l='ServerLevel[world]', x=-1586.99, y=168.01, z=-1713.79] died: Dinnerbone was shot by Dinnerbone
+[22May2025 22:04:16.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has reached the goal [Chain Death]
+[22May2025 22:04:16.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito was slain by Wither Skeleton
+[22May2025 22:04:16.824] [Server thread/INFO] [tombstone/]: The player josito has successfully been saved
+[22May2025 22:04:19.920] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

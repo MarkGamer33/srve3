@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-22 21:58:04 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/speedboat": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:36:46 +0000"
@@ -1747,6 +1753,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-05-22 21:58:04 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/ruby_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-21 21:51:47 +0000"
@@ -1846,6 +1858,12 @@
   "tetra:spelunking/geode": {
     "criteria": {
       "get_geode": "2025-05-21 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/jelly_bottle": {
+    "criteria": {
+      "has_sweet_fruit": "2025-05-22 21:58:04 +0000"
     },
     "done": true
   },
@@ -4315,6 +4333,12 @@
   "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-22 20:15:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-22 21:58:04 +0000"
     },
     "done": true
   },
@@ -7994,6 +8018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-22 21:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-21 22:03:25 +0000"
@@ -10825,6 +10855,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/seeds": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 21:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-05-21 21:58:37 +0000"
@@ -10930,6 +10966,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-22 21:58:04 +0000"
     },
     "done": true
   },
@@ -12599,6 +12641,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/melon": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 21:58:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
@@ -13056,6 +13104,7 @@
       "baked_potato": "2025-05-22 14:42:57 +0000",
       "potato": "2025-05-21 12:57:42 +0000",
       "bread": "2025-05-21 13:00:07 +0000",
+      "enchanted_golden_apple": "2025-05-22 21:57:57 +0000",
       "carrot": "2025-05-22 13:56:04 +0000"
     },
     "done": false
@@ -14227,6 +14276,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-22 21:58:04 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_brown": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
@@ -14428,6 +14483,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_blue": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-22 21:57:53 +0000"
     },
     "done": true
   },
