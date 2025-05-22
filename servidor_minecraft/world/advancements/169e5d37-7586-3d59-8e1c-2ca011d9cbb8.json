@@ -3742,6 +3742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-22 16:47:26 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/borderless_glass_blue_pane2": {
     "criteria": {
       "recipe_condition2": "2025-05-20 22:18:25 +0000",

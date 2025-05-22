@@ -2042,3 +2042,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 16:10:44.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito joined the game
 [22May2025 16:10:44.997] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: josito
 [22May2025 16:29:49.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has reached the goal [A Small Cemetery]
+[22May2025 16:51:58.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Black or White]
+[22May2025 16:53:21.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito fell from a high place
+[22May2025 16:53:21.239] [Server thread/INFO] [tombstone/]: The player josito has successfully been saved
+[22May2025 16:53:24.742] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
