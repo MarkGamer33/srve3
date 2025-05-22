@@ -2394,6 +2394,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/storage_link_from_controller": {
+    "criteria": {
+      "has_controller": "2025-05-21 23:51:49 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-05-18 22:28:00 +0000"
@@ -4195,6 +4201,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/air_cannon": {
     "criteria": {
       "has_pressure_tube": "2025-05-19 17:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-21 23:51:26 +0000"
     },
     "done": true
   },

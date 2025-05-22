@@ -1735,6 +1735,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-21 23:56:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-05-21 23:45:24 +0000"
@@ -2032,6 +2038,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-05-21 23:45:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/storage_link_from_controller": {
+    "criteria": {
+      "has_controller": "2025-05-21 23:51:09 +0000"
     },
     "done": true
   },
@@ -3165,6 +3177,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2025-05-21 23:50:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-05-21 13:15:52 +0000"
@@ -3306,6 +3324,12 @@
   "ftbic:recipes/ftbic/shaped/ingots/gold_to_gold_rod": {
     "criteria": {
       "has_item": "2025-05-21 13:27:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-21 23:56:07 +0000"
     },
     "done": true
   },
@@ -3517,6 +3541,12 @@
     "criteria": {
       "has_fishing_rod": "2025-05-21 12:54:17 +0000",
       "has_fillet_knife": "2025-05-21 12:54:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-21 23:56:07 +0000"
     },
     "done": true
   },
@@ -8104,6 +8134,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-21 23:56:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-21 22:03:26 +0000"
@@ -8173,6 +8209,12 @@
   "silentgear:recipes/silentgear/crimson_iron_block": {
     "criteria": {
       "has_item": "2025-05-21 14:00:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-05-21 23:50:53 +0000"
     },
     "done": true
   },
@@ -9535,6 +9577,12 @@
   "handcrafted:recipes/misc/quartz_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2025-05-21 23:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-21 23:56:07 +0000"
     },
     "done": true
   },

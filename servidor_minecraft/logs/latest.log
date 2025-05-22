@@ -1942,3 +1942,15 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [21May2025 23:49:36.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Survival Mode]
 [21May2025 23:49:41.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has reached the goal [Fortuitous Militia]
 [21May2025 23:51:26.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [Sweet Dreams]
+[21May2025 23:55:08.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig was slain by Danilotrento34 using    [Xacris' Tiny Hut]
+[21May2025 23:55:08.831] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
+[21May2025 23:55:10.946] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 23:57:12.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 lost connection: Disconnected
+[21May2025 23:57:12.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 left the game
+[21May2025 23:57:44.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[21May2025 23:57:44.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[21May2025 23:59:01.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer lost connection: Timed out
+[21May2025 23:59:01.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer left the game
+[21May2025 23:59:01.788] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21May2025 23:59:44.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 lost connection: Disconnected
+[21May2025 23:59:44.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 left the game
