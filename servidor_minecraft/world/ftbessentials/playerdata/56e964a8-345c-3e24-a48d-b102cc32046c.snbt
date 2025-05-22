@@ -6,16 +6,16 @@
 	last_seen: { dim: "minecraft:overworld", x: 6644, y: 96, z: 761, time: 1747949636396L, xRot: -19.500084f, yRot: 53.431488f }
 	recording: 0
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 6175, y: 53, z: 98, time: 1747936908313L, xRot: 21.899588f, yRot: -73.65232f }
-		{ dim: "minecraft:overworld", x: 6176, y: 53, z: 95, time: 1747938108677L, xRot: -11.25019f, yRot: -100.370605f }
-		{ dim: "minecraft:overworld", x: 6174, y: 57, z: 98, time: 1747938413173L, xRot: 20.09906f, yRot: -99.69214f }
-		{ dim: "minecraft:overworld", x: 6636, y: 110, z: 760, time: 1747950138583L, xRot: 10.049564f, yRot: -60.868774f }
 		{ dim: "minecraft:overworld", x: -1576, y: 151, z: -1719, time: 1747951289891L, xRot: -59.39966f, yRot: -169.75635f }
 		{ dim: "minecraft:overworld", x: -1589, y: 156, z: -1723, time: 1747951415867L, xRot: 17.849493f, yRot: -86.5419f }
 		{ dim: "minecraft:overworld", x: -1589, y: 156, z: -1724, time: 1747951459919L, xRot: 71.10031f, yRot: 14.101633f }
 		{ dim: "minecraft:overworld", x: 6637, y: 96, z: 759, time: 1747951499325L, xRot: 5.3999662f, yRot: -70.20404f }
 		{ dim: "minecraft:overworld", x: -1591, y: 156, z: -1725, time: 1747951540380L, xRot: 32.249588f, yRot: -32.556152f }
 		{ dim: "minecraft:overworld", x: 6638, y: 96, z: 758, time: 1747951595377L, xRot: 7.650189f, yRot: 117.74045f }
+		{ dim: "minecraft:overworld", x: -1578, y: 162, z: -1747, time: 1747952144113L, xRot: 55.500267f, yRot: -90.790146f }
+		{ dim: "minecraft:overworld", x: 6637, y: 96, z: 758, time: 1747952167169L, xRot: 55.649994f, yRot: -112.354324f }
+		{ dim: "minecraft:overworld", x: -1578, y: 162, z: -1747, time: 1747952182261L, xRot: 28.499569f, yRot: 19.762802f }
+		{ dim: "minecraft:overworld", x: 6642, y: 96, z: 762, time: 1747952548073L, xRot: 15.74982f, yRot: 153.02008f }
 	]
 	homes: {
 		home: { dim: "minecraft:overworld", x: 6636, y: 96, z: 760, time: 1747686889053L, xRot: 21.449842f, yRot: -56.519043f }

@@ -1529,6 +1529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-05-22 22:23:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2025-05-19 18:00:29 +0000"
@@ -2569,6 +2575,12 @@
     },
     "done": true
   },
+  "pylons:recipes/pylons/expulsion_pylon": {
+    "criteria": {
+      "has_diamond_block": "2025-05-22 22:23:21 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/deepslate": {
     "criteria": {
       "has_the_recipe": "2025-05-19 22:15:43 +0000"
@@ -2656,6 +2668,12 @@
   "create:recipes/create.palettes/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-19 22:14:54 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/diamond": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:23:21 +0000"
     },
     "done": true
   },
@@ -9006,6 +9024,12 @@
     },
     "done": true
   },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2025-05-22 22:23:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-19 17:34:39 +0000"
@@ -14538,6 +14562,12 @@
   "alltheores:recipes/alltheores/sapphire_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-19 20:12:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-22 22:17:58 +0000"
     },
     "done": true
   },

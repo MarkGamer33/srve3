@@ -8127,6 +8127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-22 22:17:35 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_trapdoor": {
     "criteria": {
       "has_dry_bundle": "2025-05-18 22:28:01 +0000"
@@ -9020,6 +9026,12 @@
   "cfm:recipes/cfm/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-05-19 17:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-22 22:17:35 +0000"
     },
     "done": true
   },
@@ -14027,6 +14039,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 16:52:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-22 22:20:57 +0000"
     },
     "done": true
   },
