@@ -6330,6 +6330,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/water_shard": {
+    "criteria": {
+      "has_powerful_water_shard": "2025-05-22 17:25:01 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-05-19 17:11:14 +0000"
@@ -6535,6 +6541,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-05-22 17:22:44 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/golden_apple": {
     "criteria": {
       "has_the_recipe": "2025-05-19 17:52:08 +0000"
@@ -6607,6 +6619,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-05-22 17:21:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chicken_and_rice": {
     "criteria": {
       "has_chicken": "2025-05-19 17:32:09 +0000"
@@ -6616,6 +6634,12 @@
   "alltheores:recipes/alltheores/zinc_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-05-19 17:29:39 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/bone": {
+    "criteria": {
+      "has_rib_bone": "2025-05-22 17:16:23 +0000"
     },
     "done": true
   },
@@ -8823,6 +8847,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/skeleton": {
+    "criteria": {
+      "has_rib_bone": "2025-05-22 17:16:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-19 17:44:59 +0000"
@@ -9078,6 +9108,12 @@
   "connectedglass:recipes/connectedglass/borderless_glass_cyan2": {
     "criteria": {
       "recipe_condition1": "2025-05-22 17:00:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-22 17:19:07 +0000"
     },
     "done": true
   },
@@ -13399,6 +13435,12 @@
   "mcwbridges:recipes/pliers": {
     "criteria": {
       "has_planks": "2025-05-19 17:13:46 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_water_shard": {
+    "criteria": {
+      "has_powerful_water_shard": "2025-05-22 17:25:01 +0000"
     },
     "done": true
   },

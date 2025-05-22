@@ -2049,3 +2049,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 17:07:00.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
 [22May2025 17:09:44.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
 [22May2025 17:10:11.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported josito to MarkGamer
+[22May2025 17:19:07.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has reached the goal [Bone Crusher]
+[22May2025 17:21:59.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [The Jeweler]
+[22May2025 17:22:44.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [A Throwaway Joke]
