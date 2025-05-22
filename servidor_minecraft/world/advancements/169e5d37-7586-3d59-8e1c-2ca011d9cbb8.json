@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_pink": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/armed_stand": {
     "criteria": {
       "criterion1": "2025-05-18 22:14:49 +0000"
@@ -2590,6 +2596,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_light_blue": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/compacting/aluminum_raw": {
     "criteria": {
       "has_aluminum_raw": "2025-05-19 16:58:50 +0000"
@@ -2653,6 +2665,12 @@
   "littlelogistics:recipes/transportation/switch_rail": {
     "criteria": {
       "has_item": "2025-05-19 17:40:55 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_lesbian": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
@@ -3646,6 +3664,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_brown": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "deepresonance:recipes/deepresonance/machine_frame": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
@@ -4106,6 +4130,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_orange": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-19 17:58:33 +0000"
@@ -4164,6 +4194,12 @@
     "criteria": {
       "give_recipe": "2025-05-20 23:39:18 +0000",
       "has_block": "2025-05-20 23:39:18 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/amethyst_dust_unpacking": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
@@ -4425,6 +4461,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_purple": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:13:23 +0000"
@@ -4575,6 +4617,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_intersex": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/rftoolsbuilder/vehicle_card": {
     "criteria": {
       "paper": "2025-05-18 22:33:33 +0000"
@@ -4704,6 +4752,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-19 22:07:05 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_genderqueer": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
@@ -5261,6 +5315,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_agender": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
@@ -5399,6 +5459,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-18 22:50:56 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/slate": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
@@ -7469,6 +7535,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_bisexual": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/nether_bricks_dark": {
     "criteria": {
       "has_nether_bricks": "2025-05-19 22:02:40 +0000"
@@ -8066,6 +8138,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_nonbinary": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_red_picket_fence": {
     "criteria": {
       "has_dye": "2025-05-20 22:13:56 +0000"
@@ -8248,6 +8326,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_transgender": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-05-18 22:31:26 +0000"
@@ -8281,6 +8365,12 @@
   "cfm:recipes/cfm/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-20 18:57:15 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_genderfluid": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
@@ -9624,6 +9714,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/amethyst_tiles": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "silentgear:tip_upgrade": {
     "criteria": {
       "get_item": "2025-05-18 23:17:21 +0000"
@@ -9977,6 +10073,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/manual_compressor": {
     "criteria": {
       "has_pressure_tube": "2025-05-19 22:06:46 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_pansexual": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
@@ -11115,6 +11217,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_demigirl": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak_planks": {
     "criteria": {
       "has_planks": "2025-05-18 22:14:22 +0000"
@@ -11838,6 +11946,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_yellow": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/crafting_table": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:14:22 +0000"
@@ -11961,6 +12075,12 @@
   "alltheores:recipes/alltheores/tin_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_red": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:37 +0000"
     },
     "done": true
   },
@@ -12213,6 +12333,12 @@
   "ftbic:recipes/ftbic/extruding/ingots/gold_to_gold_rod": {
     "criteria": {
       "has_item": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_cyan": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
@@ -13177,6 +13303,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_blue": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:37 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-18 22:13:23 +0000"
@@ -13495,6 +13627,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_lime": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/wigglewood_boat": {
     "criteria": {
       "in_water": "2025-05-18 22:15:57 +0000"
@@ -13712,6 +13850,12 @@
     },
     "done": false
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_plural": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "byg:husbandry/berrily_alive": {
     "criteria": {
       "blue_berry": "2025-05-18 22:23:27 +0000"
@@ -13890,6 +14034,12 @@
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_aroace": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
@@ -15194,6 +15344,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_white": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-05-18 22:54:46 +0000"
@@ -15245,6 +15401,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-05-22 09:35:54 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/amethyst_dust_packing": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
@@ -16001,6 +16163,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/dye_colorizer_black": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-05-18 22:33:20 +0000"
@@ -16680,6 +16848,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/uuid_colorizer": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_green2": {
     "criteria": {
       "recipe_condition1": "2025-05-21 23:28:44 +0000",
@@ -17032,6 +17206,12 @@
   "cfm:recipes/cfm/stripped_birch_park_bench": {
     "criteria": {
       "has_log": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_green": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
@@ -18044,6 +18224,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_aromantic": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-05-19 17:47:43 +0000"
@@ -18083,6 +18269,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_light": {
     "criteria": {
       "has_chiseled_stone_bricks": "2025-05-21 18:19:58 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_magenta": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:37 +0000"
     },
     "done": true
   },
@@ -18566,6 +18758,12 @@
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2025-05-19 17:47:42 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_gray": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
@@ -19083,6 +19281,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-05-18 23:05:25 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_demiboy": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
@@ -20846,6 +21050,12 @@
     },
     "done": true
   },
+  "hexcasting:recipes/hexcasting/pride_colorizer_gay": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:37 +0000"
+    },
+    "done": true
+  },
   "rftoolspower:recipes/rftoolspower/powercell_card": {
     "criteria": {
       "paper": "2025-05-18 22:33:33 +0000"
@@ -21216,6 +21426,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-19 17:39:22 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/pride_colorizer_asexual": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
@@ -21703,6 +21919,12 @@
   "handcrafted:recipes/misc/blue_cup": {
     "criteria": {
       "has_terracotta": "2025-05-19 20:54:20 +0000"
+    },
+    "done": true
+  },
+  "hexcasting:recipes/hexcasting/dye_colorizer_light_gray": {
+    "criteria": {
+      "has_item": "2025-05-22 15:50:38 +0000"
     },
     "done": true
   },
