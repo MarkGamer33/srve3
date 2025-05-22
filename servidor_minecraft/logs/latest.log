@@ -2052,3 +2052,13 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 17:19:07.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has reached the goal [Bone Crusher]
 [22May2025 17:21:59.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [The Jeweler]
 [22May2025 17:22:44.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [A Throwaway Joke]
+[22May2025 17:26:41.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[22May2025 17:27:23.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[22May2025 17:27:23.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode MarkGamer spectator<--[HERE]
+[22May2025 17:29:08.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set MarkGamer's game mode to Spectator Mode
+[22May2025 17:29:34.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set MarkGamer's game mode to Survival Mode
+[22May2025 17:29:59.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set MarkGamer's game mode to Spectator Mode
+[22May2025 17:30:39.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set MarkGamer's game mode to Survival Mode
+[22May2025 17:31:10.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set MarkGamer's game mode to Spectator Mode
+[22May2025 17:31:24.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set MarkGamer's game mode to Survival Mode
+[22May2025 17:32:45.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
