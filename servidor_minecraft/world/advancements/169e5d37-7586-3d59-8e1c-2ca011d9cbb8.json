@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/whiterock_fence": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/light_gray_cushion": {
     "criteria": {
       "has_cushion": "2025-05-20 23:29:32 +0000"
@@ -1581,6 +1587,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/source_breeder_pedestal": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/polished_granite": {
     "criteria": {
       "has_the_recipe": "2025-05-19 18:08:16 +0000"
@@ -1590,6 +1602,12 @@
   "handcrafted:recipes/misc/calcite_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2025-05-19 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/source_displacement_plate_water": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -1620,6 +1638,12 @@
   "create:recipes/create.palettes/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-05-20 16:09:38 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/aircrystal_block_from_aircrystal": {
+    "criteria": {
+      "has_aircrystal": "2025-05-22 09:37:07 +0000"
     },
     "done": true
   },
@@ -2040,6 +2064,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/air_compressor": {
     "criteria": {
       "has_pressure_tube": "2025-05-19 22:06:46 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/aircrystal": {
+    "criteria": {
+      "has_aircrystal": "2025-05-22 09:37:07 +0000"
     },
     "done": true
   },
@@ -2711,6 +2741,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/fireblastfurnace": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-05-18 22:13:23 +0000",
@@ -3030,6 +3066,12 @@
     },
     "done": false
   },
+  "elementalcraft:recipes/elementalcraft/crystallizer": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2025-05-18 22:13:22 +0000",
@@ -3343,6 +3385,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_mossy": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -3856,6 +3904,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-05-18 22:14:40 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/major_rune_slate": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -4709,6 +4763,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/minor_rune_slate": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 22:21:16 +0000"
@@ -5495,6 +5555,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 23:29:10 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/diffuser": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -7375,6 +7441,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/whiterock": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_pillar_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-05-19 18:05:31 +0000"
@@ -7595,6 +7667,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2025-05-21 18:14:53 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/extractor_improved": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -8143,6 +8221,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-05-21 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/rune_slate": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -9956,6 +10040,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/shrinebase": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "deepresonance:recipes/deepresonance/lens": {
     "criteria": {
       "has_pane": "2025-05-22 09:24:13 +0000"
@@ -10037,6 +10127,12 @@
   "alchemistry:recipes/dissolver/smooth_basalt": {
     "criteria": {
       "has_the_recipe": "2025-05-20 19:03:17 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_wall_from_whiterock_stonecutting": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -10133,6 +10229,12 @@
   "rftoolsbuilder:recipes/rftoolsbuilder/blue_shield_template_block": {
     "criteria": {
       "glass": "2025-05-20 14:43:54 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/inscriber": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -10428,6 +10530,12 @@
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_trophy": "2025-05-19 17:27:09 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_wall": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -10814,6 +10922,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-05-19 17:40:55 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_stairs": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -11526,6 +11640,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/whiterock_stairs_from_whiterock_stonecutting": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-05-18 22:50:56 +0000"
@@ -12210,6 +12330,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/spell_desk": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/bronze_ingot": {
     "criteria": {
       "has_item": "2025-05-20 17:22:33 +0000"
@@ -12390,6 +12516,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/whiterock_brick_from_whiterock_stonecutting": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "ae2additions:recipes/ae2additions/super_cell_housing": {
     "criteria": {
       "has_item": "2025-05-18 23:24:48 +0000"
@@ -12459,6 +12591,12 @@
   "cfm:recipes/cfm/rock_path": {
     "criteria": {
       "has_andesite": "2025-05-18 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/swift_alloy_ingot_from_swift_alloy_block": {
+    "criteria": {
+      "has_swift_alloy_block": "2025-05-22 09:36:41 +0000"
     },
     "done": true
   },
@@ -12591,6 +12729,12 @@
   "mcwroofs:recipes/jungle_planks": {
     "criteria": {
       "has_planks": "2025-05-18 22:50:58 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/air_mill_grindstone": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -12885,6 +13029,12 @@
   "croptopia:recipes/carnitas": {
     "criteria": {
       "has_porkchop": "2025-05-19 17:35:20 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/source_breeder": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -13689,6 +13839,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/source_displacement_plate_fire": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/ingots/copper_to_copper_rod": {
     "criteria": {
       "has_item": "2025-05-20 17:22:33 +0000"
@@ -13810,9 +13966,21 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/swift_alloy_block": {
+    "criteria": {
+      "has_swift_alloy_block": "2025-05-22 09:36:42 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/pocket_computer_advanced": {
     "criteria": {
       "has_apple": "2025-05-19 17:08:58 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/binder_improved": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -14041,6 +14209,12 @@
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-18 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/solar_synthesizer": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -15027,6 +15201,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/pureinfuser": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-05-18 22:54:46 +0000"
@@ -15289,6 +15469,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/magma_green": {
     "criteria": {
       "has_magma_block": "2025-05-18 22:16:48 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/water_mill_wood_saw": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -15671,6 +15857,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/element_holder_air": {
+    "criteria": {
+      "has_aircrystal": "2025-05-22 09:37:07 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/smoking/rubber": {
     "criteria": {
       "has_item": "2025-05-19 21:39:03 +0000"
@@ -15728,6 +15920,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_slab": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -16380,6 +16578,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/source_displacement_plate_earth": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_park_bench": {
     "criteria": {
       "has_log": "2025-05-21 12:33:59 +0000"
@@ -16945,6 +17149,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/springaline_lantern": {
+    "criteria": {
+      "has_springaline_lantern": "2025-05-22 09:36:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-19 17:27:08 +0000"
@@ -16954,6 +17164,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/inverted_bricks_cloud_green": {
     "criteria": {
       "has_xychorium_gem_green": "2025-05-19 21:03:06 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_brick": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -17122,6 +17338,12 @@
   "botania:recipes/botania/manasteel_sword": {
     "criteria": {
       "has_item": "2025-05-20 19:14:05 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_burnt": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -18359,6 +18581,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/binder": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/borderless_glass_cyan2": {
     "criteria": {
       "recipe_condition1": "2025-05-21 23:28:44 +0000",
@@ -18997,6 +19225,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/container": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/raw_lead_from_block": {
     "criteria": {
       "has_item": "2025-05-19 18:23:11 +0000"
@@ -19281,6 +19515,7 @@
       "byg:crag_gardens": "2025-05-19 15:26:11 +0000",
       "byg:red_rock_valley": "2025-05-19 15:24:26 +0000",
       "byg:howling_peaks": "2025-05-18 22:35:03 +0000",
+      "byg:aspen_forest": "2025-05-22 09:36:26 +0000",
       "byg:forgotten_forest": "2025-05-18 22:45:20 +0000",
       "byg:crimson_gardens": "2025-05-19 22:46:30 +0000",
       "byg:canadian_shield": "2025-05-18 22:36:11 +0000",
@@ -19553,6 +19788,12 @@
   "corail_woodcutter:recipes/from_byg_mahogany_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/scroll": {
+    "criteria": {
+      "has_scroll": "2025-05-22 09:37:05 +0000"
     },
     "done": true
   },
@@ -20057,6 +20298,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/firefurnace": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
+    },
+    "done": true
+  },
   "rftoolspower:recipes/rftoolspower/powercell_card": {
     "criteria": {
       "paper": "2025-05-18 22:33:33 +0000"
@@ -20403,6 +20650,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_planks_from_stripped_acacia_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 23:32:19 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/source_displacement_plate_air": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -20852,6 +21105,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-05-21 13:17:09 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/purifier": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
@@ -22175,6 +22434,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-18 22:51:00 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_slab_from_whiterock_stonecutting": {
+    "criteria": {
+      "has_whiterock": "2025-05-22 09:36:39 +0000"
     },
     "done": true
   },
