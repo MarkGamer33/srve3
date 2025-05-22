@@ -1852,3 +1852,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 13:39:35.586] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
 [22May2025 13:39:35.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
 [22May2025 13:39:35.879] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[22May2025 13:40:12.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6735, y=-33, z=738} BlockPos{x=6731, y=-33, z=737}
+[22May2025 13:46:23.810] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d86e171
+[22May2025 13:47:21.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [The Jeweler]
+[22May2025 13:48:23.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved wrongly!
