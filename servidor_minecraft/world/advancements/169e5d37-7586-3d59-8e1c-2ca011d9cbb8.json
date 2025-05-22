@@ -3085,6 +3085,12 @@
     },
     "done": true
   },
+  "mcwlights:recipes/redstone_slab": {
+    "criteria": {
+      "has_wood": "2025-05-22 11:08:37 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_canopy_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:23 +0000"
@@ -4236,6 +4242,12 @@
   "xnet:recipes/xnet/connector_red_dye": {
     "criteria": {
       "chest": "2025-05-20 15:08:50 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lamps_ceilings": {
+    "criteria": {
+      "has_wood": "2025-05-22 11:08:37 +0000"
     },
     "done": true
   },
@@ -8167,6 +8179,12 @@
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "sfm:recipes/sfm/network_tool": {
+    "criteria": {
+      "has_redstone_lamp": "2025-05-22 11:08:37 +0000"
     },
     "done": true
   },
