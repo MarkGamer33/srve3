@@ -2008,3 +2008,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 15:18:28.213] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [22May2025 15:21:22.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [Ka-chink! 1]
 [22May2025 15:22:36.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Ice Bucket Challenge]
+[22May2025 15:29:08.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[22May2025 15:29:08.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[22May2025 15:33:14.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito tried to swim in lava
+[22May2025 15:33:14.170] [Server thread/INFO] [tombstone/]: The player josito has successfully been saved
