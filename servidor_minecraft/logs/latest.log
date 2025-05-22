@@ -2498,3 +2498,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 23:23:25.023] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
 [22May2025 23:23:25.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
 [22May2025 23:25:19.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/88421, l='ServerLevel[world]', x=6735.83, y=144.56, z=754.99] died: Honeyed Archer suffocated in a wall
+[22May2025 23:33:14.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josito lost connection: Disconnected
+[22May2025 23:33:14.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito left the game
