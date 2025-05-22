@@ -2533,6 +2533,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-05-22 21:35:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-05-21 22:03:37 +0000"
@@ -6810,6 +6816,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-22 21:35:48 +0000"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/dye_colorizer_green": {
     "criteria": {
       "has_item": "2025-05-21 14:11:16 +0000"
@@ -7845,6 +7857,12 @@
   "xnet:recipes/xnet/antenna_base": {
     "criteria": {
       "block": "2025-05-21 21:50:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-05-22 21:34:27 +0000"
     },
     "done": true
   },
@@ -9106,6 +9124,12 @@
       "in_pyramid_snowy": "2025-05-22 20:22:29 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-05-22 21:35:53 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
@@ -12054,6 +12078,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-21 22:03:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-05-22 21:35:53 +0000"
     },
     "done": true
   },

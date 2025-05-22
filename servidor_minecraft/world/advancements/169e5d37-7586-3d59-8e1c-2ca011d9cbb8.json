@@ -701,6 +701,12 @@
     },
     "done": true
   },
+  "ars_elemental:summon_skeleton_horse": {
+    "criteria": {
+      "summon_skeleton_horse": "2025-05-22 21:34:54 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/lime_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-19 20:54:20 +0000"
@@ -5366,6 +5372,12 @@
   "silentgear:recipes/silentgear/bort_from_block": {
     "criteria": {
       "has_item": "2025-05-21 00:39:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-05-22 21:36:59 +0000"
     },
     "done": true
   },
@@ -18266,6 +18278,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-05-22 21:30:49 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_red_wool": "2025-05-20 22:14:58 +0000"
@@ -19184,7 +19202,8 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_nether": "2025-05-19 22:07:06 +0000"
+      "in_pyramid_nether": "2025-05-19 22:07:06 +0000",
+      "in_pyramid_snowy": "2025-05-22 21:30:11 +0000"
     },
     "done": false
   },
@@ -20323,6 +20342,7 @@
       "byg:temperate_grove": "2025-05-20 19:02:44 +0000",
       "byg:glowstone_gardens": "2025-05-19 22:29:45 +0000",
       "byg:sierra_badlands": "2025-05-20 14:29:11 +0000",
+      "byg:black_forest": "2025-05-22 21:30:40 +0000",
       "byg:orchard": "2025-05-20 19:02:47 +0000",
       "byg:red_oak_forest": "2025-05-19 15:25:31 +0000",
       "byg:redwood_thicket": "2025-05-19 15:25:46 +0000",
@@ -20352,7 +20372,8 @@
       "byg:temperate_rainforest": "2025-05-19 15:24:37 +0000",
       "byg:mojave_desert": "2025-05-19 17:08:35 +0000",
       "byg:dacite_shore": "2025-05-18 22:18:27 +0000",
-      "byg:windswept_desert": "2025-05-19 17:11:24 +0000"
+      "byg:windswept_desert": "2025-05-19 17:11:24 +0000",
+      "byg:frosted_taiga": "2025-05-22 21:30:33 +0000"
     },
     "done": false
   },
@@ -21886,6 +21907,7 @@
       "minecraft:cold_ocean": "2025-05-18 22:22:12 +0000",
       "minecraft:forest": "2025-05-20 19:10:25 +0000",
       "minecraft:desert": "2025-05-19 17:10:39 +0000",
+      "minecraft:windswept_forest": "2025-05-22 21:30:44 +0000",
       "minecraft:ocean": "2025-05-20 18:33:41 +0000",
       "minecraft:jungle": "2025-05-22 09:22:09 +0000",
       "minecraft:warm_ocean": "2025-05-19 17:12:01 +0000",
@@ -22587,6 +22609,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-22 21:36:59 +0000"
     },
     "done": true
   },
