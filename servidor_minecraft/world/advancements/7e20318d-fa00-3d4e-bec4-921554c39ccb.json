@@ -20871,6 +20871,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/dirt_mine": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 14:07:46 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/knife_template": {
     "criteria": {
       "has_item": "2025-05-21 21:35:54 +0000"

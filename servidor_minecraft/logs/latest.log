@@ -1863,3 +1863,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 13:57:57.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 was slain by Zombie
 [22May2025 13:57:57.759] [Server thread/INFO] [tombstone/]: The player Leoy73 has successfully been saved
 [22May2025 13:59:12.833] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 14:00:44.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported Leoy73 to MarkGamer]
+[22May2025 14:08:44.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved wrongly!
+[22May2025 14:08:46.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Teleported ToroBoig to Leoy73]
+[22May2025 14:09:48.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[22May2025 14:10:13.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!

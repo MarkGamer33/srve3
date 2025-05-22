@@ -3931,6 +3931,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 14:02:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-05-20 16:09:41 +0000"
@@ -13470,6 +13476,12 @@
     },
     "done": true
   },
+  "rootsclassic:recipes/rootsclassic/mundane_standing_stone": {
+    "criteria": {
+      "has_lapis_block": "2025-05-22 14:02:07 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cells/item_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-05-18 22:30:28 +0000"
@@ -19456,6 +19468,12 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-05-20 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-05-22 14:02:07 +0000"
     },
     "done": true
   },
