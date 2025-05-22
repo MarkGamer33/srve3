@@ -2125,3 +2125,78 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 22:04:16.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito was slain by Wither Skeleton
 [22May2025 22:04:16.824] [Server thread/INFO] [tombstone/]: The player josito has successfully been saved
 [22May2025 22:04:19.920] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 22:04:59.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported josito to MarkGamer
+[22May2025 22:05:38.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito was slain by Wither Skeleton
+[22May2025 22:05:38.928] [Server thread/INFO] [tombstone/]: The player josito has successfully been saved
+[22May2025 22:05:40.381] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 22:05:53.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/46368, l='ServerLevel[world]', x=-1588.70, y=168.01, z=-1712.64] died: Dinnerbone burned to death
+[22May2025 22:06:03.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/49756, l='ServerLevel[world]', x=-1584.83, y=166.01, z=-1710.89] died: Dinnerbone burned to death
+[22May2025 22:06:35.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported josito to MarkGamer
+[22May2025 22:07:05.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig was slain by Wither Skeleton
+[22May2025 22:07:05.621] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
+[22May2025 22:07:07.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/49755, l='ServerLevel[world]', x=-1581.32, y=168.01, z=-1715.29] died: Dinnerbone was shot by Dinnerbone
+[22May2025 22:07:11.108] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 22:07:11.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/49901, l='ServerLevel[world]', x=-1586.93, y=168.01, z=-1712.99] died: Dinnerbone was shot by Dinnerbone
+[22May2025 22:07:26.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[22May2025 22:07:26.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[22May2025 22:09:36.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was blown up by Danilotrento34
+[22May2025 22:09:36.736] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 22:09:38.167] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 22:10:14.080] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b3e95ed
+[22May2025 22:10:14.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:36621] logged in with entity id 53046 at (6648.762499988079, 96.0, 762.3113878468105)
+[22May2025 22:10:14.120] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[22May2025 22:10:14.121] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[22May2025 22:10:14.121] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[22May2025 22:10:14.121] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[22May2025 22:10:14.122] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[22May2025 22:10:14.124] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[22May2025 22:10:14.124] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[22May2025 22:10:14.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[22May2025 22:10:14.356] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[22May2025 22:10:57.624] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/48688, l='ServerLevel[world]', x=-1588.70, y=184.01, z=-1712.28] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:10:57.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/52580, l='ServerLevel[world]', x=-1588.70, y=184.01, z=-1711.30] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:10:59.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/52533, l='ServerLevel[world]', x=-1588.70, y=184.01, z=-1711.30] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:10:59.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/52532, l='ServerLevel[world]', x=-1582.29, y=184.01, z=-1711.30] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:11:03.713] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/52679, l='ServerLevel[world]', x=-1580.30, y=184.01, z=-1711.30] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:11:03.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/52579, l='ServerLevel[world]', x=-1582.44, y=184.01, z=-1711.30] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:11:41.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig was slain by Wither Skeleton
+[22May2025 22:11:41.442] [Server thread/INFO] [tombstone/]: The player ToroBoig has successfully been saved
+[22May2025 22:11:43.735] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 22:11:51.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/44868, l='ServerLevel[world]', x=-1594.50, y=184.01, z=-1740.46] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:11:52.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/47326, l='ServerLevel[world]', x=-1594.72, y=184.01, z=-1740.91] died: Dinnerbone was shot by Dinnerbone
+[22May2025 22:11:57.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/47537, l='ServerLevel[world]', x=-1602.70, y=184.01, z=-1743.70] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:12:06.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[22May2025 22:12:06.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[22May2025 22:12:22.327] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@14ee3f2d
+[22May2025 22:12:22.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:49683] logged in with entity id 53905 at (6643.096580125189, 96.0, 764.0716521865281)
+[22May2025 22:12:22.362] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[22May2025 22:12:22.362] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[22May2025 22:12:22.363] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[22May2025 22:12:22.363] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[22May2025 22:12:22.364] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[22May2025 22:12:22.365] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[22May2025 22:12:22.365] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[22May2025 22:12:22.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[22May2025 22:12:22.610] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[22May2025 22:12:26.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/47536, l='ServerLevel[world]', x=-1590.30, y=184.01, z=-1737.24] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:12:35.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53714, l='ServerLevel[world]', x=-1601.70, y=184.01, z=-1744.70] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:12:36.512] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/49639, l='ServerLevel[world]', x=-1602.70, y=184.01, z=-1734.35] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:12:36.514] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/47324, l='ServerLevel[world]', x=-1602.70, y=184.01, z=-1735.79] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:12:40.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53712, l='ServerLevel[world]', x=-1602.70, y=184.01, z=-1743.70] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:12:40.319] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53713, l='ServerLevel[world]', x=-1602.70, y=184.01, z=-1743.70] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:12:53.016] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54082, l='ServerLevel[world]', x=-1592.35, y=184.01, z=-1738.92] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:12:58.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/49689, l='ServerLevel[world]', x=-1585.86, y=168.01, z=-1717.72] died: Dinnerbone was shot by Dinnerbone
+[22May2025 22:12:59.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54083, l='ServerLevel[world]', x=-1602.70, y=184.01, z=-1734.34] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:13:03.591] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54084, l='ServerLevel[world]', x=-1601.70, y=184.01, z=-1744.70] died: Dinnerbone was blown up by Danilotrento34
+[22May2025 22:13:10.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[22May2025 22:13:10.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[22May2025 22:13:24.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Wither Skeleton
+[22May2025 22:13:24.228] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 22:13:25.628] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 22:13:45.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54626, l='ServerLevel[world]', x=-1595.96, y=184.01, z=-1742.86] died: Dinnerbone was shot by Dinnerbone
+[22May2025 22:13:56.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Wither Skeleton
+[22May2025 22:13:56.197] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 22:13:57.407] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[22May2025 22:14:24.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 was slain by Wither Skeleton
+[22May2025 22:14:24.997] [Server thread/INFO] [tombstone/]: The player Danilotrento34 has successfully been saved
+[22May2025 22:14:26.136] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-22 22:08:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-05-19 16:55:45 +0000"
@@ -377,9 +383,21 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/string": {
+    "criteria": {
+      "has_chelicerae": "2025-05-22 22:10:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-22 15:29:17 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/smooth_quartz_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:08:45 +0000"
     },
     "done": true
   },
@@ -422,6 +440,12 @@
   "alltheores:recipes/alltheores/iridium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-19 20:12:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-22 22:10:46 +0000"
     },
     "done": true
   },
@@ -542,6 +566,12 @@
   "additionallanterns:recipes/additionallanterns/gold_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-19 16:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-22 22:08:45 +0000"
     },
     "done": true
   },
@@ -7084,6 +7114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-22 22:08:45 +0000"
+    },
+    "done": true
+  },
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-19 16:56:29 +0000"
@@ -7357,6 +7393,12 @@
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-22 15:33:10 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/reliquary/mob_charm_fragments/cave_spider": {
+    "criteria": {
+      "has_chelicerae": "2025-05-22 22:10:56 +0000"
     },
     "done": true
   },
@@ -9734,6 +9776,12 @@
   "cfm:recipes/cfm/stripped_spruce_table": {
     "criteria": {
       "has_planks": "2025-05-19 22:27:20 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/food/uncrafting/spider_eye": {
+    "criteria": {
+      "has_chelicerae": "2025-05-22 22:10:56 +0000"
     },
     "done": true
   },
@@ -13973,6 +14021,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/reliquary/mob_charm_fragments/spider": {
+    "criteria": {
+      "has_chelicerae": "2025-05-22 22:10:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-05-19 17:06:54 +0000"
@@ -14139,6 +14193,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-19 17:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-22 22:08:45 +0000"
     },
     "done": true
   },

@@ -3717,6 +3717,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/cacophonium": {
+    "criteria": {
+      "has_item": "2025-05-22 22:11:32 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/golden_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-05-21 12:54:16 +0000"
