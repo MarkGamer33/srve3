@@ -1837,3 +1837,14 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [22May2025 20:20:15.718] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
 [22May2025 20:20:15.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
 [22May2025 20:20:15.961] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[22May2025 20:22:01.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! -3.347983992365698,-8.535840625044557,4.268171022196384
+[22May2025 20:25:11.606] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2101, y=72, z=-1765} but found not block entity block Block{minecraft:air} at location
+[22May2025 20:25:11.607] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2101, y=72, z=-1765}
+[22May2025 20:25:20.274] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[22May2025 20:25:20.274] [Worker-Main-57/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[22May2025 20:25:20.285] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[22May2025 20:25:20.285] [Worker-Main-42/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[22May2025 20:25:34.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [Unknown Technology]
+[22May2025 20:29:40.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2365, y=141, z=-1584} BlockPos{x=-2369, y=142, z=-1584}
+[22May2025 20:29:40.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2365, y=141, z=-1584} BlockPos{x=-2369, y=142, z=-1584}
+[22May2025 20:29:40.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2365, y=141, z=-1584} BlockPos{x=-2369, y=142, z=-1584}

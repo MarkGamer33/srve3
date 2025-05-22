@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-22 20:25:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/yellow_cooler": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
@@ -744,6 +750,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 20:25:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2025-05-21 12:54:16 +0000"
@@ -858,6 +870,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-05-22 20:25:31 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
     "criteria": {
       "has_copper_ingot": "2025-05-21 21:50:50 +0000"
@@ -939,6 +957,12 @@
   "ae2:recipes/tools/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2025-05-21 23:45:04 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-22 20:25:28 +0000"
     },
     "done": true
   },
@@ -2305,6 +2329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-05-22 20:22:39 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_gray_wool": "2025-05-21 13:39:20 +0000"
@@ -2629,6 +2659,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 20:25:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-21 22:03:26 +0000"
@@ -2767,6 +2803,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-05-22 20:25:31 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/diamond_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-21 21:51:47 +0000"
@@ -2875,6 +2917,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/snow_block": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 20:22:39 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_iron_helmet": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
@@ -2890,6 +2938,12 @@
   "botania:recipes/botania/pink_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-22 14:23:00 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-22 20:25:28 +0000"
     },
     "done": true
   },
@@ -5233,6 +5287,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-22 20:25:28 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/quanta50": {
     "criteria": {
       "enchanted_item": "2025-05-21 19:17:35 +0000"
@@ -5581,6 +5641,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-22 20:25:28 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2025-05-21 12:54:16 +0000"
@@ -5767,6 +5833,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-22 20:25:28 +0000"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/jeweler_hammer": {
     "criteria": {
       "has_item": "2025-05-21 14:11:16 +0000"
@@ -5788,6 +5860,12 @@
   "corail_woodcutter:recipes/from_byg_willow_planks": {
     "criteria": {
       "has_ingredient": "2025-05-21 12:54:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-05-22 20:25:31 +0000"
     },
     "done": true
   },
@@ -6010,6 +6088,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/deepslate_bricks_dark": {
     "criteria": {
       "has_deepslate": "2025-05-21 22:03:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-05-22 20:25:34 +0000"
     },
     "done": true
   },
@@ -6356,6 +6440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-05-22 20:22:45 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-21 12:58:39 +0000"
@@ -6491,6 +6581,15 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/strip_curtain": {
     "criteria": {
       "has_metal_rod": "2025-05-21 21:52:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-05-22 20:25:34 +0000",
+      "silicon": "2025-05-22 20:25:34 +0000",
+      "engineering": "2025-05-22 20:25:34 +0000",
+      "logic": "2025-05-22 20:25:34 +0000"
     },
     "done": true
   },
@@ -6923,6 +7022,12 @@
   "ftbic:recipes/ftbic/shaped/ingots/gold_to_gold_gear": {
     "criteria": {
       "has_item": "2025-05-21 13:27:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 20:25:42 +0000"
     },
     "done": true
   },
@@ -7568,9 +7673,21 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 20:25:42 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2025-05-21 12:54:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 20:25:42 +0000"
     },
     "done": true
   },
@@ -8188,6 +8305,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/blue_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 20:22:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-21 13:16:12 +0000"
@@ -8302,6 +8425,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-22 20:25:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/deepslate_copper_mine": {
     "criteria": {
       "has_mine": "2025-05-21 22:56:56 +0000"
@@ -8311,6 +8440,12 @@
   "securitycraft:recipes/securitycraft/end_stone_mine": {
     "criteria": {
       "has_mine": "2025-05-21 22:56:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-22 20:25:28 +0000"
     },
     "done": true
   },
@@ -8856,6 +8991,12 @@
       "has_any_ingredient": "2025-05-21 23:56:07 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_snowy": "2025-05-22 20:22:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
@@ -9799,6 +9940,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-05-22 20:28:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_warped_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-22 20:15:39 +0000"
@@ -9958,6 +10105,12 @@
   "minecraft:recipes/woodcutting/oak/chest_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 23:49:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 20:25:42 +0000"
     },
     "done": true
   },
@@ -10249,7 +10402,9 @@
       "byg:basalt_barrera": "2025-05-21 21:57:21 +0000",
       "byg:temperate_rainforest": "2025-05-21 23:01:04 +0000",
       "byg:maple_taiga": "2025-05-22 14:29:10 +0000",
-      "byg:windswept_desert": "2025-05-21 19:18:40 +0000"
+      "byg:frosted_coniferous_forest": "2025-05-22 20:25:08 +0000",
+      "byg:windswept_desert": "2025-05-21 19:18:40 +0000",
+      "byg:frosted_taiga": "2025-05-22 20:22:13 +0000"
     },
     "done": false
   },
@@ -10364,6 +10519,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/building_blocks/compressing/ice": {
+    "criteria": {
+      "has_item": "2025-05-22 20:22:39 +0000"
     },
     "done": true
   },
@@ -10511,6 +10672,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 20:25:42 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_mahogany_planks": {
     "criteria": {
       "has_ingredient": "2025-05-21 12:54:17 +0000"
@@ -10532,6 +10699,12 @@
   "ftbic:recipes/building_blocks/macerating/gravel": {
     "criteria": {
       "has_item": "2025-05-21 13:10:29 +0000"
+    },
+    "done": true
+  },
+  "advancedperipherals:recipes/advancedperipheralstab/computer_tool": {
+    "criteria": {
+      "has_item": "2025-05-22 20:22:45 +0000"
     },
     "done": true
   },
@@ -11972,6 +12145,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/snow": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 20:22:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2025-05-21 13:16:12 +0000"
@@ -12019,6 +12198,8 @@
       "minecraft:old_growth_pine_taiga": "2025-05-22 14:23:44 +0000",
       "minecraft:taiga": "2025-05-22 14:23:54 +0000",
       "minecraft:eroded_badlands": "2025-05-21 14:07:20 +0000",
+      "minecraft:frozen_river": "2025-05-22 20:22:11 +0000",
+      "minecraft:windswept_hills": "2025-05-22 20:25:14 +0000",
       "minecraft:wooded_badlands": "2025-05-21 13:43:53 +0000",
       "minecraft:bamboo_jungle": "2025-05-21 19:38:35 +0000",
       "minecraft:savanna_plateau": "2025-05-21 13:08:24 +0000",
@@ -12029,16 +12210,19 @@
       "minecraft:lukewarm_ocean": "2025-05-21 13:23:46 +0000",
       "minecraft:river": "2025-05-21 13:17:07 +0000",
       "minecraft:stony_shore": "2025-05-21 13:43:59 +0000",
+      "minecraft:snowy_plains": "2025-05-22 20:24:46 +0000",
       "minecraft:dripstone_caves": "2025-05-21 19:17:58 +0000",
       "minecraft:snowy_taiga": "2025-05-22 20:14:43 +0000",
       "minecraft:cold_ocean": "2025-05-22 14:43:14 +0000",
       "minecraft:forest": "2025-05-21 13:35:24 +0000",
       "minecraft:frozen_ocean": "2025-05-22 20:14:29 +0000",
       "minecraft:desert": "2025-05-21 14:07:37 +0000",
+      "minecraft:windswept_forest": "2025-05-22 20:21:15 +0000",
       "minecraft:jungle": "2025-05-21 13:37:26 +0000",
       "minecraft:ocean": "2025-05-21 22:10:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-22 14:13:17 +0000",
       "minecraft:meadow": "2025-05-22 14:24:04 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-05-22 20:25:20 +0000",
       "minecraft:savanna": "2025-05-21 13:20:32 +0000",
       "minecraft:plains": "2025-05-21 23:28:01 +0000"
     },
@@ -12107,6 +12291,12 @@
   "elementalcraft:recipes/elementalcraft/purifier": {
     "criteria": {
       "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 20:25:42 +0000"
     },
     "done": true
   },
@@ -12197,6 +12387,12 @@
   "create:recipes/create.palettes/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-21 21:58:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-05-22 20:25:28 +0000"
     },
     "done": true
   },
@@ -13310,6 +13506,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-05-22 20:25:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-22 20:15:39 +0000"
@@ -13409,6 +13611,12 @@
   "alchemistry:recipes/dissolver/gold_nugget": {
     "criteria": {
       "has_the_recipe": "2025-05-21 13:27:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-22 20:25:42 +0000"
     },
     "done": true
   },
@@ -13855,6 +14063,12 @@
   "elementalcraft:recipes/elementalcraft/whiterock_stairs": {
     "criteria": {
       "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-05-22 20:22:39 +0000"
     },
     "done": true
   },
