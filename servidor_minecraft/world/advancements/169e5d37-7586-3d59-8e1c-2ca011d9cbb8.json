@@ -1466,6 +1466,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/osmium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-22 11:44:02 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/directional_highspeed_rail": {
     "criteria": {
       "criterion1": "2025-05-18 22:14:49 +0000"
@@ -1668,6 +1674,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-05-18 23:24:48 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/osmium_knife": {
+    "criteria": {
+      "has_osmium": "2025-05-22 11:44:02 +0000"
     },
     "done": true
   },
@@ -3227,6 +3239,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-19 21:34:48 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/osmium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-22 11:44:02 +0000"
     },
     "done": true
   },
@@ -10895,6 +10913,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/osmium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-22 11:44:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
@@ -12795,6 +12819,12 @@
   "simplemagnets:recipes/simplemagnets/basicmagnet": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/osmium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-22 11:44:02 +0000"
     },
     "done": true
   },
@@ -15595,6 +15625,12 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-05-18 22:21:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/osmium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-22 11:44:02 +0000"
     },
     "done": true
   },
