@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_blue_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-19 16:56:52 +0000"
@@ -776,6 +782,12 @@
   "alltheores:recipes/alltheores/raw_platinum_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/platinum]": "2025-05-22 15:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-22 17:08:28 +0000"
     },
     "done": true
   },
@@ -1560,6 +1572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-22 15:33:10 +0000"
@@ -1725,6 +1743,12 @@
   "silentgear:recipes/silentgear/stone_rod": {
     "criteria": {
       "has_item": "2025-05-19 16:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-05-22 17:08:28 +0000"
     },
     "done": true
   },
@@ -2169,6 +2193,12 @@
   "alltheores:recipes/alltheores/diamond_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-05-19 18:00:17 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/scratched_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-22 17:08:28 +0000"
     },
     "done": true
   },
@@ -2736,6 +2766,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-22 17:08:29 +0000",
+      "has_the_recipe": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/iron_furnace": {
     "criteria": {
       "has_item": "2025-05-19 17:13:46 +0000"
@@ -2998,6 +3035,12 @@
   "xnet:recipes/xnet/netcable_red": {
     "criteria": {
       "nugget": "2025-05-19 21:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-05-22 17:08:28 +0000"
     },
     "done": true
   },
@@ -4019,6 +4062,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/scratched_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/red_nether_bricks_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-19 16:58:44 +0000"
@@ -4492,6 +4541,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-22 17:08:29 +0000",
+      "has_the_recipe": "2025-05-22 17:08:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_cooler": {
     "criteria": {
       "has_chest": "2025-05-19 17:52:12 +0000"
@@ -4531,6 +4587,13 @@
   "cfm:recipes/cfm/blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-19 17:52:11 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-22 17:08:29 +0000",
+      "has_the_recipe": "2025-05-22 17:08:28 +0000"
     },
     "done": true
   },
@@ -6321,6 +6384,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-22 17:08:28 +0000",
+      "has_the_recipe": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-19 17:52:11 +0000"
@@ -7312,6 +7382,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:pickup/water_shard": {
     "criteria": {
       "has_water_shard": "2025-05-19 20:28:51 +0000"
@@ -7794,6 +7870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/magenta_grill": {
     "criteria": {
       "has_iron": "2025-05-19 17:13:46 +0000"
@@ -7932,6 +8014,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/borderless_glass_blue_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-22 17:08:29 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2025-05-19 17:59:47 +0000"
@@ -8016,6 +8104,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/tinted_borderless_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-22 17:08:29 +0000",
+      "has_the_recipe": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-05-19 22:54:41 +0000"
@@ -8067,6 +8162,13 @@
   "farmersdelight:recipes/farmersdelight/fried_egg": {
     "criteria": {
       "fried_egg": "2025-05-19 17:59:47 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-22 17:08:29 +0000",
+      "has_the_recipe": "2025-05-22 17:08:28 +0000"
     },
     "done": true
   },
@@ -8495,6 +8597,12 @@
   "alchemistry:recipes/dissolver/andesite": {
     "criteria": {
       "has_the_recipe": "2025-05-19 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-22 17:08:29 +0000"
     },
     "done": true
   },
@@ -9219,7 +9327,8 @@
     "criteria": {
       "minecraft:cow": "2025-05-19 20:58:13 +0000",
       "minecraft:pig": "2025-05-22 15:16:19 +0000",
-      "minecraft:sheep": "2025-05-22 15:16:54 +0000"
+      "minecraft:sheep": "2025-05-22 15:16:54 +0000",
+      "minecraft:wolf": "2025-05-22 17:07:12 +0000"
     },
     "done": false
   },
@@ -9421,6 +9530,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_rgb": {
+    "criteria": {
+      "has_dye": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-19 17:03:40 +0000"
@@ -9564,6 +9679,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-05-19 22:39:58 +0000"
@@ -9640,6 +9761,12 @@
   "cfm:recipes/cfm/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-05-19 17:52:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/glass_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-22 17:08:28 +0000"
     },
     "done": true
   },
@@ -10023,6 +10150,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_blue_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-05-22 17:08:29 +0000"
+    },
+    "done": true
+  },
   "deepresonance:recipes/deepresonance/resonating_plate": {
     "criteria": {
       "has_ore": "2025-05-19 20:47:17 +0000"
@@ -10032,6 +10165,12 @@
   "alltheores:recipes/alltheores/osmium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-19 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-22 17:08:28 +0000"
     },
     "done": true
   },
@@ -10089,6 +10228,12 @@
       "byg:temperate_rainforest": "2025-05-19 17:34:35 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2025-05-22 17:08:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
@@ -10980,6 +11125,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/tinted_borderless_glass_blue2": {
+    "criteria": {
+      "recipe_condition2": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 17:13:47 +0000"
@@ -11362,6 +11513,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
     "criteria": {
       "has_redstone": "2025-05-22 15:41:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/azulejo_0": {
+    "criteria": {
+      "has_item": "2025-05-22 17:08:29 +0000"
     },
     "done": true
   },
@@ -12212,6 +12369,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-05-19 17:07:59 +0000"
@@ -12622,6 +12785,12 @@
   "corail_woodcutter:recipes/from_dark_planks": {
     "criteria": {
       "has_ingredient": "2025-05-19 16:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-05-22 17:08:28 +0000"
     },
     "done": true
   },
@@ -13414,6 +13583,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 17:08:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_crate": {
     "criteria": {
       "has_planks": "2025-05-19 22:27:35 +0000"
@@ -13764,6 +13939,12 @@
       "fluffy_seeds": "2025-05-22 14:46:33 +0000"
     },
     "done": false
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
   },
   "mcwlights:recipes/garden_light": {
     "criteria": {
