@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-22 22:30:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-21 22:03:19 +0000"
@@ -1924,6 +1930,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_phantom_membrane": {
     "criteria": {
       "has_chorus": "2025-05-21 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/emerald": {
+    "criteria": {
+      "has_the_recipe": "2025-05-22 22:30:42 +0000"
     },
     "done": true
   },
@@ -4738,6 +4750,12 @@
   "alchemistry:recipes/dissolver/chain": {
     "criteria": {
       "has_the_recipe": "2025-05-21 13:16:12 +0000"
+    },
+    "done": true
+  },
+  "pylons:recipes/pylons/infusion_pylon": {
+    "criteria": {
+      "has_emerald_block": "2025-05-22 22:30:42 +0000"
     },
     "done": true
   },

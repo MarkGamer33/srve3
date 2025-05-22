@@ -12379,6 +12379,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-22 22:34:00 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/raw_tin_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2025-05-19 17:24:55 +0000"

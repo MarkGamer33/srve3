@@ -731,6 +731,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-05-22 22:28:54 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/deepslate_brick_bridge": {
     "criteria": {
       "has_planks": "2025-05-20 22:15:56 +0000"
@@ -1650,6 +1656,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-05-22 22:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-05-21 22:55:01 +0000"
@@ -1959,6 +1971,12 @@
   "additionallanterns:recipes/additionallanterns/blackstone_chain": {
     "criteria": {
       "recipe_condition": "2025-05-21 14:19:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_crate": {
+    "criteria": {
+      "has_log": "2025-05-22 22:28:54 +0000"
     },
     "done": true
   },
@@ -4924,6 +4942,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-22 22:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-05-19 19:53:47 +0000"
@@ -5825,6 +5849,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_planks": "2025-05-22 22:28:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2025-05-18 22:51:22 +0000"
@@ -6080,6 +6110,12 @@
   "littlelogistics:recipes/transportation/spring": {
     "criteria": {
       "has_item": "2025-05-19 17:38:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-05-22 22:28:54 +0000"
     },
     "done": true
   },
@@ -6572,6 +6608,12 @@
   "silentgear:recipes/silentgear/crimson_iron_dust_blasting": {
     "criteria": {
       "has_item": "2025-05-19 22:02:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-05-22 22:28:54 +0000"
     },
     "done": true
   },
@@ -7443,6 +7485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-22 22:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-05-19 17:36:16 +0000"
@@ -7590,6 +7638,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/basic_to_iron_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-05-19 22:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-22 22:28:59 +0000"
     },
     "done": true
   },
@@ -10122,6 +10176,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-05-22 22:28:59 +0000",
+      "has_block": "2025-05-22 22:28:59 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_blue_r": {
     "criteria": {
       "has_chiseled_stone_bricks": "2025-05-20 15:38:53 +0000"
@@ -10215,6 +10276,12 @@
   "reliquary:recipes/food/uncrafting/spider_eye": {
     "criteria": {
       "has_chelicerae": "2025-05-20 15:15:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_table": {
+    "criteria": {
+      "has_log": "2025-05-22 22:28:54 +0000"
     },
     "done": true
   },
@@ -11033,6 +11100,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-22 22:28:54 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-05-19 17:32:52 +0000"
@@ -11146,6 +11219,7 @@
       "byg:coconino_meadow": "2025-05-18 22:26:10 +0000",
       "byg:rainbow_beach": "2025-05-18 23:06:00 +0000",
       "byg:allium_fields": "2025-05-20 22:37:39 +0000",
+      "byg:prairie": "2025-05-22 22:32:33 +0000",
       "byg:sythian_torrids": "2025-05-19 21:59:11 +0000",
       "byg:glowstone_gardens": "2025-05-19 22:10:35 +0000",
       "byg:sierra_badlands": "2025-05-19 20:24:35 +0000",
@@ -11164,14 +11238,17 @@
       "byg:dacite_ridges": "2025-05-21 20:28:43 +0000",
       "byg:forgotten_forest": "2025-05-18 23:14:22 +0000",
       "byg:crimson_gardens": "2025-05-19 22:10:56 +0000",
+      "byg:cardinal_tundra": "2025-05-22 22:28:46 +0000",
       "byg:baobab_savanna": "2025-05-19 20:28:41 +0000",
       "byg:amaranth_fields": "2025-05-18 23:04:51 +0000",
       "byg:brimstone_caverns": "2025-05-19 21:55:45 +0000",
       "byg:ebony_woods": "2025-05-19 15:46:40 +0000",
       "byg:lush_stacks": "2025-05-19 15:33:23 +0000",
+      "byg:basalt_barrera": "2025-05-22 22:34:12 +0000",
       "byg:temperate_rainforest": "2025-05-19 17:32:19 +0000",
       "byg:mojave_desert": "2025-05-19 15:44:16 +0000",
       "byg:dacite_shore": "2025-05-18 22:50:23 +0000",
+      "byg:frosted_coniferous_forest": "2025-05-22 22:28:24 +0000",
       "byg:windswept_desert": "2025-05-19 15:43:12 +0000",
       "byg:frosted_taiga": "2025-05-22 21:30:29 +0000"
     },
@@ -11959,6 +12036,18 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_desk": {
+    "criteria": {
+      "has_log": "2025-05-22 22:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_stripped_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-22 22:28:54 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_nickel_hammering": {
     "criteria": {
       "has_nickel_ingot": "2025-05-21 23:33:59 +0000"
@@ -12071,6 +12160,12 @@
   "rootsclassic:recipes/rootsclassic/attuned_standing_stone": {
     "criteria": {
       "has_diamond": "2025-05-19 16:55:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-05-22 22:28:54 +0000"
     },
     "done": true
   },
@@ -12195,6 +12290,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-22 22:28:54 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2025-05-18 22:28:01 +0000"
@@ -12229,6 +12330,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-19 17:38:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-05-22 22:28:54 +0000"
     },
     "done": true
   },
@@ -13142,6 +13249,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-22 22:27:28 +0000",
       "minecraft:frozen_river": "2025-05-22 21:30:39 +0000",
       "quark:glimmering_weald": "2025-05-20 17:11:31 +0000",
       "minecraft:birch_forest": "2025-05-20 22:38:13 +0000",
@@ -13162,6 +13270,7 @@
       "minecraft:forest": "2025-05-18 23:05:47 +0000",
       "minecraft:lush_caves": "2025-05-21 20:33:12 +0000",
       "minecraft:deep_cold_ocean": "2025-05-18 22:30:31 +0000",
+      "minecraft:frozen_ocean": "2025-05-22 22:30:34 +0000",
       "minecraft:windswept_forest": "2025-05-22 21:30:52 +0000",
       "minecraft:jungle": "2025-05-18 23:09:59 +0000",
       "minecraft:deep_dark": "2025-05-19 15:35:49 +0000",
@@ -14469,6 +14578,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2025-05-22 22:28:54 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/cooked_porkchop": {
     "criteria": {
       "has_the_recipe": "2025-05-19 19:50:02 +0000"
@@ -15012,6 +15127,12 @@
   "utilitix:recipes/utilitix/minecart_tinkerer": {
     "criteria": {
       "criterion0": "2025-05-18 22:51:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_chair": {
+    "criteria": {
+      "has_log": "2025-05-22 22:28:54 +0000"
     },
     "done": true
   },
