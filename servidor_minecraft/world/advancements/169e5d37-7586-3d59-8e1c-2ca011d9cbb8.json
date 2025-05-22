@@ -3442,6 +3442,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_crimson": "2025-05-22 23:23:46 +0000",
       "in_mineshaft_nether": "2025-05-19 22:19:31 +0000"
     },
     "done": false
