@@ -2,14 +2,7 @@
 	max_claim_chunks: 500
 	max_force_load_chunks: 25
 	last_login_time: 1748008754817L
-	chunks: {
-		"minecraft:the_nether": [
-			{ x: 55, z: 1, time: 1747837342804L }
-			{ x: 54, z: 0, time: 1747837342804L }
-			{ x: 53, z: 0, time: 1747837342804L }
-			{ x: 56, z: 1, time: 1747837342804L }
-		]
-	}
+	chunks: { }
 	member_data: {
 		b04bef11-008b-301c-a346-4f701a47bf1d: {
 			max_force_loaded_chunks: 25
