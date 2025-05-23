@@ -1038,6 +1038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-23 00:07:01 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/brown_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-19 20:54:20 +0000"
@@ -1047,6 +1053,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/elevator_frame": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-23 00:11:21 +0000"
     },
     "done": true
   },
@@ -3253,6 +3265,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/alchemistry/reactor_casing": {
+    "criteria": {
+      "has_item": "2025-05-23 00:07:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-05-19 17:39:22 +0000"
@@ -3814,6 +3832,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_chest_boat_from_acacia_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 23:35:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-05-23 00:06:50 +0000"
     },
     "done": true
   },
@@ -4400,6 +4424,12 @@
   "cfm:recipes/cfm/birch_cabinet": {
     "criteria": {
       "has_planks": "2025-05-20 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-23 00:07:01 +0000"
     },
     "done": true
   },
@@ -5246,6 +5276,7 @@
       "rice": "2025-05-22 09:19:38 +0000",
       "sugar_cane": "2025-05-19 18:17:10 +0000",
       "potato": "2025-05-19 18:01:51 +0000",
+      "nether_wart": "2025-05-23 00:08:48 +0000",
       "wheat": "2025-05-19 17:33:28 +0000"
     },
     "done": false
@@ -9439,6 +9470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-23 00:07:01 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/fine_silk": {
     "criteria": {
       "has_item": "2025-05-22 14:54:08 +0000"
@@ -10123,6 +10160,12 @@
   "ae2:recipes/ae2.main/block_cutter/walls/quartz_wall": {
     "criteria": {
       "has_quartz_block": "2025-05-20 18:09:01 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-05-23 00:06:50 +0000"
     },
     "done": true
   },
@@ -17151,6 +17194,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/spark": {
+    "criteria": {
+      "has_item": "2025-05-23 00:07:01 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/smelting/raw_materials/tin_to_ingot": {
     "criteria": {
       "has_item": "2025-05-18 22:24:29 +0000"
@@ -19488,6 +19537,12 @@
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-05-19 17:47:43 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/blaze_gold_ingot": {
+    "criteria": {
+      "has_item": "2025-05-23 00:07:01 +0000"
     },
     "done": true
   },
