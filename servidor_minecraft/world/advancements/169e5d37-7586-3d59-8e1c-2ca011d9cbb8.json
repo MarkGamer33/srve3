@@ -11425,6 +11425,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/lead_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-22 23:56:33 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_brown": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-18 22:51:28 +0000"
@@ -12518,6 +12524,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/tin_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-05-22 23:56:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_mail_box": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
@@ -13109,6 +13121,12 @@
   "aquaculture:recipes/aquaculture/note_hook": {
     "criteria": {
       "has_items": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shapeless/lead_block_to_lead_ingot": {
+    "criteria": {
+      "has_item": "2025-05-22 23:56:33 +0000"
     },
     "done": true
   },
@@ -14517,6 +14535,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/dispenser_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-19 17:53:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 00:04:08 +0000"
     },
     "done": true
   },
@@ -22267,6 +22291,12 @@
   "create:recipes/create.palettes/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-19 18:08:16 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shapeless/tin_block_to_tin_ingot": {
+    "criteria": {
+      "has_item": "2025-05-22 23:56:27 +0000"
     },
     "done": true
   },
