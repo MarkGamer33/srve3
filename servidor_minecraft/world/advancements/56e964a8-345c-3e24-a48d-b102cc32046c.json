@@ -4698,6 +4698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-23 20:01:08 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-05-19 22:37:16 +0000"
@@ -7876,6 +7882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-23 20:01:08 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/golden_apple": {
     "criteria": {
       "has_the_recipe": "2025-05-19 17:52:08 +0000"
@@ -8532,6 +8544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-23 20:01:08 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/iron_nugget": {
     "criteria": {
       "has_the_recipe": "2025-05-19 17:13:46 +0000"
@@ -9166,6 +9184,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/chiseled_sandstone_green": {
     "criteria": {
       "has_chiseled_sandstone": "2025-05-19 17:53:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-23 20:01:08 +0000"
     },
     "done": true
   },
@@ -11200,6 +11224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-23 20:01:08 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_blue_r": {
     "criteria": {
       "has_chiseled_stone_bricks": "2025-05-23 19:18:26 +0000"
@@ -12828,6 +12858,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/mossy_cobblestone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-23 20:01:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-19 17:07:58 +0000"
@@ -12963,6 +12999,12 @@
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-05-19 22:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-23 20:01:08 +0000"
     },
     "done": true
   },
@@ -15338,6 +15380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-23 20:01:08 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2025-05-19 17:52:11 +0000"
@@ -15353,6 +15401,12 @@
   "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-19 22:14:54 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-23 20:01:08 +0000"
     },
     "done": true
   },
@@ -15876,6 +15930,12 @@
   "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2025-05-23 16:50:43 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mossy_stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-23 20:01:08 +0000"
     },
     "done": true
   },

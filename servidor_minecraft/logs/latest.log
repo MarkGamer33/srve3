@@ -1846,3 +1846,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [23May2025 19:47:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito has made the advancement [Howling Blades]
 [23May2025 19:57:38.989] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/18592, l='ServerLevel[world]', x=6677.06, y=64.18, z=1094.74] died, message: 'Farmer was slain by Zombie'
 [23May2025 19:57:39.240] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/18523, l='ServerLevel[world]', x=6677.53, y=63.00, z=1093.05] died, message: 'Nitwit was slain by Zombie'
+[23May2025 20:01:37.690] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/18583, l='ServerLevel[world]', x=6643.49, y=65.00, z=1117.70] died, message: 'Nitwit was slain by General Grabbieo the Special'
+[23May2025 20:01:47.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['General Grabbieo the Special'/22310, l='ServerLevel[world]', x=6654.72, y=68.00, z=1123.01] died: General Grabbieo the Special was slain by Iron Golem
+[23May2025 20:06:03.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Spectator Mode]
+[23May2025 20:07:05.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
+[23May2025 20:07:20.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Spectator Mode]
+[23May2025 20:07:28.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
