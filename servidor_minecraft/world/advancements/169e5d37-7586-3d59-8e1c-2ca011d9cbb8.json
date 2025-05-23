@@ -4511,6 +4511,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/extruding/plates/copper_to_copper_gear": {
+    "criteria": {
+      "has_item": "2025-05-23 18:38:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
@@ -17194,6 +17200,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2025-05-23 18:38:41 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/block_cutter/walls/sky_stone_wall": {
     "criteria": {
       "has_sky_stone_block": "2025-05-20 18:08:46 +0000"
@@ -23297,6 +23309,12 @@
   "alchemistry:recipes/dissolver/melon": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:53:28 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/compressing/dense_copper_plate": {
+    "criteria": {
+      "has_item": "2025-05-23 18:38:41 +0000"
     },
     "done": true
   },
