@@ -12411,6 +12411,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/hellshelf": {
+    "criteria": {
+      "hellshelf": "2025-05-23 00:36:08 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/cyan_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-20 23:36:05 +0000"
