@@ -1830,3 +1830,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [23May2025 18:52:20.294] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MarkGamer
 [23May2025 18:55:38.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6668, y=102, z=792} BlockPos{x=6668, y=101, z=792}
 [23May2025 18:55:38.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6668, y=102, z=792} BlockPos{x=6668, y=101, z=792}
+[23May2025 18:59:49.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6661, y=76, z=777} BlockPos{x=6660, y=74, z=776}
