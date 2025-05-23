@@ -803,6 +803,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/extruding/ingots/tin_to_tin_rod": {
+    "criteria": {
+      "has_item": "2025-05-23 19:39:57 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/coal_block": {
     "criteria": {
       "has_the_recipe": "2025-05-19 16:59:10 +0000"
@@ -1079,6 +1085,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/ingots/tin_to_tin_gear": {
+    "criteria": {
+      "has_item": "2025-05-23 19:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-22 18:03:56 +0000"
@@ -1151,6 +1163,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/macerating/ingots/tin_to_dust": {
+    "criteria": {
+      "has_item": "2025-05-23 19:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-05-19 17:52:11 +0000"
@@ -1214,6 +1232,12 @@
   "alltheores:recipes/alltheores/silver_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2025-05-19 20:12:58 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/fluid_cell": {
+    "criteria": {
+      "has_item": "2025-05-23 19:39:58 +0000"
     },
     "done": true
   },
@@ -1802,6 +1826,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-05-19 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/tin_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-05-23 19:39:58 +0000"
     },
     "done": true
   },
@@ -4487,6 +4517,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/empty_can": {
+    "criteria": {
+      "has_item": "2025-05-23 19:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-05-19 17:59:38 +0000"
@@ -5602,6 +5638,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/tin_ingot_to_tin_block": {
+    "criteria": {
+      "has_item": "2025-05-23 19:39:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-19 17:19:55 +0000"
@@ -5769,6 +5811,12 @@
   "alltheores:recipes/alltheores/lead_ingot_from_raw": {
     "criteria": {
       "has_item": "2025-05-22 15:22:13 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/battery": {
+    "criteria": {
+      "has_item": "2025-05-23 19:39:58 +0000"
     },
     "done": true
   },
@@ -7019,6 +7067,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/tin_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-05-23 19:39:57 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/machine_frame": {
     "criteria": {
       "iron_ingot": "2025-05-19 21:00:10 +0000"
@@ -7169,6 +7223,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shapeless/tin_ingot_to_tin_nugget": {
+    "criteria": {
+      "has_item": "2025-05-23 19:39:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/brown_picket_gate": {
     "criteria": {
       "has_gate": "2025-05-19 22:00:56 +0000"
@@ -7250,6 +7310,12 @@
   "ftbic:recipes/ftbic/macerating/ingots/uranium_to_dust": {
     "criteria": {
       "has_item": "2025-05-23 19:24:08 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/rolling/ingots/tin_to_tin_plate": {
+    "criteria": {
+      "has_item": "2025-05-23 19:39:58 +0000"
     },
     "done": true
   },
@@ -7614,6 +7680,12 @@
     "criteria": {
       "recipe_condition2": "2025-05-22 17:08:28 +0000",
       "has_the_recipe": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/tin_knife": {
+    "criteria": {
+      "has_tin": "2025-05-23 19:39:58 +0000"
     },
     "done": true
   },
@@ -8246,6 +8318,12 @@
   "cfm:recipes/cfm/door_mat": {
     "criteria": {
       "has_wheat": "2025-05-19 17:38:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/tin_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-23 19:39:58 +0000"
     },
     "done": true
   },
@@ -9928,6 +10006,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/tin_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-05-23 19:39:58 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/inverted_bricks_cloud_red": {
     "criteria": {
       "has_xychorium_gem_red": "2025-05-19 21:13:05 +0000"
@@ -11027,6 +11111,12 @@
   "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 22:28:55 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/ingots/tin_to_tin_rod": {
+    "criteria": {
+      "has_item": "2025-05-23 19:39:58 +0000"
     },
     "done": true
   },
@@ -16098,6 +16188,12 @@
   "cfm:recipes/cfm/birch_coffee_table": {
     "criteria": {
       "has_log": "2025-05-19 22:27:35 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/tin_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2025-05-23 19:39:57 +0000"
     },
     "done": true
   },
