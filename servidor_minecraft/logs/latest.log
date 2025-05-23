@@ -1804,3 +1804,29 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [23May2025 18:31:11.294] [Server thread/INFO] [chiefarug.mods.systeams.Systeams/]: Welcome aboard Captain. All Systeams online
 [23May2025 18:31:11.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
 [23May2025 18:34:01.164] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 81 recipes!
+[23May2025 18:48:25.437] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ba32424
+[23May2025 18:48:25.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: josito[/127.23.157.184:35393] logged in with entity id 3921 at (6641.333090370014, 96.0, 762.6556387194377)
+[23May2025 18:48:25.488] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to josito
+[23May2025 18:48:25.488] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to josito
+[23May2025 18:48:25.488] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to josito
+[23May2025 18:48:25.488] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to josito
+[23May2025 18:48:25.490] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to josito
+[23May2025 18:48:25.492] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to josito
+[23May2025 18:48:25.492] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to josito
+[23May2025 18:48:25.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito joined the game
+[23May2025 18:48:25.891] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: josito
+[23May2025 18:49:32.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer lost connection: Disconnected
+[23May2025 18:49:32.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer left the game
+[23May2025 18:52:19.807] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5c61edb
+[23May2025 18:52:19.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarkGamer[/127.183.135.68:60377] logged in with entity id 4675 at (6628.728775210437, 98.0, 753.1886033822938)
+[23May2025 18:52:19.859] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to MarkGamer
+[23May2025 18:52:19.859] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to MarkGamer
+[23May2025 18:52:19.860] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to MarkGamer
+[23May2025 18:52:19.860] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to MarkGamer
+[23May2025 18:52:19.861] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to MarkGamer
+[23May2025 18:52:19.864] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to MarkGamer
+[23May2025 18:52:19.864] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to MarkGamer
+[23May2025 18:52:20.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer joined the game
+[23May2025 18:52:20.294] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MarkGamer
+[23May2025 18:55:38.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6668, y=102, z=792} BlockPos{x=6668, y=101, z=792}
+[23May2025 18:55:38.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6668, y=102, z=792} BlockPos{x=6668, y=101, z=792}

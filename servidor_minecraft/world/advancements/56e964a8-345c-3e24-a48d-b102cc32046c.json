@@ -11616,15 +11616,15 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_fort": {
-    "criteria": {
-      "location0": "2025-05-23 17:16:35 +0000"
-    },
-    "done": true
-  },
   "xycraft_world:recipes/xycraft_world/shaped/lamp_rgb_r": {
     "criteria": {
       "has_aluminum": "2025-05-23 15:52:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-05-23 17:16:35 +0000"
     },
     "done": true
   },
@@ -12524,15 +12524,15 @@
     },
     "done": true
   },
-  "alltheores:recipes/alltheores/platinum_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-05-23 16:48:59 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_nickel_hammering": {
     "criteria": {
       "has_nickel_ingot": "2025-05-23 15:52:53 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/platinum_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-23 16:48:59 +0000"
     },
     "done": true
   },
