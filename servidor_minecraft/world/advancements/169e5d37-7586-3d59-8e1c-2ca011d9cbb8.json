@@ -2187,6 +2187,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_tiles_cloud_green": {
+    "criteria": {
+      "has_aluminum_bricks_cloud_green": "2025-05-23 02:23:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-19 18:08:16 +0000"
@@ -8424,6 +8430,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/stonecutting/aluminum_bricks_cloud_green": {
+    "criteria": {
+      "has_for_aluminum_bricks_cloud_green": "2025-05-23 02:23:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_red_picket_fence": {
     "criteria": {
       "has_dye": "2025-05-20 22:13:56 +0000"
@@ -9077,6 +9089,12 @@
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:53 +0000"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/stonecutting/aluminum_tiles_cloud_green": {
+    "criteria": {
+      "has_for_aluminum_tiles_cloud_green": "2025-05-23 02:23:13 +0000"
     },
     "done": true
   },
