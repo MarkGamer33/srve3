@@ -13768,6 +13768,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/storage_link_from_controller": {
+    "criteria": {
+      "has_controller": "2025-05-23 00:25:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2025-05-18 22:15:55 +0000"
@@ -17356,6 +17362,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/nether_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-05-23 00:34:52 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/pineapple_seed": {
     "criteria": {
       "has_pineapple": "2025-05-22 09:17:57 +0000"
@@ -19634,6 +19646,12 @@
   "alltheores:recipes/alltheores/nickel_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-20 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2025-05-23 00:34:52 +0000"
     },
     "done": true
   },
