@@ -2221,6 +2221,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-23 19:45:34 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_red": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 21:11:40 +0000"
@@ -5126,6 +5132,7 @@
       "minecraft:cave_spider": "2025-05-22 21:44:36 +0000",
       "minecraft:stray": "2025-05-19 20:28:51 +0000",
       "minecraft:silverfish": "2025-05-23 17:37:49 +0000",
+      "minecraft:enderman": "2025-05-23 19:52:47 +0000",
       "minecraft:zombie": "2025-05-19 17:18:23 +0000",
       "minecraft:zombie_villager": "2025-05-19 19:53:24 +0000"
     },
@@ -5164,6 +5171,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-05-19 22:27:35 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_howling": {
+    "criteria": {
+      "find": "2025-05-23 19:47:13 +0000"
     },
     "done": true
   },
@@ -5665,6 +5678,12 @@
   "utilitix:recipes/utilitix/gilding_crystal": {
     "criteria": {
       "criterion0": "2025-05-19 17:52:09 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-05-23 19:47:12 +0000"
     },
     "done": true
   },
@@ -8685,6 +8704,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-05-19 17:13:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/shield": {
+    "criteria": {
+      "has_shield": "2025-05-23 19:53:02 +0000"
     },
     "done": true
   },
