@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/lead_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-05-20 17:44:45 +0000"
@@ -272,6 +278,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
     },
     "done": true
   },
@@ -1755,6 +1767,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/stone_wand": {
     "criteria": {
       "has_item": "2025-05-18 22:14:40 +0000"
@@ -2418,6 +2436,12 @@
   "reliquary:recipes/brewing/uncrafting/magma_cream": {
     "criteria": {
       "has_molten_core": "2025-05-19 21:57:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
     },
     "done": true
   },
@@ -5015,6 +5039,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-05-18 22:30:28 +0000"
@@ -5157,6 +5187,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_dark_r": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-22 14:57:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
     },
     "done": true
   },
@@ -5471,6 +5507,12 @@
   "create:recipes/create.palettes/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-18 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
     },
     "done": true
   },
@@ -5820,6 +5862,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/powerful_air_shard_from_air_shards": {
     "criteria": {
       "has_air_shard": "2025-05-19 17:35:12 +0000"
@@ -6129,6 +6177,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-21 21:55:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
     },
     "done": true
   },
@@ -6450,6 +6504,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/silver_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2025-05-20 17:44:46 +0000"
@@ -6501,6 +6561,12 @@
   "alchemistry:recipes/dissolver/brown_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-05-18 23:04:51 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
     },
     "done": true
   },
@@ -8979,6 +9045,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/fletching_template": {
     "criteria": {
       "has_item": "2025-05-18 23:05:54 +0000"
@@ -10540,6 +10612,12 @@
   "create:recipes/create.palettes/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-05-19 18:20:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
     },
     "done": true
   },
@@ -12176,6 +12254,12 @@
   "botania:recipes/botania/petal_white_double": {
     "criteria": {
       "has_alt_item": "2025-05-21 13:35:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
     },
     "done": true
   },
@@ -16737,6 +16821,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-05-20 14:22:31 +0000"
@@ -17062,6 +17152,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-05-20 17:23:25 +0000"
@@ -17242,6 +17338,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/oxidized_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:05:40 +0000"
@@ -17323,6 +17425,12 @@
   "securitycraft:recipes/securitycraft/keypad_item": {
     "criteria": {
       "has_stone_button": "2025-05-22 09:26:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
     },
     "done": true
   },
@@ -17591,6 +17699,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/bauble_box": {
     "criteria": {
       "has_item": "2025-05-20 19:14:05 +0000"
@@ -17834,6 +17948,12 @@
   "corail_woodcutter:recipes/from_byg_witch_hazel_planks": {
     "criteria": {
       "has_ingredient": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
     },
     "done": true
   },
@@ -18387,6 +18507,12 @@
   "ftbic:recipes/ftbic/blasting/raw_materials/tin_to_ingot": {
     "criteria": {
       "has_item": "2025-05-18 22:24:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
     },
     "done": true
   },
@@ -20002,6 +20128,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-18 22:17:09 +0000"
@@ -20364,6 +20496,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/crimson_steel_dust": {
     "criteria": {
       "has_item": "2025-05-20 23:37:34 +0000"
@@ -20542,6 +20680,12 @@
   "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-05-19 21:30:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
     },
     "done": true
   },
@@ -22306,6 +22450,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/tinted_borderless_glass_blue2": {
     "criteria": {
       "recipe_condition2": "2025-05-20 22:18:25 +0000",
@@ -23288,6 +23438,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-05-19 18:05:31 +0000"
@@ -24194,6 +24350,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-21 13:34:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-05-23 19:15:47 +0000"
     },
     "done": true
   },
