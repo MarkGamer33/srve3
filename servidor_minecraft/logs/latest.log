@@ -1854,3 +1854,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [23May2025 20:07:28.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
 [23May2025 20:12:25.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josito lost connection: Disconnected
 [23May2025 20:12:25.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito left the game
+[23May2025 20:18:49.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Creative Mode]
+[23May2025 20:18:59.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
