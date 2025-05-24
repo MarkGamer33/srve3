@@ -13950,6 +13950,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-05-24 14:01:39 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/food/cake_compat": {
     "criteria": {
       "has_item": "2025-05-19 17:36:41 +0000"
