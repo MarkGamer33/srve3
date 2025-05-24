@@ -2021,3 +2021,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [24May2025 14:32:03.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 left the game
 [24May2025 14:32:21.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
 [24May2025 14:33:35.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Gave 1    [Spawner] to MarkGamer]
+[24May2025 14:37:25.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Spectator Mode]
+[24May2025 14:37:38.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
+[24May2025 14:38:10.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has reached the goal [Mastering Hell and Sea]
+[24May2025 14:43:18.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Creative Mode]

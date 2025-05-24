@@ -7991,6 +7991,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/60ench": {
+    "criteria": {
+      "enchanted_item": "2025-05-24 14:38:10 +0000"
+    },
+    "done": true
+  },
   "littlelogistics:recipes/transportation/vessel_charger": {
     "criteria": {
       "has_item": "2025-05-18 22:30:28 +0000"
