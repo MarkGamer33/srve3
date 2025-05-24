@@ -2016,3 +2016,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [24May2025 14:17:50.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Spectator Mode]
 [24May2025 14:17:52.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
 [24May2025 14:20:40.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Gave 25    [Soul Sand] to MarkGamer]
+[24May2025 14:27:12.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Gave 128    [Glowstone] to MarkGamer]
+[24May2025 14:32:03.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danilotrento34 lost connection: Disconnected
+[24May2025 14:32:03.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 left the game
+[24May2025 14:32:21.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[24May2025 14:33:35.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Gave 1    [Spawner] to MarkGamer]
