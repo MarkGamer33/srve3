@@ -6702,7 +6702,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "cabbage": "2025-05-21 19:52:50 +0000"
+      "cabbage": "2025-05-21 19:52:50 +0000",
+      "wheat": "2025-05-24 14:16:29 +0000",
+      "melon": "2025-05-24 14:16:28 +0000"
     },
     "done": false
   },
@@ -13454,6 +13456,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_crate": {
     "criteria": {
       "has_planks": "2025-05-18 22:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2025-05-24 14:16:27 +0000"
     },
     "done": true
   },

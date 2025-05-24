@@ -2012,3 +2012,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [24May2025 14:11:56.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3382, y=41, z=-11} BlockPos{x=-3383, y=42, z=-10}
 [24May2025 14:12:58.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Spectator Mode]
 [24May2025 14:14:37.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
+[24May2025 14:16:27.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danilotrento34 has made the advancement [A Seedy Place]
+[24May2025 14:17:50.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Spectator Mode]
+[24May2025 14:17:52.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
+[24May2025 14:20:40.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Gave 25    [Soul Sand] to MarkGamer]
