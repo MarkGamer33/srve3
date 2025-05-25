@@ -707,6 +707,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cooked_salmon": {
+    "criteria": {
+      "has_the_recipe": "2025-05-25 22:40:54 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/jukebox": {
     "criteria": {
       "has_the_recipe": "2025-05-18 23:24:48 +0000"
@@ -2554,6 +2560,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/cooked_tuna_from_smoking_tuna": {
+    "criteria": {
+      "has_tuna": "2025-05-25 22:44:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-19 18:08:16 +0000"
@@ -4120,6 +4132,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 23:14:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cooked_anchovy_from_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-05-25 22:44:24 +0000"
     },
     "done": true
   },
@@ -6595,6 +6613,12 @@
     },
     "done": true
   },
+  "littlelogistics:recipes/transportation/fishing_barge": {
+    "criteria": {
+      "has_item": "2025-05-25 22:38:01 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/reliquary/alkahestry_altar": {
     "criteria": {
       "has_nebulous_heart": "2025-05-20 16:06:52 +0000"
@@ -7127,7 +7151,10 @@
     "criteria": {
       "sea_lettuce": "2025-05-21 12:31:44 +0000",
       "cooked_shrimp": "2025-05-21 12:32:13 +0000",
+      "anchovy": "2025-05-25 22:44:24 +0000",
+      "cooked_tuna": "2025-05-25 22:44:37 +0000",
       "calamari": "2025-05-22 09:21:39 +0000",
+      "tuna": "2025-05-25 22:44:37 +0000",
       "oyster": "2025-05-21 12:32:13 +0000",
       "crab": "2025-05-23 01:59:21 +0000"
     },
@@ -8821,6 +8848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-25 22:40:54 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/onion_rings": {
     "criteria": {
       "has_onions": "2025-05-18 22:51:27 +0000"
@@ -9082,6 +9115,12 @@
   "cfm:recipes/cfm/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-05-18 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/anchovy_pizza": {
+    "criteria": {
+      "has_anchovies": "2025-05-25 22:44:24 +0000"
     },
     "done": true
   },
@@ -10824,6 +10863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-25 22:40:54 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/katana_blueprint": {
     "criteria": {
       "has_item": "2025-05-20 22:18:25 +0000"
@@ -11706,6 +11751,12 @@
   "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-21 12:33:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-25 22:40:54 +0000"
     },
     "done": true
   },
@@ -13832,6 +13883,12 @@
     },
     "done": true
   },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-05-25 22:43:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_pressure_plate_from_acacia_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 23:35:16 +0000"
@@ -15613,6 +15670,12 @@
   "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_calamari": {
     "criteria": {
       "has_calamari": "2025-05-22 09:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-25 22:40:54 +0000"
     },
     "done": true
   },
@@ -18963,6 +19026,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/cooked_tuna_from_tuna": {
+    "criteria": {
+      "has_tuna": "2025-05-25 22:44:37 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:47:42 +0000"
@@ -20613,6 +20682,12 @@
   "alchemistry:recipes/dissolver/prismarine": {
     "criteria": {
       "has_the_recipe": "2025-05-25 19:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-25 22:40:54 +0000"
     },
     "done": true
   },
@@ -23140,6 +23215,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/cooked_anchovy_from_smoking_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-05-25 22:44:24 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-05-23 15:15:01 +0000",
@@ -23796,6 +23877,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_boat_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:50:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/tuna_roll": {
+    "criteria": {
+      "has_tuna": "2025-05-25 22:44:37 +0000"
     },
     "done": true
   },

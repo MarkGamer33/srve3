@@ -6572,6 +6572,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice": {
+    "criteria": {
+      "has_rice_panicle": "2025-05-25 22:44:34 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2025-05-21 13:16:11 +0000"
@@ -14004,6 +14010,12 @@
   "botania:recipes/botania/red_string_container": {
     "criteria": {
       "has_base_block": "2025-05-21 13:41:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2025-05-25 22:44:34 +0000"
     },
     "done": true
   },
