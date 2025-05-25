@@ -1941,3 +1941,27 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [25May2025 17:52:40.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Creative Mode]
 [25May2025 17:52:45.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
 [25May2025 17:57:47.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Creative Mode]
+[25May2025 18:02:17.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
+[25May2025 18:05:17.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Creative Mode]
+[25May2025 18:06:49.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
+[25May2025 18:10:10.432] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@65e3b857
+[25May2025 18:10:10.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PabloMotosSA[/127.232.161.197:59779] logged in with entity id 26109 at (6644.5, 145.0, 701.5)
+[25May2025 18:10:10.483] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PabloMotosSA
+[25May2025 18:10:10.483] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PabloMotosSA
+[25May2025 18:10:10.483] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PabloMotosSA
+[25May2025 18:10:10.483] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PabloMotosSA
+[25May2025 18:10:10.485] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PabloMotosSA
+[25May2025 18:10:10.487] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PabloMotosSA
+[25May2025 18:10:10.487] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PabloMotosSA
+[25May2025 18:10:10.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PabloMotosSA joined the game
+[25May2025 18:10:11.446] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: PabloMotosSA
+[25May2025 18:11:32.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Spectator Mode]
+[25May2025 18:11:40.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
+[25May2025 18:12:33.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Teleported MarkGamer to PabloMotosSA]
+[25May2025 18:13:04.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/3035, l='ServerLevel[world]', x=6474.08, y=117.24, z=823.61] died: Honeyed Archer suffocated in a wall
+[25May2025 18:15:10.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PabloMotosSA lost connection: Timed out
+[25May2025 18:15:10.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PabloMotosSA left the game
+[25May2025 18:15:10.659] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25May2025 18:16:16.729] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@9db4328[id=<null>,name=PabloMotosSA,properties={},legacy=false] (/127.232.161.197:58619): Took too long to log in
+[25May2025 18:16:16.730] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9db4328[id=<null>,name=PabloMotosSA,properties={},legacy=false] (/127.232.161.197:58619) lost connection: Took too long to log in
+[25May2025 18:16:16.774] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
