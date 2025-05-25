@@ -1888,3 +1888,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [25May2025 23:02:21.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6600, y=54, z=764} BlockPos{x=6599, y=53, z=764}
 [25May2025 23:02:21.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6598, y=52, z=764} BlockPos{x=6599, y=53, z=764}
 [25May2025 23:02:22.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6595, y=49, z=764} BlockPos{x=6597, y=51, z=764}
+[25May2025 23:06:46.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/16590, l='ServerLevel[world]', x=6731.77, y=109.41, z=736.06] died: Undead Knight suffocated in a wall
+[25May2025 23:07:16.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 lost connection: Disconnected
+[25May2025 23:07:16.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 left the game
