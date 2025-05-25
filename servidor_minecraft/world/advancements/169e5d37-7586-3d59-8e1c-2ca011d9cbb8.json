@@ -10946,6 +10946,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/raw_osmium_from_block": {
+    "criteria": {
+      "has_item": "2025-05-25 16:55:29 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-05-19 20:54:20 +0000"
@@ -19301,6 +19307,12 @@
   "bambooeverything:recipes/bamboo_bundle": {
     "criteria": {
       "has_bamboo": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_nickel_from_block": {
+    "criteria": {
+      "has_item": "2025-05-25 16:55:29 +0000"
     },
     "done": true
   },
