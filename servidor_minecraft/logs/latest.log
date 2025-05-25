@@ -1980,3 +1980,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [25May2025 18:26:31.774] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: PabloMotosSA
 [25May2025 18:27:39.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Not Today, Thank You]
 [25May2025 18:28:04.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Ferdinand the Feeble'/29319, l='ServerLevel[world]', x=941.36, y=93.00, z=97.93] died: Ferdinand the Feeble was slain by MarkGamer
+[25May2025 18:32:54.645] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Duke Arun the Really Cool'/30409, l='ServerLevel[world]', x=797.30, y=21.00, z=71.30] died: Duke Arun the Really Cool was slain by MarkGamer
+[25May2025 18:35:49.130] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@787d37d6[id=<null>,name=PabloMotosSA,properties={},legacy=false] (/127.232.161.197:48657): Took too long to log in
+[25May2025 18:35:49.131] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@787d37d6[id=<null>,name=PabloMotosSA,properties={},legacy=false] (/127.232.161.197:48657) lost connection: Took too long to log in
+[25May2025 18:35:49.214] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25May2025 18:37:03.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PabloMotosSA lost connection: Disconnected
+[25May2025 18:37:03.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PabloMotosSA left the game
+[25May2025 18:39:20.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
