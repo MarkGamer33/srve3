@@ -1020,6 +1020,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_blue": {
+    "criteria": {
+      "nugget": "2025-05-25 23:32:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 13:16:17 +0000"
@@ -2202,6 +2208,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_red": {
+    "criteria": {
+      "nugget": "2025-05-25 23:32:49 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/stone": {
     "criteria": {
       "has_the_recipe": "2025-05-21 13:10:29 +0000"
@@ -2777,6 +2789,12 @@
   "botania:recipes/botania/ender_eye_block": {
     "criteria": {
       "has_item": "2025-05-21 13:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-25 23:32:49 +0000"
     },
     "done": true
   },
@@ -11623,6 +11641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-25 23:32:49 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_gray_wool": "2025-05-21 13:39:20 +0000"
@@ -13485,6 +13509,12 @@
     },
     "done": true
   },
+  "rftoolsbase:recipes/rftoolsbase/machine_base": {
+    "criteria": {
+      "gold": "2025-05-25 23:32:49 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_bricks": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-21 14:08:33 +0000"
@@ -13998,6 +14028,12 @@
   "ftbic:recipes/ftbic/rolling/ingots/lead_to_lead_plate": {
     "criteria": {
       "has_item": "2025-05-23 14:55:16 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_routing": {
+    "criteria": {
+      "nugget": "2025-05-25 23:32:49 +0000"
     },
     "done": true
   },
@@ -15258,6 +15294,12 @@
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/planks": {
     "criteria": {
       "has_item": "2025-05-21 13:05:31 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_green": {
+    "criteria": {
+      "nugget": "2025-05-25 23:32:49 +0000"
     },
     "done": true
   },
@@ -17429,6 +17471,12 @@
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-05-21 13:17:24 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_yellow": {
+    "criteria": {
+      "nugget": "2025-05-25 23:32:49 +0000"
     },
     "done": true
   },
