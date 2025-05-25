@@ -18229,6 +18229,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-25 22:26:30 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/separating/silicon_from_quartz": {
     "criteria": {
       "has_item": "2025-05-19 22:07:32 +0000"
@@ -25924,6 +25930,12 @@
   "silentgear:recipes/silentgear/crude_repair_kit": {
     "criteria": {
       "has_item": "2025-05-18 23:05:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-25 22:26:30 +0000"
     },
     "done": true
   },
