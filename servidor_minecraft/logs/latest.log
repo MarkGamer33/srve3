@@ -1809,3 +1809,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [25May2025 16:29:36.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Spectator Mode]
 [25May2025 16:29:41.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
 [25May2025 16:36:48.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=698, y=4, z=187} BlockPos{x=699, y=4, z=187}
+[25May2025 16:45:05.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[25May2025 16:47:13.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
