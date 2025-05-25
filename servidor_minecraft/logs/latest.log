@@ -1872,3 +1872,19 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [25May2025 22:47:57.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 moved too quickly! 10.287549499415036,-0.4499999999999318,0.8094544289726855
 [25May2025 22:48:14.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 lost connection: Disconnected
 [25May2025 22:48:14.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 left the game
+[25May2025 22:54:41.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[25May2025 22:55:25.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved wrongly!
+[25May2025 22:59:05.192] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f3d1178
+[25May2025 22:59:05.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leoy73[/127.190.75.98:55063] logged in with entity id 15413 at (6644.008513096409, 96.0, 765.6918352075323)
+[25May2025 22:59:05.239] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Leoy73
+[25May2025 22:59:05.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Leoy73
+[25May2025 22:59:05.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Leoy73
+[25May2025 22:59:05.240] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Leoy73
+[25May2025 22:59:05.241] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Leoy73
+[25May2025 22:59:05.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Leoy73
+[25May2025 22:59:05.243] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Leoy73
+[25May2025 22:59:05.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 joined the game
+[25May2025 22:59:05.590] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
+[25May2025 23:02:21.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6600, y=54, z=764} BlockPos{x=6599, y=53, z=764}
+[25May2025 23:02:21.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6598, y=52, z=764} BlockPos{x=6599, y=53, z=764}
+[25May2025 23:02:22.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6595, y=49, z=764} BlockPos{x=6597, y=51, z=764}

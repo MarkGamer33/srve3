@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-25 23:01:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_cabinet": {
     "criteria": {
       "has_log": "2025-05-18 22:50:56 +0000"
@@ -422,6 +428,12 @@
   "utilitix:recipes/utilitix/armed_stand": {
     "criteria": {
       "criterion1": "2025-05-18 22:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
     },
     "done": true
   },
@@ -521,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-19 18:08:16 +0000"
@@ -557,6 +575,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/deepslate_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-25 23:01:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-05-18 23:05:25 +0000"
@@ -578,6 +602,12 @@
   "dimstorage:recipes/dimstorage_tab/dimensional_tank": {
     "criteria": {
       "has_cauldron": "2025-05-20 17:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
     },
     "done": true
   },
@@ -990,6 +1020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-25 23:01:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/acacia_limited_barrel_1": {
     "criteria": {
       "has_acacia_plank": "2025-05-20 23:28:28 +0000"
@@ -1182,6 +1218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-05-19 20:54:20 +0000"
@@ -1203,6 +1245,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2025-05-22 13:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
     },
     "done": true
   },
@@ -2230,6 +2278,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/deepslate_tile_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-25 23:01:23 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/binding_blueprint": {
     "criteria": {
       "has_item": "2025-05-20 22:18:25 +0000"
@@ -3116,6 +3170,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/kivi_bricks_cloud_dark_r": {
     "criteria": {
       "has_kivi": "2025-05-19 21:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-25 23:01:20 +0000"
     },
     "done": true
   },
@@ -4317,6 +4377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-25 23:01:20 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/andesite_lantern": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:26:18 +0000"
@@ -4345,6 +4411,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-18 22:51:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
     },
     "done": true
   },
@@ -6499,6 +6571,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:persian": "2025-05-25 22:49:52 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-22 09:24:13 +0000"
@@ -6892,6 +6970,12 @@
   "apotheosis:enchanting/quanta100": {
     "criteria": {
       "enchanted_item": "2025-05-23 00:51:03 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_red": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
     },
     "done": true
   },
@@ -8017,6 +8101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-25 23:01:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-18 22:30:13 +0000"
@@ -8249,6 +8339,12 @@
   "create:recipes/create.palettes/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-18 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_light": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
     },
     "done": true
   },
@@ -8537,6 +8633,12 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
       "has_wct": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
     },
     "done": true
   },
@@ -10045,6 +10147,18 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_the_recipe": "2025-05-25 23:01:23 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_green": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/rice_bag": {
     "criteria": {
       "has_rice": "2025-05-20 16:02:15 +0000"
@@ -11111,6 +11225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-25 23:01:20 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/quartz_pillar": {
     "criteria": {
       "has_the_recipe": "2025-05-22 13:22:28 +0000"
@@ -11442,6 +11562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/palm_sign": {
     "criteria": {
       "has_planks": "2025-05-25 21:50:37 +0000"
@@ -11529,6 +11655,12 @@
   "rftoolsbase:recipes/rftoolsbase/tablet": {
     "criteria": {
       "quartz": "2025-05-22 13:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
     },
     "done": true
   },
@@ -12240,6 +12372,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/deepslate_tile_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-25 23:01:23 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/blaze_rod": {
     "criteria": {
       "has_molten_core": "2025-05-19 21:57:18 +0000"
@@ -12595,6 +12733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/sugar_cane": {
     "criteria": {
       "has_item": "2025-05-19 17:11:09 +0000"
@@ -12732,6 +12876,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-05-18 22:47:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_green_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
     },
     "done": true
   },
@@ -12884,6 +13034,12 @@
   "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-05-19 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-25 23:01:20 +0000"
     },
     "done": true
   },
@@ -13901,6 +14057,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_dark": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/dye_colorizer_cyan": {
     "criteria": {
       "has_item": "2025-05-22 15:50:38 +0000"
@@ -14192,6 +14354,12 @@
   "create:recipes/create.palettes/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-19 22:58:34 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_blue": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
     },
     "done": true
   },
@@ -15114,6 +15282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/apothecary_mossy": {
     "criteria": {
       "has_item": "2025-05-20 18:06:00 +0000"
@@ -15153,6 +15327,12 @@
   "cfm:recipes/cfm/gray_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-05-19 20:54:20 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_tile_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-25 23:01:23 +0000"
     },
     "done": true
   },
@@ -15604,6 +15784,12 @@
   "byg:husbandry/berrily_alive": {
     "criteria": {
       "blue_berry": "2025-05-18 22:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
     },
     "done": true
   },
@@ -16691,6 +16877,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-05-25 23:01:20 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/jungle_barrel": {
     "criteria": {
       "has_jungle_plank": "2025-05-18 22:50:58 +0000"
@@ -17257,6 +17449,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_blue_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_red_r": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-22 14:57:44 +0000"
@@ -17278,6 +17476,12 @@
   "botania:recipes/botania/ender_hand": {
     "criteria": {
       "has_alt_item": "2025-05-21 13:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
     },
     "done": true
   },
@@ -17526,6 +17730,12 @@
   "alltheores:recipes/alltheores/uranium_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-05-20 17:44:46 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_light_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
     },
     "done": true
   },
@@ -18022,6 +18232,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/deepslate_bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-25 23:01:20 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/stonecutting/kivi_rajan": {
     "criteria": {
       "has_for_kivi_rajan": "2025-05-19 21:09:26 +0000"
@@ -18199,6 +18415,12 @@
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2025-05-18 22:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-25 23:01:20 +0000"
     },
     "done": true
   },
@@ -18731,6 +18953,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/deepslate_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-25 23:01:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_red_sandstone": "2025-05-19 17:17:36 +0000"
@@ -18894,9 +19122,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/raw_platinum_from_block": {
     "criteria": {
       "has_item": "2025-05-21 00:39:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-25 23:01:20 +0000"
     },
     "done": true
   },
@@ -19470,6 +19710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
+    },
+    "done": true
+  },
   "pylons:recipes/pylons/harvester_pylon": {
     "criteria": {
       "has_hay_block": "2025-05-18 22:50:51 +0000"
@@ -19719,6 +19965,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/mossy_stone_bricks_green": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-22 14:57:44 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_dark_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
     },
     "done": true
   },
@@ -20113,6 +20365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/netcable_green": {
     "criteria": {
       "nugget": "2025-05-19 22:09:51 +0000"
@@ -20425,6 +20683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/apothecary_deepslate": {
     "criteria": {
       "has_item": "2025-05-20 18:06:00 +0000"
@@ -20507,6 +20771,12 @@
   "mcwtrpdoors:recipes/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-05-18 22:14:22 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_red_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
     },
     "done": true
   },
@@ -20685,6 +20955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-05-25 22:40:54 +0000"
@@ -20778,6 +21054,12 @@
   "littlelogistics:recipes/transportation/energy_tug": {
     "criteria": {
       "has_item": "2025-05-20 16:12:51 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/polished_deepslate_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-25 23:01:17 +0000"
     },
     "done": true
   },
@@ -20995,6 +21277,12 @@
     "criteria": {
       "get_ore": "2025-05-19 22:10:01 +0000",
       "get_ingot": "2025-05-19 21:59:12 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/deepslate_tiles": {
+    "criteria": {
+      "has_the_recipe": "2025-05-25 23:01:20 +0000"
     },
     "done": true
   },
@@ -21350,6 +21638,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/chiseled_polished_blackstone_light": {
     "criteria": {
       "has_chiseled_polished_blackstone": "2025-05-25 19:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
     },
     "done": true
   },
@@ -22830,6 +23124,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/deepslate_bricks": {
+    "criteria": {
+      "has_the_recipe": "2025-05-25 23:01:17 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/iron_to_gold_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-05-19 21:00:27 +0000"
@@ -23331,6 +23631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-20 18:57:15 +0000"
@@ -23352,6 +23658,12 @@
   "alchemistry:recipes/dissolver/magenta_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-05-19 20:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-25 23:01:20 +0000"
     },
     "done": true
   },
@@ -23709,6 +24021,12 @@
   "alchemistry:recipes/dissolver/nether_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-05-19 22:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-25 23:01:20 +0000"
     },
     "done": true
   },
@@ -24222,6 +24540,18 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/deepslate_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-25 23:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-25 23:01:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-18 22:15:55 +0000"
@@ -24634,6 +24964,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/inverted_bricks_cloud_light": {
     "criteria": {
       "has_xychorium_gem_light": "2025-05-19 22:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-25 23:01:20 +0000"
     },
     "done": true
   },
@@ -25753,6 +26089,12 @@
   "alltheores:recipes/alltheores/brass_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-05-21 13:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-05-25 23:01:17 +0000"
     },
     "done": true
   },
