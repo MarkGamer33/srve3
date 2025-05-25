@@ -1965,3 +1965,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [25May2025 18:16:16.729] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@9db4328[id=<null>,name=PabloMotosSA,properties={},legacy=false] (/127.232.161.197:58619): Took too long to log in
 [25May2025 18:16:16.730] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9db4328[id=<null>,name=PabloMotosSA,properties={},legacy=false] (/127.232.161.197:58619) lost connection: Took too long to log in
 [25May2025 18:16:16.774] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25May2025 18:23:36.828] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2316c249
+[25May2025 18:25:40.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Reverend Maximillian the Bishop'/28823, l='ServerLevel[world]', x=717.47, y=45.00, z=93.98] died: Reverend Maximillian the Bishop was slain by MarkGamer
+[25May2025 18:26:31.480] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@680b4107
+[25May2025 18:26:31.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PabloMotosSA[/127.232.161.197:58387] logged in with entity id 29202 at (6644.5, 145.0, 701.5)
+[25May2025 18:26:31.524] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to PabloMotosSA
+[25May2025 18:26:31.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to PabloMotosSA
+[25May2025 18:26:31.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to PabloMotosSA
+[25May2025 18:26:31.525] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to PabloMotosSA
+[25May2025 18:26:31.526] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to PabloMotosSA
+[25May2025 18:26:31.528] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to PabloMotosSA
+[25May2025 18:26:31.528] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to PabloMotosSA
+[25May2025 18:26:31.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PabloMotosSA joined the game
+[25May2025 18:26:31.774] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: PabloMotosSA
+[25May2025 18:27:39.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarkGamer has made the advancement [Not Today, Thank You]
+[25May2025 18:28:04.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Ferdinand the Feeble'/29319, l='ServerLevel[world]', x=941.36, y=93.00, z=97.93] died: Ferdinand the Feeble was slain by MarkGamer
