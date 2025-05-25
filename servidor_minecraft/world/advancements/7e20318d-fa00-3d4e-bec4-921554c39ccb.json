@@ -2603,6 +2603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-05-25 22:02:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-05-19 17:44:51 +0000"
@@ -7098,6 +7104,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-19 18:36:37 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_gate_door": {
+    "criteria": {
+      "hasFramedDoor": "2025-05-25 21:44:20 +0000"
     },
     "done": true
   },
@@ -11944,6 +11956,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_iron_door": {
+    "criteria": {
+      "hasFramedDoor": "2025-05-25 21:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-19 21:40:52 +0000"
@@ -13752,6 +13770,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_iron_trapdoor": {
+    "criteria": {
+      "hasFramedTrapdoor": "2025-05-25 21:48:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-05-19 16:48:51 +0000"
@@ -14990,6 +15014,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_purple1": {
+    "criteria": {
+      "has_the_recipe": "2025-05-25 22:02:18 +0000",
+      "recipe_condition": "2025-05-25 22:02:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/iron_shulker_from_iron_chest": {
     "criteria": {
       "has_iron_chest": "2025-05-21 17:23:45 +0000"
@@ -15518,6 +15549,12 @@
   "xnet:recipes/xnet/netcable_routing": {
     "criteria": {
       "nugget": "2025-05-19 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple1": {
+    "criteria": {
+      "recipe_condition": "2025-05-25 22:02:18 +0000"
     },
     "done": true
   },
