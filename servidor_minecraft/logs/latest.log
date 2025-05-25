@@ -1934,3 +1934,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [25May2025 17:43:55.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Spectator Mode]
 [25May2025 17:44:18.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
 [25May2025 17:46:55.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[25May2025 17:51:25.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Spectator Mode]
+[25May2025 17:51:30.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
+[25May2025 17:51:39.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Creative Mode]
+[25May2025 17:52:36.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Spectator Mode]
+[25May2025 17:52:40.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Creative Mode]
+[25May2025 17:52:45.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
+[25May2025 17:57:47.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Creative Mode]
