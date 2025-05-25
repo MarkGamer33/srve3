@@ -1861,3 +1861,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [25May2025 22:30:11.343] [Server thread/INFO] [tombstone/]: The player MarkGamer has successfully been saved
 [25May2025 22:30:13.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved wrongly!
 [25May2025 22:30:13.729] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[25May2025 22:32:13.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has completed the challenge [Phantom Thief]
+[25May2025 22:32:57.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Leoy73 moved too quickly! -8.66626986701067,0.06500000000000483,-5.329459393814204
+[25May2025 22:34:29.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved wrongly!
+[25May2025 22:35:13.281] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[25May2025 22:35:48.659] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/4344, l='ServerLevel[world]', x=6607.88, y=119.41, z=805.12] died: Undead Knight suffocated in a wall
+[25May2025 22:41:10.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved wrongly!

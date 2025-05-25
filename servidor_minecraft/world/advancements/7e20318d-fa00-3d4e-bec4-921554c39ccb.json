@@ -14210,6 +14210,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-05-25 22:30:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-19 17:24:57 +0000"
@@ -14237,6 +14243,12 @@
   "farmersdelight:recipes/farmersdelight/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-05-21 12:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-05-25 22:30:37 +0000"
     },
     "done": true
   },
@@ -15766,6 +15778,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-21 17:45:49 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-05-25 22:29:32 +0000"
     },
     "done": true
   },
@@ -18695,6 +18713,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-05-25 22:32:13 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/polished_andesite": {
     "criteria": {
       "has_the_recipe": "2025-05-18 22:16:07 +0000"
@@ -18746,6 +18770,12 @@
   "minecraft:recipes/redstone/mangrove_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-19 15:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-05-25 22:30:30 +0000"
     },
     "done": true
   },
@@ -21114,7 +21144,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-05-20 23:08:17 +0000"
+      "phantom": "2025-05-20 23:08:17 +0000",
+      "warden": "2025-05-25 22:32:13 +0000"
     },
     "done": false
   },
