@@ -4614,6 +4614,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/nickel_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-05-26 14:07:07 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_reinforced": {
     "criteria": {
       "has_iron_ingot": "2025-05-21 13:16:11 +0000"
@@ -7088,6 +7094,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/nickel_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-05-26 14:07:07 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/smelting/raw_materials/lead_to_ingot": {
     "criteria": {
       "has_item": "2025-05-21 22:18:09 +0000"
@@ -7943,6 +7955,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/asphalt": {
     "criteria": {
       "has_the_recipe": "2025-05-21 12:36:47 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/raw_nickel_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2025-05-26 14:07:07 +0000"
     },
     "done": true
   },
@@ -18659,6 +18677,7 @@
       "minecraft:taiga": "2025-05-22 14:23:54 +0000",
       "minecraft:eroded_badlands": "2025-05-21 14:07:20 +0000",
       "minecraft:frozen_river": "2025-05-22 20:22:11 +0000",
+      "minecraft:sunflower_plains": "2025-05-26 14:00:54 +0000",
       "minecraft:birch_forest": "2025-05-22 20:48:55 +0000",
       "minecraft:windswept_hills": "2025-05-22 20:25:14 +0000",
       "minecraft:wooded_badlands": "2025-05-21 13:43:53 +0000",

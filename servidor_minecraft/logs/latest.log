@@ -1907,3 +1907,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [26May2025 14:01:04.879] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@32a4eb10
 [26May2025 14:01:04.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['loco'/1027, l='ServerLevel[world]', x=6632.78, y=95.15, z=724.18] died: loco drowned
 [26May2025 14:01:16.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Creative Mode]
+[26May2025 14:09:46.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
