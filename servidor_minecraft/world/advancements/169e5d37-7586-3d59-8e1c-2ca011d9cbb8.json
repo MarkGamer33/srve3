@@ -3397,6 +3397,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/platinum_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:nuggets/platinum]_nugget": "2025-05-26 12:01:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-19 17:45:53 +0000"
