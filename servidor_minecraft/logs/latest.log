@@ -1836,3 +1836,16 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [26May2025 13:18:04.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
 [26May2025 13:18:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
 [26May2025 13:18:05.098] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[26May2025 13:26:19.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[26May2025 13:26:19.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[26May2025 13:29:17.779] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ffebdfb
+[26May2025 13:29:17.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:52251] logged in with entity id 15222 at (6645.2970565317855, 96.0, 763.1298436984334)
+[26May2025 13:29:17.834] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[26May2025 13:29:17.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[26May2025 13:29:17.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[26May2025 13:29:17.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[26May2025 13:29:17.836] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[26May2025 13:29:17.838] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[26May2025 13:29:17.838] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[26May2025 13:29:17.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[26May2025 13:29:18.179] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
