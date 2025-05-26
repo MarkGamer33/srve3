@@ -18672,6 +18672,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/netherite_shulker_from_netherite_chest": {
+    "criteria": {
+      "has_netherite_chest": "2025-05-26 15:16:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-20 14:43:54 +0000"
