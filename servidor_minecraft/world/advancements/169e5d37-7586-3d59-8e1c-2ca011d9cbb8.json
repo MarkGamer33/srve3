@@ -8884,6 +8884,12 @@
     },
     "done": true
   },
+  "mekanism:pump": {
+    "criteria": {
+      "electric_pump": "2025-05-26 14:36:41 +0000"
+    },
+    "done": true
+  },
   "silentgear:bow": {
     "criteria": {
       "get_item": "2025-05-20 23:23:49 +0000"
@@ -16875,6 +16881,12 @@
   "cfm:recipes/cfm/black_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-19 17:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-05-26 14:42:09 +0000"
     },
     "done": true
   },
@@ -26739,6 +26751,12 @@
   "croptopia:getdrinks": {
     "criteria": {
       "has_drink": "2025-05-21 17:37:20 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/sponge": {
+    "criteria": {
+      "has_the_recipe": "2025-05-26 14:42:09 +0000"
     },
     "done": true
   },

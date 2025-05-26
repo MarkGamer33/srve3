@@ -1911,3 +1911,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [26May2025 14:30:15.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [A Metallur-what?]
 [26May2025 14:32:18.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [The Alloy That Started it All]
 [26May2025 14:33:50.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [The Perfect Foundation]
+[26May2025 14:37:52.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['renis'/1091, l='ServerLevel[world]', x=6613.85, y=96.00, z=743.70] died: renis was slain by ToroBoig
+[26May2025 14:38:37.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved wrongly!
+[26May2025 14:41:59.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Gave 1    [Sponge] to MarkGamer]
