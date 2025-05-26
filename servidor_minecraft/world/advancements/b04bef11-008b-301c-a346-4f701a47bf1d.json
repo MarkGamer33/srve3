@@ -623,6 +623,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/invar_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-26 13:38:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-23 14:38:02 +0000"
@@ -650,6 +656,12 @@
   "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-25 18:58:51 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/nickel_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-26 13:36:07 +0000"
     },
     "done": true
   },
@@ -2365,6 +2377,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/invar_knife": {
+    "criteria": {
+      "has_invar": "2025-05-26 13:38:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-23 15:59:56 +0000"
@@ -2452,6 +2470,12 @@
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_trapdoor_from_mahogany_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 23:07:01 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/invar_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-26 13:38:55 +0000"
     },
     "done": true
   },
@@ -4241,6 +4265,12 @@
     },
     "done": true
   },
+  "rftoolsbase:recipes/rftoolsbase/machine_frame": {
+    "criteria": {
+      "iron_ingot": "2025-05-26 13:36:55 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/extruding/ingots/bronze_to_bronze_rod": {
     "criteria": {
       "has_item": "2025-05-23 15:00:22 +0000"
@@ -4986,6 +5016,12 @@
   "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-25 18:58:51 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/invar_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-05-26 13:38:45 +0000"
     },
     "done": true
   },
@@ -7195,6 +7231,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/nickel_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-26 13:36:07 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/redstone_block": {
     "criteria": {
       "has_the_recipe": "2025-05-21 23:45:24 +0000"
@@ -7744,6 +7786,12 @@
   "alltheores:recipes/alltheores/iron_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]_ingot": "2025-05-21 13:16:11 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/nickel_knife": {
+    "criteria": {
+      "has_nickel": "2025-05-26 13:36:07 +0000"
     },
     "done": true
   },
@@ -8481,6 +8529,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/nickel_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-26 13:36:07 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/magenta_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-05-21 22:03:26 +0000"
@@ -9069,6 +9123,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/nickel_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-26 13:36:07 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/sapling": {
     "criteria": {
       "has_item": "2025-05-21 14:00:41 +0000"
@@ -9534,6 +9594,12 @@
   "create:recipes/create.palettes/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-05-21 22:12:31 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/invar_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-26 13:38:55 +0000"
     },
     "done": true
   },
@@ -11134,6 +11200,12 @@
   "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-25 18:58:51 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/invar_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-26 13:38:55 +0000"
     },
     "done": true
   },
@@ -13989,6 +14061,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/constantan_mix": {
+    "criteria": {
+      "has_nickel_dust": "2025-05-26 13:38:32 +0000"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/jeweler_hammer": {
     "criteria": {
       "has_item": "2025-05-21 14:11:16 +0000"
@@ -15982,6 +16060,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/invar_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2025-05-26 13:38:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2025-05-21 12:58:39 +0000"
@@ -16448,6 +16532,12 @@
   "elementalcraft:recipes/elementalcraft/binder": {
     "criteria": {
       "has_whiterock": "2025-05-21 19:38:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/nickel_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2025-05-26 13:36:07 +0000"
     },
     "done": true
   },
@@ -17714,6 +17804,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2025-05-26 13:36:07 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/piston_controller_rail": {
     "criteria": {
       "criterion1": "2025-05-22 22:53:57 +0000"
@@ -18409,6 +18505,12 @@
   "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-23 14:38:02 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/invar_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-05-26 13:38:45 +0000"
     },
     "done": true
   },
