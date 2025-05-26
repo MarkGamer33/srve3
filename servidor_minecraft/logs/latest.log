@@ -1811,3 +1811,14 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [26May2025 11:50:46.924] [Server thread/INFO] [chiefarug.mods.systeams.Systeams/]: Welcome aboard Captain. All Systeams online
 [26May2025 11:50:46.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
 [26May2025 11:54:11.555] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 81 recipes!
+[26May2025 12:59:16.275] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1245ad35
+[26May2025 12:59:16.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:36779] logged in with entity id 9929 at (6638.079091941652, 96.0, 759.5214571004631)
+[26May2025 12:59:16.350] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[26May2025 12:59:16.351] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[26May2025 12:59:16.351] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[26May2025 12:59:16.351] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[26May2025 12:59:16.353] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[26May2025 12:59:16.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[26May2025 12:59:16.359] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[26May2025 12:59:16.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[26May2025 12:59:16.750] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
