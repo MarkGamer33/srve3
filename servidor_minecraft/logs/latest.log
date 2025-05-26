@@ -1934,3 +1934,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [26May2025 15:38:50.594] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/48830, l='ServerLevel[world]', x=6780.54, y=89.00, z=517.54] died: Undead Knight suffocated in a wall
 [26May2025 15:43:06.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
 [26May2025 15:43:06.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[26May2025 15:49:44.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
