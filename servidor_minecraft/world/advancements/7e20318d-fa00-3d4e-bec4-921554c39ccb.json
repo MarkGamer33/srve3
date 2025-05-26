@@ -1569,6 +1569,12 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "sorting_door": "2025-05-26 16:29:11 +0000"
+    },
+    "done": false
+  },
   "constructionwand:recipes/tools/stone_wand": {
     "criteria": {
       "has_item": "2025-05-18 22:12:33 +0000"
@@ -5876,6 +5882,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/parts/panels_semi_dark_monitor": {
+    "criteria": {
+      "has_quartz_glass": "2025-05-26 16:26:19 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:45:57 +0000"
@@ -8367,6 +8379,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_quartz_glass": "2025-05-26 16:26:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-18 22:19:41 +0000"
@@ -9730,6 +9748,12 @@
   "ae2:recipes/tools/tools/nether_quartz_cutting_knife": {
     "criteria": {
       "has_nether_quartz": "2025-05-20 15:11:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/crystal_processing_quartz_growth_accelerator": {
+    "criteria": {
+      "has_quartz_glass": "2025-05-26 16:26:19 +0000"
     },
     "done": true
   },
@@ -16232,6 +16256,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_gray_pane1": {
+    "criteria": {
+      "recipe_condition": "2025-05-26 16:27:38 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/borderless_glass_gray_pane2": {
     "criteria": {
       "recipe_condition1": "2025-05-19 22:53:57 +0000",
@@ -18824,6 +18854,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/decorative/quartz_vibrant_glass": {
+    "criteria": {
+      "has_quartz_glass": "2025-05-26 16:26:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-18 22:10:48 +0000"
@@ -18857,6 +18893,13 @@
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-05-25 22:30:30 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_gray_pane1": {
+    "criteria": {
+      "has_the_recipe": "2025-05-26 16:27:38 +0000",
+      "recipe_condition": "2025-05-26 16:27:38 +0000"
     },
     "done": true
   },
