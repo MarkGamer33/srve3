@@ -1908,3 +1908,6 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [26May2025 14:01:04.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['loco'/1027, l='ServerLevel[world]', x=6632.78, y=95.15, z=724.18] died: loco drowned
 [26May2025 14:01:16.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Creative Mode]
 [26May2025 14:09:46.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Survival Mode]
+[26May2025 14:30:15.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [A Metallur-what?]
+[26May2025 14:32:18.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [The Alloy That Started it All]
+[26May2025 14:33:50.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig has made the advancement [The Perfect Foundation]

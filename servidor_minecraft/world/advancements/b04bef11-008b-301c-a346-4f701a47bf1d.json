@@ -1206,6 +1206,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-05-26 14:31:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-21 13:05:31 +0000"
@@ -2416,6 +2422,12 @@
   "croptopia:recipes/shaped_beef_stew": {
     "criteria": {
       "has_beef": "2025-05-26 13:56:42 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-05-26 14:32:18 +0000"
     },
     "done": true
   },
@@ -6825,6 +6837,12 @@
     },
     "done": true
   },
+  "mekanism:pump": {
+    "criteria": {
+      "electric_pump": "2025-05-26 14:34:23 +0000"
+    },
+    "done": true
+  },
   "silentgear:bow": {
     "criteria": {
       "get_item": "2025-05-22 20:59:22 +0000"
@@ -7385,6 +7403,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-05-22 15:22:36 +0000"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-05-26 14:30:15 +0000"
     },
     "done": true
   },
@@ -13906,6 +13930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-05-26 14:31:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-05-21 21:58:04 +0000"
@@ -16253,6 +16283,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/redstone": {
+    "criteria": {
+      "has_the_recipe": "2025-05-26 14:31:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-22 20:15:39 +0000"
@@ -16271,6 +16307,12 @@
     },
     "done": true
   },
+  "advancedperipherals:recipes/advancedperipheralstab/peripheral_casing": {
+    "criteria": {
+      "has_item": "2025-05-26 14:31:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_aluminum": {
     "criteria": {
       "has_alu_ingot": "2025-05-23 14:14:26 +0000"
@@ -16286,6 +16328,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-21 13:17:36 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-05-26 14:33:50 +0000"
     },
     "done": true
   },
