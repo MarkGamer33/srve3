@@ -1350,6 +1350,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/osmium_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-26 14:23:42 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/directional_highspeed_rail": {
     "criteria": {
       "criterion1": "2025-05-21 13:05:06 +0000"
@@ -1503,6 +1509,12 @@
   "alltheores:recipes/alltheores/zinc_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2025-05-21 21:58:35 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/osmium_knife": {
+    "criteria": {
+      "has_osmium": "2025-05-26 14:23:42 +0000"
     },
     "done": true
   },
@@ -3036,6 +3048,12 @@
   "cfm:recipes/cfm/light_gray_picket_fence": {
     "criteria": {
       "has_concrete": "2025-05-22 20:30:40 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/osmium_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-26 14:23:42 +0000"
     },
     "done": true
   },
@@ -9828,6 +9846,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/osmium_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-26 14:23:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-23 14:38:02 +0000"
@@ -11531,6 +11555,12 @@
   "simplemagnets:recipes/simplemagnets/basicmagnet": {
     "criteria": {
       "recipe_condition": "2025-05-21 13:16:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/osmium_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2025-05-26 14:23:42 +0000"
     },
     "done": true
   },
@@ -13945,6 +13975,12 @@
   "hexcasting:recipes/hexcasting/dye_colorizer_black": {
     "criteria": {
       "has_item": "2025-05-21 14:11:16 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/osmium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-05-26 14:23:42 +0000"
     },
     "done": true
   },
