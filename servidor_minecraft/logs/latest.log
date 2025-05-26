@@ -1822,3 +1822,17 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [26May2025 12:59:16.359] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
 [26May2025 12:59:16.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
 [26May2025 12:59:16.750] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[26May2025 13:14:45.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Teleported MarkGamer to ToroBoig]
+[26May2025 13:17:42.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig lost connection: Disconnected
+[26May2025 13:17:42.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
+[26May2025 13:18:04.739] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@19b219d6
+[26May2025 13:18:04.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ToroBoig[/127.162.215.77:53681] logged in with entity id 13762 at (6619.957558285059, 96.0, 749.2651026829751)
+[26May2025 13:18:04.796] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ToroBoig
+[26May2025 13:18:04.796] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ToroBoig
+[26May2025 13:18:04.797] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ToroBoig
+[26May2025 13:18:04.797] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ToroBoig
+[26May2025 13:18:04.798] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ToroBoig
+[26May2025 13:18:04.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ToroBoig
+[26May2025 13:18:04.800] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
+[26May2025 13:18:04.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
+[26May2025 13:18:05.098] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
