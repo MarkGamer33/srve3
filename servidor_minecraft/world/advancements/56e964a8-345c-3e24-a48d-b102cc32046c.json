@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 16:55:44 +0000"
@@ -515,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-05-19 17:47:39 +0000"
@@ -686,6 +698,12 @@
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-19 22:14:54 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_blue": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
     },
     "done": true
   },
@@ -869,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_trapdoor_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2025-05-19 17:03:40 +0000"
@@ -908,6 +932,12 @@
   "silentgear:recipes/silentgear/bort_block": {
     "criteria": {
       "has_item": "2025-05-22 15:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_button_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -1034,6 +1064,12 @@
   "botania:recipes/botania/manasteel_chestplate": {
     "criteria": {
       "has_item": "2025-05-22 21:43:19 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-05-26 14:00:13 +0000"
     },
     "done": true
   },
@@ -1568,6 +1604,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-22 18:03:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2025-05-26 14:00:13 +0000"
     },
     "done": true
   },
@@ -2995,6 +3037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/barrel_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-19 22:14:54 +0000"
@@ -3172,6 +3220,12 @@
   "alltheores:recipes/alltheores/constantan_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2025-05-19 20:12:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_fence_gate_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -3494,6 +3548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-19 20:08:40 +0000"
@@ -3545,6 +3605,12 @@
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-05-23 19:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_slab_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -4186,6 +4252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_fence": {
     "criteria": {
       "has_dry_bundle": "2025-05-19 16:26:48 +0000",
@@ -4198,6 +4270,12 @@
       "in_igloo_grassy": "2025-05-23 19:33:59 +0000"
     },
     "done": false
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_red_r": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_slab_woodcutting": {
     "criteria": {
@@ -4614,6 +4692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_sign_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-19 17:52:12 +0000"
@@ -4750,6 +4834,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-05-19 17:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_boat_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -4900,6 +4990,12 @@
   "connectedglass:recipes/misc/scratched_glass_blue_pane2": {
     "criteria": {
       "recipe_condition2": "2025-05-22 17:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_sign_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -5345,6 +5441,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/range_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-22 15:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_boat_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -5959,6 +6061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_layered_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-05-19 16:56:56 +0000"
@@ -6083,6 +6191,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick": {
     "criteria": {
       "has_brick": "2025-05-19 19:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/crafting_table_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -6363,6 +6477,12 @@
     "criteria": {
       "recipe_condition1": "2025-05-22 17:00:15 +0000",
       "has_the_recipe": "2025-05-22 17:00:15 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_blue_r": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
     },
     "done": true
   },
@@ -6747,6 +6867,12 @@
   "ae2:recipes/tools/tools/nether_quartz_wrench": {
     "criteria": {
       "has_nether_quartz": "2025-05-19 22:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_chest_boat_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -7344,6 +7470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_planks_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/air_grate_module": {
     "criteria": {
       "has_pressure_tube": "2025-05-19 22:54:41 +0000"
@@ -7512,6 +7644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_trapdoor_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_fence": {
     "criteria": {
       "has_bamboo": "2025-05-19 16:26:48 +0000",
@@ -7647,6 +7785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_chest_boat_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-19 21:33:34 +0000"
@@ -7756,6 +7900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_stairs_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-19 17:09:55 +0000"
@@ -7795,6 +7945,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-19 17:44:59 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_light": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
     },
     "done": true
   },
@@ -8460,6 +8616,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/bricks": {
+    "criteria": {
+      "has_planks": "2025-05-26 14:00:13 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/oil_can": {
     "criteria": {
       "has_the_recipe": "2025-05-19 16:23:28 +0000"
@@ -8674,6 +8836,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-05-19 22:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_fence_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -9374,6 +9542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_fence_gate_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/zinc_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2025-05-19 20:12:58 +0000"
@@ -9522,6 +9696,12 @@
   "mcwtrpdoors:recipes/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-05-19 16:55:45 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2025-05-26 14:00:13 +0000"
     },
     "done": true
   },
@@ -10430,6 +10610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_fence_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-05-23 15:07:56 +0000"
@@ -10472,6 +10658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/magma_light_r": {
     "criteria": {
       "has_magma_block": "2025-05-22 22:46:05 +0000"
@@ -10487,6 +10679,12 @@
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-05-19 17:07:59 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_green": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
     },
     "done": true
   },
@@ -10553,6 +10751,12 @@
   "rootsclassic:recipes/rootsclassic/pestle": {
     "criteria": {
       "has_diorite": "2025-05-19 22:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_slab_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -10679,6 +10883,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
     "criteria": {
       "has_lead_ingot": "2025-05-19 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_dark_r": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
     },
     "done": true
   },
@@ -10931,6 +11141,12 @@
   "create:recipes/create.palettes/oak_window": {
     "criteria": {
       "has_ingredient": "2025-05-19 17:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_connected_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -11572,6 +11788,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-05-19 17:53:25 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_light_r": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
     },
     "done": true
   },
@@ -12582,6 +12804,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_red": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
+    },
+    "done": true
+  },
   "entangled:recipes/misc/item": {
     "criteria": {
       "recipe_condition": "2025-05-22 15:13:21 +0000"
@@ -13513,6 +13741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_fence_gate": {
     "criteria": {
       "has_dry_bundle": "2025-05-19 16:26:48 +0000",
@@ -13673,6 +13907,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/compressed_iron_gear": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 21:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
     },
     "done": true
   },
@@ -13913,6 +14153,12 @@
   "alltheores:recipes/alltheores/lead_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2025-05-19 21:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_button_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -14989,6 +15235,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-26 14:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-19 22:28:55 +0000"
@@ -15293,6 +15545,12 @@
   "create:recipes/create.palettes/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-05-23 19:24:09 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_green_r": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
     },
     "done": true
   },
@@ -15620,6 +15878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pillar_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
       "has_items": "2025-05-19 16:26:48 +0000"
@@ -15650,6 +15914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_door_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-05-19 17:52:11 +0000"
@@ -15659,6 +15929,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-05-22 22:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_door_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -15695,6 +15971,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-05-22 15:34:57 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-26 14:00:13 +0000"
     },
     "done": true
   },
@@ -15909,6 +16191,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/bricks_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2025-05-26 14:00:13 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/magma_dark_r": {
     "criteria": {
       "has_magma_block": "2025-05-22 22:46:05 +0000"
@@ -15936,6 +16224,12 @@
   "mcwbridges:recipes/mossy_stone_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-23 20:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_pressure_plate_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -16132,6 +16426,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/bricks_dark": {
+    "criteria": {
+      "has_bricks": "2025-05-26 14:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/chest_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-19 17:07:59 +0000"
@@ -16249,6 +16549,12 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-19 20:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_chest_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },
@@ -16434,6 +16740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_stairs_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/redstone/misc/vanilla_daylight_detector": {
     "criteria": {
       "has_quartz": "2025-05-19 22:54:27 +0000"
@@ -16535,6 +16847,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-19 17:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pressure_plate_from_mahogany_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 14:00:17 +0000"
     },
     "done": true
   },

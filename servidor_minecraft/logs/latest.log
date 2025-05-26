@@ -1849,3 +1849,61 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [26May2025 13:29:17.838] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ToroBoig
 [26May2025 13:29:17.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig joined the game
 [26May2025 13:29:18.179] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ToroBoig
+[26May2025 13:43:54.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Teleported MarkGamer to ToroBoig]
+[26May2025 13:46:35.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set the time to 1000]
+[26May2025 13:47:38.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
+[26May2025 13:52:01.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! 2.428984484472494,-10.152884613653598,0.002795069605781464
+[26May2025 13:53:43.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! 1.2999187544764936,-10.593659986395593,-2.030662342924643
+[26May2025 13:54:08.841] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-862, y=64, z=-1973} but found not block entity block Block{minecraft:air} at location
+[26May2025 13:54:08.841] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-862, y=64, z=-1973}
+[26May2025 13:55:30.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! 5.405096861206232,0.5390159234447509,-8.497120870732942
+[26May2025 13:55:48.717] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] in ServerLevel[world] around BlockPos{x=-299, y=81, z=-2488} within 50 chunks
+[26May2025 13:55:52.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3079ms or 61 ticks behind
+[26May2025 13:55:52.803] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] at BlockPos{x=-551, y=0, z=-2135} (took 4,085ms)
+[26May2025 13:55:52.850] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[26May2025 13:55:53.023] [Server thread/WARN] [Async Locator/]: Async Locator -> Couldn't find item handler capability on chest LootrChestBlockEntity at BlockPos{x=-299, y=81, z=-2488}
+[26May2025 13:58:01.371] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e0607fd
+[26May2025 13:58:01.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: josito[/127.23.157.184:44947] logged in with entity id 24311 at (6654.02036071544, 113.0, 766.7902715632969)
+[26May2025 13:58:01.422] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to josito
+[26May2025 13:58:01.422] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to josito
+[26May2025 13:58:01.422] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to josito
+[26May2025 13:58:01.423] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to josito
+[26May2025 13:58:01.432] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to josito
+[26May2025 13:58:01.434] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to josito
+[26May2025 13:58:01.434] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to josito
+[26May2025 13:58:01.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito joined the game
+[26May2025 13:58:01.750] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: josito
+[26May2025 13:58:10.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[26May2025 13:58:10.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['IZAN'/1088, l='ServerLevel[world]', x=6651.35, y=107.00, z=769.79] died: IZAN blew up
+[26May2025 13:58:22.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['yoel'/1085, l='ServerLevel[world]', x=6649.30, y=104.00, z=768.30] died: yoel went up in flames
+[26May2025 13:58:30.394] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['tobi'/1086, l='ServerLevel[world]', x=6649.30, y=104.00, z=768.30] died: tobi went up in flames
+[26May2025 13:58:31.062] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['ragnar'/1025, l='ServerLevel[world]', x=6649.30, y=104.00, z=768.30] died: ragnar went up in flames
+[26May2025 13:59:00.174] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Trying to locate TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] in ServerLevel[world] around BlockPos{x=459, y=72, z=-2223} within 50 chunks
+[26May2025 13:59:03.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[26May2025 13:59:07.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! -0.13191099477921853,6.786168456731417,-7.92149737346017
+[26May2025 13:59:07.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josito moved too quickly! 9.350776144628071,0.0,-4.40332778269169
+[26May2025 13:59:08.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! -5.3079431434088065,6.920784472110512,-5.609082709016548
+[26May2025 13:59:12.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! -5.244339822529469,6.542932941441066,-5.814553482481642
+[26May2025 13:59:18.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! 0.6649698532235107,1.0,-10.23894683455137
+[26May2025 13:59:21.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! -0.10292673940381292,5.115579010903659,-8.753213782323655
+[26May2025 13:59:29.574] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['thor'/1015, l='ServerLevel[world]', x=6651.46, y=113.00, z=760.52] died: thor blew up
+[26May2025 13:59:29.578] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['pau'/1016, l='ServerLevel[world]', x=6650.50, y=112.92, z=759.67] died: pau blew up
+[26May2025 13:59:35.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved too quickly! -7.823797152239933,6.380422446325909,-1.2384948100434485
+[26May2025 13:59:36.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17248ms or 344 ticks behind
+[26May2025 14:00:07.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['lacy'/1017, l='ServerLevel[world]', x=6640.90, y=98.00, z=725.30] died: lacy was blown up by josito
+[26May2025 14:00:08.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['MORITO'/1011, l='ServerLevel[world]', x=6640.72, y=95.57, z=734.62] died: MORITO was blown up by josito
+[26May2025 14:00:10.827] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['valkiria'/1087, l='ServerLevel[world]', x=6643.96, y=100.54, z=728.70] died: valkiria was blown up by josito
+[26May2025 14:00:11.051] [asynclocator-1-thread-1/INFO] [Async Locator/]: Async Locator -> Found TagKey[minecraft:worldgen/structure / minecraft:on_treasure_maps] at BlockPos{x=89, y=0, z=-1719} (took 70,876ms)
+[26May2025 14:00:11.092] [Server thread/INFO] [Async Locator/]: Async Locator -> Location found - updating treasure map in chest
+[26May2025 14:00:11.635] [Server thread/WARN] [Async Locator/]: Async Locator -> Couldn't find item handler capability on chest LootrChestBlockEntity at BlockPos{x=459, y=72, z=-2223}
+[26May2025 14:00:12.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['raton'/1029, l='ServerLevel[world]', x=6644.24, y=98.00, z=728.51] died: raton was blown up by josito
+[26May2025 14:00:12.356] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['colay'/1090, l='ServerLevel[world]', x=6648.58, y=98.07, z=721.70] died: colay was blown up by josito
+[26May2025 14:00:12.358] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['balto'/1028, l='ServerLevel[world]', x=6647.22, y=98.07, z=721.30] died: balto was blown up by josito
+[26May2025 14:00:21.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Banned IP 127.23.157.184: Banned by an operator.]
+[26May2025 14:00:21.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: This ban affects 1 players: josito]
+[26May2025 14:00:21.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: josito lost connection: You have been IP banned from this server
+[26May2025 14:00:21.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: josito left the game
+[26May2025 14:00:21.134] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26May2025 14:01:04.879] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@32a4eb10
+[26May2025 14:01:04.913] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['loco'/1027, l='ServerLevel[world]', x=6632.78, y=95.15, z=724.18] died: loco drowned
+[26May2025 14:01:16.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Set own game mode to Creative Mode]
