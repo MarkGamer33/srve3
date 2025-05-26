@@ -1936,3 +1936,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [26May2025 15:43:06.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ToroBoig left the game
 [26May2025 15:49:44.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarkGamer moved wrongly!
 [26May2025 16:06:59.532] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/54613, l='ServerLevel[world]', x=6762.90, y=84.13, z=569.58] died: Honeyed Archer suffocated in a wall
+[26May2025 16:23:26.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 has made the advancement [Network Aesthetics]

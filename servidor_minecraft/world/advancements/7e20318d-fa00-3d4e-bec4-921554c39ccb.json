@@ -378,6 +378,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_slab_from_polished_mahogany_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-05-26 16:16:24 +0000",
+      "has_block": "2025-05-26 16:16:24 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/andesite_chain": {
     "criteria": {
       "recipe_condition": "2025-05-18 22:16:07 +0000"
@@ -538,6 +545,12 @@
   "create:recipes/create.palettes/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-18 22:16:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-05-26 16:23:26 +0000"
     },
     "done": true
   },
@@ -1288,6 +1301,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/pneumatic_wrench": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 16:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_pillar_from_polished_mahogany_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 16:16:24 +0000"
     },
     "done": true
   },
@@ -6171,6 +6190,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_slab_from_polished_mahogany_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-05-26 16:16:24 +0000",
+      "has_block": "2025-05-26 16:16:24 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/drenched_iron_nugget_from_drenched_iron_ingot": {
     "criteria": {
       "has_drenched_iron_ingot": "2025-05-18 22:52:02 +0000"
@@ -7201,6 +7227,12 @@
   "croptopia:recipes/croptopia.croptopia/caramel_from_smoking_sugar": {
     "criteria": {
       "has_sugar": "2025-05-21 12:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_polished_mahogany_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 16:16:24 +0000"
     },
     "done": true
   },
@@ -13249,6 +13281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_layered_from_polished_mahogany_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 16:16:24 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/borderless_glass_red2": {
     "criteria": {
       "recipe_condition1": "2025-05-19 22:53:52 +0000",
@@ -14825,6 +14863,12 @@
   "ftbic:recipes/building_blocks/macerating/sand": {
     "criteria": {
       "has_item": "2025-05-19 17:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_planks_from_polished_mahogany_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 16:16:24 +0000"
     },
     "done": true
   },
@@ -17193,6 +17237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/mahogany/polished_mahogany_connected_from_polished_mahogany_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 16:16:24 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_light": {
     "criteria": {
       "has_chiseled_stone_bricks": "2025-05-19 17:53:25 +0000"
@@ -18843,6 +18893,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/magma_red": {
     "criteria": {
       "has_magma_block": "2025-05-21 22:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/mahogany/mahogany_planks_from_polished_mahogany_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-26 16:16:24 +0000"
     },
     "done": true
   },
