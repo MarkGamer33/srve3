@@ -1914,3 +1914,17 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [26May2025 14:37:52.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['renis'/1091, l='ServerLevel[world]', x=6613.85, y=96.00, z=743.70] died: renis was slain by ToroBoig
 [26May2025 14:38:37.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved wrongly!
 [26May2025 14:41:59.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarkGamer: Gave 1    [Sponge] to MarkGamer]
+[26May2025 14:57:26.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ToroBoig moved wrongly!
+[26May2025 14:59:06.225] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3450a3b3
+[26May2025 14:59:06.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Leoy73[/127.190.75.98:37499] logged in with entity id 39224 at (6645.930306534292, 113.0, 764.5437311078123)
+[26May2025 14:59:06.265] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Leoy73
+[26May2025 14:59:06.265] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Leoy73
+[26May2025 14:59:06.265] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Leoy73
+[26May2025 14:59:06.266] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Leoy73
+[26May2025 14:59:06.267] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Leoy73
+[26May2025 14:59:06.268] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Leoy73
+[26May2025 14:59:06.268] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Leoy73
+[26May2025 14:59:06.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Leoy73 joined the game
+[26May2025 14:59:06.579] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Leoy73
+[26May2025 15:00:36.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Wolf['rayo'/1026, l='ServerLevel[world]', x=6630.90, y=96.00, z=729.92] died: rayo was blown up by Leoy73
+[26May2025 15:01:08.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Leoy73: Set own game mode to Creative Mode]

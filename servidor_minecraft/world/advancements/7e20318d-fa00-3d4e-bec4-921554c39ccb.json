@@ -7312,6 +7312,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/chisel": {
+    "criteria": {
+      "has_chisel": "2025-05-26 15:04:01 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_tile": {
     "criteria": {
       "has_ingot_iron_compressed": "2025-05-19 16:48:56 +0000"
